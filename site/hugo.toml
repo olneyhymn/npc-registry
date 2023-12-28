@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Orthodox Presbyterian Church Congregation Registry'
+theme = 'nostyleplease'
+[taxonomies]
+  'minister' ='ministers'
+  'state' = 'states'

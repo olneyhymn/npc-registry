@@ -1,0 +1,23 @@
+[[entries]]
+title = "Churches"
+
+  [entries.post_list]
+  section = "churches"
+  show_more = false
+  show_more_text = "See more posts..."
+  show_more_url = "churches"
+
+
+[[entries]]
+title = "another list"
+
+  [[entries.entries]]
+  title = "with subitems"
+
+    [[entries.entries.entries]]
+    title = "with subsubitems"
+
+    [[entries.entries.entries]]
+    title = "example page"
+    url = "about"
+
