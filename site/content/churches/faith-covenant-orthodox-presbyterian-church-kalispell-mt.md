@@ -9,19 +9,19 @@ minister:
 - end: 2000-01-01
   name: Harold Kellam
   start: 1979-01-01
-  type: pastor
+  type: Pastor
 - end: 2006-01-01
   name: Brad Anderson
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Lloyd Pierson
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 - end: 2002-01-01
   name: Patrick Morison
   start: 1993-01-01
-  type: teacher
+  type: Teacher
 - end: 2007-01-01
   name: Lloyd Pierson
   start: 2004-01-01
@@ -35,8 +35,8 @@ ministers:
 name: Faith Covenant Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "MT\nKalispell\nFaith Covenant Orthodox Presbyterian Church (September\
-  \ 29, 1979\u2013November 17, 2007)\n(Withdrew to the Presbyterian Church in America,\
+raw_data: "MT\nKalispell\nFaith Covenant Orthodox Presbyterian Church (September 29,\
+  \ 1979\u2013November 17, 2007)\n(Withdrew to the Presbyterian Church in America,\
   \ November 17, 2007)\nPastors: Harold Kellam, 1979\u20132000\nBrad Anderson, 2002\u2013\
   6\nLloyd Pierson, 2007\u2013\nTeacher: Patrick Morison, 1993\u20132002\nAssoc. Pastor:\
   \ Lloyd Pierson, 2004\u20137"
@@ -50,5 +50,7 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Faith Covenant Orthodox Presbyterian Church (Kalispell MT)
+year_established:
+- 1979
 
 ---

@@ -22,5 +22,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian mission (Huron OH)
+year_established:
+- 2009
 
 ---

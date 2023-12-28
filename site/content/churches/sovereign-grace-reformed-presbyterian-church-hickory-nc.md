@@ -13,11 +13,11 @@ minister:
 - end: 2012-01-01
   name: E. Cody Ray
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Christopher B. Cashen
   start: 2013-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - E. Cody Ray
 - E. Cody Ray
@@ -49,5 +49,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Sovereign Grace Reformed Presbyterian Church (Hickory NC)
+year_established:
+- 2007
 
 ---

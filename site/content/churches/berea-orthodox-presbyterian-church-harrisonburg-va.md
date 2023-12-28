@@ -9,11 +9,11 @@ minister:
 - end: 2002-01-01
   name: Timothy Gregson
   start: 1974-01-01
-  type: pastor
+  type: Pastor
 - end: 2005-12-03
   name: Stephen Dufresne
   start: 2004-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Timothy Gregson
 - Stephen Dufresne
@@ -26,7 +26,6 @@ origination_date: *id001
 raw_data: "VIRGINIA  Harrisonburg\nBerea Orthodox Presbyterian Church  (July 22, 1974\u2013\
   December 3, 2005)\nPastors: Timothy Gregson, 1974\u20132002\nStephen Dufresne, 2004\u2013\
   5"
-received_from: MISSING
 states:
 - VA
 status:
@@ -36,5 +35,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Berea Orthodox Presbyterian Church (Harrisonburg VA)
+year_established:
+- 1974
 
 ---

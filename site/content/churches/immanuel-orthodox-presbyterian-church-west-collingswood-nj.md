@@ -9,43 +9,43 @@ minister:
 - end: 1945-01-01
   name: William Strong
   start: 1942-01-01
-  type: pastor
+  type: Pastor
 - end: 1954-01-01
   name: Edward Kellogg
   start: 1946-01-01
-  type: pastor
+  type: Pastor
 - end: 1960-01-01
   name: Carl Reitsma
   start: 1955-01-01
-  type: pastor
+  type: Pastor
 - end: 1965-01-01
   name: George Knight
   start: 1961-01-01
-  type: pastor
+  type: Pastor
 - end: 1970-01-01
   name: Allen Curry
   start: 1967-01-01
-  type: pastor
+  type: Pastor
 - end: 1982-01-01
   name: Albert Steever
   start: 1970-01-01
-  type: pastor
+  type: Pastor
 - end: 1985-01-01
   name: Gordon Miller
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: 2004-01-01
   name: Howard Currie
   start: 1988-01-01
-  type: pastor
+  type: Pastor
 - end: 2012-01-01
   name: Glen Clary
   start: 2005-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Neil J. Lodge
   start: 2014-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - William Strong
 - Edward Kellogg
@@ -79,5 +79,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Immanuel Orthodox Presbyterian Church (West Collingswood NJ)
+year_established:
+- 1942
 
 ---

@@ -5,3 +5,4 @@ theme = 'nostyleplease'
 [taxonomies]
   'minister' ='ministers'
   'state' = 'states'
+  'year' = 'year_established'

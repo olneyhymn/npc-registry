@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Joseph H. Fowler, Jr.
   start: 2014-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Joseph H. Fowler, Jr.
 - Joseph H. Fowler, Jr.
@@ -31,7 +31,6 @@ raw_data: "NORTH CAROLINA\nGastonia\nReformation OPC mission work (October 16, 2
   \ )\nMeeting at Our Saviour\u2019s Lutheran Church, 725 Gastonia Technology Parkway,\
   \ Dallas\nOrg. Pastor: Joseph H. Fowler, Jr., 2011\u201314\nPastor: Joseph H. Fowler,\
   \ Jr, 2014"
-received_from: MISSING
 states:
 - NC
 status:
@@ -41,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Reformation Orthodox Presbyterian Church (Gastonia NC)
+year_established:
+- 2014
 
 ---

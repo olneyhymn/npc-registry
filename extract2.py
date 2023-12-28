@@ -98,6 +98,9 @@ with open(args.file, newline='') as csvfile:
         d = parsed_red.dict()
         d['ministers'] = [m.name for m in parsed_red.minister or {}]
         d['states'] = [parsed_red.location.state]
+        d['year_established'] = [d['origination_date'].year]
+        if d['received_from'] == 'MISSING':
+            del d['received_from']
         d['date'] = d['origination_date']
         d['title'] = f"{d['name']} ({d['location']['city']} {d['location']['state']})"
         file.write_text(f"""---

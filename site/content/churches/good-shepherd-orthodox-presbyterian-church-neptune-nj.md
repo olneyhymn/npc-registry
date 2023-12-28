@@ -9,23 +9,23 @@ minister:
 - end: 1967-01-01
   name: Rollin Keller
   start: 1966-01-01
-  type: pastor
+  type: Pastor
 - end: 1977-01-01
   name: George Cottenden
   start: 1967-01-01
-  type: pastor
+  type: Pastor
 - end: 1984-01-01
   name: Douglas Rogers
   start: 1978-01-01
-  type: pastor
+  type: Pastor
 - end: 1989-01-01
   name: Charles Robbins
   start: 1986-01-01
-  type: pastor
+  type: Pastor
 - end: 1991-03-31
   name: A. Culver Gordon
   start: 1989-01-01
-  type: supply
+  type: Supply Pastor
 ministers:
 - Rollin Keller
 - George Cottenden
@@ -49,5 +49,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Good Shepherd Orthodox Presbyterian Church (Neptune NJ)
+year_established:
+- 1966
 
 ---

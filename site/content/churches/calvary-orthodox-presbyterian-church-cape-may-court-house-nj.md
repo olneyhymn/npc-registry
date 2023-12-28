@@ -9,35 +9,35 @@ minister:
 - end: 1937-01-01
   name: Leonard Pitcher
   start: 1936-01-01
-  type: pastor
+  type: Pastor
 - end: 1940-01-01
   name: James Rohrbaugh
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 - end: 1952-01-01
   name: Leslie Dunn
   start: 1941-01-01
-  type: pastor
+  type: Pastor
 - end: 1971-01-01
   name: John Davies
   start: 1954-01-01
-  type: pastor
+  type: Pastor
 - end: 1979-01-01
   name: Richard Gerber
   start: 1972-01-01
-  type: pastor
+  type: Pastor
 - end: 1984-01-01
   name: David Cole
   start: 1980-01-01
-  type: pastor
+  type: Pastor
 - end: 1994-01-01
   name: George Kostas
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: James Zozzaro
   start: 1995-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Leonard Pitcher
 - James Rohrbaugh
@@ -59,7 +59,6 @@ raw_data: "NEW JERSEY\nCape May Court House\nCalvary Orthodox Presbyterian Churc
   \ 1937\u201340\nLeslie Dunn, 1941\u201352\nJohn Davies, 1954\u201371\nRichard Gerber,\
   \ 1972\u201379\nDavid Cole, 1980\u201384\nGeorge Kostas, 1984\u201394\nJames Zozzaro,\
   \ 1995\u2013"
-received_from: MISSING
 states:
 - NJ
 status:
@@ -69,5 +68,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Calvary Orthodox Presbyterian Church (Cape May Court House NJ)
+year_established:
+- 1936
 
 ---

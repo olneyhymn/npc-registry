@@ -9,51 +9,51 @@ minister:
 - end: 1940-01-01
   name: Donald Graham
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 - end: 1942-01-01
   name: John Galbraith
   start: 1940-01-01
-  type: pastor
+  type: Pastor
 - end: 1946-01-01
   name: Robert Atwell
   start: 1943-01-01
-  type: pastor
+  type: Pastor
 - end: 1950-01-01
   name: Donald Graham
   start: 1947-01-01
-  type: pastor
+  type: Pastor
 - end: 1952-01-01
   name: Edmund Clowney
   start: 1950-01-01
-  type: supply
+  type: Supply Pastor
 - end: 1962-01-01
   name: Leslie Dunn
   start: 1953-01-01
-  type: pastor
+  type: Pastor
 - end: 1966-01-01
   name: Jay Adams
   start: 1963-01-01
-  type: pastor
+  type: Pastor
 - end: 1975-01-01
   name: Robert Atwell
   start: 1967-01-01
-  type: pastor
+  type: Pastor
 - end: 1980-01-01
   name: Albert Edwards III
   start: 1975-01-01
-  type: pastor
+  type: Pastor
 - end: 1985-01-01
   name: Mack Harrell
   start: 1981-01-01
-  type: pastor
+  type: Pastor
 - end: 2013-01-01
   name: Stanford Sutton
   start: 1986-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Timothy Ferguson
   start: 2015-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Donald Graham
 - John Galbraith
@@ -86,5 +86,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Church (Westfield NJ)
+year_established:
+- 1936
 
 ---

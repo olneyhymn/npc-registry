@@ -13,7 +13,7 @@ minister:
 - end: 2012-12-31
   name: "Harry R. \u201CBuster\u201D McLeod, Jr."
   start: 2008-01-04
-  type: pastor
+  type: Pastor
 ministers:
 - "Harry R. \u201CBuster\u201D McLeod, Jr."
 - "Harry R. \u201CBuster\u201D McLeod, Jr."
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Yardley Orthodox Presbyterian Church (MISSING PA)
+year_established:
+- 2001
 
 ---

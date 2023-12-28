@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Life Orthodox Presbyterian Mission (Sparta NJ)
+year_established:
+- 1988
 
 ---

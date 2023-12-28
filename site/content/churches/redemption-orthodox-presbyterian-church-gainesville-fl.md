@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Redemption Orthodox Presbyterian Church (Gainesville FL)
+year_established:
+- 2007
 
 ---

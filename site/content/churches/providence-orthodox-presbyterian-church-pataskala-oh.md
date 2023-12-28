@@ -13,15 +13,15 @@ minister:
 - end: 2005-01-01
   name: Luis Orteza
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Stephen Dufresne
   start: 2006-01-01
-  type: pastor
+  type: Pastor
 - end: 2012-01-01
   name: Sacha Walicord
   start: 2011-01-01
-  type: teacher
+  type: Teacher
 ministers:
 - Luis Orteza
 - Luis Orteza
@@ -51,5 +51,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Orthodox Presbyterian Church (Pataskala OH)
+year_established:
+- 2002
 
 ---

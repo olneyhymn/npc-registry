@@ -29,5 +29,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Presbyterian Chapel (Elkton MD)
+year_established:
+- 2007
 
 ---

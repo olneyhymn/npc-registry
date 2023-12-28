@@ -13,7 +13,7 @@ minister:
 - end: 2009-01-04
   name: James Stastny
   start: 2004-12-11
-  type: pastor
+  type: Pastor
 ministers:
 - James Stastny
 - James Stastny
@@ -44,5 +44,7 @@ status:
   received_from: null
   withdrawal_to: None
 title: Cornerstone Presbyterian Church (Germantown MD)
+year_established:
+- 2004
 
 ---

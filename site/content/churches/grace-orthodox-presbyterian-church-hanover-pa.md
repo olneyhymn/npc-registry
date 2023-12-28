@@ -9,7 +9,7 @@ minister:
 - end: 2004-01-01
   name: Jeffery Sheely
   start: 1990-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Jeffery Sheely
 name: Grace Orthodox Presbyterian Church
@@ -21,7 +21,6 @@ origination_date: *id001
 raw_data: "PA Hanover\n\nGrace Orthodox Presbyterian Church  (December 9, 1990\u2013\
   November 20, 2004)\n\n(affiliated with the Evangelical Reformed Presbyterian Church\
   \ in 2005)\n\nPastor: Jeffery Sheely, 1990\u20132004"
-received_from: MISSING
 states:
 - PA
 status:
@@ -31,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Church (Hanover PA)
+year_established:
+- 1990
 
 ---

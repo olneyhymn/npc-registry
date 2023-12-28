@@ -15,9 +15,8 @@ ministers:
 name: Big Bear Valley Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "AR\nBig Bear Lake\nBig Bear Valley Orthodox Presbyterian Chapel \
-  \ (February 3, 2006\u2013September 6, 2015)\nOrg. Pastor: Alan Pontier, 2006\u2013\
-  15"
+raw_data: "AR\nBig Bear Lake\nBig Bear Valley Orthodox Presbyterian Chapel  (February\
+  \ 3, 2006\u2013September 6, 2015)\nOrg. Pastor: Alan Pontier, 2006\u201315"
 received_from: null
 states:
 - AR
@@ -28,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Big Bear Valley Orthodox Presbyterian Chapel (Big Bear Lake AR)
+year_established:
+- 2006
 
 ---

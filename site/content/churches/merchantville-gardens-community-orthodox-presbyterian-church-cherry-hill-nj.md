@@ -9,7 +9,7 @@ minister:
 - end: 1985-01-01
   name: James Reber
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: 2001-01-01
   name: Peter J. Puliatti
   start: 1986-01-01
@@ -50,5 +50,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Merchantville Gardens Community Orthodox Presbyterian Church (Cherry Hill NJ)
+year_established:
+- 1984
 
 ---

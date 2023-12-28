@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Leland Jorgensen
   start: 1938-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Leland Jorgensen
 name: Covenant Presbyterian Church of America
@@ -28,5 +28,7 @@ status:
   received_from: null
   withdrawal_to: Bible Presbyterian Church
 title: Covenant Presbyterian Church of America (Marion OH)
+year_established:
+- 1936
 
 ---

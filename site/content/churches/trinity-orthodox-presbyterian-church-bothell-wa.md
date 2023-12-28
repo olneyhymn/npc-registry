@@ -9,23 +9,23 @@ minister:
 - end: 1970-01-01
   name: D. Robert Lindberg
   start: 1964-01-01
-  type: pastor
+  type: Pastor
 - end: 1975-01-01
   name: Ronald McKenzie
   start: 1971-01-01
-  type: pastor
+  type: Pastor
 - end: 1992-01-01
   name: Patrick Morison
   start: 1976-01-01
-  type: pastor
+  type: Pastor
 - end: 1998-01-01
   name: Earl Vanderhoff
   start: 1993-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Marc Renkema
   start: 1998-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - D. Robert Lindberg
 - Ronald McKenzie
@@ -67,5 +67,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Church (Bothell WA)
+year_established:
+- 1964
 
 ---

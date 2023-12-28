@@ -9,7 +9,7 @@ minister:
 - end: 1937-12-31
   name: A. Franklin Faucette
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - A. Franklin Faucette
 name: Cleveland Presbyterian Church of America
@@ -21,7 +21,6 @@ origination_date: *id001
 raw_data: "OH  Cleveland\nCleveland Presbyterian Church of America  (March 7, 1937\u2013\
   July 11, 1937)\n(joined the Bible Presbyterian Church, September 6, 1938)\nPastor:\
   \ A. Franklin Faucette, 1937"
-received_from: MISSING
 states:
 - OH
 status:
@@ -31,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: Bible Presbyterian Church
 title: Cleveland Presbyterian Church of America (Cleveland OH)
+year_established:
+- 1937
 
 ---

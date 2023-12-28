@@ -13,11 +13,11 @@ minister:
 - end: 2012-01-01
   name: Dennis Disselkoen
   start: 1999-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Camden M. Busey
   start: 2013-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Brandon T. Wilkins
   start: 2011-01-01
@@ -38,7 +38,6 @@ raw_data: "ID Grayslake\nHope Presbyterian Church, Orthodox Presbyterian Church 
   \ Road\nOrg. Pastor: Dennis Disselkoen, 1998\u201399\nPastors: Dennis Disselkoen,\
   \ 1999\u20132012\nCamden M. Busey, 2013\u2013\nAssoc. Pastor: Brandon T. Wilkins,\
   \ 2011\u2013"
-received_from: MISSING
 states:
 - ID
 status:
@@ -48,5 +47,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Hope Presbyterian Church (Grayslake ID)
+year_established:
+- 1999
 
 ---

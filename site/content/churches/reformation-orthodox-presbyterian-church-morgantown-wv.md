@@ -9,11 +9,11 @@ minister:
 - end: 2010-01-01
   name: Lawrence Semel
   start: 1985-11-10
-  type: pastor
+  type: Pastor
 - end: null
   name: Jonathan Hutchison
   start: 2011-01-01
-  type: pastor
+  type: Pastor
 - end: 2000-01-01
   name: Robert Broline
   start: 1998-01-01
@@ -39,5 +39,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Reformation Orthodox Presbyterian Church (Morgantown WV)
+year_established:
+- 1985
 
 ---

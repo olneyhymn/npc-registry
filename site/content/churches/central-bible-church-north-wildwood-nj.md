@@ -9,7 +9,7 @@ minister:
 - end: null
   name: James Allay
   start: 2002-03-10
-  type: pastor
+  type: Pastor
 ministers:
 - James Allay
 name: Central Bible Church
@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Central Bible Church (North Wildwood NJ)
+year_established:
+- 2002
 
 ---

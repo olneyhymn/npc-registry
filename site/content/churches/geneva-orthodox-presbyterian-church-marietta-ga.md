@@ -13,11 +13,11 @@ minister:
 - end: 2009-01-01
   name: John Fesko
   start: 2004-04-16
-  type: pastor
+  type: Pastor
 - end: null
   name: Matthew Holst
   start: 2010-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - John Fesko
 - John Fesko
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Geneva Orthodox Presbyterian Church (Marietta GA)
+year_established:
+- 2004
 
 ---

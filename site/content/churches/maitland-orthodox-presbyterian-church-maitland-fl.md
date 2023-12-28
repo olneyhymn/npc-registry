@@ -9,7 +9,7 @@ minister:
 - end: 1964-01-01
   name: Arthur Froelich
   start: 1958-06-27
-  type: pastor
+  type: Pastor
 ministers:
 - Arthur Froelich
 name: Maitland Orthodox Presbyterian Church
@@ -21,7 +21,6 @@ origination_date: *id001
 raw_data: "FLORIDA Maitland\n\nMaitland Orthodox Presbyterian Church  (June 27, 1958\u2013\
   April 21, 1964)\n(withdrew to the Bible Presbyterian Church, 1964)\nPastor: Arthur\
   \ Froelich, 1958\u201364"
-received_from: MISSING
 states:
 - FL
 status:
@@ -31,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: Bible Presbyterian Church
 title: Maitland Orthodox Presbyterian Church (Maitland FL)
+year_established:
+- 1958
 
 ---

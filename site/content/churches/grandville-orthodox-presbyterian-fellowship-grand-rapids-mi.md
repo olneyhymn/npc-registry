@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grandville Orthodox Presbyterian Fellowship (Grand Rapids MI)
+year_established:
+- 1975
 
 ---

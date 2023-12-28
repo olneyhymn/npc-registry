@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Jim G. Stevenson
   start: 2015-05-15
-  type: pastor
+  type: Pastor
 ministers:
 - Jim G. Stevenson
 - Jim G. Stevenson
@@ -39,5 +39,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Orthodox Presbyterian Church (Tulsa OK)
+year_established:
+- 2015
 
 ---

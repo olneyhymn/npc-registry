@@ -9,7 +9,7 @@ minister:
 - end: 1937-01-01
   name: Henry Welbon
   start: 1936-06-21
-  type: pastor
+  type: Pastor
 ministers:
 - Henry Welbon
 name: Pencader Presbyterian Church
@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Pencader Presbyterian Church (Glasgow DE)
+year_established:
+- 1936
 
 ---

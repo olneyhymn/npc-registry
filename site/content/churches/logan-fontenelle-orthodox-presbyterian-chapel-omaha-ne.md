@@ -9,15 +9,15 @@ minister:
 - end: 1941-01-01
   name: Jack Zandstra
   start: 1940-01-01
-  type: pastor
+  type: Pastor
 - end: 1945-01-01
   name: Robert Brown
   start: 1941-01-01
-  type: pastor
+  type: Pastor
 - end: 1946-01-01
   name: Reginald Voorhees
   start: 1945-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Jack Zandstra
 - Robert Brown
@@ -38,5 +38,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Logan Fontenelle Orthodox Presbyterian Chapel (Omaha NE)
+year_established:
+- 1940
 
 ---

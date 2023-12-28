@@ -21,5 +21,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Presbyterian and Reformed Fellowship (Rantoul ID)
+year_established:
+- 1978
 
 ---

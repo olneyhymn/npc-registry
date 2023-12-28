@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Mark Brown
   start: 1980-01-20
-  type: pastor
+  type: Pastor
 - end: 2014-01-01
   name: Jeremiah W. Montgomery
   start: 2011-01-01
@@ -36,5 +36,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Westminster Orthodox Presbyterian Church (Hollidaysburg PA)
+year_established:
+- 1980
 
 ---

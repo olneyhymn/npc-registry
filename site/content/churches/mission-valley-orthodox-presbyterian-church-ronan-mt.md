@@ -9,7 +9,7 @@ minister:
 - end: 1986-01-01
   name: Russell Piper
   start: 1976-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Russell Piper
 name: Mission Valley Orthodox Presbyterian Church
@@ -18,9 +18,8 @@ names:
   name: Mission Valley Orthodox Presbyterian Church
   start: 1976-04-26
 origination_date: *id001
-raw_data: "MT\nRonan\nMission Valley Orthodox Presbyterian Church  (April 26,\
-  \ 1976\u2013April 25, 1987)\nPastor: Russell Piper, 1976\u201386"
-received_from: MISSING
+raw_data: "MT\nRonan\nMission Valley Orthodox Presbyterian Church  (April 26, 1976\u2013\
+  April 25, 1987)\nPastor: Russell Piper, 1976\u201386"
 states:
 - MT
 status:
@@ -30,5 +29,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Mission Valley Orthodox Presbyterian Church (Ronan MT)
+year_established:
+- 1976
 
 ---

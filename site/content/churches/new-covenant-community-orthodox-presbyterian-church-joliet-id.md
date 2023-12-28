@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Bruce Hollister
   start: 1999-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Alan Strange
   start: 1999-01-01
@@ -41,5 +41,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Covenant Community Orthodox Presbyterian Church (Joliet ID)
+year_established:
+- 1999
 
 ---

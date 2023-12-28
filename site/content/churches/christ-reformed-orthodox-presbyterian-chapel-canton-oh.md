@@ -9,7 +9,7 @@ minister:
 - end: 1982-01-01
   name: David King
   start: 1974-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - David King
 name: Christ Reformed Orthodox Presbyterian Chapel
@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Reformed Orthodox Presbyterian Chapel (Canton OH)
+year_established:
+- 1973
 
 ---

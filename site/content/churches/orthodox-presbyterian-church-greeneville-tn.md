@@ -9,7 +9,7 @@ minister:
 - end: 1975-10-29
   name: Robert Valentine
   start: 1967-10-11
-  type: pastor
+  type: Pastor
 ministers:
 - Robert Valentine
 name: Orthodox Presbyterian Church
@@ -31,5 +31,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Orthodox Presbyterian Church (Greeneville TN)
+year_established:
+- 1967
 
 ---

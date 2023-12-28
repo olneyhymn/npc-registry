@@ -9,39 +9,39 @@ minister:
 - end: 1941-01-01
   name: Thomas Cooper
   start: 1938-01-01
-  type: pastor
+  type: Pastor
 - end: 1944-01-01
   name: James Brown
   start: 1941-01-01
-  type: pastor
+  type: Pastor
 - end: 1946-01-01
   name: Delbert Schowalter
   start: 1945-01-01
-  type: pastor
+  type: Pastor
 - end: 1952-01-01
   name: Herbert Bird
   start: 1948-01-01
-  type: pastor
+  type: Pastor
 - end: 1956-01-01
   name: V. Robert Nilson
   start: 1953-01-01
-  type: pastor
+  type: Pastor
 - end: 1974-01-01
   name: Russell Piper
   start: 1957-01-01
-  type: pastor
+  type: Pastor
 - end: 1978-01-01
   name: Richard Miller
   start: 1975-01-01
-  type: pastor
+  type: Pastor
 - end: 1992-01-01
   name: Stephen Doe
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: LeRoy Miller
   start: 1993-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Thomas Cooper
 - James Brown
@@ -73,5 +73,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Faith Orthodox Presbyterian Church (Lincoln NE)
+year_established:
+- 1938
 
 ---

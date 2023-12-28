@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Redeemer Orthodox Presbyterian Mission (Pittsburgh PA)
+year_established:
+- 2011
 
 ---

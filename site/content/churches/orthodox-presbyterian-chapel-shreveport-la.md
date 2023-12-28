@@ -14,7 +14,6 @@ names:
   start: 1972-10-17
 origination_date: *id001
 raw_data: "LA\nShreveport\nOrthodox Presbyterian Chapel  (October 17, 1972\u20131973)"
-received_from: MISSING
 states:
 - LA
 status:
@@ -24,5 +23,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Orthodox Presbyterian Chapel (Shreveport LA)
+year_established:
+- 1972
 
 ---

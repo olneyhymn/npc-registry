@@ -32,5 +32,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Chapel (MISSING WV)
+year_established:
+- 2004
 
 ---

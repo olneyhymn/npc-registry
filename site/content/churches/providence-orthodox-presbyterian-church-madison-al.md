@@ -21,11 +21,11 @@ minister:
 - end: 2010-01-01
   name: Mark Winder
   start: 2007-01-19
-  type: pastor
+  type: Pastor
 - end: null
   name: Darren S. Thole
   start: 2011-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Mark Smith
 - Mark Winder
@@ -56,5 +56,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Orthodox Presbyterian Church (Madison AL)
+year_established:
+- 2007
 
 ---

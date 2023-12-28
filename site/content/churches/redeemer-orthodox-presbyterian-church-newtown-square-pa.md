@@ -9,15 +9,15 @@ minister:
 - end: 1940-01-01
   name: Charles Schauffele
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 - end: 1943-01-01
   name: Thomas Cooper
   start: 1941-01-01
-  type: pastor
+  type: Pastor
 - end: 1958-01-01
   name: G. Travers Sloyer
   start: 1954-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Charles Schauffele
 - Thomas Cooper
@@ -31,7 +31,6 @@ origination_date: *id001
 raw_data: "PA Newtown Square\nRedeemer Orthodox Presbyterian Church  (July 27, 1936\u2013\
   May 27, 1963)\nPastors: Charles Schauffele, 1937\u201340\nThomas Cooper, 1941\u2013\
   43\nG. Travers Sloyer, 1954\u201358"
-received_from: MISSING
 states:
 - PA
 status:
@@ -41,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Redeemer Orthodox Presbyterian Church (Newtown Square PA)
+year_established:
+- 1936
 
 ---

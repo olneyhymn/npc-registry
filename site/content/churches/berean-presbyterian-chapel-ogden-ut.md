@@ -24,5 +24,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Berean Presbyterian Chapel (Ogden UT)
+year_established:
+- 2009
 
 ---

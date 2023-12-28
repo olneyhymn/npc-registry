@@ -9,11 +9,11 @@ minister:
 - end: 2011-12-31
   name: Robert Reymond
   start: 2009-01-01
-  type: supply
+  type: Supply Pastor
 - end: null
   name: Chad Mullinix
   start: 2011-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Robert Reymond
 - Chad Mullinix
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Holy Trinity Presbyterian Church (Fort Lauderdale FL)
+year_established:
+- 2009
 
 ---

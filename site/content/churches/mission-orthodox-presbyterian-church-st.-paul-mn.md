@@ -13,11 +13,11 @@ minister:
 - end: 2013-01-01
   name: John Shaw
   start: 2009-10-02
-  type: pastor
+  type: Pastor
 - end: null
   name: Frank Liu
   start: 2013-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - John Shaw
 - John Shaw
@@ -42,5 +42,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Mission Orthodox Presbyterian Church (St. Paul MN)
+year_established:
+- 2009
 
 ---

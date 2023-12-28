@@ -9,19 +9,19 @@ minister:
 - end: 1998-01-01
   name: Thomas Albaugh
   start: 1995-01-01
-  type: pastor
+  type: Pastor
 - end: 2007-01-01
   name: Martin Emmrich
   start: 2003-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: M. Scott Johnson
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 - end: 1993-01-01
   name: Mark Sumpter
   start: 1989-01-01
-  type: supply
+  type: Supply Pastor
 - end: 1994-01-01
   name: Mark Sumpter
   start: 1993-01-01
@@ -56,5 +56,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Church (Wasilla AK)
+year_established:
+- 1994
 
 ---

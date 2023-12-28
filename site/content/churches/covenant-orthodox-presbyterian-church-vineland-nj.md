@@ -9,35 +9,35 @@ minister:
 - end: 1941-01-01
   name: Alexander Davison
   start: 1936-09-17
-  type: pastor
+  type: Pastor
 - end: 1966-01-01
   name: Everett DeVelde
   start: 1942-01-01
-  type: pastor
+  type: Pastor
 - end: 1978-01-01
   name: Robert W. Eckardt
   start: 1966-01-01
-  type: pastor
+  type: Pastor
 - end: 1982-01-01
   name: Craig Rowe
   start: 1979-01-01
-  type: pastor
+  type: Pastor
 - end: 1989-01-01
   name: Laurence Vail
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: 1997-01-01
   name: James Reber
   start: 1991-01-01
-  type: pastor
+  type: Pastor
 - end: 2012-01-01
   name: John McGowan
   start: 1999-01-01
-  type: pastor
+  type: Pastor
 - end: 1997-01-01
   name: Frederick Reber
   start: 1995-01-01
-  type: teacher
+  type: Teacher
 ministers:
 - Alexander Davison
 - Everett DeVelde
@@ -68,5 +68,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Vineland NJ)
+year_established:
+- 1936
 
 ---

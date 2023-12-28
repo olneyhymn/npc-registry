@@ -13,9 +13,7 @@ names:
   name: Concho Valley OPC mission
   start: 2013-05-03
 origination_date: *id001
-raw_data: "AZ\nConcho\nConcho Valley OPC mission (May 3, 2013\u2013 )\n79 County\
-  \ Road"
-received_from: MISSING
+raw_data: "AZ\nConcho\nConcho Valley OPC mission (May 3, 2013\u2013 )\n79 County Road"
 states:
 - AZ
 status:
@@ -25,5 +23,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Concho Valley OPC mission (Concho AZ)
+year_established:
+- 2013
 
 ---

@@ -9,15 +9,15 @@ minister:
 - end: 2001-01-01
   name: Danny Olinger
   start: 1998-04-17
-  type: pastor
+  type: Pastor
 - end: 2007-01-01
   name: James Cassidy
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 - end: 2015-01-01
   name: Robert McKelvey
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Danny Olinger
 - James Cassidy
@@ -41,5 +41,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Westminster Presbyterian Church (Windber PA)
+year_established:
+- 1998
 
 ---

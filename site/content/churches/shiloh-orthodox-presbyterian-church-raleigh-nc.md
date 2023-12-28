@@ -13,7 +13,7 @@ minister:
 - end: 2015-01-01
   name: Gabriel Fluhrer
   start: 2013-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: R. Irfon Hughes
   start: 2014-01-01
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Shiloh Orthodox Presbyterian Church (Raleigh NC)
+year_established:
+- 2013
 
 ---

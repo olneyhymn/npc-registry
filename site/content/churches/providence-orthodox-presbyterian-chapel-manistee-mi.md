@@ -36,5 +36,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Orthodox Presbyterian Chapel (Manistee MI)
+year_established:
+- 1999
 
 ---

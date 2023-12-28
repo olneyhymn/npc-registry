@@ -9,19 +9,19 @@ minister:
 - end: 1996-01-01
   name: Robert Minnig
   start: 1985-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: William Krispin
   start: 1997-01-01
-  type: pastor
+  type: Pastor
 - end: 2005-07-17
   name: Edward N. Gross
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 - end: 2005-07-17
   name: Barry Traver
   start: 1988-01-01
-  type: teacher
+  type: Teacher
 ministers:
 - Robert Minnig
 - William Krispin
@@ -47,5 +47,7 @@ status:
   received_from: null
   withdrawal_to: OPC
 title: Pilgrim Orthodox Presbyterian Church (Philadelphia PA)
+year_established:
+- 1984
 
 ---

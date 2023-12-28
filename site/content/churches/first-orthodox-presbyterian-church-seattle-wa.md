@@ -9,11 +9,11 @@ minister:
 - end: 1948-01-01
   name: James Brown
   start: 1946-01-01
-  type: pastor
+  type: Pastor
 - end: 1954-01-01
   name: Earl Zetterholm
   start: 1948-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - James Brown
 - Earl Zetterholm
@@ -36,5 +36,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: First Orthodox Presbyterian Church (Seattle WA)
+year_established:
+- 1946
 
 ---

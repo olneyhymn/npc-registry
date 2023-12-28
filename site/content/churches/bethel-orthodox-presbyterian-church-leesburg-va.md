@@ -9,15 +9,15 @@ minister:
 - end: 1984-01-01
   name: Edwin Urban
   start: 1970-01-01
-  type: pastor
+  type: Pastor
 - end: 1992-01-01
   name: Douglas Felch
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: George Hammond
   start: 1993-01-01
-  type: pastor
+  type: Pastor
 - end: 1983-01-01
   name: Edward Kellog
   start: 1977-01-01
@@ -47,5 +47,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Bethel Orthodox Presbyterian Church (Leesburg VA)
+year_established:
+- 1971
 
 ---

@@ -13,7 +13,7 @@ minister:
 - end: null
   name: John Schortmann
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - John Schortmann
 - John Schortmann
@@ -39,5 +39,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Presbyterian Church (Pensacola FL)
+year_established:
+- 2012
 
 ---

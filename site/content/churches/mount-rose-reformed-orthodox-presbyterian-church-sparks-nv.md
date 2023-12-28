@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Andrew Preston
   start: 2007-11-10
-  type: pastor
+  type: Pastor
 ministers:
 - Andrew Preston
 - Andrew Preston
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Mount Rose Reformed Orthodox Presbyterian Church (Sparks NV)
+year_established:
+- 2007
 
 ---

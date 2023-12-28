@@ -9,23 +9,23 @@ minister:
 - end: 1974-01-01
   name: Calvin Cummings
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 - end: 1979-01-01
   name: Edward Volz
   start: 1976-01-01
-  type: pastor
+  type: Pastor
 - end: 1984-01-01
   name: C. Tom Fincher
   start: 1979-01-01
-  type: pastor
+  type: Pastor
 - end: 1989-01-01
   name: Paul Copeland
   start: 1985-01-01
-  type: pastor
+  type: Pastor
 - end: 2008-10-17
   name: John Wilson
   start: 1990-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Calvin Cummings
 - Edward Volz
@@ -49,5 +49,7 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Covenant Orthodox Presbyterian Church (Pittsburgh PA)
+year_established:
+- 1937
 
 ---

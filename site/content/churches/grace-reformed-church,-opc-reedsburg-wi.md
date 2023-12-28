@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Christian McShaffrey
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Christian McShaffrey
 - Christian McShaffrey
@@ -26,10 +26,9 @@ names:
   name: Grace Reformed Church, OPC
   start: 2007-10-12
 origination_date: *id001
-raw_data: "WI   Reedsburg\n\nGrace Reformed Chapel  (April 16, 2004\u2013October\
-  \ 12, 2007)\nGrace Reformed Church, OPC  (October 12, 2007\u2014 )\n148 N. Park\
-  \ Street\nOrg. Pastor: Christian McShaffrey, 2004\u20147\nPastor: Christian McShaffrey,\
-  \ 2007"
+raw_data: "WI   Reedsburg\n\nGrace Reformed Chapel  (April 16, 2004\u2013October 12,\
+  \ 2007)\nGrace Reformed Church, OPC  (October 12, 2007\u2014 )\n148 N. Park Street\n\
+  Org. Pastor: Christian McShaffrey, 2004\u20147\nPastor: Christian McShaffrey, 2007"
 received_from: null
 states:
 - WI
@@ -40,5 +39,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Reformed Church, OPC (Reedsburg WI)
+year_established:
+- 2007
 
 ---

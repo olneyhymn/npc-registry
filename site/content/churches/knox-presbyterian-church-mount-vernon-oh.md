@@ -13,11 +13,11 @@ minister:
 - end: null
   name: Sacha Walicord
   start: 2014-04-11
-  type: pastor
+  type: Pastor
 - end: null
   name: Jeremy Logan
   start: 2015-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Sacha Walicord
 - Sacha Walicord
@@ -44,5 +44,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Knox Presbyterian Church (Mount Vernon OH)
+year_established:
+- 2014
 
 ---

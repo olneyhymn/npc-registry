@@ -9,19 +9,19 @@ minister:
 - end: 1973-01-01
   name: James Bosgraf
   start: 1968-01-01
-  type: pastor
+  type: Pastor
 - end: 1986-01-01
   name: David Cummings
   start: 1975-01-01
-  type: pastor
+  type: Pastor
 - end: 2002-01-01
   name: Douglas Clawson
   start: 1987-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Matthew Cotta
   start: 2003-01-01
-  type: pastor
+  type: Pastor
 - end: 2001-01-01
   name: David VanDrunen
   start: 1999-01-01
@@ -37,7 +37,7 @@ minister:
 - end: null
   name: Dennis Disselkoen
   start: 1998-01-01
-  type: teacher
+  type: Teacher
 ministers:
 - James Bosgraf
 - David Cummings
@@ -68,5 +68,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Church (Hanover Park ID)
+year_established:
+- 1968
 
 ---

@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Richard Mozer
   start: 2000-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Richard Mozer
 name: Orthodox Presbyterian Chapel
@@ -18,9 +18,8 @@ names:
   name: Orthodox Presbyterian Chapel
   start: 1999-04-17
 origination_date: *id001
-raw_data: "CT Torrington\n\nOrthodox Presbyterian Chapel  (April 17, 1999\u2013\
-  September 16, 2000)\nPastor: Richard Mozer, 2000"
-received_from: MISSING
+raw_data: "CT Torrington\n\nOrthodox Presbyterian Chapel  (April 17, 1999\u2013September\
+  \ 16, 2000)\nPastor: Richard Mozer, 2000"
 states:
 - MISSING
 status:
@@ -30,5 +29,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Orthodox Presbyterian Chapel (MISSING MISSING)
+year_established:
+- 1999
 
 ---

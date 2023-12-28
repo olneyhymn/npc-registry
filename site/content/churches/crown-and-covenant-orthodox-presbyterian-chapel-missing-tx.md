@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Crown and Covenant Orthodox Presbyterian Chapel (MISSING TX)
+year_established:
+- 1981
 
 ---

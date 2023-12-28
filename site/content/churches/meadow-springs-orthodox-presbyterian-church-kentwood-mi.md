@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Gerald Neumair
   start: 1999-01-01
-  type: pastor
+  type: Pastor
 - end: 2008-01-01
   name: Rodney Thole
   start: 2004-01-01
@@ -28,10 +28,9 @@ names:
   name: Meadow Springs Orthodox Presbyterian Church
   start: 1999-04-30
 origination_date: *id001
-raw_data: "MI\nKentwood\nMeadow Springs Orthodox Presbyterian Church  (April\
-  \ 30, 1999\u2013 )\n3300 36th Street, SE\nEvangelist: Gerald Neumair, 1991\u2013\
-  99\nPastor: Gerald Neumair, 1999\u2013\nAssoc. Pastor: Rodney Thole, 2004 \u2013\
-  8"
+raw_data: "MI\nKentwood\nMeadow Springs Orthodox Presbyterian Church  (April 30, 1999\u2013\
+  \ )\n3300 36th Street, SE\nEvangelist: Gerald Neumair, 1991\u201399\nPastor: Gerald\
+  \ Neumair, 1999\u2013\nAssoc. Pastor: Rodney Thole, 2004 \u20138"
 received_from: null
 states:
 - MI
@@ -42,5 +41,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Meadow Springs Orthodox Presbyterian Church (Kentwood MI)
+year_established:
+- 1999
 
 ---

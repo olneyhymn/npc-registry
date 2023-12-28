@@ -23,5 +23,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Collier City Orthodox Presbyterian Chapel (Pompano Beach FL)
+year_established:
+- 1970
 
 ---

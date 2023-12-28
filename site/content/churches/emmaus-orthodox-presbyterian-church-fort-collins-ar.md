@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Archibald A. Allison
   start: 2001-03-16
-  type: pastor
+  type: Pastor
 ministers:
 - Archibald A. Allison
 - Archibald A. Allison
@@ -26,9 +26,9 @@ names:
   name: Emmaus Orthodox Presbyterian Church
   start: 2001-03-16
 origination_date: *id001
-raw_data: "AR\nFort Collins\nEmmaus Orthodox Presbyterian Chapel  (July 23,\
-  \ 1993\u2013March 16, 2001)\nEmmaus Orthodox Presbyterian Church  (March 16, 2001\u2013\
-  \ )\nCollege America, 4601 S. Mason Street\nOrg. Pastor: Archibald A. Allison, 1993\u2013\
+raw_data: "AR\nFort Collins\nEmmaus Orthodox Presbyterian Chapel  (July 23, 1993\u2013\
+  March 16, 2001)\nEmmaus Orthodox Presbyterian Church  (March 16, 2001\u2013 )\n\
+  College America, 4601 S. Mason Street\nOrg. Pastor: Archibald A. Allison, 1993\u2013\
   2001\nPastor: Archibald A. Allison, 2001\u2013"
 received_from: null
 states:
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Emmaus Orthodox Presbyterian Church (Fort Collins AR)
+year_established:
+- 2001
 
 ---

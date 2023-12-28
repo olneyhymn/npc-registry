@@ -9,11 +9,11 @@ minister:
 - end: 2009-01-01
   name: Robert J. Cameron
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 - end: 2013-01-01
   name: Samuel Rodriguez
   start: 2011-01-01
-  type: pastor
+  type: Pastor
 - end: 2004-01-01
   name: Cornelius Johnson
   start: 2001-01-01
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Mt. Carmel Orthodox Presbyterian Church (Somerset NJ)
+year_established:
+- 2001
 
 ---

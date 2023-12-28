@@ -9,7 +9,7 @@ minister:
 - end: 1987-01-18
   name: John Grady
   start: 1983-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - John Grady
 name: Sarasota Orthodox Presbyterian Church
@@ -31,5 +31,7 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Sarasota Orthodox Presbyterian Church (Sarasota FL)
+year_established:
+- 1982
 
 ---

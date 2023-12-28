@@ -13,11 +13,11 @@ minister:
 - end: 2001-01-01
   name: Michael Pasarilla
   start: 1995-10-25
-  type: pastor
+  type: Pastor
 - end: null
   name: Joseph Keller
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Michael Pasarilla
 - Michael Pasarilla
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Covenant Orthodox Presbyterian Church (Dallas TX)
+year_established:
+- 1995
 
 ---

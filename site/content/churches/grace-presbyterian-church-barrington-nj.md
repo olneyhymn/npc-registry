@@ -22,5 +22,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Presbyterian Church (Barrington NJ)
+year_established:
+- 1936
 
 ---

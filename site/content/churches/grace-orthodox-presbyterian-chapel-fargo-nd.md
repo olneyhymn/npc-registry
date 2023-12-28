@@ -23,10 +23,9 @@ names:
   name: Grace Orthodox Presbyterian Chapel
   start: 2010-06-09
 origination_date: *id001
-raw_data: "ND Fargo\n\nGrace Orthodox Presbyterian Chapel (June 9, 2010\u2013\
-  October 4, 2015)\nOrg. Pastors: Terry Thole, 2010\u201312\nGregory P. Hoadley, 2014\u2013\
+raw_data: "ND Fargo\n\nGrace Orthodox Presbyterian Chapel (June 9, 2010\u2013October\
+  \ 4, 2015)\nOrg. Pastors: Terry Thole, 2010\u201312\nGregory P. Hoadley, 2014\u2013\
   15"
-received_from: MISSING
 states:
 - ND
 status:
@@ -36,5 +35,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Chapel (Fargo ND)
+year_established:
+- 2010
 
 ---

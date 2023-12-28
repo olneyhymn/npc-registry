@@ -20,7 +20,6 @@ names:
 origination_date: *id001
 raw_data: "LA\nNew Orleans\n\nChrist Orthodox Presbyterian Chapel  (April 23, 1998\u2013\
   \ December 9, 2005)\nEvangelist: Russell Hamilton, 1999\u20132005"
-received_from: MISSING
 states:
 - LA
 status:
@@ -30,5 +29,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Orthodox Presbyterian Chapel (New Orleans LA)
+year_established:
+- 1998
 
 ---

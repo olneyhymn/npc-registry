@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Heritage Presbyterian Church (Royston GA)
+year_established:
+- 1
 
 ---

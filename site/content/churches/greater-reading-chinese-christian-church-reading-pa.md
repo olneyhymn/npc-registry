@@ -28,5 +28,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Greater Reading Chinese Christian Church (Reading PA)
+year_established:
+- 2008
 
 ---

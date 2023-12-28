@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Omega Orthodox Presbyterian mission work (Williamsport PA)
+year_established:
+- 2011
 
 ---

@@ -9,11 +9,11 @@ minister:
 - end: 1970-01-01
   name: Jonathan Male
   start: 1964-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Larry G. Mininger
   start: 1972-01-01
-  type: pastor
+  type: Pastor
 - end: 1993-01-01
   name: Martin Novak
   start: 1989-01-01
@@ -37,7 +37,7 @@ minister:
 - end: null
   name: Mark Garcia
   start: 2006-01-01
-  type: teacher
+  type: Teacher
 ministers:
 - Jonathan Male
 - Larry G. Mininger
@@ -68,5 +68,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Lake Sherwood Orthodox Presbyterian Church (Orlando FL)
+year_established:
+- 1964
 
 ---

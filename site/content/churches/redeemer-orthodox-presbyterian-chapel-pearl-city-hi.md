@@ -31,5 +31,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Redeemer Orthodox Presbyterian Chapel (Pearl City HI)
+year_established:
+- 2007
 
 ---

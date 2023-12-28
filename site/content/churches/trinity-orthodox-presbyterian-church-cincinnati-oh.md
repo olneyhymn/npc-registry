@@ -9,31 +9,31 @@ minister:
 - end: 1941-01-01
   name: Everett DeVelde
   start: 1936-10-21
-  type: pastor
+  type: Pastor
 - end: 1942-01-01
   name: Marvin Derby
   start: 1942-01-01
-  type: pastor
+  type: Pastor
 - end: 1945-01-01
   name: Lawrence Gilmore
   start: 1943-01-01
-  type: supply
+  type: Supply Pastor
 - end: 1945-01-01
   name: Gordon Clark
   start: 1945-01-01
-  type: supply
+  type: Supply Pastor
 - end: 1948-01-01
   name: Charles Ellis
   start: 1946-01-01
-  type: pastor
+  type: Pastor
 - end: 1950-01-01
   name: James Spencer
   start: 1949-01-01
-  type: pastor
+  type: Pastor
 - end: 1952-01-01
   name: Robley Johnston
   start: 1951-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Everett DeVelde
 - Marvin Derby
@@ -62,5 +62,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Church (Cincinnati OH)
+year_established:
+- 1936
 
 ---

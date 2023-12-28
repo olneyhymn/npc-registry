@@ -9,7 +9,7 @@ minister:
 - end: 2013-12-31
   name: Roy Davenport
   start: 1991-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Roy Davenport
 name: Christ Presbyterian Church
@@ -31,5 +31,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Presbyterian Church (Etowah NC)
+year_established:
+- 1991
 
 ---

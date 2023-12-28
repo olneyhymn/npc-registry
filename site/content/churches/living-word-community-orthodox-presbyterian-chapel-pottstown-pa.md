@@ -9,7 +9,7 @@ minister:
 - end: 2001-01-01
   name: Robert Minnig
   start: 1999-01-01
-  type: supply
+  type: Supply Pastor
 - end: 2004-01-01
   name: Wendell Stoltzfus
   start: 2001-01-01
@@ -36,5 +36,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Living Word Community Orthodox Presbyterian Chapel (Pottstown PA)
+year_established:
+- 1998
 
 ---

@@ -9,19 +9,19 @@ minister:
 - end: 1967-01-01
   name: Robert Atwell
   start: 1962-01-03
-  type: pastor
+  type: Pastor
 - end: 1973-01-01
   name: Arthur Olson
   start: 1969-01-01
-  type: pastor
+  type: Pastor
 - end: 1977-01-01
   name: James Workman
   start: 1974-01-01
-  type: pastor
+  type: Pastor
 - end: 1982-10-08
   name: Robert Minnig
   start: 1978-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Robert Atwell
 - Arthur Olson
@@ -44,5 +44,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Galloway Orthodox Presbyterian Church (Miami FL)
+year_established:
+- 1962
 
 ---

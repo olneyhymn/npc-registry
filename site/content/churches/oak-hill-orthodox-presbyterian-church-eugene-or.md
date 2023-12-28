@@ -9,23 +9,23 @@ minister:
 - end: 1983-01-01
   name: H. Larry Baurer
   start: 1972-07-07
-  type: pastor
+  type: Pastor
 - end: 1983-01-01
   name: Larry Conard
   start: 1981-01-01
-  type: Co-pastor
+  type: Co-Pastor
 - end: 1984-01-01
   name: Larry Conard
   start: 1983-01-01
-  type: pastor
+  type: Pastor
 - end: 1992-01-01
   name: Alfred Poirier
   start: 1985-01-01
-  type: pastor
+  type: Pastor
 - end: 1995-01-01
   name: Calvin Malcor
   start: 1992-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - H. Larry Baurer
 - Larry Conard
@@ -50,5 +50,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Oak Hill Orthodox Presbyterian Church (Eugene OR)
+year_established:
+- 1972
 
 ---

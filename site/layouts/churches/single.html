@@ -5,21 +5,21 @@
 
   <h1>{{ .Title }}</h1>
   <div class="church-info">
-    <p>{{ .Params.location.address }}, {{ .Params.location.city }}, <a
+    <p>{{ .Params.location.city }}, <a
         href='{{ "/states/" | relURL }}{{ .Params.location.state | urlize }}/'>{{ .Params.location.state }}</a></p>
     <p>Established on {{ dateFormat "January 2, 2006" .Params.origination_date }}</p>
   </div>
 
-  <div class="pastor-timeline">
+  <div class="Pastor-timeline">
     <h2>Pastoral History</h2>
     {{ range .Params.minister }}
-    <div class="pastor">
-      <span class="pastor-name"></span><a href='{{ "/ministers/" | relURL }}{{ .name | urlize }}/'>{{ .name
+    <div class="Pastor">
+      <span class="Pastor-name"></span><a href='{{ "/ministers/" | relURL }}{{ .name | urlize }}/'>{{ .name
         }}</a></span>
 
-      <span class="pastor-tenure">{{ dateFormat "2006" .start }} - {{ if .end }}{{ dateFormat "2006" .end }}{{ else
+      <span class="Pastor-tenure">{{ dateFormat "2006" .start }} - {{ if .end }}{{ dateFormat "2006" .end }}{{ else
         }}present{{ end }}</span>
-      <span class="pastor-role">({{ .type }})</span>
+      <span class="Pastor-role">({{ .type }})</span>
     </div>
     {{ end }}
   </div>

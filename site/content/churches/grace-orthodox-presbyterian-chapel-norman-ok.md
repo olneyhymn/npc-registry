@@ -9,15 +9,15 @@ minister:
 - end: 2003-01-01
   name: William Doerfel
   start: 1999-01-01
-  type: supply
+  type: Supply Pastor
 - end: 2007-01-01
   name: M. Scott Johnson
   start: 2003-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Todd P. Dole
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - William Doerfel
 - M. Scott Johnson
@@ -31,7 +31,6 @@ origination_date: *id001
 raw_data: "OKLAHOMA Norman\nGrace Orthodox Presbyterian Chapel  (September 12, 1999\u2013\
   \ )\n310 N. Findlay Avenue\nSupply: William Doerfel, 1999\u20132003\nPastors: M.\
   \ Scott Johnson, 2003\u20137\nTodd P. Dole, 2012\u2013"
-received_from: MISSING
 states:
 - OK
 status:
@@ -41,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Chapel (Norman OK)
+year_established:
+- 1999
 
 ---

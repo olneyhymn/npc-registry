@@ -9,11 +9,11 @@ minister:
 - end: 2005-11-04
   name: Charles Biggs
   start: 2003-07-12
-  type: pastor
+  type: Pastor
 - end: null
   name: Charles Biggs
   start: 2005-11-04
-  type: pastor
+  type: Pastor
 - end: 2015-01-01
   name: Daniel J. Halley
   start: 2013-01-01
@@ -55,5 +55,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Ketoctin Covenant Presbyterian Church (Purcellville VA)
+year_established:
+- 2005
 
 ---

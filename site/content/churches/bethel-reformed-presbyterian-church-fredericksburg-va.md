@@ -13,11 +13,11 @@ minister:
 - end: 2012-12-31
   name: Stephen Doe
   start: 2003-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Andrew Miller
   start: 2016-01-01
-  type: pastor
+  type: Pastor
 - end: 2016-12-31
   name: Andrew Miller
   start: 2014-01-01
@@ -25,7 +25,7 @@ minister:
 - end: 2014-12-31
   name: Andrew Miller
   start: 2012-01-01
-  type: supply
+  type: Supply Pastor
 ministers:
 - Stephen Doe
 - Stephen Doe
@@ -56,5 +56,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Bethel Reformed Presbyterian Church (Fredericksburg VA)
+year_established:
+- 2003
 
 ---

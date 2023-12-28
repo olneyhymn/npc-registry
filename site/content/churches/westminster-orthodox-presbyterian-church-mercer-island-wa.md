@@ -13,7 +13,7 @@ minister:
 - end: 2014-02-21
   name: David Inks
   start: 2006-05-26
-  type: pastor
+  type: Pastor
 - end: 2014-02-21
   name: Daniel W. McManigal
   start: 2013-01-01
@@ -31,12 +31,11 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 2006-05-26
 origination_date: *id001
-raw_data: "WASHINGTON\nMercer Island\nWestminster Orthodox Presbyterian Chapel (2001\u2013\
+raw_data: "WA\nMercer Island\nWestminster Orthodox Presbyterian Chapel (2001\u2013\
   May 26, 2006)\nWestminster Orthodox Presbyterian Church (May 26, 2006\u2013February\
   \ 21, 2014)\n(merged with Hope OPC, Mercer Island, February 21, 2014)\nOrg. Pastor:\
   \ David Inks, 2001\u20136\nPastor: David Inks, 2006\u201314\nAssoc. Pastor: Daniel\
   \ W. McManigal, 2013\u201314"
-received_from: MISSING
 states:
 - WA
 status:
@@ -46,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Westminster Orthodox Presbyterian Church (Mercer Island WA)
+year_established:
+- 2001
 
 ---

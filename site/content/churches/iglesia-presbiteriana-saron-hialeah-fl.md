@@ -9,11 +9,11 @@ minister:
 - end: 1990-01-01
   name: Jose Vera
   start: 1985-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Diego Gomez
   start: 1990-01-01
-  type: supply
+  type: Supply Pastor
 ministers:
 - Jose Vera
 - Diego Gomez
@@ -36,5 +36,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Iglesia Presbiteriana Saron (Hialeah FL)
+year_established:
+- 1979
 
 ---

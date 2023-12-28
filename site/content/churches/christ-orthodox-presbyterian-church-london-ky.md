@@ -13,7 +13,7 @@ minister:
 - end: 2012-12-31
   name: Patrick Ramsey
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Patrick Ramsey
 - Patrick Ramsey
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Orthodox Presbyterian Church (London KY)
+year_established:
+- 2002
 
 ---

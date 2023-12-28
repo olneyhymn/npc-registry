@@ -13,11 +13,11 @@ minister:
 - end: 2012-01-01
   name: Robert Needham
   start: 1993-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Kevin L. Medcalf
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 - end: 2007-01-01
   name: Jay Nelken
   start: 2003-01-01
@@ -33,12 +33,10 @@ names:
   name: New Hope Orthodox Presbyterian Church
   start: 1993-10-14
 origination_date: *id001
-raw_data: "AR\nHanford (San Joaquin Valley)\nNew Hope Orthodox Presbyterian\
-  \ Church  (October 14, 1993\u2013 )\nSeventh-day Adventist Church, 900 N. Redington\
-  \ (at Elm)\nOrg. Pastor: Robert Needham, 1992\u201393\nPastors: Robert Needham,\
-  \ 1993\u20132012\nKevin L. Medcalf, 2012\u2013\nAsst. Pastor: Jay Nelken, 2003\u2013\
-  7"
-received_from: MISSING
+raw_data: "AR\nHanford (San Joaquin Valley)\nNew Hope Orthodox Presbyterian Church\
+  \  (October 14, 1993\u2013 )\nSeventh-day Adventist Church, 900 N. Redington (at\
+  \ Elm)\nOrg. Pastor: Robert Needham, 1992\u201393\nPastors: Robert Needham, 1993\u2013\
+  2012\nKevin L. Medcalf, 2012\u2013\nAsst. Pastor: Jay Nelken, 2003\u20137"
 states:
 - AR
 status:
@@ -48,5 +46,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Hope Orthodox Presbyterian Church (Hanford AR)
+year_established:
+- 1993
 
 ---

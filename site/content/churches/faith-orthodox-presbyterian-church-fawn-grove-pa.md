@@ -9,19 +9,19 @@ minister:
 - end: 1966-01-01
   name: Henry Fikkert
   start: 1964-01-01
-  type: pastor
+  type: Pastor
 - end: 1969-01-01
   name: Ronald Shaw
   start: 1966-01-01
-  type: pastor
+  type: Pastor
 - end: 2015-01-01
   name: Douglas Winward
   start: 1970-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Shane M. Bennett
   start: 2015-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Henry Fikkert
 - Ronald Shaw
@@ -43,5 +43,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Faith Orthodox Presbyterian Church (Fawn Grove PA)
+year_established:
+- 1964
 
 ---

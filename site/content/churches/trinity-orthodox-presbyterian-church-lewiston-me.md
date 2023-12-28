@@ -9,15 +9,15 @@ minister:
 - end: 1963-01-01
   name: Charles Stanton
   start: 1961-03-22
-  type: pastor
+  type: Pastor
 - end: 1970-01-01
   name: Bernard Stonehouse
   start: 1963-01-01
-  type: pastor
+  type: Pastor
 - end: 1994-01-01
   name: Donald Miller
   start: 1971-01-01
-  type: pastor
+  type: Pastor
 - end: 1996-10-05
   name: Gary Magur
   start: 1992-01-01
@@ -40,7 +40,6 @@ raw_data: "ME\nLewiston\n\nTrinity Orthodox Presbyterian Church  (March 22, 1961
   October 5, 1996)\n(also called Trinity Orthodox Presbyterian Church of Androscoggin\
   \ Valley)\nPastors: Charles Stanton, 1961\u201363\nBernard Stonehouse, 1963\u2013\
   70\nDonald Miller, 1971\u201394\nAssoc. Pastor: Gary Magur, 1992\u201396"
-received_from: MISSING
 states:
 - ME
 status:
@@ -50,5 +49,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Church (Lewiston ME)
+year_established:
+- 1961
 
 ---

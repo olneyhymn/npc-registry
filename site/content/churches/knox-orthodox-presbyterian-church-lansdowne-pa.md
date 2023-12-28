@@ -9,35 +9,35 @@ minister:
 - end: 1939-01-01
   name: John Thwing
   start: 1936-06-13
-  type: pastor
+  type: Pastor
 - end: 1943-01-01
   name: George Marston
   start: 1940-01-01
-  type: pastor
+  type: Pastor
 - end: 1946-01-01
   name: William Welmers
   start: 1943-01-01
-  type: pastor
+  type: Pastor
 - end: 1948-01-01
   name: C. Alan Tichenor
   start: 1946-01-01
-  type: pastor
+  type: Pastor
 - end: 1962-01-01
   name: David Freeman
   start: 1949-01-01
-  type: pastor
+  type: Pastor
 - end: 1990-01-01
   name: Karl Hubenthal
   start: 1976-01-01
-  type: pastor
+  type: Pastor
 - end: 2005-01-01
   name: W. Scott Emery
   start: 1991-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Jeffrey C. Waddington
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - John Thwing
 - George Marston
@@ -66,5 +66,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Knox Orthodox Presbyterian Church (Lansdowne PA)
+year_established:
+- 1936
 
 ---

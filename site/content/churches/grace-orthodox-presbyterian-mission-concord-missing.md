@@ -9,7 +9,7 @@ minister:
 - end: 1986-10-07
   name: Malcolm Wright
   start: 1983-10-14
-  type: pastor
+  type: Pastor
 ministers:
 - Malcolm Wright
 name: Grace Orthodox Presbyterian Mission
@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Mission (Concord MISSING)
+year_established:
+- 1983
 
 ---

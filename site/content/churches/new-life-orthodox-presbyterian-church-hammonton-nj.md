@@ -13,7 +13,7 @@ minister:
 - end: 1986-01-01
   name: Steve Hohenberger
   start: 1985-03-23
-  type: pastor
+  type: Pastor
 ministers:
 - Steve Hohenberger
 - Steve Hohenberger
@@ -34,5 +34,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Life Orthodox Presbyterian Church (Hammonton NJ)
+year_established:
+- 1985
 
 ---

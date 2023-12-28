@@ -9,7 +9,7 @@ minister:
 - end: 1989-01-01
   name: John W. Monger
   start: 1984-01-01
-  type: supply
+  type: Supply Pastor
 - end: 1994-07-15
   name: John Kershner
   start: 1989-01-01
@@ -17,7 +17,7 @@ minister:
 - end: 2013-12-31
   name: Joel Kershner
   start: 1994-07-15
-  type: pastor
+  type: Pastor
 ministers:
 - John W. Monger
 - John Kershner
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Fellowship (Mansfield PA)
+year_established:
+- 1994
 
 ---

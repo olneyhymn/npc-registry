@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Phillip Hodson
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Phillip Hodson
 name: Christ the King Orthodox Presbyterian Church
@@ -34,5 +34,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ the King Orthodox Presbyterian Church (Longview TX)
+year_established:
+- 2006
 
 ---

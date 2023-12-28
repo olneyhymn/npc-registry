@@ -9,7 +9,7 @@ minister:
 - end: 1991-09-20
   name: William Doerfel
   start: 1985-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - William Doerfel
 name: Orthodox Presbyterian Church
@@ -21,7 +21,7 @@ names:
   name: Twelfth Avenue Orthodox Presbyterian Church
   start: 1983-03-24
 origination_date: *id001
-raw_data: "OKLAHOMA\nNorman\nOrthodox Presbyterian Church  (March 24, 1983\u2013September\
+raw_data: "OK    Norman\nOrthodox Presbyterian Church  (March 24, 1983\u2013September\
   \ 20, 1991)\n(also called Twelfth Avenue Orthodox Presbyterian Church)\nPastor:\
   \ William Doerfel, 1985\u201391"
 received_from: null
@@ -34,5 +34,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Orthodox Presbyterian Church (Norman OK)
+year_established:
+- 1983
 
 ---

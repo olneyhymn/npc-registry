@@ -9,11 +9,11 @@ minister:
 - end: 2010-01-01
   name: Edwin Urban
   start: 1988-03-20
-  type: pastor
+  type: Pastor
 - end: null
   name: Philip T. Proctor
   start: 2011-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Edwin Urban
 - Philip T. Proctor
@@ -26,7 +26,6 @@ origination_date: *id001
 raw_data: "VIRGINIA Sterling\nSterling Orthodox Presbyterian Church  (March 20, 1988\u2013\
   \ )\n46331 McClellan Way\nPastors: Edwin Urban, 1988\u20132010\nPhilip T. Proctor,\
   \ 2011\u2013"
-received_from: MISSING
 states:
 - VA
 status:
@@ -36,5 +35,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Sterling Orthodox Presbyterian Church (Sterling VA)
+year_established:
+- 1988
 
 ---

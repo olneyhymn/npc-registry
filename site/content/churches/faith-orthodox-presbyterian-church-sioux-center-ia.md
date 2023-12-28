@@ -15,7 +15,6 @@ names:
 origination_date: *id001
 raw_data: "IA\nSioux Center\nFaith Orthodox Presbyterian Church  (May 23, 1973\u2013\
   September 26, 1974)"
-received_from: MISSING
 states:
 - IA
 status:
@@ -25,5 +24,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Faith Orthodox Presbyterian Church (Sioux Center IA)
+year_established:
+- 1973
 
 ---

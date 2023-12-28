@@ -9,11 +9,11 @@ minister:
 - end: 2003-01-01
   name: Carl Durham
   start: 1995-01-01
-  type: pastor
+  type: Pastor
 - end: 2010-01-01
   name: Glenn Ferrell
   start: 2005-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Carl Durham
 - Glenn Ferrell
@@ -33,5 +33,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Sovereign Redeemer Presbyterian Church (MISSING ID)
+year_established:
+- 1994
 
 ---

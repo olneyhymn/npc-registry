@@ -9,7 +9,7 @@ minister:
 - end: 1946-01-01
   name: David Freeman
   start: 1936-08-04
-  type: pastor
+  type: Pastor
 ministers:
 - David Freeman
 name: New Covenant Orthodox Presbyterian Church
@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Covenant Orthodox Presbyterian Church (Philadelphia PA)
+year_established:
+- 1936
 
 ---

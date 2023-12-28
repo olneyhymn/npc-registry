@@ -9,11 +9,11 @@ minister:
 - end: 2000-01-01
   name: Robert Walker
   start: 1996-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Terry Dowds
   start: 2000-01-01
-  type: pastor
+  type: Pastor
 - end: 2002-01-01
   name: Michael Shipma
   start: 1999-01-01
@@ -42,5 +42,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Presbyterian Church (Springfield ID)
+year_established:
+- 1996
 
 ---

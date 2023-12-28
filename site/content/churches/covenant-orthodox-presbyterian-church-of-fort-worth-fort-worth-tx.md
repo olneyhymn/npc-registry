@@ -13,19 +13,19 @@ minister:
 - end: 2009-01-01
   name: Todd Bordow
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 - end: 2012-01-01
   name: Edward Ludt
   start: 2010-01-01
-  type: pastor
+  type: Pastor
 - end: 2014-01-01
   name: Scott R. Huber
   start: 2013-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Todd V . Wagenmaker
   start: 2015-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Todd Bordow
 - Todd Bordow
@@ -41,11 +41,11 @@ names:
   name: Covenant Orthodox Presbyterian Church of Fort Worth
   start: 2002-03-22
 origination_date: *id001
-raw_data: "TX\nFort Worth\nCovenant Orthodox Presbyterian Chapel of Fort Worth\
-  \  (September 17, 1999\u2013March 22, 2002)\nCovenant Orthodox Presbyterian Church\
-  \ of Fort Worth  (March 22, 2002\u2013 )\n10750 Westpoint Boulevard\nOrg. Pastor:\
-  \  Todd Bordow, 2000\u20132002\nPastors: Todd Bordow, 2002\u20139\nEdward Ludt,\
-  \ 2010\u201312\nScott R. Huber, 2013\u201314\nTodd V . Wagenmaker, 2015\u2013"
+raw_data: "TX\nFort Worth\nCovenant Orthodox Presbyterian Chapel of Fort Worth  (September\
+  \ 17, 1999\u2013March 22, 2002)\nCovenant Orthodox Presbyterian Church of Fort Worth\
+  \  (March 22, 2002\u2013 )\n10750 Westpoint Boulevard\nOrg. Pastor:  Todd Bordow,\
+  \ 2000\u20132002\nPastors: Todd Bordow, 2002\u20139\nEdward Ludt, 2010\u201312\n\
+  Scott R. Huber, 2013\u201314\nTodd V . Wagenmaker, 2015\u2013"
 received_from: null
 states:
 - TX
@@ -56,5 +56,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church of Fort Worth (Fort Worth TX)
+year_established:
+- 2002
 
 ---

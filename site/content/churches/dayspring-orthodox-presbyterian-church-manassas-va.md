@@ -9,23 +9,23 @@ minister:
 - end: 1973-01-01
   name: Richard Wirth
   start: 1971-01-01
-  type: pastor
+  type: Pastor
 - end: 1975-01-01
   name: Robert Countess
   start: 1974-01-01
-  type: pastor
+  type: Pastor
 - end: 1977-01-01
   name: Richard Nelson
   start: 1977-01-01
-  type: pastor
+  type: Pastor
 - end: 2004-01-01
   name: George Hall
   start: 1982-01-01
-  type: pastor
+  type: Pastor
 - end: 2012-12-01
   name: Bennett Wethered
   start: 2004-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Richard Wirth
 - Robert Countess
@@ -52,5 +52,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Dayspring Orthodox Presbyterian Church (Manassas VA)
+year_established:
+- 1971
 
 ---

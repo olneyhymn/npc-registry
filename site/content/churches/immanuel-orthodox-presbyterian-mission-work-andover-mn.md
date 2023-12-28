@@ -26,5 +26,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Immanuel Orthodox Presbyterian mission work (Andover MN)
+year_established:
+- 1970
 
 ---

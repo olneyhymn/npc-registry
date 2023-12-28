@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Mark Collingridge
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Paul O. Johnson
   start: 2011-01-01
@@ -36,5 +36,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Kennewick WA)
+year_established:
+- 2000
 
 ---

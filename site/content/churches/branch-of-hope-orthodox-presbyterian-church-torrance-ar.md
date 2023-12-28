@@ -9,11 +9,11 @@ minister:
 - end: null
   name: Paul Viggiano
   start: 2003-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Dale T. Hanaoka
   start: 2012-01-01
-  type: teacher
+  type: Teacher
 ministers:
 - Paul Viggiano
 - Dale T. Hanaoka
@@ -37,5 +37,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Branch of Hope Orthodox Presbyterian Church (Torrance AR)
+year_established:
+- 2003
 
 ---

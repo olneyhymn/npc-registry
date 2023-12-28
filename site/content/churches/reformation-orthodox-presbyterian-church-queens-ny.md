@@ -17,7 +17,7 @@ minister:
 - end: null
   name: Jonathan Shishko
   start: 2015-11-14
-  type: pastor
+  type: Pastor
 ministers:
 - Brad Hertzog
 - Jonathan Shishko
@@ -31,11 +31,11 @@ names:
   name: Reformation Orthodox Presbyterian Church
   start: 2015-11-14
 origination_date: *id001
-raw_data: "NY\nQueens\nReformation Orthodox Presbyterian Chapel  (September\
-  \ 13, 2009\u2013November 14, 2015)\nReformation Orthodox Presbyterian Church  (November\
-  \ 14, 2015\u2013 )\nPS 173 Fresh Meadows School, 174\u201310 67th Street, Fresh\
-  \ Meadows\nOrg. Pastors: Brad Hertzog, 2009\u201313\nJonathan Shishko, 2012\u2013\
-  15\nPastor: Jonathan Shishko, 2015\u2013"
+raw_data: "NY\nQueens\nReformation Orthodox Presbyterian Chapel  (September 13, 2009\u2013\
+  November 14, 2015)\nReformation Orthodox Presbyterian Church  (November 14, 2015\u2013\
+  \ )\nPS 173 Fresh Meadows School, 174\u201310 67th Street, Fresh Meadows\nOrg. Pastors:\
+  \ Brad Hertzog, 2009\u201313\nJonathan Shishko, 2012\u201315\nPastor: Jonathan Shishko,\
+  \ 2015\u2013"
 received_from: null
 states:
 - NY
@@ -46,5 +46,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Reformation Orthodox Presbyterian Church (Queens NY)
+year_established:
+- 2015
 
 ---

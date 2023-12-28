@@ -34,5 +34,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Keys Presbyterian Church (Key West FL)
+year_established:
+- 1992
 
 ---

@@ -9,15 +9,15 @@ minister:
 - end: 1999-01-01
   name: Alan Strange
   start: 1990-01-01
-  type: pastor
+  type: Pastor
 - end: 2014-01-01
   name: Claude D. DePrine III
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Carl McDaniel, Jr.
   start: 2014-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Alan Strange
 - Claude D. DePrine III
@@ -42,5 +42,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Orthodox Presbyterian Church (Mantua NJ)
+year_established:
+- 1989
 
 ---

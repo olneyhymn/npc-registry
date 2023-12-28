@@ -9,7 +9,7 @@ minister:
 - end: 2012-01-01
   name: Thomas Sheppard
   start: 2009-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Thomas Sheppard
 name: Cornerstone Orthodox Presbyterian Church
@@ -20,7 +20,6 @@ names:
 origination_date: *id001
 raw_data: "NORTH CAROLINA\nArden\nCornerstone Orthodox Presbyterian Church  (June\
   \ 19, 2009\u2013April 27, 2012)\nPastor: Thomas Sheppard, 2009\u201312"
-received_from: MISSING
 states:
 - NC
 status:
@@ -30,5 +29,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Cornerstone Orthodox Presbyterian Church (Arden NC)
+year_established:
+- 2009
 
 ---

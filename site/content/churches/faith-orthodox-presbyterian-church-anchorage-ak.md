@@ -9,11 +9,11 @@ minister:
 - end: 1998-01-01
   name: David Inks
   start: 1997-01-01
-  type: pastor
+  type: Pastor
 - end: 2003-01-01
   name: D. Leonard Gulstrom
   start: 1999-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - David Inks
 - D. Leonard Gulstrom
@@ -33,5 +33,7 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Faith Orthodox Presbyterian Church (Anchorage AK)
+year_established:
+- 1995
 
 ---

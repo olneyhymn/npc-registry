@@ -21,7 +21,6 @@ origination_date: *id001
 raw_data: "NEW JERSEY\nCorbin City\n\nWestminster Orthodox Presbyterian Chapel  (September\
   \ 23, 1995\u2013April 27, 2004)\n(moved from Ocean City on September 23, 2000)\n\
   Org. Pastor: George W. Bancroft, 2001\u20134"
-received_from: MISSING
 states:
 - NJ
 status:
@@ -31,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Westminster Orthodox Presbyterian Chapel (Corbin City NJ)
+year_established:
+- 1995
 
 ---

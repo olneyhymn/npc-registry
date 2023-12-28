@@ -9,11 +9,11 @@ minister:
 - end: 1943-12-31
   name: Walter Jent
   start: 1941-06-01
-  type: pastor
+  type: Pastor
 - end: 1947-04-29
   name: Carlo Lazzaro
   start: 1945-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Walter Jent
 - Carlo Lazzaro
@@ -35,5 +35,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Bethany Orthodox Presbyterian Church (Passaic NJ)
+year_established:
+- 1941
 
 ---

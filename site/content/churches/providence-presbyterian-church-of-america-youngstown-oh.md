@@ -9,7 +9,7 @@ minister:
 - end: 1938-01-01
   name: Thomas Mitchell
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Thomas Mitchell
 name: Providence Presbyterian Church of America
@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Presbyterian Church of America (Youngstown OH)
+year_established:
+- 1937
 
 ---

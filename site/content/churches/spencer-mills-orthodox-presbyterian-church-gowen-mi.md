@@ -9,19 +9,19 @@ minister:
 - end: 1977-01-01
   name: John Barnett
   start: 1969-01-01
-  type: pastor
+  type: Pastor
 - end: 1992-01-01
   name: Donald Stanton
   start: 1979-01-01
-  type: pastor
+  type: Pastor
 - end: 2008-01-01
   name: Frank Marsh
   start: 1992-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Alan Flowers
   start: 2009-01-01
-  type: pastor
+  type: Pastor
 - end: 1992-01-01
   name: Frank Marsh
   start: 1990-01-01
@@ -37,7 +37,7 @@ minister:
 - end: 2000-01-01
   name: David Stevenson
   start: 1995-01-01
-  type: youth pastor
+  type: youth Pastor
 ministers:
 - John Barnett
 - Donald Stanton
@@ -50,11 +50,11 @@ ministers:
 name: Spencer Mills Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "MI\nGowen\nSpencer Mills Orthodox Presbyterian Church  (November\
-  \ 28, 1967\u2013 )\n12710 17 Mile Road\nPastors: John Barnett, 1969\u201377\nDonald\
-  \ Stanton, 1979\u201392\nFrank Marsh, 1992\u20132008\nAlan Flowers, 2009\u2013\n\
-  Assoc. Pastors: Frank Marsh, 1990\u201392\nAlan Flowers, 2004\u20139\nAsst. Pastor:\
-  \ Hank Belfield, 1999\u20132002\nYouth Pastor: David Stevenson, 1995\u20132000"
+raw_data: "MI\nGowen\nSpencer Mills Orthodox Presbyterian Church  (November 28, 1967\u2013\
+  \ )\n12710 17 Mile Road\nPastors: John Barnett, 1969\u201377\nDonald Stanton, 1979\u2013\
+  92\nFrank Marsh, 1992\u20132008\nAlan Flowers, 2009\u2013\nAssoc. Pastors: Frank\
+  \ Marsh, 1990\u201392\nAlan Flowers, 2004\u20139\nAsst. Pastor: Hank Belfield, 1999\u2013\
+  2002\nYouth Pastor: David Stevenson, 1995\u20132000"
 received_from: null
 states:
 - MI
@@ -65,5 +65,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Spencer Mills Orthodox Presbyterian Church (Gowen MI)
+year_established:
+- 1967
 
 ---

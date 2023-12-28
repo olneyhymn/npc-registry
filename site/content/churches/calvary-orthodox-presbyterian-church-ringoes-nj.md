@@ -9,43 +9,43 @@ minister:
 - end: 1944-01-01
   name: Bruce Wideman
   start: 1937-03-19
-  type: pastor
+  type: Pastor
 - end: 1946-01-01
   name: John Gray
   start: 1944-01-01
-  type: pastor
+  type: Pastor
 - end: 1950-01-01
   name: Meredith Kline
   start: 1948-01-01
-  type: pastor
+  type: Pastor
 - end: 1960-01-01
   name: W. Lee Benson
   start: 1952-01-01
-  type: supply
+  type: Supply Pastor
 - end: 1979-01-01
   name: W. Lee Benson
   start: 1960-01-01
-  type: pastor
+  type: Pastor
 - end: 1984-01-01
   name: George Kostas
   start: 1980-01-01
-  type: pastor
+  type: Pastor
 - end: 1996-01-01
   name: Douglas Watson
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: 2006-01-01
   name: Albert Steever
   start: 1997-01-01
-  type: pastor
+  type: Pastor
 - end: 2014-01-01
   name: James Cassidy
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 - end: 2013-01-01
   name: Jeffrey Waddington
   start: 2008-01-01
-  type: teacher
+  type: Teacher
 ministers:
 - Bruce Wideman
 - John Gray
@@ -79,5 +79,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Calvary Orthodox Presbyterian Church (Ringoes NJ)
+year_established:
+- 1937
 
 ---

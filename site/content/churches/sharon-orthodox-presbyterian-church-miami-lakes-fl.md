@@ -9,27 +9,27 @@ minister:
 - end: 1958-01-01
   name: Robert Lucas
   start: 1957-01-01
-  type: pastor
+  type: Pastor
 - end: 1966-01-01
   name: Glenn Coie
   start: 1958-01-01
-  type: pastor
+  type: Pastor
 - end: 1969-01-01
   name: Luder Whitlock
   start: 1966-01-01
-  type: pastor
+  type: Pastor
 - end: 1973-01-01
   name: Carl Reitsma
   start: 1970-01-01
-  type: pastor
+  type: Pastor
 - end: 1979-01-01
   name: Roger Schmurr
   start: 1973-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Jeffrey Boer
   start: 1979-01-01
-  type: pastor
+  type: Pastor
 - end: 1990-01-01
   name: Jose Vera
   start: 1979-01-01
@@ -63,5 +63,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Sharon Orthodox Presbyterian Church (Miami Lakes FL)
+year_established:
+- 1957
 
 ---

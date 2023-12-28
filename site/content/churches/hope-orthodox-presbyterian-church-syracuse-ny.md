@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Gerald Malkus
   start: 1999-09-10
-  type: pastor
+  type: Pastor
 ministers:
 - Gerald Malkus
 - Gerald Malkus
@@ -26,10 +26,10 @@ names:
   name: Hope Orthodox Presbyterian Church
   start: 1999-09-10
 origination_date: *id001
-raw_data: "NY\nSyracuse\nHope Orthodox Presbyterian mission work (1994\u2013\
-  September 10, 1999)\nHope Orthodox Presbyterian Church (September 10,1999\u2013\
-  \ )\n4962 W. Seneca Turnpike\nOrg. Pastor: Gerald Malkus, 1994\u201399\nPastor:\
-  \ Gerald Malkus, 1999\u2013"
+raw_data: "NY\nSyracuse\nHope Orthodox Presbyterian mission work (1994\u2013September\
+  \ 10, 1999)\nHope Orthodox Presbyterian Church (September 10,1999\u2013 )\n4962\
+  \ W. Seneca Turnpike\nOrg. Pastor: Gerald Malkus, 1994\u201399\nPastor: Gerald Malkus,\
+  \ 1999\u2013"
 received_from: null
 states:
 - NY
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Hope Orthodox Presbyterian Church (Syracuse NY)
+year_established:
+- 1999
 
 ---

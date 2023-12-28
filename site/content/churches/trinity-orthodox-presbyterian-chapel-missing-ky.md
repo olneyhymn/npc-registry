@@ -9,7 +9,7 @@ minister:
 - end: 1952-01-01
   name: J. Lyle Shaw
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - J. Lyle Shaw
 name: Trinity Orthodox Presbyterian Chapel
@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Chapel (MISSING KY)
+year_established:
+- 1936
 
 ---

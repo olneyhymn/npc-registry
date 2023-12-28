@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Frank Marsh
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - James Hoekstra
 - Frank Marsh
@@ -26,9 +26,9 @@ names:
   name: Covenant Presbyterian Church, OPC
   start: 2007-10-21
 origination_date: *id001
-raw_data: "WI\nNew Berlin\n\nCovenant Presbyterian Chapel, OPC  (January 25,\
-  \ 2002\u2013October 21, 2007)\nCovenant Presbyterian Church, OPC  (October 21, 2007\u2013\
-  \ )\nElwood Elementary School, 5900 S. Sunny Slope Road\nOrg. Pastor: James Hoekstra,\
+raw_data: "WI\nNew Berlin\n\nCovenant Presbyterian Chapel, OPC  (January 25, 2002\u2013\
+  October 21, 2007)\nCovenant Presbyterian Church, OPC  (October 21, 2007\u2013 )\n\
+  Elwood Elementary School, 5900 S. Sunny Slope Road\nOrg. Pastor: James Hoekstra,\
   \ 2002\u20137\nPastor: Frank Marsh, 2008\u2013"
 received_from: null
 states:
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Presbyterian Church (New Berlin WI)
+year_established:
+- 2007
 
 ---

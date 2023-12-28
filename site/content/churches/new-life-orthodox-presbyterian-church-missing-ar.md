@@ -9,7 +9,7 @@ minister:
 - end: 1989-01-01
   name: Richard Kaufmann
   start: 1981-01-01
-  type: pastor
+  type: Pastor
 - end: 1985-01-01
   name: Douglass Swagerty
   start: 1984-01-01
@@ -20,10 +20,10 @@ ministers:
 name: New Life Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "AR Escondido\nNew Life Orthodox Presbyterian Church  (February 7,\
-  \ 1981\u2013January 31, 1989)\n(transferred to the Presbyterian Church in America,\
-  \ January 31, 1989)\nPastor: Richard Kaufmann, 1981\u201389\nAssoc. Pastor: Douglass\
-  \ Swagerty, 1984\u201385"
+raw_data: "AR Escondido\nNew Life Orthodox Presbyterian Church  (February 7, 1981\u2013\
+  January 31, 1989)\n(transferred to the Presbyterian Church in America, January 31,\
+  \ 1989)\nPastor: Richard Kaufmann, 1981\u201389\nAssoc. Pastor: Douglass Swagerty,\
+  \ 1984\u201385"
 received_from: null
 states:
 - AR
@@ -34,5 +34,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Life Orthodox Presbyterian Church (MISSING AR)
+year_established:
+- 1981
 
 ---

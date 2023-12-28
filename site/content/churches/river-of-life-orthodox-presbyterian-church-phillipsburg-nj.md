@@ -9,7 +9,7 @@ minister:
 - end: null
   name: William Slack
   start: 1992-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - William Slack
 name: River of Life Orthodox Presbyterian Church
@@ -29,7 +29,6 @@ raw_data: "NEW JERSEY\nPhillipsburg\nNew Life Orthodox Presbyterian mission work
   \ Church, Frenchtown (April 23, 1985\u2013 February 27, 1993)\nRiver of Life Orthodox\
   \ Presbyterian Church  (February 27, 1993\u2013 )\n(moved to Phillipsburg with name\
   \ change in 1993)\n445 S. Main Street\nPastor: William Slack, 1992\u2013"
-received_from: MISSING
 states:
 - NJ
 status:
@@ -39,5 +38,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: River of Life Orthodox Presbyterian Church (Phillipsburg NJ)
+year_established:
+- 1993
 
 ---

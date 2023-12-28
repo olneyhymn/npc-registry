@@ -13,7 +13,7 @@ minister:
 - end: 2012-01-01
   name: Geoffrey Willour
   start: 2000-10-01
-  type: pastor
+  type: Pastor
 ministers:
 - Geoffrey Willour
 - Geoffrey Willour
@@ -31,7 +31,6 @@ raw_data: "NEW JERSEY Toms River\n\nRedeemer Orthodox Presbyterian Chapel  (Sept
   \ 1, 2000\u2013February 24, 2013)\n(merged with Faith Bible Church to form Faith\
   \ Bible OPC, Brick, February 24, 2013)\nEvangelist: Geoffrey Willour, 1997\u2013\
   2000\nPastor: Geoffrey Willour, 2000\u20132012"
-received_from: MISSING
 states:
 - NJ
 status:
@@ -41,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Redeemer Orthodox Presbyterian Church (Toms River NJ)
+year_established:
+- 2000
 
 ---

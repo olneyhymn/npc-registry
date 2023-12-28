@@ -9,7 +9,7 @@ minister:
 - end: 2009-12-31
   name: Richard Venema
   start: 2003-01-01
-  type: supply
+  type: Supply Pastor
 ministers:
 - Richard Venema
 name: Elkhorn Presbyterian Church
@@ -34,5 +34,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Elkhorn Presbyterian Church (Helena MT)
+year_established:
+- 2005
 
 ---

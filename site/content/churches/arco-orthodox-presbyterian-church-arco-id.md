@@ -9,11 +9,11 @@ minister:
 - end: null
   name: Richard A. Miller
   start: 2005-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Richard A. Miller
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Richard A. Miller
 - Richard A. Miller
@@ -36,5 +36,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Arco Orthodox Presbyterian Church (Arco ID)
+year_established:
+- 2003
 
 ---

@@ -9,43 +9,43 @@ minister:
 - end: 1946-01-01
   name: Edward Cooper
   start: 1936-10-12
-  type: pastor
+  type: Pastor
 - end: 1948-01-01
   name: John Richmond
   start: 1947-01-01
-  type: pastor
+  type: Pastor
 - end: 1957-01-01
   name: Raymond Zorn
   start: 1955-01-01
-  type: pastor
+  type: Pastor
 - end: 1963-01-01
   name: Leonard Chanoux
   start: 1957-01-01
-  type: pastor
+  type: Pastor
 - end: 1968-01-01
   name: Andrew Wikholm
   start: 1967-01-01
-  type: pastor
+  type: Pastor
 - end: 1974-01-01
   name: Lendall Smith
   start: 1969-01-01
-  type: pastor
+  type: Pastor
 - end: 1977-01-01
   name: Roy Kerns
   start: 1974-01-01
-  type: pastor
+  type: Pastor
 - end: 1986-01-01
   name: Craig Lins
   start: 1978-01-01
-  type: pastor
+  type: Pastor
 - end: 2007-01-01
   name: David Cummings
   start: 1986-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Richard Ellis
   start: 2009-01-01
-  type: pastor
+  type: Pastor
 - end: 2008-01-01
   name: Claude Taylor
   start: 1998-01-01
@@ -89,5 +89,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Faith Orthodox Presbyterian Church (Elmer NJ)
+year_established:
+- 1936
 
 ---

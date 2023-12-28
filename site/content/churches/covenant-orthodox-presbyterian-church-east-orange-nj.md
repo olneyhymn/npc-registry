@@ -9,23 +9,23 @@ minister:
 - end: 1945-01-01
   name: Richard Gray
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 - end: 1948-01-01
   name: Alexander Davison
   start: 1946-01-01
-  type: pastor
+  type: Pastor
 - end: 1955-01-01
   name: Charles Ellis
   start: 1948-01-01
-  type: pastor
+  type: Pastor
 - end: 1963-01-01
   name: W. Harllee Bordeaux
   start: 1959-01-01
-  type: pastor
+  type: Pastor
 - end: 1967-01-01
   name: Richard Hodgson
   start: 1964-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Richard Gray
 - Alexander Davison
@@ -52,5 +52,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (East Orange NJ)
+year_established:
+- 1936
 
 ---

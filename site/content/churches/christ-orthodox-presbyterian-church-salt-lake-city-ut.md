@@ -13,11 +13,11 @@ minister:
 - end: null
   name: D. Jason Wallace
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Philip B. Strong
   start: 2013-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - D. Jason Wallace
 - D. Jason Wallace
@@ -42,5 +42,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Orthodox Presbyterian Church (Salt Lake City UT)
+year_established:
+- 2000
 
 ---

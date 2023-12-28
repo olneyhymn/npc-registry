@@ -28,5 +28,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ the King Presbyterian mission work (Naples FL)
+year_established:
+- 1913
 
 ---

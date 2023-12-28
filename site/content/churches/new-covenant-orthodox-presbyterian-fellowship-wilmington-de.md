@@ -9,7 +9,7 @@ minister:
 - end: 1988-01-01
   name: LeRoy Greer
   start: 1986-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - LeRoy Greer
 name: New Covenant Orthodox Presbyterian Fellowship
@@ -18,8 +18,8 @@ names:
   name: New Covenant Orthodox Presbyterian Fellowship
   start: 1986-06-01
 origination_date: *id001
-raw_data: "DE Wilmington\nNew Covenant Orthodox Presbyterian Fellowship (June\
-  \ 1, 1986\u2013 September 19, 1988)\nPastor: LeRoy Greer, 1986\u201388"
+raw_data: "DE Wilmington\nNew Covenant Orthodox Presbyterian Fellowship (June 1, 1986\u2013\
+  \ September 19, 1988)\nPastor: LeRoy Greer, 1986\u201388"
 received_from: null
 states:
 - DE
@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Covenant Orthodox Presbyterian Fellowship (Wilmington DE)
+year_established:
+- 1986
 
 ---

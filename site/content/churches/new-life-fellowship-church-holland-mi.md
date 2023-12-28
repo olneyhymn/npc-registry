@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Martin Novak
   start: 2003-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Martin Novak
 - Martin Novak
@@ -26,11 +26,10 @@ names:
   name: New Life Fellowship Church, Orthodox Presbyterian
   start: 2003-10-24
 origination_date: *id001
-raw_data: "MI Holland\nNew Life Fellowship Chapel, Orthodox Presbyterian Church\
-  \  (March 21, 1997\u2013October 24, 2003)\nNew Life Fellowship Church, Orthodox\
-  \ Presbyterian  (October 24, 2003\u2013 )\n12960 James Street\nEvangelist: Martin\
-  \ Novak, 1998\u20132003\nPastor: Martin Novak, 2003\u2013"
-received_from: MISSING
+raw_data: "MI Holland\nNew Life Fellowship Chapel, Orthodox Presbyterian Church  (March\
+  \ 21, 1997\u2013October 24, 2003)\nNew Life Fellowship Church, Orthodox Presbyterian\
+  \  (October 24, 2003\u2013 )\n12960 James Street\nEvangelist: Martin Novak, 1998\u2013\
+  2003\nPastor: Martin Novak, 2003\u2013"
 states:
 - MI
 status:
@@ -40,5 +39,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Life Fellowship Church (Holland MI)
+year_established:
+- 2003
 
 ---

@@ -18,8 +18,8 @@ names:
   name: Trinity Reformed Church
   start: 2013-06-09
 origination_date: *id001
-raw_data: "MD\nGaithersburg\nTrinity Reformed Church (June 9, 2013\u2013 )\n\
-  Gaithersburg Middle School, 2 Teachers Way\nOrg. Pastor: Ronald L. Beabout, 2014\u2013"
+raw_data: "MD\nGaithersburg\nTrinity Reformed Church (June 9, 2013\u2013 )\nGaithersburg\
+  \ Middle School, 2 Teachers Way\nOrg. Pastor: Ronald L. Beabout, 2014\u2013"
 received_from: null
 states:
 - MD
@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Reformed Church (Gaithersburg MD)
+year_established:
+- 2013
 
 ---

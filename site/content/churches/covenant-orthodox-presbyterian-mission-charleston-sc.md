@@ -9,7 +9,7 @@ minister:
 - end: 1992-06-01
   name: Robert Berry
   start: 1992-02-02
-  type: supply
+  type: Supply Pastor
 ministers:
 - Robert Berry
 name: Covenant Orthodox Presbyterian Mission
@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Mission (Charleston SC)
+year_established:
+- 1992
 
 ---

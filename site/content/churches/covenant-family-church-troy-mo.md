@@ -31,5 +31,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Family Church (Troy MO)
+year_established:
+- 2015
 
 ---

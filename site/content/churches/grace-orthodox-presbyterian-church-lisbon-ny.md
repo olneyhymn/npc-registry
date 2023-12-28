@@ -9,27 +9,27 @@ minister:
 - end: 1963-01-01
   name: Laurence Sibley
   start: 1959-01-01
-  type: pastor
+  type: Pastor
 - end: 1973-01-01
   name: Eugene Grille
   start: 1964-01-01
-  type: pastor
+  type: Pastor
 - end: 1981-01-01
   name: Richard Wirth
   start: 1974-01-01
-  type: pastor
+  type: Pastor
 - end: 2004-01-01
   name: Laurence Veinott
   start: 1982-01-01
-  type: pastor
+  type: Pastor
 - end: 2008-01-01
   name: Peter Moelker
   start: 2004-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Patrick Severson
   start: 2009-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Laurence Sibley
 - Eugene Grille
@@ -58,5 +58,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Church (Lisbon NY)
+year_established:
+- 1958
 
 ---

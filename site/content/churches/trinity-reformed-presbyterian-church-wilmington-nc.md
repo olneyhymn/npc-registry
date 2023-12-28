@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Frederick Hofland
   start: 2011-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Frederick Hofland
 - Frederick Hofland
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Reformed Presbyterian Church (Wilmington NC)
+year_established:
+- 2011
 
 ---

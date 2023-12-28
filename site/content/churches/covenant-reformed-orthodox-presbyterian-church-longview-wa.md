@@ -9,11 +9,11 @@ minister:
 - end: 2005-12-31
   name: Dan Kistler
   start: 2000-06-04
-  type: supply
+  type: Supply Pastor
 - end: 2009-04-24
   name: Samuel van Houte
   start: 2007-01-01
-  type: supply
+  type: Supply Pastor
 ministers:
 - Dan Kistler
 - Samuel van Houte
@@ -26,10 +26,10 @@ names:
   name: Covenant Reformed Orthodox Presbyterian Church
   start: 2000-06-04
 origination_date: *id001
-raw_data: "WASHINGTON\nLongview\nCovenant Reformed Orthodox Presbyterian Church  (June\
-  \ 4, 2000\u2013April 24, 2009)\n(formerly Puget Sound OPC, Cathlamet; relocated\
-  \ and changed name in 2007)\nSupplies:  Dan Kistler, 2000\u20132005\nSamuel van\
-  \ Houte, 2007\u20139"
+raw_data: "WA\nLongview\nCovenant Reformed Orthodox Presbyterian Church  (June 4,\
+  \ 2000\u2013April 24, 2009)\n(formerly Puget Sound OPC, Cathlamet; relocated and\
+  \ changed name in 2007)\nSupplies:  Dan Kistler, 2000\u20132005\nSamuel van Houte,\
+  \ 2007\u20139"
 received_from: null
 states:
 - WA
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Reformed Orthodox Presbyterian Church (Longview WA)
+year_established:
+- 2000
 
 ---

@@ -13,7 +13,7 @@ minister:
 - end: null
   name: David Bass
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - David Bass
 - David Bass
@@ -39,5 +39,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Geneva Orthodox Presbyterian Church (Idaho Falls ID)
+year_established:
+- 2002
 
 ---

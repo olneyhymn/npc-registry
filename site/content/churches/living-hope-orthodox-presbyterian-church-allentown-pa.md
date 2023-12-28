@@ -9,11 +9,11 @@ minister:
 - end: 1994-11-20
   name: Tim Young
   start: 1990-09-15
-  type: pastor
+  type: Pastor
 - end: null
   name: Tim Young
   start: 1994-11-20
-  type: pastor
+  type: Pastor
 - end: 2010-01-01
   name: Harold McKenzie
   start: 1995-01-01
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Living Hope Orthodox Presbyterian Church (Allentown PA)
+year_established:
+- 1994
 
 ---

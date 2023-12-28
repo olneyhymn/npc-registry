@@ -9,15 +9,15 @@ minister:
 - end: 2007-01-01
   name: Richard Horner
   start: 1976-10-23
-  type: pastor
+  type: Pastor
 - end: 2012-01-01
   name: Timothy McClymonds
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Rodney T. King
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Richard Horner
 - Timothy McClymonds
@@ -38,5 +38,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Garst Mill Presbyterian Church, OPC (Roanoke VA)
+year_established:
+- 1976
 
 ---

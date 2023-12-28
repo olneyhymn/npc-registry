@@ -9,31 +9,31 @@ minister:
 - end: 1957-01-01
   name: John Hills
   start: 1945-01-01
-  type: pastor
+  type: Pastor
 - end: 1964-01-01
   name: Henry Tavares
   start: 1957-01-01
-  type: pastor
+  type: Pastor
 - end: 1974-01-01
   name: Cornelius Tolsma
   start: 1965-01-01
-  type: pastor
+  type: Pastor
 - end: 1982-01-01
   name: Donald Taws
   start: 1975-01-01
-  type: pastor
+  type: Pastor
 - end: 1984-01-01
   name: John Smith
   start: 1983-01-01
-  type: pastor
+  type: Pastor
 - end: 1993-01-01
   name: Ivan DeMaster
   start: 1985-01-01
-  type: pastor
+  type: Pastor
 - end: 2000-10-28
   name: Jon Smith
   start: 1993-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - John Hills
 - Henry Tavares
@@ -60,5 +60,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Bethel Orthodox Presbyterian Church (Fort Lauderdale FL)
+year_established:
+- 1943
 
 ---

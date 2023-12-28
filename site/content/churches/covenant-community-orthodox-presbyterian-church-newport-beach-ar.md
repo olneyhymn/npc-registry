@@ -9,15 +9,15 @@ minister:
 - end: 1992-01-01
   name: L. Anthony Curto
   start: 1988-03-06
-  type: Co-pastor
+  type: Co-Pastor
 - end: 1992-01-01
   name: Gregory Bahnsen
   start: 1988-03-06
-  type: Co-pastor
+  type: Co-Pastor
 - end: 1994-01-01
   name: L. Anthony Curto
   start: 1992-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - L. Anthony Curto
 - Gregory Bahnsen
@@ -41,5 +41,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Community Orthodox Presbyterian Church (Newport Beach AR)
+year_established:
+- 1988
 
 ---

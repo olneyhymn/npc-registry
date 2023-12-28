@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Orthodox Presbyterian Chapel (Provo UT)
+year_established:
+- 2003
 
 ---

@@ -13,9 +13,8 @@ names:
   name: Church of the Redeemer OPC
   start: 1985-09-21
 origination_date: *id001
-raw_data: "AR\nPlacerville\nChurch of the Redeemer OPC (September 21, 1985\u2013\
-  April 4, 1989)"
-received_from: MISSING
+raw_data: "AR\nPlacerville\nChurch of the Redeemer OPC (September 21, 1985\u2013April\
+  \ 4, 1989)"
 states:
 - AR
 status:
@@ -25,5 +24,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Church of the Redeemer OPC (Placerville AR)
+year_established:
+- 1985
 
 ---

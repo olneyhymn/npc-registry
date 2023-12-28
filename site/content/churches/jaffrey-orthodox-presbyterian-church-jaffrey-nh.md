@@ -17,7 +17,7 @@ minister:
 - end: null
   name: Stephen Migotsky
   start: 2004-10-08
-  type: pastor
+  type: Pastor
 ministers:
 - Gregory Reynolds
 - Stephen Migotsky
@@ -46,5 +46,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Jaffrey Orthodox Presbyterian Church (Jaffrey NH)
+year_established:
+- 2004
 
 ---

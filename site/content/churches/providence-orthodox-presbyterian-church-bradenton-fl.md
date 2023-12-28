@@ -13,11 +13,11 @@ minister:
 - end: 2014-01-01
   name: David Smiley
   start: 2006-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Michael S. Borg
   start: 2014-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - David Smiley
 - David Smiley
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Orthodox Presbyterian Church (Bradenton FL)
+year_established:
+- 2006
 
 ---

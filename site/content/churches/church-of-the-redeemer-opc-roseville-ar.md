@@ -13,7 +13,7 @@ minister:
 - end: 1984-01-01
   name: Daniel Morse
   start: 1982-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Daniel Morse
 - Daniel Morse
@@ -23,9 +23,9 @@ names:
   name: Church of the Redeemer OPC
   start: 1982-05-15
 origination_date: *id001
-raw_data: "AR     Roseville\nChurch of the Redeemer OPC  (May 15, 1982\u2013\
-  September 21, 1985)\n(relocated to Placerville, California in 1985)\nOrg. Pastor:\
-  \  Daniel Morse, 1980\u201382\nPastor: Daniel Morse, 1982\u201384"
+raw_data: "AR     Roseville\nChurch of the Redeemer OPC  (May 15, 1982\u2013September\
+  \ 21, 1985)\n(relocated to Placerville, California in 1985)\nOrg. Pastor:  Daniel\
+  \ Morse, 1980\u201382\nPastor: Daniel Morse, 1982\u201384"
 received_from: null
 states:
 - AR
@@ -36,5 +36,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Church of the Redeemer OPC (Roseville AR)
+year_established:
+- 1982
 
 ---

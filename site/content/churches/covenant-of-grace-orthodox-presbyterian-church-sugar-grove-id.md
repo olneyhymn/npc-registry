@@ -13,7 +13,7 @@ minister:
 - end: null
   name: James Megchelsen
   start: 2001-10-19
-  type: pastor
+  type: Pastor
 - end: null
   name: John Wiers
   start: 2009-01-01
@@ -41,7 +41,6 @@ raw_data: "ID Sugar Grove\n\nCovenant of Grace Orthodox Presbyterian Mission  (F
   \  (October 19, 2001\u2013 )\nMeeting at John Shields Elementary School, 85 S. Main\
   \ Street\nOrg. Pastor: James Megchelsen, 1997\u20132001\nPastor: James Megchelsen,\
   \ 2001\u2013\nAssoc. Pastors: John Wiers, 2009\u2013\nKenneth R. Golden, 2011\u2013"
-received_from: MISSING
 states:
 - ID
 status:
@@ -51,5 +50,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant of Grace Orthodox Presbyterian Church (Sugar Grove ID)
+year_established:
+- 2001
 
 ---

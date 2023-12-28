@@ -9,7 +9,7 @@ minister:
 - end: 1949-03-21
   name: Franklin Dyrness
   start: 1936-09-22
-  type: pastor
+  type: Pastor
 ministers:
 - Franklin Dyrness
 name: Faith Orthodox Presbyterian Church
@@ -28,5 +28,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Faith Orthodox Presbyterian Church (Quarryville PA)
+year_established:
+- 1936
 
 ---

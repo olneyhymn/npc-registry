@@ -18,9 +18,8 @@ names:
   name: Providence Reformed Church
   start: 2013-07-07
 origination_date: *id001
-raw_data: "WI  Eau Claire\n\nProvidence Reformed Church  (July 7, 2013\u2013\
-  \ )\n(formerly independent)\n3109 Mall Drive\nOrg. Pastor: Kim Kuhfuss, 2013"
-received_from: MISSING
+raw_data: "WI  Eau Claire\n\nProvidence Reformed Church  (July 7, 2013\u2013 )\n(formerly\
+  \ independent)\n3109 Mall Drive\nOrg. Pastor: Kim Kuhfuss, 2013"
 states:
 - WI
 status:
@@ -30,5 +29,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Reformed Church (Eau Claire WI)
+year_established:
+- 2013
 
 ---

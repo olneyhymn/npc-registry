@@ -17,19 +17,19 @@ minister:
 - end: 2004-01-01
   name: Joseph Puglia
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Mark Soud
   start: 2015-01-01
-  type: pastor
+  type: Pastor
 - end: 2012-01-01
   name: Jerry Crick
   start: 2008-01-01
-  type: teacher
+  type: Teacher
 - end: 2011-01-01
   name: Carl Russell
   start: 2004-01-01
-  type: supply
+  type: Supply Pastor
 ministers:
 - Carl Russell
 - Joseph Puglia
@@ -62,5 +62,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Redeemer Presbyterian Church (Birmingham AL)
+year_established:
+- 2002
 
 ---

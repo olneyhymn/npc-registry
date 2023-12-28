@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Scott Churnock
   start: 1991-01-01
-  type: pastor
+  type: Pastor
 - end: 2010-01-01
   name: Todd Wagenmaker
   start: 2008-01-01
@@ -42,5 +42,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Presbyterian Church (St. Charles MO)
+year_established:
+- 2008
 
 ---

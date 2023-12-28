@@ -13,11 +13,11 @@ minister:
 - end: 2004-01-01
   name: Dale Collison
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Bruce Buchanan
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Dale Collison
 - Dale Collison
@@ -57,5 +57,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Chain-O-Lakes Orthodox Presbyterian Church (Central Lake MI)
+year_established:
+- 2002
 
 ---

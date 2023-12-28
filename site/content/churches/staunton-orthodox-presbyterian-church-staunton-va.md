@@ -9,11 +9,11 @@ minister:
 - end: 2009-01-01
   name: S. Scott Willet
   start: 1999-10-02
-  type: pastor
+  type: Pastor
 - end: null
   name: Ethan Allison
   start: 2010-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - S. Scott Willet
 - Ethan Allison
@@ -39,5 +39,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Staunton Orthodox Presbyterian Church (Staunton VA)
+year_established:
+- 1999
 
 ---

@@ -9,7 +9,7 @@ minister:
 - end: 2008-01-01
   name: Kenneth Golden
   start: 2005-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Kenneth Golden
 name: New Covenant Fellowship Orthodox Presbyterian Church
@@ -24,7 +24,6 @@ origination_date: *id001
 raw_data: "IA    Independence\nNew Covenant Fellowship Orthodox Presbyterian Chapel\
   \  (1996\u2013May 15, 2006)\nNew Covenant Fellowship Orthodox Presbyterian Church\
   \  (May 15, 2006\u2013February 26, 2012)\nPastor: Kenneth Golden, 2005\u20138"
-received_from: MISSING
 states:
 - IA
 status:
@@ -34,5 +33,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Covenant Fellowship Orthodox Presbyterian Church (Independence IA)
+year_established:
+- 2006
 
 ---

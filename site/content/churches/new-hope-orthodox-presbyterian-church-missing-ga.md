@@ -9,7 +9,7 @@ minister:
 - end: 1998-08-16
   name: T. Jeffrey Taylor
   start: 1995-12-07
-  type: pastor
+  type: Pastor
 ministers:
 - T. Jeffrey Taylor
 name: New Hope Orthodox Presbyterian Church
@@ -31,5 +31,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Hope Orthodox Presbyterian Church (MISSING GA)
+year_established:
+- 1995
 
 ---

@@ -9,7 +9,7 @@ minister:
 - end: 1937-12-31
   name: M. Nelson Buffler
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - M. Nelson Buffler
 name: Christ Orthodox Presbyterian Church
@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Orthodox Presbyterian Church (Camden NJ)
+year_established:
+- 1937
 
 ---

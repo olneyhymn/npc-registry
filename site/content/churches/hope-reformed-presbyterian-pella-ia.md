@@ -25,5 +25,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Hope Reformed Presbyterian (Pella IA)
+year_established:
+- 2007
 
 ---

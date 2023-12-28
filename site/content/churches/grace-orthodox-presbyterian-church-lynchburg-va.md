@@ -13,15 +13,15 @@ minister:
 - end: 1979-01-01
   name: Andrew Wikholm
   start: 1975-01-01
-  type: pastor
+  type: Pastor
 - end: 2005-01-01
   name: Richard Knodel
   start: 1981-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Peter Stazen II
   start: 2006-01-01
-  type: pastor
+  type: Pastor
 - end: 2000-01-01
   name: Thomas Ellis
   start: 1993-01-01
@@ -48,7 +48,6 @@ raw_data: "VIRGINIA\nLynchburg\nGrace Orthodox Presbyterian Church  (December 10
   Pastors: Andrew Wikholm, 1975\u201379\nRichard Knodel, 1981\u20132005\nPeter Stazen\
   \ II, 2006\u2013\nAssoc. Pastor: Thomas Ellis, 1993\u20132000\nEvangelist: John\
   \ Jamison, 2000\u2013"
-received_from: MISSING
 states:
 - VA
 status:
@@ -58,5 +57,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Church (Lynchburg VA)
+year_established:
+- 1977
 
 ---

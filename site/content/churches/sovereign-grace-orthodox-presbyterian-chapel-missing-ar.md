@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Sovereign Grace Orthodox Presbyterian Chapel (MISSING AR)
+year_established:
+- 1977
 
 ---

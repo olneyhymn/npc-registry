@@ -9,27 +9,27 @@ minister:
 - end: 1937-01-01
   name: R. Moody Holmes
   start: 1936-01-01
-  type: pastor
+  type: Pastor
 - end: 1940-01-01
   name: John Galbraith
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 - end: 1947-01-01
   name: Samuel Allen
   start: 1940-01-01
-  type: pastor
+  type: Pastor
 - end: 1956-01-01
   name: Lester Bachman
   start: 1950-01-01
-  type: pastor
+  type: Pastor
 - end: 1960-01-01
   name: William McDowell
   start: 1957-01-01
-  type: pastor
+  type: Pastor
 - end: 1949-01-01
   name: Thayer Westlake
   start: 1948-01-01
-  type: supply
+  type: Supply Pastor
 ministers:
 - R. Moody Holmes
 - John Galbraith
@@ -47,7 +47,6 @@ raw_data: "PA Philadelphia\nGethsemane Orthodox Presbyterian Church  (June 30, 1
   June 8, 1967)\n2510 South 65th Street\nPastors: R. Moody Holmes, 1936\u201337\n\
   John Galbraith, 1937\u201340\nSamuel Allen, 1940\u201347\nLester Bachman, 1950\u2013\
   56\nWilliam McDowell, 1957\u201360\nSupply: Thayer Westlake, 1948\u201349"
-received_from: MISSING
 states:
 - PA
 status:
@@ -57,5 +56,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Gethsemane Orthodox Presbyterian Church (Philadelphia PA)
+year_established:
+- 1936
 
 ---

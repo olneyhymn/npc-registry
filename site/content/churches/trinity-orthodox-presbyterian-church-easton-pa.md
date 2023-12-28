@@ -9,11 +9,11 @@ minister:
 - end: 2011-12-31
   name: Jason J. Stewart
   start: 2005-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Lane G. Tipton
   start: 2015-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Jason J. Stewart
 - Lane G. Tipton
@@ -30,7 +30,6 @@ raw_data: "PA  Easton\nTrinity Orthodox Presbyterian Church  (November 17, 2007\
   \ )\n(formed by union of Christ Community Church Bethlehem, and Covenant OPC, Easton)\n\
   (known as Christ Community Church [OPC], 2007\u20132011)\n531 Milford Street\nPastors:\
   \ Jason J. Stewart, 2005\u201311\nLane G. Tipton, 2015\u2013"
-received_from: MISSING
 states:
 - PA
 status:
@@ -40,5 +39,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Church (Easton PA)
+year_established:
+- 2007
 
 ---

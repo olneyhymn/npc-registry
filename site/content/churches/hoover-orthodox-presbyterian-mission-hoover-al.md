@@ -9,7 +9,7 @@ minister:
 - end: 1993-01-01
   name: Jon Smith
   start: 1991-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Jon Smith
 name: Hoover Orthodox Presbyterian Mission
@@ -28,5 +28,7 @@ status:
   received_from: Presbyterian Church in America
   withdrawal_to: null
 title: Hoover Orthodox Presbyterian Mission (Hoover AL)
+year_established:
+- 1991
 
 ---

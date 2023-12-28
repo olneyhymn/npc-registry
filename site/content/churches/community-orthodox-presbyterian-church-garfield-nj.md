@@ -9,15 +9,15 @@ minister:
 - end: 1964-01-01
   name: Thomas Champness
   start: 1959-01-01
-  type: pastor
+  type: Pastor
 - end: 1968-01-01
   name: Gordon Mouw
   start: 1965-01-01
-  type: pastor
+  type: Pastor
 - end: 1974-01-01
   name: Richard Miller
   start: 1970-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Thomas Champness
 - Gordon Mouw
@@ -41,5 +41,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Community Orthodox Presbyterian Church (Garfield NJ)
+year_established:
+- 1959
 
 ---

@@ -22,5 +22,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Whiting Orthodox Presbyterian Fellowship Chapel (MISSING NJ)
+year_established:
+- 1978
 
 ---

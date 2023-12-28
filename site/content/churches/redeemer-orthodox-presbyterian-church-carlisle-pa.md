@@ -9,11 +9,11 @@ minister:
 - end: 2006-01-01
   name: John Mallin
   start: 2003-01-01
-  type: supply
+  type: Supply Pastor
 - end: null
   name: Jody Morris
   start: 2006-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - John Mallin
 - Jody Morris
@@ -39,5 +39,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Redeemer Orthodox Presbyterian Church (Carlisle PA)
+year_established:
+- 2005
 
 ---

@@ -9,11 +9,11 @@ minister:
 - end: 1978-01-01
   name: William Bomer
   start: 1971-01-01
-  type: pastor
+  type: Pastor
 - end: 1979-01-01
   name: J. Anthony Blair
   start: 1978-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - William Bomer
 - J. Anthony Blair
@@ -36,5 +36,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Orthodox Presbyterian Church (Hutchison KS)
+year_established:
+- 1970
 
 ---

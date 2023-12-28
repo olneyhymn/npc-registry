@@ -13,11 +13,11 @@ minister:
 - end: 2001-01-01
   name: David Barker
   start: 1988-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Timothy Gregson
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - John J. Johnson
 - David Barker
@@ -31,7 +31,6 @@ origination_date: *id001
 raw_data: "NY Amsterdam\nCovenant Orthodox Presbyterian Church (March 18, 1988\u2013\
   \ )\n9 Trinity Place\nEvangelist: John J. Johnson, 1981\u201385\nPastors: David\
   \ Barker, 1988\u20132001\nTimothy Gregson, 2002\u2013"
-received_from: MISSING
 states:
 - NY
 status:
@@ -41,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Amsterdam NY)
+year_established:
+- 1988
 
 ---

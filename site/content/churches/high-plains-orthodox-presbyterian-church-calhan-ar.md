@@ -9,11 +9,11 @@ minister:
 - end: 2011-01-01
   name: Scott Seder
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: David A. Bosch
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Scott Seder
 - David A. Bosch
@@ -35,5 +35,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: High Plains Orthodox Presbyterian Church (Calhan AR)
+year_established:
+- 2008
 
 ---

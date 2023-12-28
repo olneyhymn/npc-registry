@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Pleasant Hill Orthodox Presbyterian Chapel (Pleasant Hill AR)
+year_established:
+- 1985
 
 ---

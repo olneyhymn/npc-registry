@@ -9,27 +9,27 @@ minister:
 - end: 1959-01-01
   name: Robert Thoburn
   start: 1956-01-01
-  type: pastor
+  type: Pastor
 - end: 1966-01-01
   name: A. Boyce Spooner
   start: 1961-01-01
-  type: pastor
+  type: Pastor
 - end: 1970-01-01
   name: John Bettler
   start: 1967-01-01
-  type: pastor
+  type: Pastor
 - end: 1980-01-01
   name: Thomas Tyson
   start: 1971-01-01
-  type: pastor
+  type: Pastor
 - end: 2008-01-01
   name: George Cottenden
   start: 1981-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Larry Westerveld
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 - end: 1999-01-01
   name: William Laverty
   start: 1993-01-01
@@ -41,7 +41,7 @@ minister:
 - end: 2014-01-01
   name: Douglas A. Watson
   start: 2005-01-01
-  type: teacher
+  type: Teacher
 - end: 1992-01-01
   name: LeRoy Oliver
   start: 1980-01-01
@@ -85,5 +85,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Church (Hatboro PA)
+year_established:
+- 1955
 
 ---

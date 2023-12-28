@@ -13,11 +13,11 @@ minister:
 - end: 2015-01-01
   name: Stephen Payson
   start: 2010-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Christopher Pose
   start: 2016-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Stephen Payson
 - Stephen Payson
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Orthodox Presbyterian Church (Mifflinburg PA)
+year_established:
+- 2010
 
 ---

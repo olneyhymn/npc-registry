@@ -9,15 +9,15 @@ minister:
 - end: 1992-01-01
   name: Gregory Reynolds
   start: 1983-02-05
-  type: pastor
+  type: Pastor
 - end: 1996-01-01
   name: Jack Sawyer
   start: 1994-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Daniel Osborne
   start: 1996-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Gregory Reynolds
 - Jack Sawyer
@@ -28,8 +28,8 @@ names:
   name: Westchester Orthodox Presbyterian Church
   start: 1983-02-05
 origination_date: *id001
-raw_data: "NY Mount Vernon\nWestchester Orthodox Presbyterian Church (February\
-  \ 5, 1983- )\n56 West Sidney Avenue\nPastors: Gregory Reynolds, 1983-92\nJack Sawyer,\
+raw_data: "NY Mount Vernon\nWestchester Orthodox Presbyterian Church (February 5,\
+  \ 1983- )\n56 West Sidney Avenue\nPastors: Gregory Reynolds, 1983-92\nJack Sawyer,\
   \ 1994\u201396\nDaniel Osborne, 1996"
 received_from: null
 states:
@@ -41,5 +41,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Westchester Orthodox Presbyterian Church (Mount Vernon NY)
+year_established:
+- 1983
 
 ---

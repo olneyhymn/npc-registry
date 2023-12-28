@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Ronald Pearce
   start: 1981-09-26
-  type: pastor
+  type: Pastor
 - end: 2005-01-01
   name: Frederick Rice
   start: 2001-01-01
@@ -47,5 +47,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Church of the Covenant Orthodox Presbyterian Church (Hackettstown NJ)
+year_established:
+- 1981
 
 ---

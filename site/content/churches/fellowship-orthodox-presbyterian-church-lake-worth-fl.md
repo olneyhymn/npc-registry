@@ -9,15 +9,15 @@ minister:
 - end: 1991-01-01
   name: Paul Hill
   start: 1989-12-08
-  type: pastor
+  type: Pastor
 - end: 1998-01-01
   name: Arthur Steltzer
   start: 1992-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Henry Stanke
   start: 2000-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Paul Hill
 - Arthur Steltzer
@@ -41,5 +41,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Fellowship Orthodox Presbyterian Church (Lake Worth FL)
+year_established:
+- 1989
 
 ---

@@ -13,11 +13,11 @@ minister:
 - end: 2005-01-01
   name: Michael DeLozier
   start: 2002-07-15
-  type: pastor
+  type: Pastor
 - end: null
   name: Kevin Van Der Linden
   start: 2006-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Michael DeLozier
 - Michael DeLozier
@@ -31,11 +31,11 @@ names:
   name: Reformation Fellowship, Orthodox Presbyterian Church
   start: 2002-07-15
 origination_date: *id001
-raw_data: "AR\nRoseville\n\nReformation Fellowship Orthodox Presbyterian Chapel\
-  \  (March 20, 1999\u2013July 15, 2002)\nReformation Fellowship, Orthodox Presbyterian\
-  \ Church  (July 15, 2002\u2013 )\nRoseville Seventh-day Adventist Church, 914 Cirby\
-  \ Way\nEvangelist: Michael DeLozier, 1999\u20132002\nPastors: Michael DeLozier,\
-  \ 2002\u20135\nKevin Van Der Linden, 2006\u2013"
+raw_data: "AR\nRoseville\n\nReformation Fellowship Orthodox Presbyterian Chapel  (March\
+  \ 20, 1999\u2013July 15, 2002)\nReformation Fellowship, Orthodox Presbyterian Church\
+  \  (July 15, 2002\u2013 )\nRoseville Seventh-day Adventist Church, 914 Cirby Way\n\
+  Evangelist: Michael DeLozier, 1999\u20132002\nPastors: Michael DeLozier, 2002\u2013\
+  5\nKevin Van Der Linden, 2006\u2013"
 received_from: null
 states:
 - AR
@@ -46,5 +46,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Reformation Fellowship Orthodox Presbyterian Chapel (Roseville AR)
+year_established:
+- 1999
 
 ---

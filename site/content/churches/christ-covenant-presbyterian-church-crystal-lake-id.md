@@ -28,5 +28,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Covenant Presbyterian Church (Crystal Lake ID)
+year_established:
+- 2011
 
 ---

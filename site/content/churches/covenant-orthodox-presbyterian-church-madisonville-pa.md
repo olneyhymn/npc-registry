@@ -17,11 +17,11 @@ minister:
 - end: 1990-01-01
   name: Tim Young
   start: 1989-05-21
-  type: pastor
+  type: Pastor
 - end: 1992-01-01
   name: H. Jeffrey Lawson
   start: 1991-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - H. Leverne Rosenberger
 - Tim Young
@@ -50,5 +50,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Madisonville PA)
+year_established:
+- 1989
 
 ---

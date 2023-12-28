@@ -9,11 +9,11 @@ minister:
 - end: 1992-01-01
   name: Lyman Smith
   start: 1990-01-01
-  type: supply
+  type: Supply Pastor
 - end: null
   name: Gerald Taylor
   start: 1993-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Lyman Smith
 - Gerald Taylor
@@ -23,10 +23,9 @@ names:
   name: Trinity Reformed Orthodox Presbyterian Church
   start: 1990-04-20
 origination_date: *id001
-raw_data: "MD Lanham\n\nTrinity Reformed Orthodox Presbyterian Church  (April\
-  \ 20, 1990\u2013 )\n9630 Annapolis Road, Lanham, MD\nSupply: Lyman Smith,\
-  \ 1990\u201392\nPastor: Gerald Taylor, 1993\u2013"
-received_from: MISSING
+raw_data: "MD Lanham\n\nTrinity Reformed Orthodox Presbyterian Church  (April 20,\
+  \ 1990\u2013 )\n9630 Annapolis Road, Lanham, MD\nSupply: Lyman Smith, 1990\u2013\
+  92\nPastor: Gerald Taylor, 1993\u2013"
 states:
 - MD
 status:
@@ -36,5 +35,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Reformed Orthodox Presbyterian Church (Lanham MD)
+year_established:
+- 1990
 
 ---

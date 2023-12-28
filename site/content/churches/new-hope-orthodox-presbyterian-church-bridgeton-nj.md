@@ -9,39 +9,39 @@ minister:
 - end: 1945-01-01
   name: Clifford Smith
   start: 1936-09-08
-  type: pastor
+  type: Pastor
 - end: 1949-01-01
   name: Richard Gray
   start: 1945-01-01
-  type: pastor
+  type: Pastor
 - end: 1962-01-01
   name: Ralph Clough
   start: 1949-01-01
-  type: pastor
+  type: Pastor
 - end: 1969-01-01
   name: Arthur Olson
   start: 1963-01-01
-  type: pastor
+  type: Pastor
 - end: 1976-01-01
   name: Robert Marshall
   start: 1970-01-01
-  type: pastor
+  type: Pastor
 - end: 1985-01-01
   name: Robert Gramp
   start: 1977-01-01
-  type: pastor
+  type: Pastor
 - end: 1998-01-01
   name: Glenn Evans
   start: 1987-01-01
-  type: pastor
+  type: Pastor
 - end: 2005-01-01
   name: Neil Lodge
   start: 1998-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Claude Taylor
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Clifford Smith
 - Richard Gray
@@ -77,5 +77,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Hope Orthodox Presbyterian Church (Bridgeton NJ)
+year_established:
+- 1936
 
 ---

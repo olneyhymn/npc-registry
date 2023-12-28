@@ -13,11 +13,11 @@ minister:
 - end: 2000-01-01
   name: Martin Ban
   start: 1994-10-07
-  type: pastor
+  type: Pastor
 - end: null
   name: Michael Dengerink
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Martin Ban
 - Martin Ban
@@ -28,9 +28,9 @@ names:
   name: Delta Oaks Orthodox Presbyterian Church
   start: 1994-10-07
 origination_date: *id001
-raw_data: "AR Pittsburg\nDelta Oaks Orthodox Presbyterian Church  (October 7,\
-  \ 1994\u2013 )\n1251 California Avenue #700\nEvangelist: Martin Ban, 1989\u2013\
-  94\nPastors: Martin Ban, 1994\u20132000\nMichael Dengerink, 2002"
+raw_data: "AR Pittsburg\nDelta Oaks Orthodox Presbyterian Church  (October 7, 1994\u2013\
+  \ )\n1251 California Avenue #700\nEvangelist: Martin Ban, 1989\u201394\nPastors:\
+  \ Martin Ban, 1994\u20132000\nMichael Dengerink, 2002"
 received_from: null
 states:
 - AR
@@ -41,5 +41,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Delta Oaks Orthodox Presbyterian Church (Pittsburg AR)
+year_established:
+- 1994
 
 ---

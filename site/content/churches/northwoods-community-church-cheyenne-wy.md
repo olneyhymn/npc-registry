@@ -13,11 +13,11 @@ minister:
 - end: 1981-01-01
   name: Roswell Kamrath
   start: 1979-06-10
-  type: pastor
+  type: Pastor
 - end: 1992-01-01
   name: Craig Rowe
   start: 1982-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Huibert Vandenbroek
 - Roswell Kamrath
@@ -46,5 +46,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Northwoods Community Church (Cheyenne WY)
+year_established:
+- 1979
 
 ---

@@ -9,19 +9,19 @@ minister:
 - end: 1988-01-01
   name: Louis Wislocki
   start: 1985-05-05
-  type: pastor
+  type: Pastor
 - end: 2006-01-01
   name: Peter Stazen II
   start: 1988-01-01
-  type: pastor
+  type: Pastor
 - end: 2010-01-01
   name: Rodney Thole
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 - end: 2015-01-01
   name: Jason Roddy
   start: 2010-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Louis Wislocki
 - Peter Stazen II
@@ -46,5 +46,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Pilgrim Orthodox Presbyterian Church (Metamora MI)
+year_established:
+- 1985
 
 ---

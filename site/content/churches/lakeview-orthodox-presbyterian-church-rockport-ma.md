@@ -9,19 +9,19 @@ minister:
 - end: 1979-01-01
   name: Roger Ramsey
   start: 1977-01-01
-  type: pastor
+  type: Pastor
 - end: 1983-01-01
   name: Charles Ellis
   start: 1979-01-01
-  type: pastor
+  type: Pastor
 - end: 1998-01-01
   name: Randolph Patterson
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Stephen Tracey
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Roger Ramsey
 - Charles Ellis
@@ -46,5 +46,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Lakeview Orthodox Presbyterian Church (Rockport MA)
+year_established:
+- 1976
 
 ---

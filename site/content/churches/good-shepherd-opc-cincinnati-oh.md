@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Christopher A. Malamisuro
   start: 2013-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Christopher A. Malamisuro
 name: Good Shepherd OPC
@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Good Shepherd OPC (Cincinnati OH)
+year_established:
+- 2013
 
 ---

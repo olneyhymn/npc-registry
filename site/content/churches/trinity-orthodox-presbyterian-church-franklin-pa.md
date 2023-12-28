@@ -9,23 +9,23 @@ minister:
 - end: 1996-01-01
   name: Everett DeVelde, Jr.
   start: 1993-05-21
-  type: pastor
+  type: Pastor
 - end: 2000-01-01
   name: Jeff Lawson
   start: 1997-01-01
-  type: pastor
+  type: Pastor
 - end: 2003-01-01
   name: Everett DeVelde, Jr.
   start: 2000-01-01
-  type: pastor
+  type: Pastor
 - end: 2004-01-01
   name: Karl Hubenthall
   start: 2003-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: David G. Graves
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Everett DeVelde, Jr.
 - Jeff Lawson
@@ -42,7 +42,6 @@ raw_data: "PA Franklin\n\nTrinity Orthodox Presbyterian Church  (May 21, 1993\u2
   \ )\n545 Elk Street\nPastors: Everett DeVelde, Jr., 1993\u201396\nJeff Lawson, 1997\u2013\
   2000\nEverett DeVelde, Jr., 2000\u20132003\nKarl Hubenthall, 2003\u20134\nDavid\
   \ G. Graves, 2012\u2013"
-received_from: MISSING
 states:
 - PA
 status:
@@ -52,5 +51,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Church (Franklin PA)
+year_established:
+- 1993
 
 ---

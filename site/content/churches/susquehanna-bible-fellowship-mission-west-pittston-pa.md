@@ -9,7 +9,7 @@ minister:
 - end: 2007-01-01
   name: Edward Guyer
   start: 2004-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Edward Guyer
 name: Susquehanna Bible Fellowship Mission
@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Susquehanna Bible Fellowship Mission (West Pittston PA)
+year_established:
+- 2004
 
 ---

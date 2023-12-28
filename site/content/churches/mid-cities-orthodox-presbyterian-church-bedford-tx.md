@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Joseph Troutman
   start: 2009-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Joseph Troutman
 name: Mid Cities Orthodox Presbyterian Church
@@ -32,5 +32,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Mid Cities Orthodox Presbyterian Church (Bedford TX)
+year_established:
+- 2006
 
 ---

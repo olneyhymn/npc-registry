@@ -9,7 +9,7 @@ minister:
 - end: 1992-01-01
   name: James Garretson
   start: 1988-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - James Garretson
 name: Trinity Orthodox Presbyterian Church
@@ -20,7 +20,6 @@ names:
 origination_date: *id001
 raw_data: "ID\nChicago\nTrinity Orthodox Presbyterian Church  (February 20, 1987\u2013\
   March 15, 1996)\nPastor: James Garretson, 1988\u201392"
-received_from: MISSING
 states:
 - ID
 status:
@@ -30,5 +29,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Church (Chicago ID)
+year_established:
+- 1987
 
 ---

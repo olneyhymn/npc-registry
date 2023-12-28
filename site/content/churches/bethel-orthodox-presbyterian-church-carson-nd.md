@@ -9,51 +9,51 @@ minister:
 - end: 1940-01-01
   name: Samuel Allen
   start: 1936-08-02
-  type: pastor
+  type: Pastor
 - end: 1944-01-01
   name: John Gray
   start: 1940-01-01
-  type: pastor
+  type: Pastor
 - end: 1952-01-01
   name: Walter Magee
   start: 1945-01-01
-  type: pastor
+  type: Pastor
 - end: 1957-01-01
   name: Henry Tavares
   start: 1952-01-01
-  type: pastor
+  type: Pastor
 - end: 1964-01-01
   name: V. Robert Nilson
   start: 1957-01-01
-  type: pastor
+  type: Pastor
 - end: 1979-01-01
   name: Jack Peterson
   start: 1967-01-01
-  type: pastor
+  type: Pastor
 - end: 1983-01-01
   name: David Kiester
   start: 1980-01-01
-  type: pastor
+  type: Pastor
 - end: 1992-01-01
   name: G. I. Williamson
   start: 1983-01-01
-  type: pastor
+  type: Pastor
 - end: 1995-01-01
   name: Sam Allison
   start: 1991-01-01
-  type: pastor
+  type: Pastor
 - end: 1996-01-01
   name: Paul Ferrie
   start: 1995-01-01
-  type: pastor
+  type: Pastor
 - end: 2011-01-01
   name: W. Vernon Picknally, Jr.
   start: 2000-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Bruce L. Prentice
   start: 2013-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Samuel Allen
 - John Gray
@@ -89,5 +89,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Bethel Orthodox Presbyterian Church (Carson ND)
+year_established:
+- 1936
 
 ---

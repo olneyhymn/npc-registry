@@ -9,39 +9,39 @@ minister:
 - end: 1966-01-01
   name: Arnold Kress
   start: 1960-01-01
-  type: pastor
+  type: Pastor
 - end: 1969-01-01
   name: A Boyce Spooner
   start: 1966-01-01
-  type: pastor
+  type: Pastor
 - end: 1976-01-01
   name: Lawrence Semel
   start: 1972-01-01
-  type: pastor
+  type: Pastor
 - end: 1980-01-01
   name: Robert Atwell
   start: 1977-01-01
-  type: pastor
+  type: Pastor
 - end: 1985-01-01
   name: Craig DeBenedictis
   start: 1980-01-01
-  type: pastor
+  type: Pastor
 - end: 1988-01-01
   name: David Kiester
   start: 1986-01-01
-  type: pastor
+  type: Pastor
 - end: 1991-01-01
   name: Richard Sowder
   start: 1990-01-01
-  type: supply
+  type: Supply Pastor
 - end: 1995-01-01
   name: Douglas Smith
   start: 1993-01-01
-  type: pastor
+  type: Pastor
 - end: 2014-01-01
   name: Steven Miller
   start: 1998-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: D Patrick Ramsey
   start: 2014-01-01
@@ -79,5 +79,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Nashua Orthodox Presbyterian Church (Pulaski PA)
+year_established:
+- 1958
 
 ---

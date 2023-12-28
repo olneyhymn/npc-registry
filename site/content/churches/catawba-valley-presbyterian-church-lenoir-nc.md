@@ -13,15 +13,15 @@ minister:
 - end: 1997-01-01
   name: Robert Y . Eckardt
   start: 1996-01-01
-  type: pastor
+  type: Pastor
 - end: 1998-01-01
   name: Charles Telfer
   start: 1997-01-01
-  type: pastor
+  type: Pastor
 - end: 2005-01-01
   name: Mark Larson
   start: 2000-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Robert Y . Eckardt
 - Robert Y . Eckardt
@@ -47,5 +47,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Catawba Valley Presbyterian Church (Lenoir NC)
+year_established:
+- 1996
 
 ---

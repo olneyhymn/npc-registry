@@ -15,8 +15,8 @@ ministers:
 name: Christ Covenant Reformed Chapel
 names: null
 origination_date: *id001
-raw_data: "MD Jessup\n\nChrist Covenant Reformed Chapel  (May 1, 2004\u2013\
-  April 2008)\n(met in a prison)\nOrg. Pastor: Richard Ellis, 2004\u20138"
+raw_data: "MD Jessup\n\nChrist Covenant Reformed Chapel  (May 1, 2004\u2013April 2008)\n\
+  (met in a prison)\nOrg. Pastor: Richard Ellis, 2004\u20138"
 received_from: null
 states:
 - MD
@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Covenant Reformed Chapel (Jessup MD)
+year_established:
+- 2004
 
 ---

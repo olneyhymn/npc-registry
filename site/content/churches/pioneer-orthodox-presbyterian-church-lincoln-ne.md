@@ -9,7 +9,7 @@ minister:
 - end: 1969-02-13
   name: Russell Piper
   start: 1963-05-05
-  type: pastor
+  type: Pastor
 ministers:
 - Russell Piper
 name: Pioneer Orthodox Presbyterian Church
@@ -28,5 +28,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Pioneer Orthodox Presbyterian Church (Lincoln NE)
+year_established:
+- 1963
 
 ---

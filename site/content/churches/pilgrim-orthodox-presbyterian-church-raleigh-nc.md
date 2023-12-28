@@ -9,11 +9,11 @@ minister:
 - end: 1995-01-01
   name: Cromwell Roskamp
   start: 1972-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Douglas Withington
   start: 1996-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Cromwell Roskamp
 - Douglas Withington
@@ -36,5 +36,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Pilgrim Orthodox Presbyterian Church (Raleigh NC)
+year_established:
+- 1972
 
 ---

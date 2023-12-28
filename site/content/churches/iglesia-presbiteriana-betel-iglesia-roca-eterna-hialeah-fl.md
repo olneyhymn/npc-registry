@@ -22,5 +22,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Iglesia Presbiteriana Betel/Iglesia Roca Eterna (Hialeah FL)
+year_established:
+- 1994
 
 ---

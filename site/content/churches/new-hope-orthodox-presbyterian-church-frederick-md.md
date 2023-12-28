@@ -9,11 +9,11 @@ minister:
 - end: 2008-01-01
   name: Richard Ellis
   start: 1988-05-15
-  type: pastor
+  type: Pastor
 - end: null
   name: Francis E. Van Delden
   start: 2011-01-01
-  type: pastor
+  type: Pastor
 - end: 1999-01-01
   name: Laurence Vail
   start: 1996-01-01
@@ -25,7 +25,7 @@ minister:
 - end: null
   name: Steven Hake
   start: 2006-01-01
-  type: teacher
+  type: Teacher
 ministers:
 - Richard Ellis
 - Francis E. Van Delden
@@ -52,5 +52,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Hope Orthodox Presbyterian Church (Frederick MD)
+year_established:
+- 1988
 
 ---

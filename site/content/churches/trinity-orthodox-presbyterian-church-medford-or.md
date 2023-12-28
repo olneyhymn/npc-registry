@@ -9,19 +9,19 @@ minister:
 - end: 1985-01-01
   name: Calvin Malcor
   start: 1978-04-29
-  type: pastor
+  type: Pastor
 - end: 1990-01-01
   name: Ted Gray
   start: 1986-01-01
-  type: pastor
+  type: Pastor
 - end: 2007-01-01
   name: Jay Milojevich
   start: 1993-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Brian Nicholson
   start: 2009-01-01
-  type: pastor
+  type: Pastor
 - end: 1983-01-01
   name: Jay Milojevich
   start: 1979-01-01
@@ -52,5 +52,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Church (Medford OR)
+year_established:
+- 1978
 
 ---

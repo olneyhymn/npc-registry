@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Meindert Ploegman
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Meindert Ploegman
 - Meindert Ploegman
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Orthodox Presbyterian Church in Bohemia (Bohemia NY)
+year_established:
+- 2001
 
 ---

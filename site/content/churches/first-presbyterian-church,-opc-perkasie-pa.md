@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Richard Scott MacLaren
   start: 2011-12-02
-  type: pastor
+  type: Pastor
 ministers:
 - Richard Scott MacLaren
 - Richard Scott MacLaren
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: First Presbyterian Church, OPC (Perkasie PA)
+year_established:
+- 2011
 
 ---

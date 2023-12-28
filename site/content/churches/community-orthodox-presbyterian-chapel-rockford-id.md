@@ -9,7 +9,7 @@ minister:
 - end: 1975-01-01
   name: Eugene Grille
   start: 1974-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Eugene Grille
 name: Community Orthodox Presbyterian Chapel
@@ -20,7 +20,6 @@ names:
 origination_date: *id001
 raw_data: "ID\nRockford\nCommunity Orthodox Presbyterian Chapel  (1974\u20131975)\n\
   Pastor: Eugene Grille, 1974\u201375"
-received_from: MISSING
 states:
 - ID
 status:
@@ -30,5 +29,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Community Orthodox Presbyterian Chapel (Rockford ID)
+year_established:
+- 1974
 
 ---

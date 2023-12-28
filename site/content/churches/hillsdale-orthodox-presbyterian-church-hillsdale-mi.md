@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Everett Henes
   start: 2015-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Everett Henes
 - Everett Henes
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Hillsdale Orthodox Presbyterian Church (Hillsdale MI)
+year_established:
+- 2015
 
 ---

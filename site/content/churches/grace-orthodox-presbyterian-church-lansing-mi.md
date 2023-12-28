@@ -17,7 +17,7 @@ minister:
 - end: null
   name: Stephen Pribble
   start: 1995-01-01
-  type: pastor
+  type: Pastor
 - end: 2002-01-01
   name: Brian De Jong
   start: 2000-01-01
@@ -47,5 +47,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Church (Lansing MI)
+year_established:
+- 1995
 
 ---

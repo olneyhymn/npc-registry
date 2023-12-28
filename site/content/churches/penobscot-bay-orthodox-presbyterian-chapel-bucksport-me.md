@@ -15,9 +15,8 @@ ministers:
 name: Penobscot Bay Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "ME\nBucksport\nPenobscot Bay Orthodox Presbyterian Chapel (2003\u2013\
-  \ )\nVerona Grange Hall, 54 Main Street\nOrg. Pastor: Russell Hamilton, 2005\u2013\
-  8"
+raw_data: "ME\nBucksport\nPenobscot Bay Orthodox Presbyterian Chapel (2003\u2013 )\n\
+  Verona Grange Hall, 54 Main Street\nOrg. Pastor: Russell Hamilton, 2005\u20138"
 received_from: null
 states:
 - ME
@@ -28,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Penobscot Bay Orthodox Presbyterian Chapel (Bucksport ME)
+year_established:
+- 2003
 
 ---

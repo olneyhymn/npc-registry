@@ -9,7 +9,7 @@ minister:
 - end: 2015-01-01
   name: David Cornette
   start: 2009-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - David Cornette
 name: Grace Orthodox Presbyterian Church
@@ -31,5 +31,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Church (Pennsville NJ)
+year_established:
+- 2008
 
 ---

@@ -9,35 +9,35 @@ minister:
 - end: 1956-01-01
   name: W. Benson Male
   start: 1944-01-01
-  type: pastor
+  type: Pastor
 - end: 1967-01-01
   name: Elmer Dortzbach
   start: 1956-01-01
-  type: pastor
+  type: Pastor
 - end: 1973-01-01
   name: Larry Conard
   start: 1968-01-01
-  type: pastor
+  type: Pastor
 - end: 1979-01-01
   name: James Bosgraf
   start: 1973-01-01
-  type: pastor
+  type: Pastor
 - end: 1981-01-01
   name: Rodney Alexander
   start: 1980-01-01
-  type: pastor
+  type: Pastor
 - end: 1987-01-01
   name: Leonard Coppes
   start: 1982-01-01
-  type: pastor
+  type: Pastor
 - end: 1990-12-16
   name: Jack Unangst
   start: 1988-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Matthew Kingsbury
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 - end: 1996-01-01
   name: Jonathan Male
   start: 1991-01-01
@@ -94,5 +94,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Park Hill Presbyterian Church, OPC (Denver AR)
+year_established:
+- 2001
 
 ---

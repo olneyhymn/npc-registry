@@ -9,19 +9,19 @@ minister:
 - end: 1959-01-01
   name: John DeWaard
   start: 1940-01-01
-  type: pastor
+  type: Pastor
 - end: 1975-01-01
   name: George Willis
   start: 1959-01-01
-  type: pastor
+  type: Pastor
 - end: 2000-01-01
   name: Stephen Phillips
   start: 1976-01-01
-  type: pastor
+  type: Pastor
 - end: 2014-01-01
   name: Matthew Judd
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - John DeWaard
 - George Willis
@@ -46,5 +46,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Memorial Orthodox Presbyterian Church (Rochester NY)
+year_established:
+- 1939
 
 ---

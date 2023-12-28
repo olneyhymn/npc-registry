@@ -13,11 +13,11 @@ minister:
 - end: 2006-01-01
   name: Robert Broline
   start: 2004-11-11
-  type: pastor
+  type: Pastor
 - end: null
   name: Mark Garcia
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Robert Broline
 - Robert Broline
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Immanuel Orthodox Presbyterian Church (Coraopolis PA)
+year_established:
+- 2004
 
 ---

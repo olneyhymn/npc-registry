@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Daniel Fincham
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Daniel Fincham
 - Daniel Fincham
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (New Bern NC)
+year_established:
+- 2002
 
 ---

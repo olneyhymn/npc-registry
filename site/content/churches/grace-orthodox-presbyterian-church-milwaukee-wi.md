@@ -9,15 +9,15 @@ minister:
 - end: 1938-01-01
   name: William Swets
   start: 1938-01-01
-  type: pastor
+  type: Pastor
 - end: 1942-01-01
   name: Leland Jorgensen
   start: 1939-01-01
-  type: pastor
+  type: Pastor
 - end: 1947-01-01
   name: Richard Gaffin, Sr.
   start: 1942-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - William Swets
 - Leland Jorgensen
@@ -31,7 +31,6 @@ origination_date: *id001
 raw_data: "WI Milwaukee\n\nGrace Orthodox Presbyterian Church  (April 29, 1938\u2013\
   April 29, 1949)\nPastors:  William Swets, 1938\nLeland Jorgensen, 1939\u201342\n\
   Richard Gaffin, Sr., 1942\u201347"
-received_from: MISSING
 states:
 - WI
 status:
@@ -41,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Church (Milwaukee WI)
+year_established:
+- 1938
 
 ---

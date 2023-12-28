@@ -13,11 +13,11 @@ minister:
 - end: null
   name: Peter Van Doodewaard
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: L. Anthony Curto
   start: 2007-01-01
-  type: teacher
+  type: Teacher
 - end: null
   name: Zecharias Abraham Weldeyesus
   start: 2015-01-01
@@ -51,5 +51,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Community Orthodox Presbyterian Church (Taylors SC)
+year_established:
+- 2007
 
 ---

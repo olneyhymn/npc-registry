@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Shenango Valley Orthodox Presbyterian Mission (Hermitage PA)
+year_established:
+- 1989
 
 ---

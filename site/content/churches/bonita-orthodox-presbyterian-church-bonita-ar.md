@@ -9,27 +9,27 @@ minister:
 - end: 1978-01-01
   name: John Garrisi
   start: 1973-01-01
-  type: pastor
+  type: Pastor
 - end: 1980-01-01
   name: Donald Duff
   start: 1978-01-01
-  type: pastor
+  type: Pastor
 - end: 1984-01-01
   name: John Toews
   start: 1982-01-01
-  type: pastor
+  type: Pastor
 - end: 1990-01-01
   name: John Garrisi
   start: 1985-01-01
-  type: pastor
+  type: Pastor
 - end: 2001-01-01
   name: Michael Dengerink
   start: 1992-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Stephen Parker
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - John Garrisi
 - Donald Duff
@@ -57,5 +57,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Bonita Orthodox Presbyterian Church (Bonita AR)
+year_established:
+- 1973
 
 ---

@@ -9,7 +9,7 @@ minister:
 - end: 1997-12-31
   name: Joseph P. Trombetta
   start: 1997-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Joseph P. Trombetta
 name: Trinity Orthodox Presbyterian Church
@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Church (Audubon NJ)
+year_established:
+- 1997
 
 ---

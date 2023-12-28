@@ -9,7 +9,7 @@ minister:
 - end: 2009-04-28
   name: Laurence Veinott
   start: 2004-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Laurence Veinott
 name: New Life Orthodox Presbyterian Church
@@ -31,5 +31,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Life Orthodox Presbyterian Church (Canton MISSING)
+year_established:
+- 2004
 
 ---

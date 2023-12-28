@@ -34,5 +34,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Chambersburg PA)
+year_established:
+- 2015
 
 ---

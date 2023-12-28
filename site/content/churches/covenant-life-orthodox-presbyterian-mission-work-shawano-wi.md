@@ -26,5 +26,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Life Orthodox Presbyterian mission work (Shawano WI)
+year_established:
+- 2011
 
 ---

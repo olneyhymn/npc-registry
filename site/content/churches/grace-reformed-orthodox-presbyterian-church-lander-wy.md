@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Philip B. Strong
   start: 2013-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Philip B. Strong
 - Philip B. Strong
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Reformed Orthodox Presbyterian Church (Lander WY)
+year_established:
+- 2013
 
 ---

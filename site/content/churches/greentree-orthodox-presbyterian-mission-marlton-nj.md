@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Greentree Orthodox Presbyterian Mission (Marlton NJ)
+year_established:
+- 1990
 
 ---

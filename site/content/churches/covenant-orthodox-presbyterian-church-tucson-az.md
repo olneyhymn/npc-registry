@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Christopher J. Chelpka
   start: 2013-12-15
-  type: pastor
+  type: Pastor
 ministers:
 - Christopher J. Chelpka
 - Christopher J. Chelpka
@@ -30,7 +30,6 @@ raw_data: "AZ    Tucson\n\nCovenant Orthodox Presbyterian mission work (2011\u20
   December 15, 2013)\nCovenant Orthodox Presbyterian Church  (December 15, 2013\u2013\
   \ )\nDesert Valley Adventist Church, 1200 N. Santa Rosa Avenue\nOrg. Pastor: Christopher\
   \ J. Chelpka, 2011\u201313\nPastor: Christopher J. Chelpka, 2013\u2013"
-received_from: MISSING
 states:
 - AZ
 status:
@@ -40,5 +39,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Tucson AZ)
+year_established:
+- 2013
 
 ---

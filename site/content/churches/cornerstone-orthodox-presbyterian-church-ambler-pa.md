@@ -13,19 +13,19 @@ minister:
 - end: 2000-01-01
   name: Edward Gross
   start: 1995-01-01
-  type: pastor
+  type: Pastor
 - end: 2009-01-01
   name: John Currie
   start: 2005-01-01
-  type: pastor
+  type: Pastor
 - end: 2011-01-01
   name: Charles Abbate
   start: 2010-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Carl Trueman
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 - end: 2003-01-01
   name: Michael Obel
   start: 1997-01-01
@@ -41,15 +41,15 @@ minister:
 - end: 2012-01-01
   name: Carl Trueman
   start: 2010-01-01
-  type: teacher
+  type: Teacher
 - end: 2015-01-01
   name: Cecil R. "Cris" Simpson
   start: 2013-01-01
-  type: teacher
+  type: Teacher
 - end: 2005-01-01
   name: John Currie
   start: 2001-01-01
-  type: supply
+  type: Supply Pastor
 ministers:
 - Bernard J. Stonehouse
 - Edward Gross
@@ -90,5 +90,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Cornerstone Orthodox Presbyterian Church (Ambler PA)
+year_established:
+- 1995
 
 ---

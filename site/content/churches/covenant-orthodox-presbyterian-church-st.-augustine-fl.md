@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Eric Watkins
   start: 2009-11-08
-  type: pastor
+  type: Pastor
 ministers:
 - Eric Watkins
 - Eric Watkins
@@ -34,5 +34,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (St. Augustine FL)
+year_established:
+- 2009
 
 ---

@@ -9,39 +9,39 @@ minister:
 - end: 1939-01-01
   name: George Marston
   start: 1936-07-26
-  type: pastor
+  type: Pastor
 - end: 1941-01-01
   name: E. Lynne Wade
   start: 1940-01-01
-  type: pastor
+  type: Pastor
 - end: 1948-01-01
   name: John Galbraith
   start: 1942-01-01
-  type: pastor
+  type: Pastor
 - end: 1956-01-01
   name: Raymond Commeret
   start: 1949-01-01
-  type: pastor
+  type: Pastor
 - end: 1969-01-01
   name: Lester Bachman
   start: 1957-01-01
-  type: pastor
+  type: Pastor
 - end: 1971-01-01
   name: Arthur Seltzer
   start: 1968-01-01
-  type: pastor
+  type: Pastor
 - end: 1982-01-01
   name: LeRoy Greer
   start: 1971-01-01
-  type: pastor
+  type: Pastor
 - end: 1989-01-01
   name: Samuel Bacon
   start: 1982-01-01
-  type: pastor
+  type: Pastor
 - end: 1992-01-01
   name: Luther Kenneth Hash
   start: 1990-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - George Marston
 - E. Lynne Wade
@@ -74,5 +74,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Kirkwood Orthodox Presbyterian Church (Kirkwood PA)
+year_established:
+- 1936
 
 ---

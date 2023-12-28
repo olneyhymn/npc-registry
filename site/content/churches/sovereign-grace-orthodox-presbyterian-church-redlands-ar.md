@@ -13,7 +13,7 @@ minister:
 - end: 2015-01-01
   name: Robert Herrmann
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Robert Herrmann
 - Robert Herrmann
@@ -29,12 +29,12 @@ names:
   name: Sovereign Grace Orthodox Presbyterian Church
   start: 2007-09-16
 origination_date: *id001
-raw_data: "AR    Redlands\nSovereign Grace Orthodox Presbyterian Chapel  (June\
-  \ 30, 1995\u2013September 16, 2007)\n(called Grace Orthodox Presbyterian Chapel,\
-  \ 1995\u20132002)\n(moved from Moreno Valley in 2007)\nSovereign Grace Orthodox\
-  \ Presbyterian Church  (September 16, 2007\u2013 )\nThe Village at Redlands, 305\
-  \ Mountain View Cir.\nOrg. Pastor: Robert Herrmann, 2001\u20137\nPastor: Robert\
-  \ Herrmann, 2007\u201315"
+raw_data: "AR    Redlands\nSovereign Grace Orthodox Presbyterian Chapel  (June 30,\
+  \ 1995\u2013September 16, 2007)\n(called Grace Orthodox Presbyterian Chapel, 1995\u2013\
+  2002)\n(moved from Moreno Valley in 2007)\nSovereign Grace Orthodox Presbyterian\
+  \ Church  (September 16, 2007\u2013 )\nThe Village at Redlands, 305 Mountain View\
+  \ Cir.\nOrg. Pastor: Robert Herrmann, 2001\u20137\nPastor: Robert Herrmann, 2007\u2013\
+  15"
 received_from: null
 states:
 - AR
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Sovereign Grace Orthodox Presbyterian Church (Redlands AR)
+year_established:
+- 2007
 
 ---

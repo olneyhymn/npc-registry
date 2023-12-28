@@ -9,19 +9,19 @@ minister:
 - end: 1973-01-01
   name: Thomas Champness
   start: 1965-01-01
-  type: pastor
+  type: Pastor
 - end: 1983-01-01
   name: Rollin Keller
   start: 1974-01-01
-  type: pastor
+  type: Pastor
 - end: 1991-01-01
   name: C. Thomas Fincher
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: P. Shaun Bryant
   start: 1994-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Thomas Champness
 - Rollin Keller
@@ -30,8 +30,8 @@ ministers:
 name: Grace Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "AR\nModesto\nGrace Orthodox Presbyterian Church (March 12, 1964\u2013\
-  \ )\n1448 Standiford Avenue\nPastors: Thomas Champness, 1965\u201373\nRollin Keller,\
+raw_data: "AR\nModesto\nGrace Orthodox Presbyterian Church (March 12, 1964\u2013 )\n\
+  1448 Standiford Avenue\nPastors: Thomas Champness, 1965\u201373\nRollin Keller,\
   \ 1974\u201383\nC. Thomas Fincher, 1984\u201391\nP. Shaun Bryant, 1994\u2013\n"
 received_from: null
 states:
@@ -43,5 +43,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Church (Modesto AR)
+year_established:
+- 1964
 
 ---

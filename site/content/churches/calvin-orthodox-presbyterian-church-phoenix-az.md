@@ -9,11 +9,11 @@ minister:
 - end: 2005-01-01
   name: Wayne Buchtel
   start: 1994-06-26
-  type: pastor
+  type: Pastor
 - end: null
   name: Michael Babcock
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Wayne Buchtel
 - Michael Babcock
@@ -33,5 +33,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Calvin Orthodox Presbyterian Church (Phoenix AZ)
+year_established:
+- 1994
 
 ---

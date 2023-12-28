@@ -9,15 +9,15 @@ minister:
 - end: 1970-01-01
   name: Alan Moak
   start: 1969-01-01
-  type: pastor
+  type: Pastor
 - end: 1973-01-01
   name: Robert Scott
   start: 1971-01-01
-  type: pastor
+  type: Pastor
 - end: 1991-05-08
   name: Samuel van Houte
   start: 1974-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Alan Moak
 - Robert Scott
@@ -39,5 +39,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Faith Orthodox Presbyterian Church (Milwaukie OR)
+year_established:
+- 1968
 
 ---

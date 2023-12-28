@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Anthony Monaghan
   start: 2007-01-05
-  type: pastor
+  type: Pastor
 ministers:
 - Anthony Monaghan
 - Anthony Monaghan
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Orthodox Presbyterian Church (Charlottesville VA)
+year_established:
+- 2007
 
 ---

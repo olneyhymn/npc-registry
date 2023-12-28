@@ -9,19 +9,19 @@ minister:
 - end: 1993-12-31
   name: T. Jeffrey Taylor
   start: 1992-01-01
-  type: pastor
+  type: Pastor
 - end: 2007-12-31
   name: Geoffrey Smith
   start: 1993-01-01
-  type: pastor
+  type: Pastor
 - end: 2011-12-31
   name: Brian Belh
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Geoffrey Smith
   start: 2014-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - T. Jeffrey Taylor
 - Geoffrey Smith
@@ -46,5 +46,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Park Woods Orthodox Presbyterian Church (Overland Park KS)
+year_established:
+- 1991
 
 ---

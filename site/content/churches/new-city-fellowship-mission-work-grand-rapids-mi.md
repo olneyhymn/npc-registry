@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New City Fellowship mission work (Grand Rapids MI)
+year_established:
+- 2014
 
 ---

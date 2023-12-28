@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Adam York
   start: 2005-02-25
-  type: pastor
+  type: Pastor
 ministers:
 - Adam York
 - Adam York
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Orthodox Presbyterian Church (Kingwood TX)
+year_established:
+- 2005
 
 ---

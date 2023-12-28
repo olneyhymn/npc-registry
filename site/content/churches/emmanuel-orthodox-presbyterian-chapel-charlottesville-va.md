@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Emmanuel Orthodox Presbyterian Chapel (Charlottesville VA)
+year_established:
+- 1972
 
 ---

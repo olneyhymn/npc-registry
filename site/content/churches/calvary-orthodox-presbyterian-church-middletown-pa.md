@@ -9,39 +9,39 @@ minister:
 - end: 1939-01-01
   name: Robert Marsden
   start: 1936-06-24
-  type: pastor
+  type: Pastor
 - end: 1946-01-01
   name: Edward Kellog
   start: 1940-01-01
-  type: pastor
+  type: Pastor
 - end: 1952-01-01
   name: Robert Atwell
   start: 1946-01-01
-  type: pastor
+  type: Pastor
 - end: 1955-01-01
   name: Robley Johnston
   start: 1952-01-01
-  type: pastor
+  type: Pastor
 - end: 1961-01-01
   name: Robert Graham
   start: 1956-01-01
-  type: pastor
+  type: Pastor
 - end: 1972-01-01
   name: George Hall
   start: 1962-01-01
-  type: pastor
+  type: Pastor
 - end: 1982-01-01
   name: Abe Ediger
   start: 1972-01-01
-  type: pastor
+  type: Pastor
 - end: 1993-01-01
   name: Albert Steever
   start: 1983-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Arthur Fox
   start: 1994-01-01
-  type: pastor
+  type: Pastor
 - end: 1993-01-01
   name: James Day
   start: 1988-01-01
@@ -78,5 +78,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Calvary Orthodox Presbyterian Church (Middletown PA)
+year_established:
+- 1936
 
 ---

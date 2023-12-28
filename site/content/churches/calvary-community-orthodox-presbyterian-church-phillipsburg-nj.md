@@ -50,5 +50,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Calvary Community Orthodox Presbyterian Church (Phillipsburg NJ)
+year_established:
+- 1966
 
 ---

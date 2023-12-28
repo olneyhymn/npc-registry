@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Iglesia Evangelica Reformada (MISSING AR)
+year_established:
+- 1995
 
 ---

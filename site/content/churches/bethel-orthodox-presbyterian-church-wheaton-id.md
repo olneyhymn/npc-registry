@@ -9,23 +9,23 @@ minister:
 - end: 1970-01-01
   name: Francis Breisch
   start: 1960-01-03
-  type: pastor
+  type: Pastor
 - end: 1973-01-01
   name: John Bettler
   start: 1971-01-01
-  type: pastor
+  type: Pastor
 - end: 1989-01-01
   name: Robert Harvey
   start: 1975-01-01
-  type: pastor
+  type: Pastor
 - end: 2007-01-01
   name: Lendall Smith
   start: 1991-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Craig Troxel
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 - end: 1989-01-01
   name: Charles Gosling
   start: 1985-01-01
@@ -74,5 +74,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Bethel Orthodox Presbyterian Church (Wheaton ID)
+year_established:
+- 1960
 
 ---

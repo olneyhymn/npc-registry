@@ -9,7 +9,7 @@ minister:
 - end: 1996-01-01
   name: Donald Parker
   start: 1990-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Donald Parker
 name: Coastal Community Orthodox Presbyterian Church
@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Coastal Community Orthodox Presbyterian Church (Melbourne FL)
+year_established:
+- 1990
 
 ---

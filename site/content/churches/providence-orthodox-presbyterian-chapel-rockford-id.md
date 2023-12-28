@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Orthodox Presbyterian Chapel (Rockford ID)
+year_established:
+- 2009
 
 ---

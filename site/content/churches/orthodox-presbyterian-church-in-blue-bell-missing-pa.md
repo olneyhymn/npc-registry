@@ -9,31 +9,31 @@ minister:
 - end: 1938-01-01
   name: Stanley Ray
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 - end: 1944-01-01
   name: Kelly Tucker
   start: 1939-01-01
-  type: pastor
+  type: Pastor
 - end: 1952-01-01
   name: Henry Tavares
   start: 1948-01-01
-  type: pastor
+  type: Pastor
 - end: 1962-01-01
   name: Henry Fikkert
   start: 1956-01-01
-  type: pastor
+  type: Pastor
 - end: 1966-01-01
   name: Ivan De Master
   start: 1962-01-01
-  type: pastor
+  type: Pastor
 - end: 1976-01-01
   name: Ronald Jenkins
   start: 1968-01-01
-  type: pastor
+  type: Pastor
 - end: 1983-01-01
   name: James Payton
   start: 1977-01-01
-  type: pastor
+  type: Pastor
 - end: 1974-01-01
   name: James Petty
   start: 1970-01-01
@@ -64,5 +64,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Orthodox Presbyterian Church in Blue Bell (MISSING PA)
+year_established:
+- 1936
 
 ---

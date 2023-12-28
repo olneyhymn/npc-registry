@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Faith Orthodox Presbyterian Chapel (Broomall PA)
+year_established:
+- 2000
 
 ---

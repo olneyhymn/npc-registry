@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Warren Bennett
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Mark Winder
 - Warren Bennett
@@ -37,5 +37,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Natchitoches LA)
+year_established:
+- 2008
 
 ---

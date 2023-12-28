@@ -9,7 +9,7 @@ minister:
 - end: 1938-01-01
   name: Reginald Voorhees
   start: 1936-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Reginald Voorhees
 name: Grace Presbyterian Church of America
@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Presbyterian Church of America (West Pittston PA)
+year_established:
+- 1936
 
 ---

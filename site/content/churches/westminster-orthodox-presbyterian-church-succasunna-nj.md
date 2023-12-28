@@ -15,7 +15,6 @@ names:
 origination_date: *id001
 raw_data: "NEW JERSEY\nSuccasunna\nWestminster Orthodox Presbyterian Church (October\
   \ 24, 1975\u2013December 15, 1978)"
-received_from: MISSING
 states:
 - NJ
 status:
@@ -25,5 +24,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Westminster Orthodox Presbyterian Church (Succasunna NJ)
+year_established:
+- 1975
 
 ---

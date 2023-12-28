@@ -9,23 +9,23 @@ minister:
 - end: 1979-01-01
   name: Henry Tavares
   start: 1965-01-01
-  type: pastor
+  type: Pastor
 - end: 1987-01-01
   name: Ivan Davis
   start: 1980-01-01
-  type: pastor
+  type: Pastor
 - end: 1996-01-01
   name: Daniel Osborne
   start: 1988-01-01
-  type: pastor
+  type: Pastor
 - end: 2013-01-01
   name: Gerald Dodds
   start: 1997-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Jeremy Jones
   start: 2013-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Jeremy Jones
   start: 2013-01-01
@@ -47,7 +47,6 @@ raw_data: "PA  Grove City\n\nCovenant Orthodox Presbyterian Church (May 16, 1966
   \ )\n140 E. Poplar Street\nPastors: Henry Tavares, 1965\u201379\nIvan Davis, 1980\u2013\
   87\nDaniel Osborne, 1988\u201396\nGerald Dodds, 1997\u20132013\nJeremy Jones, 2013\u2013\
   \nAssoc. Pastor: Jeremy Jones, 2013"
-received_from: MISSING
 states:
 - PA
 status:
@@ -57,5 +56,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Grove City PA)
+year_established:
+- 1966
 
 ---

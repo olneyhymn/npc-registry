@@ -33,5 +33,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Hope Orthodox Presbyterian Mission (St. Cloud FL)
+year_established:
+- 1996
 
 ---

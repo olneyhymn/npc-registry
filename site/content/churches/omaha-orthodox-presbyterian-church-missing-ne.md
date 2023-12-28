@@ -9,19 +9,19 @@ minister:
 - end: 1945-01-01
   name: Robert Brown
   start: 1939-01-01
-  type: pastor
+  type: Pastor
 - end: 1974-01-01
   name: Reginald Voorhees
   start: 1945-01-01
-  type: pastor
+  type: Pastor
 - end: 1979-01-01
   name: Ransom Webster Jr.
   start: 1974-01-01
-  type: pastor
+  type: Pastor
 - end: 1980-04-30
   name: V. Robert Nilson
   start: 1979-01-01
-  type: supply
+  type: Supply Pastor
 ministers:
 - Robert Brown
 - Reginald Voorhees
@@ -46,5 +46,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Omaha Orthodox Presbyterian Church (MISSING NE)
+year_established:
+- 1939
 
 ---

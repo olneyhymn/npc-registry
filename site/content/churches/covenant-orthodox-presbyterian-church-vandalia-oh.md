@@ -9,11 +9,11 @@ minister:
 - end: 2015-01-01
   name: L. Charles Jackson
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Matthew Patton
   start: 2015-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - L. Charles Jackson
 - Matthew Patton
@@ -35,5 +35,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Vandalia OH)
+year_established:
+- 2001
 
 ---

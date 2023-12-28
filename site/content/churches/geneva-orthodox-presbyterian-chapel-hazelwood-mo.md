@@ -31,5 +31,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Geneva Orthodox Presbyterian Chapel (Hazelwood MO)
+year_established:
+- 2006
 
 ---

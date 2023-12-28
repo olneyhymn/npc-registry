@@ -4,7 +4,7 @@ end_date: null
 location:
   address: 26462 Via Sacramento
   city: Capistrano Beach
-  state: CA
+  state: AR
 minister:
 - end: null
   name: Jonathan B. Moersch
@@ -15,9 +15,9 @@ ministers:
 name: Trinity Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "AR\nCapistrano Beach\nTrinity Presbyterian Chapel  (May 5, 2012\u2013\
-  \ )\nPalisades Elementary School, 26462 Via Sacramento\nOrg. Pastor: Jonathan B.\
-  \ Moersch, 2012\u2013"
+raw_data: "AR\nCapistrano Beach\nTrinity Presbyterian Chapel  (May 5, 2012\u2013 )\n\
+  Palisades Elementary School, 26462 Via Sacramento\nOrg. Pastor: Jonathan B. Moersch,\
+  \ 2012\u2013"
 received_from: null
 states:
 - AR
@@ -28,5 +28,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Presbyterian Chapel (Capistrano Beach AR)
+year_established:
+- 2012
 
 ---

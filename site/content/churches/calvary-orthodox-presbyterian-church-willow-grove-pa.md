@@ -9,7 +9,7 @@ minister:
 - end: 1949-03-21
   name: Robert Strong
   start: 1936-10-13
-  type: pastor
+  type: Pastor
 ministers:
 - Robert Strong
 name: Calvary Orthodox Presbyterian Church
@@ -28,5 +28,7 @@ status:
   received_from: null
   withdrawal_to: Orthodox Presbyterian Church
 title: Calvary Orthodox Presbyterian Church (Willow Grove PA)
+year_established:
+- 1936
 
 ---

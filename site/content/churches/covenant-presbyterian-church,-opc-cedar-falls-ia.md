@@ -9,55 +9,55 @@ minister:
 - end: 1947-01-01
   name: Edward Wybenga
   start: 1939-01-01
-  type: pastor
+  type: Pastor
 - end: 1956-01-01
   name: Oscar Holkeboer
   start: 1947-01-01
-  type: pastor
+  type: Pastor
 - end: 1961-01-01
   name: George Haney
   start: 1957-01-01
-  type: pastor
+  type: Pastor
 - end: 1965-01-01
   name: Sal Solis
   start: 1962-01-01
-  type: pastor
+  type: Pastor
 - end: 1968-01-01
   name: William Shell
   start: 1966-01-01
-  type: pastor
+  type: Pastor
 - end: 1972-01-01
   name: Eugene Williams
   start: 1969-01-01
-  type: pastor
+  type: Pastor
 - end: 1978-01-01
   name: George Hall
   start: 1973-01-01
-  type: pastor
+  type: Pastor
 - end: 1984-01-01
   name: Robert W. Eckardt
   start: 1978-01-01
-  type: pastor
+  type: Pastor
 - end: 1990-01-01
   name: William Acker
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: 1996-01-01
   name: Jude Reardon
   start: 1992-01-01
-  type: pastor
+  type: Pastor
 - end: 2000-01-01
   name: William Bomer
   start: 1997-01-01
-  type: pastor
+  type: Pastor
 - end: 2008-01-01
   name: Stephen Oharek
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 - end: 2014-01-01
   name: Andrew Cheatham
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Michael J. Kearney
   start: 2015-01-01
@@ -119,5 +119,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Presbyterian Church, OPC (Cedar Falls IA)
+year_established:
+- 1939
 
 ---

@@ -17,7 +17,7 @@ minister:
 - end: null
   name: W. Vernon Picknally, Jr.
   start: 2016-02-05
-  type: pastor
+  type: Pastor
 ministers:
 - Norman De Jong
 - W. Vernon Picknally, Jr.
@@ -31,10 +31,10 @@ names:
   name: Fremont Orthodox Presbyterian Church
   start: 2016-02-05
 origination_date: *id001
-raw_data: "MI Fremont\n\nFremont Orthodox Presbyterian mission work  (January\
-  \ 31, 2009\u2013February 5, 2106)\nFremont Orthodox Presbyterian Church (February\
-  \ 5, 2016\u2013 )\n203 East Main Street\nOrg. Pastors: Norman De Jong, 2009\u2013\
-  11\nW. Vernon Picknally, Jr., 2011\u201316\nPastor: W. Vernon Picknally, Jr., 2016\u2013"
+raw_data: "MI Fremont\n\nFremont Orthodox Presbyterian mission work  (January 31,\
+  \ 2009\u2013February 5, 2106)\nFremont Orthodox Presbyterian Church (February 5,\
+  \ 2016\u2013 )\n203 East Main Street\nOrg. Pastors: Norman De Jong, 2009\u201311\n\
+  W. Vernon Picknally, Jr., 2011\u201316\nPastor: W. Vernon Picknally, Jr., 2016\u2013"
 received_from: null
 states:
 - MI
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Fremont Orthodox Presbyterian Church (Fremont MI)
+year_established:
+- 2016
 
 ---

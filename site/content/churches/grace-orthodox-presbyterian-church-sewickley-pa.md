@@ -9,15 +9,15 @@ minister:
 - end: 1975-01-01
   name: Donald Poundstone
   start: 1970-01-01
-  type: pastor
+  type: Pastor
 - end: 1999-01-01
   name: Charles Dennison
   start: 1976-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: R. Daniel Knox
   start: 2000-01-01
-  type: pastor
+  type: Pastor
 - end: 1998-01-01
   name: Danny Olinger
   start: 1996-01-01
@@ -64,7 +64,6 @@ raw_data: "PA\nSewickley\nGrace Orthodox Presbyterian Church  (December 28, 1969
   98\nR. Daniel Knox, 1998\u20132000\nRobert Broline, 2000\u20132004\nBrett E. Mahlen,\
   \ 2011\u2013\nEvangelists: Douglas Clawson, 1984\u201387\nR. Daniel Knox, 1984\u2013\
   98"
-received_from: MISSING
 states:
 - PA
 status:
@@ -74,5 +73,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Church (Sewickley PA)
+year_established:
+- 1969
 
 ---

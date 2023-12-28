@@ -9,7 +9,7 @@ minister:
 - end: 1988-01-01
   name: John Julien
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - John Julien
 name: New Life Northeast Orthodox Presbyterian Church
@@ -35,5 +35,7 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: New Life Northeast Orthodox Presbyterian Church (Philadelphia PA)
+year_established:
+- 1984
 
 ---

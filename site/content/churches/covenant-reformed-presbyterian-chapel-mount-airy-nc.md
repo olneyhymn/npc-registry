@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Brenton Ferry
   start: 2004-12-09
-  type: pastor
+  type: Pastor
 ministers:
 - Brenton Ferry
 - Brenton Ferry
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Reformed Presbyterian Chapel (Mount Airy NC)
+year_established:
+- 1998
 
 ---

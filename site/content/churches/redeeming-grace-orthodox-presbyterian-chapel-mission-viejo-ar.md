@@ -20,9 +20,9 @@ ministers:
 name: Redeeming Grace Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "AR  Mission Viejo\n\nRedeeming Grace Orthodox Presbyterian Chapel\
-  \  (May 6, 1995\u20132006)\nEvangelists: William Baldwin, 1996\u20132000\nDouglas\
-  \ L. Watson, 2003\u20136"
+raw_data: "AR  Mission Viejo\n\nRedeeming Grace Orthodox Presbyterian Chapel  (May\
+  \ 6, 1995\u20132006)\nEvangelists: William Baldwin, 1996\u20132000\nDouglas L. Watson,\
+  \ 2003\u20136"
 received_from: null
 states:
 - AR
@@ -33,5 +33,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Redeeming Grace Orthodox Presbyterian Chapel (Mission Viejo AR)
+year_established:
+- 1995
 
 ---

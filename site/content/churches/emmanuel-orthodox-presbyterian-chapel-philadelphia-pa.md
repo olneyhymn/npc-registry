@@ -9,11 +9,11 @@ minister:
 - end: 2008-01-01
   name: Wilson Cummings
   start: 1980-03-15
-  type: pastor
+  type: Pastor
 - end: 2011-01-01
   name: Matthew Stephan
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Wilson Cummings
 - Matthew Stephan
@@ -35,5 +35,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Emmanuel Orthodox Presbyterian Chapel (Philadelphia PA)
+year_established:
+- 1980
 
 ---

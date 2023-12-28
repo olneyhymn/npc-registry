@@ -18,9 +18,8 @@ names:
   name: Pleasant Mountain Presbyterian Church
   start: 2011-01-01
 origination_date: *id001
-raw_data: "ME\nBridgton\nPleasant Mountain Presbyterian Church  (2011\u2013 )\n\
-  30 North High Street (Rte. 302)\nOrg. Pastor: Tim R. Beauchamp, 2011\u201315"
-received_from: MISSING
+raw_data: "ME\nBridgton\nPleasant Mountain Presbyterian Church  (2011\u2013 )\n30\
+  \ North High Street (Rte. 302)\nOrg. Pastor: Tim R. Beauchamp, 2011\u201315"
 states:
 - ME
 status:
@@ -30,5 +29,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Pleasant Mountain Presbyterian Church (Bridgton ME)
+year_established:
+- 2011
 
 ---

@@ -13,7 +13,7 @@ minister:
 - end: null
   name: David Harr
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - David Harr
 - David Harr
@@ -39,5 +39,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Immanuel Presbyterian Church (Medford NJ)
+year_established:
+- 2007
 
 ---

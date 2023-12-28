@@ -9,15 +9,15 @@ minister:
 - end: 1985-01-01
   name: Robert Y . Eckardt
   start: 1980-01-01
-  type: pastor
+  type: Pastor
 - end: 2000-01-01
   name: Larry Wilson
   start: 1985-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: William Kessler
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 - end: 2002-01-01
   name: Joseph Keller
   start: 1994-01-01
@@ -69,7 +69,6 @@ raw_data: "OH Columbus\nGrace Presbyterian Church, Orthodox Presbyterian Church 
   \ Keller, 1994\u20132002\nStephen Igo, 1998\u20132002\nLeo Frailey, 2005\u201311\n\
   Kyle Brown, 2006\u201313\nJason C. Kirklin, 2012\u2013\nEvangelists: Lawrence Oldaker,\
   \ 1995\u201397\nDavid Robbins, 2010\u201315"
-received_from: MISSING
 states:
 - OH
 status:
@@ -79,5 +78,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Presbyterian Church (Columbus OH)
+year_established:
+- 1979
 
 ---

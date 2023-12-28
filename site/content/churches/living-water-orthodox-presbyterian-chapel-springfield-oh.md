@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Living Water Orthodox Presbyterian Chapel (Springfield OH)
+year_established:
+- 2015
 
 ---

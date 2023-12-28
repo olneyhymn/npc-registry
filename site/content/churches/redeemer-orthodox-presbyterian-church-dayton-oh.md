@@ -9,15 +9,15 @@ minister:
 - end: 1982-01-01
   name: Lawrence Eyres
   start: 1971-01-01
-  type: pastor
+  type: Pastor
 - end: 2005-01-01
   name: Michael Frangipane
   start: 1983-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Robert Y . Eckardt
   start: 2005-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Ken Montgomery
   start: 2009-01-01
@@ -44,5 +44,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Redeemer Orthodox Presbyterian Church (Dayton OH)
+year_established:
+- 1971
 
 ---

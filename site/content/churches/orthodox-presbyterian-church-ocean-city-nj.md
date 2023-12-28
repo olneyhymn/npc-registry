@@ -25,5 +25,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Orthodox Presbyterian Church (Ocean City NJ)
+year_established:
+- 1978
 
 ---

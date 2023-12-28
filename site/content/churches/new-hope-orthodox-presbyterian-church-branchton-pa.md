@@ -25,5 +25,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Hope Orthodox Presbyterian Church (Branchton PA)
+year_established:
+- 1936
 
 ---

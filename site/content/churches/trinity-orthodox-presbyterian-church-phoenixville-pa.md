@@ -13,7 +13,7 @@ minister:
 - end: 2000-01-01
   name: Mark Holler
   start: 1985-06-21
-  type: pastor
+  type: Pastor
 ministers:
 - Mark Holler
 - Mark Holler
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Church (Phoenixville PA)
+year_established:
+- 1985
 
 ---

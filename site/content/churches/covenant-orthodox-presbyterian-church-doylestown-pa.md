@@ -9,23 +9,23 @@ minister:
 - end: 1972-01-01
   name: C. John Miller
   start: 1965-01-01
-  type: pastor
+  type: Pastor
 - end: 1985-01-01
   name: George Morton
   start: 1973-01-01
-  type: pastor
+  type: Pastor
 - end: 1991-01-01
   name: John Harbison
   start: 1986-01-01
-  type: pastor
+  type: Pastor
 - end: 1993-01-01
   name: John Bettler
   start: 1991-01-01
-  type: supply
+  type: Supply Pastor
 - end: 2001-11-03
   name: Stephen Meidahl
   start: 1993-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Matthew Colflesh
   start: 2001-01-01
@@ -62,5 +62,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Doylestown PA)
+year_established:
+- 1972
 
 ---

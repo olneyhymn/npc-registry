@@ -13,11 +13,11 @@ minister:
 - end: 2002-01-01
   name: DeLacy Andrews
   start: 1995-07-22
-  type: pastor
+  type: Pastor
 - end: null
   name: Hank Belfield
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 - end: 2008-01-01
   name: John Belden
   start: 2004-01-01
@@ -44,5 +44,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Orthodox Presbyterian Church (Chilhowie VA)
+year_established:
+- 1995
 
 ---

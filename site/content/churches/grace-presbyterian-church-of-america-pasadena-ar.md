@@ -15,7 +15,6 @@ names:
 origination_date: *id001
 raw_data: "AR Pasadena\nGrace Presbyterian Church of America  (October 21, 1936\u2013\
   October 5, 1937)"
-received_from: MISSING
 states:
 - AR
 status:
@@ -25,5 +24,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Presbyterian Church of America (Pasadena AR)
+year_established:
+- 1936
 
 ---

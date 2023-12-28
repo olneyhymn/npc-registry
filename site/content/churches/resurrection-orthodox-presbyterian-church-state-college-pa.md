@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Jeremiah W. Montgomery
   start: 2014-10-03
-  type: pastor
+  type: Pastor
 ministers:
 - Jeremiah W. Montgomery
 - Jeremiah W. Montgomery
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Resurrection Orthodox Presbyterian Church (State College PA)
+year_established:
+- 2014
 
 ---

@@ -9,35 +9,35 @@ minister:
 - end: 1941-01-01
   name: Theodore Jansma
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 - end: 1943-01-01
   name: R. Heber McIlwaine
   start: 1941-01-01
-  type: supply
+  type: Supply Pastor
 - end: 1947-01-01
   name: Edwards Elliott
   start: 1943-01-01
-  type: supply
+  type: Supply Pastor
 - end: 1950-01-01
   name: Edwards Elliott
   start: 1947-01-01
-  type: pastor
+  type: Pastor
 - end: 1959-01-01
   name: George Willis
   start: 1953-01-01
-  type: pastor
+  type: Pastor
 - end: 1964-01-01
   name: Cromwell Roskamp
   start: 1960-01-01
-  type: pastor
+  type: Pastor
 - end: 1981-01-01
   name: Everett DeVelde
   start: 1966-01-01
-  type: pastor
+  type: Pastor
 - end: 2007-03-18
   name: Stuart Jones
   start: 1982-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Theodore Jansma
 - R. Heber McIlwaine
@@ -72,5 +72,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: First Orthodox Presbyterian Church (MISSING MD)
+year_established:
+- 1936
 
 ---

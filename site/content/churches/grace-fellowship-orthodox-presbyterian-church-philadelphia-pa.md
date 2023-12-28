@@ -17,15 +17,15 @@ minister:
 - end: 1994-01-01
   name: Edward Gross
   start: 1992-01-01
-  type: pastor
+  type: Pastor
 - end: 2004-01-01
   name: Benjamin Snodgrass
   start: 1996-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: William Snodgrass
   start: 2006-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Jonathan C. Gibbs III
 - Edward Gross
@@ -47,7 +47,6 @@ raw_data: "PA Philadelphia\nGrace Fellowship Chapel of Germantown (October 5, 19
   \ Pastors: Jonathan C. Gibbs III, 1984\u201388\nEdward Gross, 1988\u201392\nPastors:\
   \ Edward Gross, 1992\u201394\nBenjamin Snodgrass, 1996\u20132004\nWilliam Snodgrass,\
   \ 2006\u2013"
-received_from: MISSING
 states:
 - PA
 status:
@@ -57,5 +56,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Fellowship Orthodox Presbyterian Church (Philadelphia PA)
+year_established:
+- 1992
 
 ---

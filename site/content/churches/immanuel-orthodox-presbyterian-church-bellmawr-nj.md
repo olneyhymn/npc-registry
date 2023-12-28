@@ -9,27 +9,27 @@ minister:
 - end: 1951-01-01
   name: Robert W. Eckardt
   start: 1949-01-01
-  type: pastor
+  type: Pastor
 - end: 1960-01-01
   name: Albert Edwards, III
   start: 1952-01-01
-  type: pastor
+  type: Pastor
 - end: 1965-01-01
   name: Howard Hart
   start: 1962-01-01
-  type: pastor
+  type: Pastor
 - end: 1979-01-01
   name: Kenneth Meilahn
   start: 1966-01-01
-  type: pastor
+  type: Pastor
 - end: 1986-01-01
   name: Robert Tanzie
   start: 1980-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Thomas Church
   start: 1987-01-01
-  type: pastor
+  type: Pastor
 - end: 2007-01-01
   name: David Harr
   start: 2002-01-01
@@ -63,7 +63,6 @@ raw_data: "NEW JERSEY Bellmawr\nImmanuel Orthodox Presbyterian Church  (November
   51\nAlbert Edwards, III, 1952\u201360\nHoward Hart, 1962\u201365\nKenneth Meilahn,\
   \ 1966\u201379\nRobert Tanzie, 1980\u201386\nThomas Church, 1987\u2013\nAssoc. Pastors:\
   \ David Harr, 2002\u20137\nCarl McDaniel, 2010\u201314\nMatthew D. Cole, 2015\u2013"
-received_from: MISSING
 states:
 - NJ
 status:
@@ -73,5 +72,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Immanuel Orthodox Presbyterian Church (Bellmawr NJ)
+year_established:
+- 1948
 
 ---

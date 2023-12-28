@@ -9,11 +9,11 @@ minister:
 - end: 2012-01-01
   name: Rodney King
   start: 1997-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Edward E. Jensen
   start: 2013-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Charles Muether
   start: 2007-01-01
@@ -38,5 +38,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Reformed Presbyterian Church, OPC (Des Moines IA)
+year_established:
+- 1996
 
 ---

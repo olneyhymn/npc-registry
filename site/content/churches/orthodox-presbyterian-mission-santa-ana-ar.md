@@ -9,7 +9,7 @@ minister:
 - end: 1940-04-18
   name: Lynne Wade
   start: 1938-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Lynne Wade
 name: Orthodox Presbyterian Mission
@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Orthodox Presbyterian Mission (Santa Ana AR)
+year_established:
+- 1937
 
 ---

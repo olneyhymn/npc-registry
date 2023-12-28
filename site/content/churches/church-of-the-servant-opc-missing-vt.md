@@ -9,15 +9,15 @@ minister:
 - end: 1982-01-01
   name: Raymond Commeret
   start: 1977-11-11
-  type: pastor
+  type: Pastor
 - end: 1991-01-01
   name: Andrew Selle
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: 1995-01-01
   name: Dennis Smith
   start: 1993-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Raymond Commeret
 - Andrew Selle
@@ -38,5 +38,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Church of the Servant OPC (MISSING VT)
+year_established:
+- 1977
 
 ---

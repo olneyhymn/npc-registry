@@ -9,23 +9,23 @@ minister:
 - end: 1981-01-01
   name: Calvin Cummings
   start: 1975-01-01
-  type: pastor
+  type: Pastor
 - end: 1983-01-01
   name: Gordon Woolard
   start: 1981-01-01
-  type: pastor
+  type: Pastor
 - end: 1991-01-01
   name: Robert Evans
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: 2016-01-01
   name: William Hobbs
   start: 1992-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: John A. Sharpe
   start: 2016-01-01
-  type: pastor
+  type: Pastor
 - end: 2016-01-01
   name: John A. Sharpe
   start: 2011-01-01
@@ -57,5 +57,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Calvary Orthodox Presbyterian Church (Tallahassee FL)
+year_established:
+- 1973
 
 ---

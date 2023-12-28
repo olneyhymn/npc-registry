@@ -13,7 +13,7 @@ minister:
 - end: 2005-02-27
   name: Patrick W. Malone
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Douglas Watson
 - Patrick W. Malone
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Living Hope Orthodox Presbyterian Church (Nutley NJ)
+year_established:
+- 2001
 
 ---

@@ -15,8 +15,8 @@ ministers:
 name: Christ Reformed Presbyterian mission work
 names: null
 origination_date: *id001
-raw_data: "AR Bentonville\nChrist Reformed Presbyterian mission work (September\
-  \ 12, 1998\u2013May 11, 2002)\nOrg. Pastor: James B. Hollis, 1998\u20132002"
+raw_data: "AR Bentonville\nChrist Reformed Presbyterian mission work (September 12,\
+  \ 1998\u2013May 11, 2002)\nOrg. Pastor: James B. Hollis, 1998\u20132002"
 received_from: null
 states:
 - AR
@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Christ Reformed Presbyterian mission work (Bentonville AR)
+year_established:
+- 1998
 
 ---

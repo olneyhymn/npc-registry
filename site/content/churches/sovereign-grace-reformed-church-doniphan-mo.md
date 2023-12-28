@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Kent W. Harding
   start: 2014-11-17
-  type: pastor
+  type: Pastor
 ministers:
 - Kent W. Harding
 - Kent W. Harding
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Sovereign Grace Reformed Church (Doniphan MO)
+year_established:
+- 2014
 
 ---

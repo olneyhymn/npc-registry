@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Roth Reason
   start: 2011-07-10
-  type: pastor
+  type: Pastor
 ministers:
 - Roth Reason
 - Roth Reason
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Redeemer Orthodox Presbyterian Church (Danville PA)
+year_established:
+- 2011
 
 ---

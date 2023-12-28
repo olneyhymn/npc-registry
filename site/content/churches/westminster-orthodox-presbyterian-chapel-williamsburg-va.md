@@ -28,5 +28,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Westminster Orthodox Presbyterian Chapel (Williamsburg VA)
+year_established:
+- 1973
 
 ---

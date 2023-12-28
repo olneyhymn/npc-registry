@@ -9,19 +9,19 @@ minister:
 - end: 1944-01-01
   name: Charles Stanton
   start: 1941-11-27
-  type: pastor
+  type: Pastor
 - end: 1951-01-01
   name: Kelly Tucker
   start: 1944-01-01
-  type: pastor
+  type: Pastor
 - end: 1954-01-01
   name: Charles Stanton
   start: 1951-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Harold Dorman
   start: 1958-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Charles Stanton
 - Kelly Tucker
@@ -33,11 +33,10 @@ names:
   name: Skowhegan Orthodox Presbyterian Church
   start: 1941-11-27
 origination_date: *id001
-raw_data: "ME    Skowhegan\n\nSkowhegan Orthodox Presbyterian Church  (November\
-  \ 27, 1941\u2013 )\n(located in Cornville, ME from November 27, 1941 to May 8,\
-  \ 1977)\n36 North Avenue\nPastors: Charles Stanton, 1941\u201344\nKelly Tucker,\
-  \ 1944\u201351\nCharles Stanton, 1951\u201354\nHarold Dorman, 1958\u20132014"
-received_from: MISSING
+raw_data: "ME    Skowhegan\n\nSkowhegan Orthodox Presbyterian Church  (November 27,\
+  \ 1941\u2013 )\n(located in Cornville, ME from November 27, 1941 to May 8, 1977)\n\
+  36 North Avenue\nPastors: Charles Stanton, 1941\u201344\nKelly Tucker, 1944\u2013\
+  51\nCharles Stanton, 1951\u201354\nHarold Dorman, 1958\u20132014"
 states:
 - ME
 status:
@@ -47,5 +46,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Skowhegan Orthodox Presbyterian Church (Skowhegan ME)
+year_established:
+- 1941
 
 ---

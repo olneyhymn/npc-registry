@@ -9,27 +9,27 @@ minister:
 - end: 1940-01-01
   name: Samuel Allen
   start: 1936-08-02
-  type: pastor
+  type: Pastor
 - end: 1944-01-01
   name: John Gray
   start: 1940-01-01
-  type: pastor
+  type: Pastor
 - end: 1952-01-01
   name: Walter Magee
   start: 1945-01-01
-  type: pastor
+  type: Pastor
 - end: 1957-01-01
   name: Henry Tavares
   start: 1952-01-01
-  type: pastor
+  type: Pastor
 - end: 1964-01-01
   name: V. Robert Nilson
   start: 1957-01-01
-  type: pastor
+  type: Pastor
 - end: 1977-03-24
   name: Jack Peterson
   start: 1967-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Samuel Allen
 - John Gray
@@ -51,5 +51,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Orthodox Presbyterian Church (Leith ND)
+year_established:
+- 1936
 
 ---

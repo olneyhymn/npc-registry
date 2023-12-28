@@ -9,15 +9,15 @@ minister:
 - end: 2004-01-01
   name: Arie van Eyk
   start: 2003-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Arie van Eyk
   start: 2004-01-01
-  type: pastor
+  type: Pastor
 - end: 2014-01-01
   name: Bryan P. Crotts
   start: 2013-01-01
-  type: teacher
+  type: Teacher
 ministers:
 - Arie van Eyk
 - Arie van Eyk
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Providence Orthodox Presbyterian Church (Greensboro NC)
+year_established:
+- 2004
 
 ---

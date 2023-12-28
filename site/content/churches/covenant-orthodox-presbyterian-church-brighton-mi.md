@@ -13,11 +13,11 @@ minister:
 - end: 2005-01-01
   name: Brian DeJong
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Douglas Doll
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Brian DeJong
 - Brian DeJong
@@ -31,10 +31,10 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 2002-02-15
 origination_date: *id001
-raw_data: "MI\nBrighton\n\nCovenant Orthodox Presbyterian Mission  (March 19,\
-  \ 1999\u2013February 15, 2002)\nCovenant Orthodox Presbyterian Church (February\
-  \ 15, 2002\u2013 )\nSpencer Elementary School, Spencer Road\nOrg. Pastor: Brian\
-  \ DeJong, 2000\u20132002\nPastors: Brian De Jong, 2002\u20135\nDouglas Doll, 2008\u2013"
+raw_data: "MI\nBrighton\n\nCovenant Orthodox Presbyterian Mission  (March 19, 1999\u2013\
+  February 15, 2002)\nCovenant Orthodox Presbyterian Church (February 15, 2002\u2013\
+  \ )\nSpencer Elementary School, Spencer Road\nOrg. Pastor: Brian DeJong, 2000\u2013\
+  2002\nPastors: Brian De Jong, 2002\u20135\nDouglas Doll, 2008\u2013"
 received_from: null
 states:
 - MI
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Brighton MI)
+year_established:
+- 2002
 
 ---

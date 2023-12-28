@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Harold Thomas
   start: 1987-01-18
-  type: pastor
+  type: Pastor
 ministers:
 - Harold Thomas
 name: Grace Orthodox Presbyterian Church
@@ -31,5 +31,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Church (Niceville FL)
+year_established:
+- 1987
 
 ---

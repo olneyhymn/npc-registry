@@ -9,11 +9,11 @@ minister:
 - end: 2001-01-01
   name: Sidney Dyer
   start: 1995-01-01
-  type: pastor
+  type: Pastor
 - end: 2004-01-01
   name: G. W. Fisher
   start: 2003-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Sidney Dyer
 - G. W. Fisher
@@ -29,7 +29,6 @@ origination_date: *id001
 raw_data: "SOUTH CAROLINA Greenville\n\nAgape Orthodox Presbyterian Church (June 3,\
   \ 1995\u2013April 22, 2005)\n(changed name to First OPC, Greenville)\nPastors: Sidney\
   \ Dyer, 1995\u20132001\nG. W. Fisher, 2003\u20134"
-received_from: MISSING
 states:
 - SC
 status:
@@ -39,5 +38,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: First Orthodox Presbyterian Church (Greenville SC)
+year_established:
+- 2005
 
 ---

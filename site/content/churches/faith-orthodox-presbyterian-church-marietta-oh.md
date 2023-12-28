@@ -9,11 +9,11 @@ minister:
 - end: 1967-01-01
   name: Stanford Sutton
   start: 1965-01-01
-  type: pastor
+  type: Pastor
 - end: 1970-01-01
   name: Andrew Wikholm
   start: 1968-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Stanford Sutton
 - Andrew Wikholm
@@ -33,5 +33,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Faith Orthodox Presbyterian Church (Marietta OH)
+year_established:
+- 1963
 
 ---

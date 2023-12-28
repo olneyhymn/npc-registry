@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Cliff Blair
   start: 2003-01-01
-  type: pastor
+  type: Pastor
 - end: 2014-01-01
   name: Joseph H. Fowler Jr.
   start: 2011-01-01
@@ -17,7 +17,7 @@ minister:
 - end: 2012-01-01
   name: George Knight
   start: 2004-01-01
-  type: teacher
+  type: Teacher
 ministers:
 - Cliff Blair
 - Joseph H. Fowler Jr.
@@ -37,7 +37,6 @@ raw_data: "NORTH CAROLINA Charlotte\n\nPuritan Reformed Orthodox Presbyterian Mi
   \ Theological Seminary, 4824 Sharon Road\nPastor: Cliff Blair, 2003\u2013\nAssoc.\
   \ Pastor: Joseph H. Fowler Jr., 2011\u201314\nTeacher: George Knight, 2004\u2013\
   12"
-received_from: MISSING
 states:
 - NC
 status:
@@ -47,5 +46,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Redeemer Presbyterian Church (Charlotte NC)
+year_established:
+- 2003
 
 ---

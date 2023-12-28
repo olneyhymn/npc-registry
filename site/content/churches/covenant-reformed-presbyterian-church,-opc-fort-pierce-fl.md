@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Robert Berry
   start: 2000-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Robert Berry
 name: Covenant Reformed Presbyterian Church, OPC
@@ -20,7 +20,6 @@ names:
 origination_date: *id001
 raw_data: "FLORIDA\nFort Pierce\n\nCovenant Reformed Presbyterian Church, OPC  (October\
   \ 28, 2000\u2013 )\n5150 Oleander Avenue\nPastor: Robert Berry, 2000\u2013"
-received_from: MISSING
 states:
 - FL
 status:
@@ -30,5 +29,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Reformed Presbyterian Church, OPC (Fort Pierce FL)
+year_established:
+- 2000
 
 ---

@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Kevin Swanson
   start: 2002-04-12
-  type: pastor
+  type: Pastor
 ministers:
 - Kevin Swanson
 name: Reformation Church
@@ -21,11 +21,10 @@ names:
   name: Reformation Church, OPC
   start: 2002-04-12
 origination_date: *id001
-raw_data: "AR    Elizabeth\n\nReformation Church Chapel  (February 5, 2001\u2013\
-  April 12, 2002)\nReformation Church, OPC (April 12, 2002\u2013 )\n(formerly in Parker,\
+raw_data: "AR    Elizabeth\n\nReformation Church Chapel  (February 5, 2001\u2013April\
+  \ 12, 2002)\nReformation Church, OPC (April 12, 2002\u2013 )\n(formerly in Parker,\
   \ 2001\u20132, and in Castle Rock, 2002\u201314)\n489 Rocky Cliff Circle\nPastor:\
   \ Kevin Swanson, 2002\u2013"
-received_from: MISSING
 states:
 - AR
 status:
@@ -35,5 +34,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Reformation Church (Elizabeth AR)
+year_established:
+- 2002
 
 ---

@@ -9,19 +9,19 @@ minister:
 - end: 1966-01-01
   name: Jack Peterson
   start: 1961-01-01
-  type: pastor
+  type: Pastor
 - end: 1975-01-01
   name: Stephen Phillips
   start: 1967-01-01
-  type: pastor
+  type: Pastor
 - end: 1979-01-01
   name: Steve Hohenberger
   start: 1976-01-01
-  type: pastor
+  type: Pastor
 - end: 2013-12-04
   name: Martin Dawson
   start: 1979-01-01
-  type: pastor
+  type: Pastor
 - end: 2013-12-04
   name: Richard Anderson
   start: 2000-01-01
@@ -43,7 +43,6 @@ raw_data: "NEW JERSEY\nStratford\nStratford Orthodox Presbyterian Church  (Novem
   \ 9, 2012)\nPastors: Jack Peterson, 1961\u201366\nStephen Phillips, 1967\u201375\n\
   Steve Hohenberger, 1976\u201379\nMartin Dawson, 1979\u20132013\nMinister of Evangelism:\
   \  Richard Anderson, 2000\u20132013"
-received_from: MISSING
 states:
 - NJ
 status:
@@ -53,5 +52,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Stratford Orthodox Presbyterian Church (Stratford NJ)
+year_established:
+- 1958
 
 ---

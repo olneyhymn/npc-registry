@@ -15,8 +15,8 @@ ministers:
 name: Westminster Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "GA Carrollton\n\nWestminster Orthodox Presbyterian Chapel (May 8,\
-  \ 2002\u2013May 10, 2009)\nOrg. Pastor: P. Michael DeLozier, 2006\u20138"
+raw_data: "GA Carrollton\n\nWestminster Orthodox Presbyterian Chapel (May 8, 2002\u2013\
+  May 10, 2009)\nOrg. Pastor: P. Michael DeLozier, 2006\u20138"
 received_from: null
 states:
 - GA
@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Westminster Orthodox Presbyterian Chapel (Carrollton GA)
+year_established:
+- 2002
 
 ---

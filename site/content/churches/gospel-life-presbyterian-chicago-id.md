@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Gospel Life Presbyterian (Chicago ID)
+year_established:
+- 2008
 
 ---

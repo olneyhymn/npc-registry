@@ -30,5 +30,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Orthodox Presbyterian Chapel (Rocky Mount VA)
+year_established:
+- 1993
 
 ---

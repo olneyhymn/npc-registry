@@ -13,7 +13,7 @@ minister:
 - end: null
   name: Geoffrey L. Willour
   start: 2012-06-22
-  type: pastor
+  type: Pastor
 ministers:
 - Larry Oldaker
 - Geoffrey L. Willour
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Lake Orthodox Presbyterian Church (Mentor OH)
+year_established:
+- 2012
 
 ---

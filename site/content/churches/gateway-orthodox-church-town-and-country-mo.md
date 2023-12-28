@@ -33,5 +33,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Gateway Orthodox Church (Town and Country MO)
+year_established:
+- 2012
 
 ---

@@ -13,11 +13,11 @@ minister:
 - end: 2005-01-01
   name: Bryan Schroeder
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 - end: 2011-12-21
   name: Todd Dole
   start: 2006-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Douglas Nystrom
 - Bryan Schroeder
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Grace Presbyterian Church, OPC (Wichita Falls TX)
+year_established:
+- 2000
 
 ---

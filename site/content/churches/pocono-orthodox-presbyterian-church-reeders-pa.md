@@ -13,15 +13,15 @@ minister:
 - end: 1993-12-31
   name: William Laverty
   start: 1989-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Thomas Foh
   start: 1993-01-01
-  type: supply
+  type: Supply Pastor
 - end: null
   name: Thomas Foh
   start: 1995-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - William Laverty
 - William Laverty
@@ -51,5 +51,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Pocono Orthodox Presbyterian Church (Reeders PA)
+year_established:
+- 1989
 
 ---

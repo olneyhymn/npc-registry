@@ -9,7 +9,7 @@ minister:
 - end: 1970-07-01
   name: Robert Thoburn
   start: 1964-01-20
-  type: pastor
+  type: Pastor
 - end: 1968-01-01
   name: Edwin Urban
   start: 1966-01-01
@@ -33,5 +33,7 @@ status:
   received_from: null
   withdrawal_to: Independency
 title: Trinity Orthodox Presbyterian Church (Fairfax VA)
+year_established:
+- 1964
 
 ---

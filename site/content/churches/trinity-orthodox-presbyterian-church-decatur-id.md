@@ -9,11 +9,11 @@ minister:
 - end: 1984-01-01
   name: John Wiers
   start: 1979-07-21
-  type: pastor
+  type: Pastor
 - end: 1988-01-01
   name: Donald Parker
   start: 1985-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - John Wiers
 - Donald Parker
@@ -33,5 +33,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Church (Decatur ID)
+year_established:
+- 1979
 
 ---

@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Todd E. Smith
   start: 2015-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Todd E. Smith
 name: Faith Bible Orthodox Presbyterian Church
@@ -28,5 +28,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Faith Bible Orthodox Presbyterian Church (Brick NJ)
+year_established:
+- 2013
 
 ---

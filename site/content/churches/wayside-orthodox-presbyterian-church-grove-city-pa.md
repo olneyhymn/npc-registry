@@ -9,19 +9,19 @@ minister:
 - end: 1954-01-01
   name: Henry Phillips
   start: 1950-01-01
-  type: pastor
+  type: Pastor
 - end: 1959-01-01
   name: Wendell Rockey
   start: 1954-01-01
-  type: pastor
+  type: Pastor
 - end: 1964-01-01
   name: Thomas Tyson
   start: 1960-01-01
-  type: pastor
+  type: Pastor
 - end: 1965-01-01
   name: Henry Tavares
   start: 1964-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Henry Phillips
 - Wendell Rockey
@@ -44,5 +44,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Wayside Orthodox Presbyterian Church (Grove City PA)
+year_established:
+- 1950
 
 ---

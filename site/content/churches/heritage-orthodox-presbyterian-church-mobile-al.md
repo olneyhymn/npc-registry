@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Kenneth L. Wendland
   start: 2001-07-27
-  type: pastor
+  type: Pastor
 ministers:
 - Kenneth L. Wendland
 name: Heritage Orthodox Presbyterian Church
@@ -31,5 +31,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Heritage Orthodox Presbyterian Church (Mobile AL)
+year_established:
+- 2001
 
 ---

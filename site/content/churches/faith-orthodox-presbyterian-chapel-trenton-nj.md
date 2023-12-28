@@ -26,5 +26,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Faith Orthodox Presbyterian Chapel (Trenton NJ)
+year_established:
+- 1937
 
 ---

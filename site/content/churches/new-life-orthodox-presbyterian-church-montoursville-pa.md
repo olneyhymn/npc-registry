@@ -9,7 +9,7 @@ minister:
 - end: null
   name: Paul Browne
   start: 1995-01-01
-  type: pastor
+  type: Pastor
 - end: 2011-01-01
   name: Roth Reason
   start: 2006-01-01
@@ -41,5 +41,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: New Life Orthodox Presbyterian Church (Montoursville PA)
+year_established:
+- 1994
 
 ---

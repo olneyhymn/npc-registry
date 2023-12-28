@@ -9,11 +9,11 @@ minister:
 - end: 1964-01-01
   name: Wendell Rockey
   start: 1959-01-01
-  type: pastor
+  type: Pastor
 - end: 1969-01-01
   name: Richard Horner
   start: 1967-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Wendell Rockey
 - Richard Horner
@@ -36,5 +36,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Calvary Orthodox Presbyterian Church (Cranston RI)
+year_established:
+- 1958
 
 ---

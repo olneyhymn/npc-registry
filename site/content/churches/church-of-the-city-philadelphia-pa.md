@@ -9,11 +9,11 @@ minister:
 - end: 1982-01-01
   name: James Petty
   start: 1975-01-01
-  type: pastor
+  type: Pastor
 - end: 1987-01-01
   name: Thomas Corey
   start: 1981-01-01
-  type: pastor
+  type: Pastor
 - end: 1987-01-01
   name: James Petty
   start: 1983-01-01
@@ -36,7 +36,6 @@ raw_data: "PA Philadelphia\n\nAtonement Orthodox Presbyterian Church (November 1
   (withdrew to the Presbyterian Church in America, July 19, 1987)\nPastors: James\
   \ Petty, 1975\u201382\nThomas Corey, 1981\u201387\nAssoc. Pastor: James Petty, 1983\u2013\
   87"
-received_from: MISSING
 states:
 - PA
 status:
@@ -46,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Church of the City (Philadelphia PA)
+year_established:
+- 1971
 
 ---

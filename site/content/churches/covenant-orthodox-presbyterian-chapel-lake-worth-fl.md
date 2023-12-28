@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Chapel (Lake Worth FL)
+year_established:
+- 1965
 
 ---

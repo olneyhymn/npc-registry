@@ -28,5 +28,7 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Mira Mesa Orthodox Presbyterian Chapel (MISSING AR)
+year_established:
+- 1986
 
 ---

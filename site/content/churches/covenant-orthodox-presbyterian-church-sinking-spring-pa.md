@@ -13,11 +13,11 @@ minister:
 - end: 2002-01-01
   name: "David O\u2019Leary"
   start: 1982-01-01
-  type: pastor
+  type: Pastor
 - end: 2015-01-01
   name: Wendell Stoltzfus
   start: 2005-01-01
-  type: pastor
+  type: Pastor
 - end: 2013-01-01
   name: Ross Ritter
   start: 2010-01-01
@@ -56,5 +56,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Sinking Spring PA)
+year_established:
+- 1982
 
 ---

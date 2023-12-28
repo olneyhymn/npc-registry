@@ -9,15 +9,15 @@ minister:
 - end: 1997-01-01
   name: Jack Kineer
   start: 1982-01-16
-  type: pastor
+  type: Pastor
 - end: 2002-01-01
   name: Bruce Jarvis
   start: 1997-01-01
-  type: pastor
+  type: Pastor
 - end: 2006-01-01
   name: Graham Harbman
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Jack Kineer
 - Bruce Jarvis
@@ -45,5 +45,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Easton PA)
+year_established:
+- 1982
 
 ---

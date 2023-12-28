@@ -13,7 +13,7 @@ minister:
 - end: 1997-09-30
   name: Jack Unangst
   start: 1992-08-08
-  type: pastor
+  type: Pastor
 ministers:
 - Jack Unangst
 - Jack Unangst
@@ -40,5 +40,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Trinity Orthodox Presbyterian Church (MISSING AR)
+year_established:
+- 1992
 
 ---

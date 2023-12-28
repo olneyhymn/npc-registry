@@ -9,7 +9,7 @@ minister:
 - end: 1963-01-01
   name: Thompson Casey, Jr.
   start: 1961-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Thompson Casey, Jr.
 name: Ortega Orthodox Presbyterian Church
@@ -31,5 +31,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Ortega Orthodox Presbyterian Church (Jacksonville FL)
+year_established:
+- 1961
 
 ---

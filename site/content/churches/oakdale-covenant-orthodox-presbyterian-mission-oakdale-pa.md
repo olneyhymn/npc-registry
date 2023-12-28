@@ -27,5 +27,7 @@ status:
   received_from: null
   withdrawal_to: null
 title: Oakdale Covenant Orthodox Presbyterian Mission (Oakdale PA)
+year_established:
+- 1984
 
 ---
