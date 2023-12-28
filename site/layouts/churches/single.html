@@ -4,7 +4,6 @@
 <article>
 
   <h1>{{ .Title }}</h1>
-  asdf
   <div class="church-info">
     <p>{{ .Params.location.address }}, {{ .Params.location.city }}, <a
         href='{{ "/states/" | relURL }}{{ .Params.location.state | urlize }}/'>{{ .Params.location.state }}</a></p>

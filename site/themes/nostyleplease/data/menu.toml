@@ -1,23 +1,11 @@
 [[entries]]
-title = "Churches"
-
-  [entries.post_list]
-  section = "churches"
-  show_more = false
-  show_more_text = "See more posts..."
-  show_more_url = "churches"
-
+title = "Churches by Name"
+url = "churches"
 
 [[entries]]
-title = "another list"
+title = "States"
+url = "states"
 
-  [[entries.entries]]
-  title = "with subitems"
-
-    [[entries.entries.entries]]
-    title = "with subsubitems"
-
-    [[entries.entries.entries]]
-    title = "example page"
-    url = "about"
-
+[[entries]]
+title = "Ministers"
+url = "ministers"
