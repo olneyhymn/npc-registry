@@ -506,7 +506,7 @@ Yong Kim, 2006–9
   location:
     address: 2660 W. Woodland Dr. Ste. 140
     city: Anaheim
-    state: AR
+    state: CA
   minister:
     - name: Yong Kim
       start: 1999-01-01
@@ -555,7 +555,7 @@ Org. Pastor: Christopher D. Hartshorn, 2014–
   location:
     address: East Anaheim Community Center, 8201 E. Santa Ana Canyon Road
     city: Anaheim Hills
-    state: AR
+    state: CA
   minister:
     - name: Christopher D. Hartshorn
       start: 2014-01-01
@@ -586,7 +586,7 @@ Mark House, 1982–83
     - end_date: 1989-05-23
   location:
     address: Artesia
-    state: AR
+    state: CA
   minister:
     - name: Robert Newsom
       start: 1976-12-05
@@ -639,7 +639,7 @@ Org. Pastor: Alan Pontier, 2006–15
   location:
     address: Big Bear Lake
     city: Big Bear Lake
-    state: AR
+    state: CA
   minister:
     - name: Alan Pontier
       start: 2006-02-03
@@ -671,7 +671,7 @@ Stephen Parker, 2002–
   location:
     address: 5111 Central Avenue
     city: Bonita
-    state: AR
+    state: CA
   minister:
     - name: John Garrisi
       start: 1973-01-01
@@ -720,7 +720,7 @@ Org. Pastor: Jonathan B. Moersch, 2012–
   location:
     address: 26462 Via Sacramento
     city: Capistrano Beach
-    state: AR
+    state: CA
   minister:
     - name: Jonathan B. Moersch
       start: 2012-05-05
@@ -760,7 +760,7 @@ Joshua P. Lyon, 2013–
   location:
     address: 22511 South Figueroa Street
     city: Carson
-    state: AR
+    state: CA
   minister:
     - name: Floyd Hamilton
       start: 1942-05-21
@@ -858,7 +858,7 @@ David L. Thibault, 2015–
   location:
     address: 271 Avocado Street
     city: Costa Mesa
-    state: AR
+    state: CA
   minister:
     - name: Kenneth Gentry
       start: 1998-01-01
@@ -901,7 +901,7 @@ Pastor: Zachary Keele, 2006–
   location:
     address: 1725 Bear Valley Parkway
     city: Escondido
-    state: AR
+    state: CA
   minister:
     - name: Zachary Keele
       start: 2004-01-01
@@ -932,7 +932,7 @@ Assoc. Pastor: Douglass Swagerty, 1984–85
     - end_date: 1989-01-31
   location:
     address: Escondido
-    state: AR
+    state: CA
   minister:
     - name: Richard Kaufmann
       start: 1981-01-01
@@ -966,7 +966,7 @@ Pastor: Andrew Preston, 2000–2005
   location:
     address:
     city: Eureka
-    state: AR
+    state: CA
   minister:
     - name: Andrew Preston
       start: 1995-01-01
@@ -995,7 +995,7 @@ Pastor: Stanley Allen, 1967–68
   location:
     address:
     city: Fountain Valley
-    state: AR
+    state: CA
   minister:
     - name: Stanley Allen
       start: 1967-01-01
@@ -1022,7 +1022,7 @@ Pastor: E. Lynne Wade, 1937
   location:
     address: Unknown
     city: Glendale
-    state: AR
+    state: CA
   minister:
     - name: E. Lynne Wade
       start: 1937-01-01
@@ -1055,7 +1055,7 @@ Jack Smith, 1993–95
   location:
     address: 7526 Calle Real
     city: Goleta
-    state: AR
+    state: CA
   minister:
     - name: Dwight Poundstone
       start: 1967-05-19
@@ -1112,7 +1112,7 @@ Supply: H. Wilson Albright, 1959–63
   location:
     address:
     city: Hacienda Heights
-    state: AR
+    state: CA
   minister:
     - name: H. Wilson Albright
       start: 1959-05-17
@@ -1156,7 +1156,7 @@ Asst. Pastor: Jay Nelken, 2003–7
   location:
     address: 900 N. Redington (at Elm)
     city: Hanford
-    state: AR
+    state: CA
   minister:
     - name: Robert Needham
       start: 1992-01-01
@@ -1224,7 +1224,7 @@ Calvary Presbyterian Church of America  (October 2, 1936–September 1937)
     - end_date: 1937-09-30
   location:
     address: Hollywood
-    state: AR
+    state: CA
   raw_data: |
     AR Hollywood
 
@@ -1253,7 +1253,7 @@ Mark R. Wheat, 2012–
   location:
     address: 7201 Hughson Avenue
     city: Hughson
-    state: AR
+    state: CA
   minister:
     - name: Sal Solis
       start: 1998-01-01
@@ -1303,7 +1303,7 @@ Pastor: Jack Smith, 1985–93
     - start_date: 1991-08-15
   location:
     address: Irvine
-    state: AR
+    state: CA
   minister:
     - name: Jack Smith
       start: 1985-01-01
@@ -1350,7 +1350,7 @@ Teacher: John Garrisi, 1994–97
   location:
     address: null
     city: La Mesa
-    state: AR
+    state: CA
   minister:
     - name: Edward Kellogg
       start: 1966-10-15
@@ -1429,7 +1429,7 @@ Assoc. Pastor: Edward V olz, 1970–75
   location:
     address: 500 East San Antonio Drive
     city: Long Beach
-    state: AR
+    state: CA
   minister:
     - name: Henry Coray
       start: 1941-01-01
@@ -1501,7 +1501,7 @@ Assoc. Pastor: Josue Balderas, 1982–87
   location:
     address: Los Angeles
     city: Beverly
-    state: AR
+    state: CA
   minister:
     - name: Donald Blackie
       start: 1936-10-28
@@ -1560,7 +1560,7 @@ Org. Pastor: Gonzalo Salinas, 2002–6
   end_date: 2006-02-28
   location:
     address: Los Angeles
-    state: AR
+    state: CA
   minister:
     - name: Gonzalo Salinas
       start: 2002-01-01
@@ -1598,7 +1598,7 @@ William Welmers, 1977–82
     - end_date: 1989-01-28
   location:
     city: Manhattan Beach
-    state: AR
+    state: CA
   minister:
     - name: Clifford Smith
       start: 1946-01-01
@@ -1673,7 +1673,7 @@ Gerald Latal, 1963–72
     - end_date: 1978-03-18
   location:
     city: Manteca
-    state: AR
+    state: CA
   minister:
     - name: C. John Miller
       start: 1959-01-01
@@ -1702,7 +1702,7 @@ Pastor: Terry Thole, 2014–
   location:
     address: 500 Sunset Avenue
     city: Madera
-    state: AR
+    state: CA
   minister:
     - name: Terry Thole
       start: 2014-01-01
@@ -1739,7 +1739,7 @@ Teacher: Timothy G. Walker, 2011–
   location:
     address: 910 2nd Ave
     city: Marina
-    state: AR
+    state: CA
   minister:
     - name: Donald Owsley
       start: 1996-01-04
@@ -1791,7 +1791,7 @@ Evangelist: Mark Maliepaard, 1986–88
     - end_date: 1988-06-17
   location:
     address: Mira Mesa
-    state: AR
+    state: CA
   minister:
     - name: Mark Maliepaard
       start: 1986-01-01
@@ -1815,7 +1815,7 @@ Douglas L. Watson, 2003–6
   location:
     address: Mission Viejo
     city: Mission Viejo
-    state: AR
+    state: CA
   minister:
     - name: William Baldwin
       start: 1996-01-01
@@ -1847,7 +1847,7 @@ P. Shaun Bryant, 1994–
   location:
     address: 1448 Standiford Avenue
     city: Modesto
-    state: AR
+    state: CA
   minister:
     - name: Thomas Champness
       start: 1965-01-01
@@ -1896,7 +1896,7 @@ Pastor: L. Anthony Curto, 1992–94
     - end_date: 1995-02-04
   location:
     city: Newport Beach
-    state: AR
+    state: CA
   minister:
     - name: L. Anthony Curto
       start: 1988-03-06
@@ -2014,7 +2014,7 @@ Grace Presbyterian Church of America  (October 21, 1936–October 5, 1937)
   location:
     address: null
     city: Pasadena
-    state: AR
+    state: CA
   minister: []
   raw_data: |
     AR Pasadena
@@ -2032,7 +2032,7 @@ Timothy Walker, 2006–9
   location:
     address:
     city: Paso Robles
-    state: AR
+    state: CA
   minister:
     - name: Marcus Serven
       start: 2000-01-01
@@ -2064,7 +2064,7 @@ Michael Dengerink, 2002
   location:
     address: 1251 California Avenue #700
     city: Pittsburg
-    state: AR
+    state: CA
   minister:
     - name: Martin Ban
       start: 1989-01-01
@@ -2095,7 +2095,7 @@ Pastor: Gregory Bahnsen, 1981–88
   merge_date: 1988
   location:
     address: Placentia
-    state: AR
+    state: CA
   minister:
     - name: Gregory Bahnsen
       start: 1981-02-15
@@ -2124,7 +2124,7 @@ Church of the Redeemer OPC  (September 21, 1985–April 4, 1989)
   location:
     address:
     city: Placerville
-    state: AR
+    state: CA
   raw_data: |
     AR
     Placerville
@@ -2145,7 +2145,7 @@ Evangelist: Vincent Ortiz, 1985–86
   location:
     address:
     city: Pleasant Hill
-    state: AR
+    state: CA
   minister:
     - name: Vincent Ortiz
       start: 1985-01-01
@@ -2171,7 +2171,7 @@ Pastor: Bruce Brawdy, 1997–2006
     - end_date: 2008-01-01
   location:
     address: Ramona
-    state: AR
+    state: CA
   minister:
     - name: Bruce Brawdy
       start: 1997-05-18
@@ -2199,7 +2199,7 @@ Pastor: Gene. L. Crow, 2015–
   location:
     address: null
     city: Redding
-    state: AR
+    state: CA
   minister:
     - name: Gene L. Crow
       start: 2008-01-01
@@ -2240,7 +2240,7 @@ Pastor: Robert Herrmann, 2007–15
   location:
     address: The Village at Redlands, 305 Mountain View Cir.
     city: Redlands
-    state: AR
+    state: CA
   minister:
     - name: Robert Herrmann
       start: 2001-01-01
@@ -2280,7 +2280,7 @@ Kevin Van Der Linden, 2006–
   location:
     address: 914 Cirby Way
     city: Roseville
-    state: AR
+    state: CA
   minister:
     - name: Michael DeLozier
       start: 1999-03-20
@@ -2321,7 +2321,7 @@ Pastor: Daniel Morse, 1982–84
   location:
     address: Roseville
     city: Roseville
-    state: AR
+    state: CA
   minister:
     - name: Daniel Morse
       start: 1980-01-01
@@ -2365,7 +2365,7 @@ Wallace Bell, 1966–72
     - end_date: 1975-10-18
   location:
     address: San Diego
-    state: AR
+    state: CA
   minister:
     - name: Charles Schauffele
       start: 1947-01-01
@@ -2411,7 +2411,7 @@ Pastor: Lionel Brown, 1956–58
     - end_date: 1958-12-12
   location:
     city: San Francisco
-    state: AR
+    state: CA
   minister:
     - name: Lionel Brown
       start: 1956-01-01
@@ -2446,7 +2446,7 @@ Glenn Ferrell, 2010–
   location:
     address: 1350 Lawton Street
     city: San Francisco
-    state: AR
+    state: CA
   minister:
     - name: Robert Atwell
       start: 1941-04-15
@@ -2520,7 +2520,7 @@ Robert A. Starke, 2012–
   location:
     address: 2350 Leigh Avenue
     city: San Jose
-    state: AR
+    state: CA
   minister:
     - name: Wilson Rinker
       start: 1965-10-13
@@ -2577,7 +2577,7 @@ Pastor: Jonathan Male, 1985–90
   merge_date: 1990-07-01
   location:
     address: San Jose
-    state: AR
+    state: CA
   minister:
     - name: Jonathan Male
       start: 1985-02-18
@@ -2604,7 +2604,7 @@ Assoc. Pastor: Jesse Pirschel, 2004–8
   location:
     address: 380 Mulberry Dr.
     city: San Marcos
-    state: AR
+    state: CA
   minister:
     - name: Mark Schroeder
       start: 1993-01-01
@@ -2628,7 +2628,7 @@ Evangelist: Stephen Larson, 1990–2010
 ","- name: Iglesia del Senor Viviente
   location:
     address: Santa Ana
-    state: AR
+    state: CA
   minister:
     - name: Stephen Larson
       start: 1990-01-01
@@ -2655,7 +2655,7 @@ Pastor: Lynne Wade, 1938–40
   location:
     address: 1120 N. Olive Street
     city: Santa Ana
-    state: AR
+    state: CA
   minister:
     - name: Lynne Wade
       start: 1938-01-01
@@ -2695,7 +2695,7 @@ Joshua Martin, 2007–
   location:
     address: 1501 E. Alvin Avenue
     city: Santa Cruz
-    state: AR
+    state: CA
   minister:
     - name: Rousas Rushdoony
       start: 1958-01-01
@@ -2855,7 +2855,7 @@ David Bush, 2002–
   location:
     address: 14892 Peaceful Valley Road
     city: Sonora
-    state: AR
+    state: CA
   minister:
     - name: Robert Churchill
       start: 1963-01-01
@@ -2918,7 +2918,7 @@ David Tickner, 1979–82
   location:
     address:
     city: South Pasadena
-    state: AR
+    state: CA
   minister:
     - name: Lynne Wade
       start: 1936-11-02
@@ -2983,7 +2983,7 @@ Carl Erickson, 1967–
   location:
     address: 186 Country Club Drive
     city: South San Francisco
-    state: AR
+    state: CA
   minister:
     - name: Arthur Riffel
       start: 1958-01-01
@@ -3045,7 +3045,7 @@ Teacher: Benjamin Wikner, 2004–5
     address: 45125 Via Del Coronado
     school: Erle Stanley Gardner Middle School
     city: Temecula
-    state: AR
+    state: CA
   minister:
     - name: Donald Poundstone
       start: 1997-01-01
@@ -3096,7 +3096,7 @@ Teacher: Dale T. Hanaoka, 2012–
   location:
     address: 2370 W. Carson Street, Suite #100
     city: Torrance
-    state: AR
+    state: CA
   minister:
     - name: Paul Viggiano
       start: 2003-01-01
@@ -3121,7 +3121,7 @@ Evangelist: C. Lee Irons, 1998–2003
     - end_date: 2003-10-26
   location:
     city: Van Nuys
-    state: AR
+    state: CA
   minister:
     - name: C. Lee Irons
       start: 1998-01-01
@@ -3185,7 +3185,7 @@ Asst. Pastor: Stephen Larson, 1990–2010
   location:
     address: 10101 Cunningham Avenue
     city: Westminster
-    state: AR
+    state: CA
   minister:
     - name: Robert Morris
       start: 1955-01-01
@@ -3293,7 +3293,7 @@ Org. Pastor: Yong Kim, 2008–
   location:
     address: 10823 Colima Road
     city: Whittier
-    state: AR
+    state: CA
   minister:
     - name: Yong Kim
       start: 2008-12-12
@@ -3314,7 +3314,7 @@ Evangelist: William Fredericks, 1980–81
   end_date: 1985-05-18
   location:
     address: Yuba City
-    state: AR
+    state: CA
   minister:
     - name: William Fredericks
       start: 1980-01-01
@@ -3324,7 +3324,7 @@ Evangelist: William Fredericks, 1980–81
     AR	Yuba City
     Sovereign Grace Orthodox Presbyterian Chapel  (1977–May 18, 1985)
     Evangelist: William Fredericks, 1980–81"
-AR,Aurora,"
+CO,Aurora,"
 
 Grace Community Bible Churc h (March 26, 1980–December 8, 1985)
 (dismissed to the Reformed Presbyterian Church of North America, December 8, 1985)
@@ -3340,7 +3340,7 @@ Sidney Van Camp, 1978–85
   location:
     address:
     city: Aurora
-    state: AR
+    state: CO
   minister:
     - name: Huibert Vandenbroek
       start: 1975-01-01
@@ -3358,7 +3358,7 @@ Sidney Van Camp, 1978–85
     (dismissed to the Reformed Presbyterian Church of North America, December 8, 1985)
     Pastors: Huibert Vandenbroek, 1975–77
     Sidney Van Camp, 1978–85"
-AR,Broomfield,"
+CO,Broomfield,"
 
 Broomfield Presbyterian Chapel, OPC  (December 2, 2001–May 24, 2002)
 Bethel Presbyterian Church, OPC  (2002– )
@@ -3379,7 +3379,7 @@ Pastor: Gregory Thurston, 2002–
   location:
     address: Bloomfield High School, Eagle Way and Main Street
     city: Broomfield
-    state: AR
+    state: CO
   minister:
     - name: Gregory Thurston
       start: 2001-01-01
@@ -3397,7 +3397,7 @@ Pastor: Gregory Thurston, 2002–
     Bloomfield High School, Eagle Way and Main Street
     Org. Pastor: Gregory Thurston, 2001–2
     Pastor: Gregory Thurston, 2002–"
-AR,Calhan,"
+CO,Calhan,"
 
 High Plains Orthodox Presbyterian Church  (May 15, 2008– )
 657 7th Street
@@ -3414,7 +3414,7 @@ David A. Bosch, 2012–
   location:
     address: 657 7th Street
     city: Calhan
-    state: AR
+    state: CO
   minister:
     - name: Scott Seder
       start: 2008-01-01
@@ -3448,7 +3448,7 @@ Pastor: Michael J. Chapa, 2015–
   location:
     address: 1470 Clear Sky Way
     city: Castle Rock
-    state: AR
+    state: CO
   minister:
     - name: Michael J. Chapa
       start: 2015-01-01
@@ -3500,7 +3500,7 @@ Matthew Kingsbury, 1999–2001
   location:
     address: 3411 Albion Street
     city: Denver
-    state: AR
+    state: CO
   minister:
     - name: W. Benson Male
       start: 1944-01-01
@@ -3571,7 +3571,7 @@ Co–Pastor: Shawn Mathis, 2006
   location:
     address: 2675 South Downing
     city: Denver
-    state: AR
+    state: CO
   minister:
     - name: Leonard Coppes
       start: 1987-01-01
@@ -3602,7 +3602,7 @@ Pastor: Jack Unangst, 1992–97
       end: 1997-09-30
   location:
     address: Denver
-    state: AR
+    state: CO
   minister:
     - name: Jack Unangst
       start: 1990-12-16
@@ -3641,7 +3641,7 @@ Pastor: Kevin Swanson, 2002–
   location:
     address: 489 Rocky Cliff Circle
     city: Elizabeth
-    state: AR
+    state: CO
   minister:
     - name: Kevin Swanson
       start: 2002-04-12
@@ -3676,7 +3676,7 @@ Pastor: Archibald A. Allison, 2001–
   location:
     address: 4601 S. Mason Street
     city: Fort Collins
-    state: AR
+    state: CO
   minister:
     - name: Archibald A. Allison
       start: 1993-07-23
@@ -3710,7 +3710,7 @@ C. Don Darling (Supply from the PCA), 1983–87
     - end_date: 1987-09-23
   location:
     address: Grand Junction
-    state: AR
+    state: CO
   minister:
     - name: Jonathan Male
       start: 1961-01-01
@@ -3786,7 +3786,7 @@ Matthew Kingsbury, 1999–2001
   location:
     address: null
     city: Thornton
-    state: AR
+    state: CO
   minister:
     - name: Laurence Vail
       start: 1961-01-01
