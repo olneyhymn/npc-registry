@@ -9,3 +9,7 @@ url = "states"
 [[entries]]
 title = "Ministers"
 url = "ministers"
+
+[[entries]]
+title = "Year Founded"
+url = "year_established"
