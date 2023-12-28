@@ -585,8 +585,8 @@ Mark House, 1982–83
     - transfer_to: Presbyterian Church in America
     - end_date: 1989-05-23
   location:
-    address: Artesia
-    state: CA
+    city:  Artesia
+    state:  CA
   minister:
     - name: Robert Newsom
       start: 1976-12-05
@@ -931,8 +931,8 @@ Assoc. Pastor: Douglass Swagerty, 1984–85
     - transfer_to: Presbyterian Church in America
     - end_date: 1989-01-31
   location:
-    address: Escondido
-    state: CA
+    city:  Escondido
+    state:  CA
   minister:
     - name: Richard Kaufmann
       start: 1981-01-01
@@ -1189,9 +1189,6 @@ Providence Orthodox Presbyterian Chapel  (November 1, 1997–February 29, 2008)
 Pastor: Charles McIlhenny, 1997–2005
 ","- name: Providence Orthodox Presbyterian Chapel
   origination_date: 1997-11-01
-  received_from:
-    - name: AR
-      city: Hayward
   names:
     - name: Providence Orthodox Presbyterian Chapel
       start: 1997-11-01
@@ -1201,6 +1198,7 @@ Pastor: Charles McIlhenny, 1997–2005
     - end_date: 2008-02-29
   location:
     city: Hayward
+    state: CA
   minister:
     - name: Charles McIlhenny
       start: 1997-01-01
@@ -1223,7 +1221,7 @@ Calvary Presbyterian Church of America  (October 2, 1936–September 1937)
     - withdrawal_to: Independency
     - end_date: 1937-09-30
   location:
-    address: Hollywood
+    city: Hollywood
     state: CA
   raw_data: |
     AR Hollywood
@@ -1302,8 +1300,8 @@ Pastor: Jack Smith, 1985–93
     - change_to: Trinity Orthodox Presbyterian Church
     - start_date: 1991-08-15
   location:
-    address: Irvine
-    state: CA
+    city:  Irvine
+    state:  CA
   minister:
     - name: Jack Smith
       start: 1985-01-01
@@ -1559,8 +1557,8 @@ Org. Pastor: Gonzalo Salinas, 2002–6
   origination_date: 1995-05-06
   end_date: 2006-02-28
   location:
-    address: Los Angeles
-    state: CA
+    city:  Los Angeles
+    state:  CA
   minister:
     - name: Gonzalo Salinas
       start: 2002-01-01
@@ -1790,8 +1788,8 @@ Evangelist: Mark Maliepaard, 1986–88
     - withdrawal_to: Presbyterian Church in America
     - end_date: 1988-06-17
   location:
-    address: Mira Mesa
-    state: CA
+    city:  Mira Mesa
+    state:  CA
   minister:
     - name: Mark Maliepaard
       start: 1986-01-01
@@ -1938,7 +1936,7 @@ Evangelist: Douglass Swagerty, 1985–89
     - withdrawal_to: Presbyterian Church in America
     - end_date: 1989-02-02
   location:
-    address: CA
+    state: CA
     city: Oceanside
   minister:
     - name: Douglass Swagerty
@@ -2094,8 +2092,8 @@ Pastor: Gregory Bahnsen, 1981–88
   merged_with: Plymouth Congregational Church
   merge_date: 1988
   location:
-    address: Placentia
-    state: CA
+    city:  Placentia
+    state:  CA
   minister:
     - name: Gregory Bahnsen
       start: 1981-02-15
@@ -2170,8 +2168,8 @@ Pastor: Bruce Brawdy, 1997–2006
     - active: false
     - end_date: 2008-01-01
   location:
-    address: Ramona
-    state: CA
+    city:  Ramona
+    state:  CA
   minister:
     - name: Bruce Brawdy
       start: 1997-05-18
@@ -2364,8 +2362,8 @@ Wallace Bell, 1966–72
     - withdrawal_to: Independency
     - end_date: 1975-10-18
   location:
-    address: San Diego
-    state: CA
+    city:  San Diego
+    state:  CA
   minister:
     - name: Charles Schauffele
       start: 1947-01-01
@@ -2576,8 +2574,8 @@ Pastor: Jonathan Male, 1985–90
   merged_with: Covenant Orthodox Presbyterian Church
   merge_date: 1990-07-01
   location:
-    address: San Jose
-    state: CA
+    city:  San Jose
+    state:  CA
   minister:
     - name: Jonathan Male
       start: 1985-02-18
@@ -2627,8 +2625,8 @@ Iglesia del Senor Viviente
 Evangelist: Stephen Larson, 1990–2010
 ","- name: Iglesia del Senor Viviente
   location:
-    address: Santa Ana
-    state: CA
+    city:  Santa Ana
+    state:  CA
   minister:
     - name: Stephen Larson
       start: 1990-01-01
@@ -2761,8 +2759,8 @@ Assoc. Pastor: Michael Matossian, 1998–99
     - active: false
     - end_date: 2005-05-06
   location:
-    address: Santee
-    city: AR
+    city: Santee
+    state: CA
   minister:
     - name: Bruce Hunt
       start: 1944-01-01
@@ -3255,8 +3253,8 @@ Daniel Overduin, 1968–69
   origination_date: 1966-01-01
   end_date: 1969-08-31
   location:
-    address: West Torrance
-    city: AR
+    city: West Torrance
+    state: CA
   minister:
     - name: Louis Knowles
       start: 1967-01-01
@@ -3313,8 +3311,8 @@ Evangelist: William Fredericks, 1980–81
   origination_date: 1977-01-01
   end_date: 1985-05-18
   location:
-    address: Yuba City
-    state: CA
+    city:  Yuba City
+    state:  CA
   minister:
     - name: William Fredericks
       start: 1980-01-01
@@ -3601,8 +3599,8 @@ Pastor: Jack Unangst, 1992–97
       start: 1992-08-08
       end: 1997-09-30
   location:
-    address: Denver
-    state: CO
+    city:  Denver
+    state:  CO
   minister:
     - name: Jack Unangst
       start: 1990-12-16
@@ -3709,7 +3707,7 @@ C. Don Darling (Supply from the PCA), 1983–87
     - active: false
     - end_date: 1987-09-23
   location:
-    address: Grand Junction
+    city: Grand Junction
     state: CO
   minister:
     - name: Jonathan Male
@@ -3755,8 +3753,8 @@ Oak Creek Orthodox Presbyterian Mission  (1941–1952)
   status:
     - active: false
   location:
-    address: Oak Creek
-    city: AR
+    city: Oak Creek
+    state: CO
   raw_data: |
     AR	Oak Creek
 
@@ -3935,8 +3933,8 @@ Pastor: Richard Mozer, 2000
     - end_date: 2000-09-16
   location:
     address:
-  city: Torrington
-  state: CT
+    city: Torrington
+    state: CT
   minister:
     - name: Richard Mozer
       start: 2000-01-01
@@ -5292,8 +5290,8 @@ Pastor: T. Jeffrey Taylor, 1995–98
     - transfer_to: Presbyterian Church in America
     - end_date: 1998-08-16
   location:
-    address: Cumming
-    state: GA
+    city:  Cumming
+    state:  GA
   minister:
     - name: T. Jeffrey Taylor
       start: 1995-12-07
@@ -5571,8 +5569,8 @@ Glenn Ferrell, 2005–10
     - active: false
     - end_date: 2013-09-27
   location:
-    address: Boise
-    state: ID
+    city:  Boise
+    state:  ID
   minister:
     - name: Carl Durham
       start: 1995-01-01
@@ -7153,8 +7151,8 @@ Pastor: J. Lyle Shaw, 1937–52
     - active: false
     - end_date: 1952-01-01
   location:
-    address: Newport
-    state: KY
+    city:  Newport
+    state:  KY
   minister:
     - name: J. Lyle Shaw
       start: 1937-01-01
@@ -7861,8 +7859,8 @@ Stuart Jones, 1982–2007
     - active: false
     - end_date: 2007-03-18
   location:
-    address: Baltimore
-    state: MD
+    city:  Baltimore
+    state:  MD
   minister:
     - name: Theodore Jansma
       start: 1937-01-01
@@ -10447,8 +10445,8 @@ V . Robert Nilson (Supply), 1979–80
       start: 1939-04-11
       end: 1980-04-30
   location:
-    address: Omaha
-    state: NE
+    city:  Omaha
+    state:  NE
   minister:
     - name: Robert Brown
       start: 1939-01-01
@@ -10600,7 +10598,7 @@ Pastor: Malcolm Wright, 1983–86
     - active: false
     - end_date: 1986-10-07
   location:
-    address: NH
+    state: NH
     city: Concord
   minister:
     - name: Malcolm Wright
@@ -12522,7 +12520,7 @@ Whiting Orthodox Presbyterian Fellowship Chapel  (1978–1981)
   status:
     - active: false
   location:
-    address: Whiting
+    city: Whiting
     state: NJ
   raw_data: |
     NEW JERSEY Whiting
@@ -12767,7 +12765,7 @@ Pastor: Laurence Veinott, 2004–9
     - reason: removal from the roll
     - end_date: 2009-04-28
   location:
-    address: NY
+    state: NY
     city: Canton
   minister:
     - name: Laurence Veinott
@@ -12791,8 +12789,8 @@ Org. Pastor: Nathan Ketchen, 2008–11
     - reason: supply
     - end_date: 2011-11-19
   location:
-    address: Elmont
-    city: NY
+    city: Elmont
+    state: NY
   minister:
     - name: Nathan Ketchen
       start: 2008-01-01
@@ -15914,8 +15912,8 @@ Henry Tavares, 1948–52
     - reason: joined the Canadian Reformed Church
     - end_date: 1985-09-11
   location:
-    address: Blue Bell
-    state: PA
+    city:  Blue Bell
+    state:  PA
   minister:
     - name: Stanley Ray
       start: 1937-01-01
@@ -17505,7 +17503,7 @@ Assoc. Pastor: David Stevenson, 2000–2003
     - withdrawal_to: Presbyterian Church in America
     - end_date: 2014-06-22
   location:
-    address: Oxford
+    city: Oxford
     state: PA
   minister:
     - name: Peter DeRuiter
@@ -18736,8 +18734,8 @@ Pastor: Harry R. “Buster” McLeod, Jr., 2008–12
     - active: false
     - end_date: 2013-01-01
   location:
-    address: Yardley
-    state: PA
+    city:  Yardley
+    state:  PA
   minister:
     - name: Harry R. “Buster” McLeod, Jr.
       start: 2005-01-01
@@ -20610,8 +20608,8 @@ Missionary: Clarence Mays, 1981–82
     - active: false
     - end_date: 1982-10-01
   location:
-    address: Richardson
-    state: TX
+    city:  Richardson
+    state:  TX
   minister:
     - name: Clarence Mays
       start: 1981-01-01
@@ -20988,8 +20986,8 @@ Dennis Smith, 1993–95
     - active: false
     - end_date: 1997-03-01
   location:
-    address: Williston
-    state: VT
+    city:  Williston
+    state:  VT
   minister:
     - name: Raymond Commeret
       start: 1977-11-11
@@ -21996,7 +21994,7 @@ Pastor:  Daniel W. McManigal, 2014–15
     - withdrawal_to: Presbyterian Church in America
     - end_date: 2015-12-20
   location:
-    address: WA
+    state: WA
     city: Mercer Island
   minister:
     - name: Daniel W. McManigal
@@ -22329,8 +22327,8 @@ David Robbins, 2010–15
     - active: false
     - end_date: 2015-01-01
   location:
-    address: ""Huntington""
-    state: ""WV""
+    city:  ""Huntington""
+    state:  ""WV""
   minister:
     - name: Boone Leigh
       start: 2007-01-01
