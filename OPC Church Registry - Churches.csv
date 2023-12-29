@@ -14750,7 +14750,7 @@ Assoc. Pastor: Leo Frailey, 1991–99
   origination_date: 1987-04-10
   end_date: 1999-10-24
   status:
-    active: false
+    - active: false
   location:
     city: Pataskala
     state: OH
