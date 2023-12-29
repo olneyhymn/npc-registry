@@ -5,3 +5,4 @@ build/
 .envrc
 .vscode/
 site/content/churches/
+.venv/
