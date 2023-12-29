@@ -10,14 +10,19 @@ minister:
   name: Brenton Ferry
   start: 2000-01-01
   type: Organizing Pastor
-- end: null
+- end: 2016-10-31
   name: Brenton Ferry
   start: 2004-12-09
+  type: Pastor
+- end: null
+  name: Scott Willet
+  start: 2017-06-23
   type: Pastor
 ministers:
 - Brenton Ferry
 - Brenton Ferry
-name: Covenant Reformed Presbyterian Chapel
+- Scott Willet
+name: Covenant Reformed Presbyterian Church
 names:
 - end: 2004-12-09
   name: Covenant Reformed Presbyterian Chapel, OPC
@@ -39,7 +44,7 @@ status:
   reason: null
   received_from: null
   withdrawal_to: null
-title: Covenant Reformed Presbyterian Chapel (Mount Airy NC)
+title: Covenant Reformed Presbyterian Church (Mount Airy NC)
 year_established:
 - 1998
 
