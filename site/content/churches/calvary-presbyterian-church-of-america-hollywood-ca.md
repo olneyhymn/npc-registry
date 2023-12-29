@@ -10,8 +10,14 @@ ministers: []
 name: Calvary Presbyterian Church of America
 names: null
 origination_date: *id001
-raw_data: "AR Hollywood\n\nCalvary Presbyterian Church of America  (October 2, 1936\u2013\
-  September 1937)\n(withdrew to Independency, 1937)"
+raw_data: 'AR Hollywood
+
+
+  Calvary Presbyterian Church of America  (October 2, 1936-September 1937)
+
+  (withdrew to Independency, 1937)
+
+  '
 received_from: null
 states:
 - CA

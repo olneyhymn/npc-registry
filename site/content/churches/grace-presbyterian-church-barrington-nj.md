@@ -10,8 +10,13 @@ ministers: []
 name: Grace Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "NEW JERSEY\nBarrington\nGrace Presbyterian Church  (October 13, 1936\u2013\
-  November 16, 1937)"
+raw_data: 'NEW JERSEY
+
+  Barrington
+
+  Grace Presbyterian Church  (October 13, 1936-November 16, 1937)
+
+  '
 received_from: null
 states:
 - NJ

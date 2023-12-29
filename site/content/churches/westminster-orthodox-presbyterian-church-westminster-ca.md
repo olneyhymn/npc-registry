@@ -71,13 +71,37 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 1998-08-01
 origination_date: *id001
-raw_data: "AR   Westminster\nWestminster Orthodox Presbyterian Church  (August 1,\
-  \ 1998\u2013 )\n(previously Garden Grove Orthodox Presbyterian Church, 1955\u2013\
-  1998)\n10101 Cunningham Avenue\nPastors: Robert Morris, 1955\u201356\nEdwards Elliott,\
-  \ 1956\u201379\nWilliam Warren, 1980\u20132002\nWilliam Gorrell, 2003\u2013\nAssoc.\
-  \ Pastors: Robert Newsom, 1973\u201376\nJack Smith, 1981\u201385\nWilliam Baldwin,\
-  \ 1996\u20132000\nYong Kim, 1999\u20132000\nKim Dang, 1999\u20132001\nGonzalo Salinas,\
-  \ 2002\u20136\nAsst. Pastor: Stephen Larson, 1990\u20132010"
+raw_data: 'AR   Westminster
+
+  Westminster Orthodox Presbyterian Church  (August 1, 1998- )
+
+  (previously Garden Grove Orthodox Presbyterian Church, 1955-1998)
+
+  10101 Cunningham Avenue
+
+  Pastors: Robert Morris, 1955-56
+
+  Edwards Elliott, 1956-79
+
+  William Warren, 1980-2002
+
+  William Gorrell, 2003-
+
+  Assoc. Pastors: Robert Newsom, 1973-76
+
+  Jack Smith, 1981-85
+
+  William Baldwin, 1996-2000
+
+  Yong Kim, 1999-2000
+
+  Kim Dang, 1999-2001
+
+  Gonzalo Salinas, 2002-6
+
+  Asst. Pastor: Stephen Larson, 1990-2010
+
+  '
 received_from: null
 states:
 - CA

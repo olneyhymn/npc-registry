@@ -15,8 +15,13 @@ ministers:
 name: Head of Christiana Presbyterian Church of America
 names: null
 origination_date: *id001
-raw_data: "DE Newark\nHead of Christiana Presbyterian Church of America (July 29,\
-  \ 1936\u2013October 1936)\nPastor: Henry Welbon, 1936"
+raw_data: 'DE Newark
+
+  Head of Christiana Presbyterian Church of America (July 29, 1936-October 1936)
+
+  Pastor: Henry Welbon, 1936
+
+  '
 received_from: null
 states:
 - DE

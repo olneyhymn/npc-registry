@@ -35,11 +35,25 @@ ministers:
 name: Oak Hill Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "OR\nEugene\nOak Hill Orthodox Presbyterian Church  (July 7, 1972\u2013\
-  July 11, 1999)\n(merged with the Presbyterian Church in America, July 11, 1999)\n\
-  Pastors: H. Larry Baurer, 1972\u201383\nLarry Conard (Co\u2013Pastor), 1981\u2013\
-  83\nLarry Conard, 1983\u201384\nAlfred Poirier, 1985\u201392\nCalvin Malcor, 1992\u2013\
-  95"
+raw_data: 'OR
+
+  Eugene
+
+  Oak Hill Orthodox Presbyterian Church  (July 7, 1972-July 11, 1999)
+
+  (merged with the Presbyterian Church in America, July 11, 1999)
+
+  Pastors: H. Larry Baurer, 1972-83
+
+  Larry Conard (Co-Pastor), 1981-83
+
+  Larry Conard, 1983-84
+
+  Alfred Poirier, 1985-92
+
+  Calvin Malcor, 1992-95
+
+  '
 received_from: null
 states:
 - OR

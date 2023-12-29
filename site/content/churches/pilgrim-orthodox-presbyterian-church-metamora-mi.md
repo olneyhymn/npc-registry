@@ -33,9 +33,24 @@ names:
   name: Pilgrim Orthodox Presbyterian Church
   start: 1985-05-05
 origination_date: *id001
-raw_data: "MI\nMetamora\n\nPilgrim Orthodox Presbyterian Church  (May 5, 1985\u2013\
-  \ )\n58 W. High Street\nPastors: Louis Wislocki, 1985\u201388\nPeter Stazen II,\
-  \ 1988\u20132006\nRodney Thole, 2008\u201310\nJason Roddy, 2010\u201315"
+raw_data: 'MI
+
+  Metamora
+
+
+  Pilgrim Orthodox Presbyterian Church  (May 5, 1985- )
+
+  58 W. High Street
+
+  Pastors: Louis Wislocki, 1985-88
+
+  Peter Stazen II, 1988-2006
+
+  Rodney Thole, 2008-10
+
+  Jason Roddy, 2010-15
+
+  '
 received_from: null
 states:
 - MI

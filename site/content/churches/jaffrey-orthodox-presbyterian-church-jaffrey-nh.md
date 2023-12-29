@@ -31,11 +31,21 @@ names:
   name: Jaffrey Orthodox Presbyterian Church
   start: 2004-10-08
 origination_date: *id001
-raw_data: "Jaffrey, NH\nJaffrey Orthodox Presbyterian Chapel  (April 26, 1997\u2013\
-  October 8, 2004)\nJaffrey Orthodox Presbyterian Church  (October 8, 2004\u2013 )\n\
-  Cutler Memorial Building, Main and School Streets\nMissionary: Gregory Reynolds,\
-  \ 1997\nOrg. Pastor: Stephen Migotsky, 1997\u20132004\nPastor: Stephen Migotsky,\
-  \ 2004\u2013"
+raw_data: 'Jaffrey, NH
+
+  Jaffrey Orthodox Presbyterian Chapel  (April 26, 1997-October 8, 2004)
+
+  Jaffrey Orthodox Presbyterian Church  (October 8, 2004- )
+
+  Cutler Memorial Building, Main and School Streets
+
+  Missionary: Gregory Reynolds, 1997
+
+  Org. Pastor: Stephen Migotsky, 1997-2004
+
+  Pastor: Stephen Migotsky, 2004-
+
+  '
 received_from: null
 states:
 - NH

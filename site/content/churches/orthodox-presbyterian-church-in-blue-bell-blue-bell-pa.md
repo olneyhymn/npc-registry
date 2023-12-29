@@ -50,10 +50,20 @@ ministers:
 name: Orthodox Presbyterian Church in Blue Bell
 names: null
 origination_date: *id001
-raw_data: "PA Blue Bell\n\nOrthodox Presbyterian Church in Blue Bell  (July 28, 1936\u2013\
-  September 11, 1985)\n(joined the Canadian Reformed Church, October 7, 1984)\nPastors:\
-  \ Stanley Ray, 1937\u201338\nKelly Tucker, 1939\u201344\nHenry Tavares, 1948\u2013\
-  52"
+raw_data: 'PA Blue Bell
+
+
+  Orthodox Presbyterian Church in Blue Bell  (July 28, 1936-September 11, 1985)
+
+  (joined the Canadian Reformed Church, October 7, 1984)
+
+  Pastors: Stanley Ray, 1937-38
+
+  Kelly Tucker, 1939-44
+
+  Henry Tavares, 1948-52
+
+  '
 received_from: null
 states:
 - PA

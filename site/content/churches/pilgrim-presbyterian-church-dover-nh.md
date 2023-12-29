@@ -26,10 +26,21 @@ names:
   name: Pilgrim Presbyterian Church
   start: 2014-06-26
 origination_date: *id001
-raw_data: "NH\nDover\nPilgrim Presbyterian Chapel  (June 30, 2007\u2013 June 26, 2014)\n\
-  Pilgrim Presbyterian Church  (June 26, 2014\u2013 )\nPortsmouth Christian Academy,\
-  \ 20 Seaborne Drive\nOrg. Pastor: David Holmlund, 2007\u201314\nPastor: David Holmlund,\
-  \ 2014\u201315"
+raw_data: 'NH
+
+  Dover
+
+  Pilgrim Presbyterian Chapel  (June 30, 2007- June 26, 2014)
+
+  Pilgrim Presbyterian Church  (June 26, 2014- )
+
+  Portsmouth Christian Academy, 20 Seaborne Drive
+
+  Org. Pastor: David Holmlund, 2007-14
+
+  Pastor: David Holmlund, 2014-15
+
+  '
 received_from: null
 states:
 - NH

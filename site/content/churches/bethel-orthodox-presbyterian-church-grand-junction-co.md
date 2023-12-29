@@ -40,10 +40,24 @@ ministers:
 name: Bethel Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "AR    Grand Junction\n\nBethel Orthodox Presbyterian Church  (April 5,\
-  \ 1961\u2013 September 23, 1987)\nPastors: Jonathan Male, 1961\nJohn Verhage, 1962\u2013\
-  68\nPaul Doepke, 1969\u201370\nDonald Duff, 1972\u201378\nWilliam Bomer, 1979\u2013\
-  83\nC. Don Darling (Supply from the PCA), 1983\u201387"
+raw_data: 'AR    Grand Junction
+
+
+  Bethel Orthodox Presbyterian Church  (April 5, 1961- September 23, 1987)
+
+  Pastors: Jonathan Male, 1961
+
+  John Verhage, 1962-68
+
+  Paul Doepke, 1969-70
+
+  Donald Duff, 1972-78
+
+  William Bomer, 1979-83
+
+  C. Don Darling (Supply from the PCA), 1983-87
+
+  '
 received_from: null
 states:
 - CO

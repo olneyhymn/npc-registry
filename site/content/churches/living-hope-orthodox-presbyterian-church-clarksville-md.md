@@ -36,10 +36,10 @@ names:
   name: Living Hope Orthodox Presbyterian Church
   start: 2008-10-03
 origination_date: *id001
-raw_data: "MD  Clarksville\nLiving Hope Presbyterian Chapel  (2005\u2013October 3,\
-  \ 2008)\nLiving Hope Orthodox Presbyterian Church  (October 3, 2008\u2013 )\nPointers\
-  \ Run Elementary School, 6600 Trotter Road\nOrg. Pastor: Peter Lee, 2005\u20138\n\
-  Pastors: Peter Lee, 2008\u201310\nClark Brooking, 2008\u2013\nTimothy Flora, 2015\u2013"
+raw_data: "MD\tClarksville\nLiving Hope Presbyterian Chapel  (2005-October 3, 2008)\n\
+  Living Hope Orthodox Presbyterian Church  (October 3, 2008- )\nPointers Run Elementary\
+  \ School, 6600 Trotter Road\nOrg. Pastor: Peter Lee, 2005-8\nPastors: Peter Lee,\
+  \ 2008-10\nClark Brooking, 2008-\nTimothy Flora, 2015-\n"
 received_from: null
 states:
 - MD

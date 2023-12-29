@@ -41,11 +41,28 @@ names:
   name: Providence Orthodox Presbyterian Church
   start: 2011-01-01
 origination_date: *id001
-raw_data: "WI Madison\n\nProvidence Orthodox Presbyterian Chapel (September 17, 1993\u2013\
-  2011)\nProvidence Orthodox Presbyterian Church (2011\u2013 )\n(called Madison Orthodox\
-  \ Presbyterian Chapel, 1993\u20132000)\n1510 Madison Street\nOrg. Pastors: Mark\
-  \ Larson, 1994\u201396\nEric Bristley, 1998\u20132004\nC. Mark Jenkins, 2005\u2013\
-  11\nPastor: C. Mark Jenkins, 2011\u2013\nEvangelist: Kenny R. Honken, 2014\u2013"
+raw_data: 'WI Madison
+
+
+  Providence Orthodox Presbyterian Chapel (September 17, 1993-2011)
+
+  Providence Orthodox Presbyterian Church (2011- )
+
+  (called Madison Orthodox Presbyterian Chapel, 1993-2000)
+
+  1510 Madison Street
+
+  Org. Pastors: Mark Larson, 1994-96
+
+  Eric Bristley, 1998-2004
+
+  C. Mark Jenkins, 2005-11
+
+  Pastor: C. Mark Jenkins, 2011-
+
+  Evangelist: Kenny R. Honken, 2014-
+
+  '
 received_from: null
 states:
 - WI

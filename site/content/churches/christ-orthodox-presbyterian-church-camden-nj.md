@@ -18,8 +18,13 @@ names:
   name: Christ Orthodox Presbyterian Church
   start: 1937-04-23
 origination_date: *id001
-raw_data: "NEW JERSEY Camden\nChrist Orthodox Presbyterian Church (April 23, 1937\u2013\
-  June 1937)\nPastor: M. Nelson Buffler, 1937"
+raw_data: 'NEW JERSEY Camden
+
+  Christ Orthodox Presbyterian Church (April 23, 1937-June 1937)
+
+  Pastor: M. Nelson Buffler, 1937
+
+  '
 received_from: null
 states:
 - NJ

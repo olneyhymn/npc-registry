@@ -83,13 +83,42 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 1936-09-30
 origination_date: *id001
-raw_data: "SD Hamill\n\nWestminster Orthodox Presbyterian Church  (September 30, 1936\u2013\
-  \ )\n32422 E. Street\nPastors: Walter Magee, 1936\u201339\nMelvin Nonhof, 1940\u2013\
-  42\nDean Adair, 1943\u201345\nEdward Wybenga, 1947\u201354\nDonald Stanton, 1954\u2013\
-  62\nRonald Jenkins, 1963\u201368\nJohn Hilbelink, 1969\u201373\nAllen Moran, 1974\u2013\
-  78\nRoger Ramsey, 1979\u201381\nDavid W. King, 1982\u201390\nMark Larson, 1990\u2013\
-  94\nHenry Moes, 1996\u201398\nDarren Thole, 1999\u20132011\nCurtis A. Moleterno,\
-  \ 2011\u2013"
+raw_data: 'SD Hamill
+
+
+  Westminster Orthodox Presbyterian Church  (September 30, 1936- )
+
+  32422 E. Street
+
+  Pastors: Walter Magee, 1936-39
+
+  Melvin Nonhof, 1940-42
+
+  Dean Adair, 1943-45
+
+  Edward Wybenga, 1947-54
+
+  Donald Stanton, 1954-62
+
+  Ronald Jenkins, 1963-68
+
+  John Hilbelink, 1969-73
+
+  Allen Moran, 1974-78
+
+  Roger Ramsey, 1979-81
+
+  David W. King, 1982-90
+
+  Mark Larson, 1990-94
+
+  Henry Moes, 1996-98
+
+  Darren Thole, 1999-2011
+
+  Curtis A. Moleterno, 2011-
+
+  '
 received_from: null
 states:
 - SD

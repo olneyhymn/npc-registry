@@ -26,10 +26,19 @@ names:
   name: Covenant Reformed Orthodox Presbyterian Church
   start: 2000-06-04
 origination_date: *id001
-raw_data: "WA\nLongview\nCovenant Reformed Orthodox Presbyterian Church  (June 4,\
-  \ 2000\u2013April 24, 2009)\n(formerly Puget Sound OPC, Cathlamet; relocated and\
-  \ changed name in 2007)\nSupplies:  Dan Kistler, 2000\u20132005\nSamuel van Houte,\
-  \ 2007\u20139"
+raw_data: 'WA
+
+  Longview
+
+  Covenant Reformed Orthodox Presbyterian Church  (June 4, 2000-April 24, 2009)
+
+  (formerly Puget Sound OPC, Cathlamet; relocated and changed name in 2007)
+
+  Supplies:  Dan Kistler, 2000-2005
+
+  Samuel van Houte, 2007-9
+
+  '
 received_from: null
 states:
 - WA

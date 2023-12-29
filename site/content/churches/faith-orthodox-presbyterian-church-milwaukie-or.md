@@ -25,10 +25,21 @@ ministers:
 name: Faith Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "OR\nMilwaukie\nFaith Orthodox Presbyterian Church  (March 6, 1968\u2013\
-  May 8, 1991)\n(called Gladstone Orthodox Presbyterian Church, 1968\u20131978)\n\
-  Pastors: Alan Moak, 1969\u201370\nRobert Scott, 1971\u201373\nSamuel van Houte,\
-  \ 1974\u201391"
+raw_data: 'OR
+
+  Milwaukie
+
+  Faith Orthodox Presbyterian Church  (March 6, 1968-May 8, 1991)
+
+  (called Gladstone Orthodox Presbyterian Church, 1968-1978)
+
+  Pastors: Alan Moak, 1969-70
+
+  Robert Scott, 1971-73
+
+  Samuel van Houte, 1974-91
+
+  '
 received_from: null
 states:
 - OR

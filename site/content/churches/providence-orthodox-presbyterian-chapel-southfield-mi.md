@@ -23,9 +23,19 @@ names:
   name: Providence Orthodox Presbyterian Chapel
   start: 1997-10-11
 origination_date: *id001
-raw_data: "MI\nSouthfield\nProvidence Orthodox Presbyterian Chapel  (October 11, 1997\u2013\
-  \ )\n18451 W. 10 Mile Road\nOrg. Pastor: Jeffrey Wilson, 1996\u201397\nPastor: Jeffrey\
-  \ Wilson, 1997\u2013"
+raw_data: 'MI
+
+  Southfield
+
+  Providence Orthodox Presbyterian Chapel  (October 11, 1997- )
+
+  18451 W. 10 Mile Road
+
+  Org. Pastor: Jeffrey Wilson, 1996-97
+
+  Pastor: Jeffrey Wilson, 1997-
+
+  '
 received_from: null
 states:
 - MI

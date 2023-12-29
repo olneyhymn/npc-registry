@@ -48,11 +48,27 @@ names:
   name: Sharon Orthodox Presbyterian Church
   start: 1957-04-18
 origination_date: *id001
-raw_data: "FLORIDA Hialeah\nSharon Orthodox Presbyterian Church  (April 18, 1957\u2013\
-  \ )\nMeeting at La Quinta Inn, 7925 NW 154 Street, Miami Lakes\nPastors: Robert\
-  \ Lucas, 1957\nGlenn Coie, 1958\u201366\nLuder Whitlock, 1966\u201369\nCarl Reitsma,\
-  \ 1970\u201373\nRoger Schmurr, 1973\u201379\nJeffrey Boer, 1979\u2013\nAssoc. Pastor:\
-  \ Jose Vera, 1979\u201390"
+raw_data: 'FLORIDA Hialeah
+
+  Sharon Orthodox Presbyterian Church  (April 18, 1957- )
+
+  Meeting at La Quinta Inn, 7925 NW 154 Street, Miami Lakes
+
+  Pastors: Robert Lucas, 1957
+
+  Glenn Coie, 1958-66
+
+  Luder Whitlock, 1966-69
+
+  Carl Reitsma, 1970-73
+
+  Roger Schmurr, 1973-79
+
+  Jeffrey Boer, 1979-
+
+  Assoc. Pastor: Jose Vera, 1979-90
+
+  '
 received_from: null
 states:
 - FL

@@ -28,9 +28,18 @@ names:
   name: Bethel Orthodox Presbyterian Church
   start: 1937-09-28
 origination_date: *id001
-raw_data: "SD Alexandria\n\nBethel Orthodox Presbyterian Church  (September 28, 1937\u2013\
-  \ April 8, 1952)\nPastors: Jack Zandstra, 1937\u201339\nWalter Magee, 1939\u2013\
-  44\nRussell Piper, 1945\u201352"
+raw_data: 'SD Alexandria
+
+
+  Bethel Orthodox Presbyterian Church  (September 28, 1937- April 8, 1952)
+
+  Pastors: Jack Zandstra, 1937-39
+
+  Walter Magee, 1939-44
+
+  Russell Piper, 1945-52
+
+  '
 received_from: null
 states:
 - SD

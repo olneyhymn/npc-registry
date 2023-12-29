@@ -48,11 +48,27 @@ names:
   name: Falls Orthodox Presbyterian Church
   start: 1967-09-14
 origination_date: *id001
-raw_data: "WI    Menomonee Falls\nFalls Orthodox Presbyterian Church  (September 14,\
-  \ 1967\u2013 )\nW156 N7356 Pilgrim Road\nPastors: George Haney, 1968\u201374\nCornelius\
-  \ Tolsma, 1974\u20132004\nBenjamin Snodgrass, 2004\u2013\nAssoc. Pastors: Eric Bristley,\
-  \ 1998\u20132001\nJames Hoekstra, 2002\u201312\nMichael Matossian, 2006\u20138\n\
-  Jonathan B. Falk, 2011"
+raw_data: 'WI    Menomonee Falls
+
+  Falls Orthodox Presbyterian Church  (September 14, 1967- )
+
+  W156 N7356 Pilgrim Road
+
+  Pastors: George Haney, 1968-74
+
+  Cornelius Tolsma, 1974-2004
+
+  Benjamin Snodgrass, 2004-
+
+  Assoc. Pastors: Eric Bristley, 1998-2001
+
+  James Hoekstra, 2002-12
+
+  Michael Matossian, 2006-8
+
+  Jonathan B. Falk, 2011
+
+  '
 received_from: null
 states:
 - WI

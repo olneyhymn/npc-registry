@@ -50,13 +50,12 @@ names:
   name: Trinity OPC
   start: 1996-01-01
 origination_date: *id001
-raw_data: "WASHINGTON  Bothell\nTrinity Orthodox Presbyterian Church  (March 12, 1964\u2013\
-  \ )\n(called Puget Sound OP Chapel, 1964\u20131967; Puget Sound OP Church, 1967\u2013\
-  70; Trinity OP\nChurch, 1970\u20131991; New Life OPC, 1991\u201396; reverted to\
-  \ Trinity OPC, 1996)\n23211 South Meridian Avenue\nPastors: D. Robert Lindberg,\
-  \ 1964\u201370\nRonald McKenzie, 1971\u201375\nPatrick Morison (Supply), 1975\u2013\
-  76\nPatrick Morison, 1976\u201392\nEarl Vanderhoff (Supply), 1992\u201393\nEarl\
-  \ Vanderhoff, 1993\u201398\nMarc Renkema, 1998"
+raw_data: "WASHINGTON\tBothell\nTrinity Orthodox Presbyterian Church  (March 12, 1964-\
+  \ )\n(called Puget Sound OP Chapel, 1964-1967; Puget Sound OP Church, 1967-70; Trinity\
+  \ OP\nChurch, 1970-1991; New Life OPC, 1991-96; reverted to Trinity OPC, 1996)\n\
+  23211 South Meridian Avenue\nPastors: D. Robert Lindberg, 1964-70\nRonald McKenzie,\
+  \ 1971-75\nPatrick Morison (Supply), 1975-76\nPatrick Morison, 1976-92\nEarl Vanderhoff\
+  \ (Supply), 1992-93\nEarl Vanderhoff, 1993-98\nMarc Renkema, 1998\n"
 received_from: null
 states:
 - WA

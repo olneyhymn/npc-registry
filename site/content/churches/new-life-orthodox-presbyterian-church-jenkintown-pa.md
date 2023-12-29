@@ -38,10 +38,24 @@ names:
   name: New Life Orthodox Presbyterian Church
   start: 1974-03-16
 origination_date: *id001
-raw_data: "PA Jenkintown\n\nNew Life Orthodox Presbyterian Church  (March 16, 1974\u2013\
-  February 11, 1990)\n(transferred to the Presbyterian Church in America, 1990)\n\
-  Pastors: C. John Miller, 1974\u201390\nRonald Lutz, 1976\u201390\nJohn Julien, 1981\u2013\
-  83\nJohn Yenchko, 1985\u201390\nAssoc. Pastor: D. Clair Davis, 1980\u201390"
+raw_data: 'PA Jenkintown
+
+
+  New Life Orthodox Presbyterian Church  (March 16, 1974-February 11, 1990)
+
+  (transferred to the Presbyterian Church in America, 1990)
+
+  Pastors: C. John Miller, 1974-90
+
+  Ronald Lutz, 1976-90
+
+  John Julien, 1981-83
+
+  John Yenchko, 1985-90
+
+  Assoc. Pastor: D. Clair Davis, 1980-90
+
+  '
 received_from: null
 states:
 - PA

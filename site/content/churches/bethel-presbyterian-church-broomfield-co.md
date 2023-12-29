@@ -26,11 +26,22 @@ names:
   name: Bethel Presbyterian Church, OPC
   start: 1970-01-01
 origination_date: *id001
-raw_data: "AR Broomfield\n\nBroomfield Presbyterian Chapel, OPC (December 2, 2001\u2013\
-  May 24, 2002)\nBethel Presbyterian Church, OPC (2002\u2013 )\n(changed name from\
-  \ Broomfield Presbyterian Church in 2006)\nBloomfield High School, Eagle Way and\
-  \ Main Street\nOrg. Pastor: Gregory Thurston, 2001\u20132\nPastor: Gregory Thurston,\
-  \ 2002\u2013"
+raw_data: 'AR Broomfield
+
+
+  Broomfield Presbyterian Chapel, OPC (December 2, 2001-May 24, 2002)
+
+  Bethel Presbyterian Church, OPC (2002- )
+
+  (changed name from Broomfield Presbyterian Church in 2006)
+
+  Bloomfield High School, Eagle Way and Main Street
+
+  Org. Pastor: Gregory Thurston, 2001-2
+
+  Pastor: Gregory Thurston, 2002-
+
+  '
 received_from: null
 states:
 - CO

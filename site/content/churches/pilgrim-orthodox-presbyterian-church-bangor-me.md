@@ -63,12 +63,34 @@ names:
   name: Pilgrim Orthodox Presbyterian Church
   start: 1954-03-24
 origination_date: *id001
-raw_data: "MAINE Bangor\n\nPilgrim Orthodox Presbyterian Church  (March 24, 1954\u2013\
-  \ )\n375 Mt. Hope Avenue\nPastors: Dale Snyder, 1954\u201358\nGeorge Weeber, 1959\u2013\
-  61\nGeorge Haney, 1961\u201368\nCarl Ahlfeldt, 1968\u201369\nBernard Stonehouse,\
-  \ 1970\u201380\nRichard Wirth, 1981\u201384\nJonathan Falk, 1986\u201399\nBrian\
-  \ Nolder, 2000\u20132007\nRussell Hamilton, 2008\u2013\nAssoc. Pastor: Richard Dickinson,\
-  \ 1988\u20132001"
+raw_data: 'MAINE Bangor
+
+
+  Pilgrim Orthodox Presbyterian Church  (March 24, 1954- )
+
+  375 Mt. Hope Avenue
+
+  Pastors: Dale Snyder, 1954-58
+
+  George Weeber, 1959-61
+
+  George Haney, 1961-68
+
+  Carl Ahlfeldt, 1968-69
+
+  Bernard Stonehouse, 1970-80
+
+  Richard Wirth, 1981-84
+
+  Jonathan Falk, 1986-99
+
+  Brian Nolder, 2000-2007
+
+  Russell Hamilton, 2008-
+
+  Assoc. Pastor: Richard Dickinson, 1988-2001
+
+  '
 received_from: null
 states:
 - ME

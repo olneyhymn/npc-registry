@@ -38,10 +38,25 @@ names:
   name: New Hope Presbyterian Church
   start: 1974-08-10
 origination_date: *id001
-raw_data: "WI\nGreen Bay\nNew Hope Presbyterian Church  (August 10, 1974\u2013 )\n\
-  2401 Deckner Avenue\nPastors: John Fikkert, 1974\u201376\nDavid George, 1976\u2013\
-  88\nJonathan Peters, 1988\u201394\nJames Ferguson, 1994\u2013\nAssoc. Pastor: Paul\
-  \ A. Mourreale, 2012\u201315"
+raw_data: 'WI
+
+  Green Bay
+
+  New Hope Presbyterian Church  (August 10, 1974- )
+
+  2401 Deckner Avenue
+
+  Pastors: John Fikkert, 1974-76
+
+  David George, 1976-88
+
+  Jonathan Peters, 1988-94
+
+  James Ferguson, 1994-
+
+  Assoc. Pastor: Paul A. Mourreale, 2012-15
+
+  '
 received_from: null
 states:
 - WI

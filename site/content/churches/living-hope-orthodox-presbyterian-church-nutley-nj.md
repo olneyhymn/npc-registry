@@ -26,10 +26,17 @@ names:
   name: Living Hope Orthodox Presbyterian Church
   start: 2001-06-24
 origination_date: *id001
-raw_data: "NEW JERSEY Nutley\nLiving Hope Orthodox Presbyterian Chapel  (June 1995\u2013\
-  June 24, 2001)\nLiving Hope Orthodox Presbyterian Church  (June 24, 2001\u2013February\
-  \ 27, 2005)\nEvangelist: Douglas Watson, 1996\u20132000\nPastor: Patrick W. Malone,\
-  \ 2001\u20135"
+raw_data: 'NEW JERSEY Nutley
+
+  Living Hope Orthodox Presbyterian Chapel  (June 1995-June 24, 2001)
+
+  Living Hope Orthodox Presbyterian Church  (June 24, 2001-February 27, 2005)
+
+  Evangelist: Douglas Watson, 1996-2000
+
+  Pastor: Patrick W. Malone, 2001-5
+
+  '
 received_from: null
 states:
 - NJ

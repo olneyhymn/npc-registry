@@ -33,11 +33,23 @@ names:
   name: Hope Presbyterian Church
   start: 1999-04-18
 origination_date: *id001
-raw_data: "ID Grayslake\nHope Presbyterian Church, Orthodox Presbyterian Church  (April\
-  \ 18, 1999\u2013 )\n(from 1998 to 1999, Lindenhurst, Illinois)\n18215 W. Belvidere\
-  \ Road\nOrg. Pastor: Dennis Disselkoen, 1998\u201399\nPastors: Dennis Disselkoen,\
-  \ 1999\u20132012\nCamden M. Busey, 2013\u2013\nAssoc. Pastor: Brandon T. Wilkins,\
-  \ 2011\u2013"
+raw_data: 'ID Grayslake
+
+  Hope Presbyterian Church, Orthodox Presbyterian Church  (April 18, 1999- )
+
+  (from 1998 to 1999, Lindenhurst, Illinois)
+
+  18215 W. Belvidere Road
+
+  Org. Pastor: Dennis Disselkoen, 1998-99
+
+  Pastors: Dennis Disselkoen, 1999-2012
+
+  Camden M. Busey, 2013-
+
+  Assoc. Pastor: Brandon T. Wilkins, 2011-
+
+  '
 received_from: null
 states:
 - ID

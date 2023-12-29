@@ -15,8 +15,17 @@ ministers:
 name: Iglesia Nueva Vida Mission Work
 names: null
 origination_date: *id001
-raw_data: "AZ\nPhoenix\nIglesia Nueva Vida Mission Work (May 6, 2005\u201313)\n(absorbed\
-  \ into Calvin OPC)\nOrg. Pastor: Alberto Gomez"
+raw_data: 'AZ
+
+  Phoenix
+
+  Iglesia Nueva Vida Mission Work (May 6, 2005-13)
+
+  (absorbed into Calvin OPC)
+
+  Org. Pastor: Alberto Gomez
+
+  '
 received_from: null
 states:
 - AZ

@@ -15,9 +15,15 @@ ministers:
 name: Faith Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "PA Quarryville\nFaith Orthodox Presbyterian Church  (September 22, 1936\u2013\
-  March 21, 1949)\n(withdrew from the Orthodox Presbyterian Church, 1949)\nPastor:\
-  \ Franklin Dyrness, 1936\u201349"
+raw_data: 'PA Quarryville
+
+  Faith Orthodox Presbyterian Church  (September 22, 1936-March 21, 1949)
+
+  (withdrew from the Orthodox Presbyterian Church, 1949)
+
+  Pastor: Franklin Dyrness, 1936-49
+
+  '
 received_from: null
 states:
 - PA

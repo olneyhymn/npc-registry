@@ -18,8 +18,15 @@ names:
   name: Christ Orthodox Presbyterian Chapel
   start: 1992-04-04
 origination_date: *id001
-raw_data: "PA\nWA\nChrist Orthodox Presbyterian Chapel (April 4, 1992\u2013August\
-  \ 31, 1997)\nEvangelist: R. Daniel Knox, 1992\u201397"
+raw_data: 'PA
+
+  WA
+
+  Christ Orthodox Presbyterian Chapel (April 4, 1992-August 31, 1997)
+
+  Evangelist: R. Daniel Knox, 1992-97
+
+  '
 received_from: null
 states:
 - PA

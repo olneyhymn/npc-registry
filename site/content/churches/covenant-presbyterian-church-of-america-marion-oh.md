@@ -15,9 +15,17 @@ ministers:
 name: Covenant Presbyterian Church of America
 names: null
 origination_date: *id001
-raw_data: "OH\nMarion\nCovenant Presbyterian Church of America  (August 30, 1936\u2013\
-  \ 1938)\n(withdrew to the Bible Presbyterian Church)\nPastor: Leland Jorgensen,\
-  \ 1938"
+raw_data: 'OH
+
+  Marion
+
+  Covenant Presbyterian Church of America  (August 30, 1936- 1938)
+
+  (withdrew to the Bible Presbyterian Church)
+
+  Pastor: Leland Jorgensen, 1938
+
+  '
 received_from: null
 states:
 - OH

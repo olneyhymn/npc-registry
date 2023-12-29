@@ -23,9 +23,17 @@ names:
   name: Calvary Orthodox Presbyterian Church
   start: 1958-08-19
 origination_date: *id001
-raw_data: "RHODE ISLAND\nCranston\nCalvary Orthodox Presbyterian Church  (August 19,\
-  \ 1958\u2013April 4, 1972)\nPastors: Wendell Rockey, 1959\u201364\nRichard Horner,\
-  \ 1967\u201369"
+raw_data: 'RHODE ISLAND
+
+  Cranston
+
+  Calvary Orthodox Presbyterian Church  (August 19, 1958-April 4, 1972)
+
+  Pastors: Wendell Rockey, 1959-64
+
+  Richard Horner, 1967-69
+
+  '
 received_from: null
 states:
 - RI

@@ -28,9 +28,22 @@ names:
   name: Little Farms Orthodox Presbyterian Church
   start: 1998-07-31
 origination_date: *id001
-raw_data: "MI\nCoopersville\n\nLittle Farms Orthodox Presbyterian Church  (July 31,\
-  \ 1998\u2013 )\n2518 Arthur Street\nPastor: Robert Van Manen, 1998\u2013\nAsst.\
-  \ Pastors: Markus Jeromin, 2010\u201315\nVernon Picknally, 2011\u201316"
+raw_data: 'MI
+
+  Coopersville
+
+
+  Little Farms Orthodox Presbyterian Church  (July 31, 1998- )
+
+  2518 Arthur Street
+
+  Pastor: Robert Van Manen, 1998-
+
+  Asst. Pastors: Markus Jeromin, 2010-15
+
+  Vernon Picknally, 2011-16
+
+  '
 received_from: null
 states:
 - MI

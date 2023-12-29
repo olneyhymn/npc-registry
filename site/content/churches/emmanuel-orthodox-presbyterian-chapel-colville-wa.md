@@ -23,9 +23,19 @@ names:
   name: Emmanuel Orthodox Presbyterian Chapel
   start: 1999-04-23
 origination_date: *id001
-raw_data: "WA\nColville\nEmmanuel Orthodox Presbyterian Chapel  (April 23, 1999\u2013\
-  \ )\n508 North Oak Street\nOrg. Pastors: Jack Bradley, 2000\u20132008\nPaul O. Johnson,\
-  \ 2011\u201316"
+raw_data: 'WA
+
+  Colville
+
+  Emmanuel Orthodox Presbyterian Chapel  (April 23, 1999- )
+
+  508 North Oak Street
+
+  Org. Pastors: Jack Bradley, 2000-2008
+
+  Paul O. Johnson, 2011-16
+
+  '
 received_from: null
 states:
 - WA

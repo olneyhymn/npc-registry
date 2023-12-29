@@ -26,10 +26,20 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 2013-12-15
 origination_date: *id001
-raw_data: "AZ    Tucson\n\nCovenant Orthodox Presbyterian mission work (2011\u2013\
-  December 15, 2013)\nCovenant Orthodox Presbyterian Church  (December 15, 2013\u2013\
-  \ )\nDesert Valley Adventist Church, 1200 N. Santa Rosa Avenue\nOrg. Pastor: Christopher\
-  \ J. Chelpka, 2011\u201313\nPastor: Christopher J. Chelpka, 2013\u2013"
+raw_data: 'AZ    Tucson
+
+
+  Covenant Orthodox Presbyterian mission work (2011-December 15, 2013)
+
+  Covenant Orthodox Presbyterian Church  (December 15, 2013- )
+
+  Desert Valley Adventist Church, 1200 N. Santa Rosa Avenue
+
+  Org. Pastor: Christopher J. Chelpka, 2011-13
+
+  Pastor: Christopher J. Chelpka, 2013-
+
+  '
 received_from: null
 states:
 - AZ

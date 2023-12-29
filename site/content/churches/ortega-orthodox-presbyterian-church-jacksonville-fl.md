@@ -18,9 +18,17 @@ names:
   name: Ortega Orthodox Presbyterian Church
   start: 1961-10-24
 origination_date: *id001
-raw_data: "FLORIDA\nJacksonville\nOrtega Orthodox Presbyterian Church  (October 24,\
-  \ 1961\u2013August 15, 1963)\n(returned to Independency, August 15, 1963)\nPastor:\
-  \ Thompson Casey Jr, 1961\u201363"
+raw_data: 'FLORIDA
+
+  Jacksonville
+
+  Ortega Orthodox Presbyterian Church  (October 24, 1961-August 15, 1963)
+
+  (returned to Independency, August 15, 1963)
+
+  Pastor: Thompson Casey Jr, 1961-63
+
+  '
 received_from: null
 states:
 - FL

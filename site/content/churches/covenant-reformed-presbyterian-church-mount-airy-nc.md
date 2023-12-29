@@ -31,10 +31,22 @@ names:
   name: Covenant Reformed Presbyterian Church
   start: 2004-12-09
 origination_date: *id001
-raw_data: "NORTH CAROLINA\nMount Airy\n\nCovenant Reformed Presbyterian Chapel, OPC\
-  \  (September 19, 1998\u2013December 9, 2004)\nCovenant Reformed Presbyterian Church\
-  \  (December 9, 2004\u2013 )\n495 S. South Franklin Road\nOrg. Pastor: Brenton Ferry,\
-  \ 2000\u20132004\nPastor: Brenton Ferry, 2004\u2013"
+raw_data: 'NORTH CAROLINA
+
+  Mount Airy
+
+
+  Covenant Reformed Presbyterian Chapel, OPC  (September 19, 1998-December 9, 2004)
+
+  Covenant Reformed Presbyterian Church  (December 9, 2004- )
+
+  495 S. South Franklin Road
+
+  Org. Pastor: Brenton Ferry, 2000-2004
+
+  Pastor: Brenton Ferry, 2004-
+
+  '
 received_from: null
 states:
 - NC

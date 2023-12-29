@@ -48,11 +48,30 @@ names:
   name: Faith Orthodox Presbyterian Church
   start: 1941-04-15
 origination_date: *id001
-raw_data: "AR\nLong Beach\n\nFaith Orthodox Presbyterian Church  (April 15, 1941\u2013\
-  \ )\n500 East San Antonio Drive\nPastors: Henry Coray, 1941\u201355\nGlenn Coie,\
-  \ 1955\u201357\nLawrence Eyres, 1958\u201370\nWilson Rinker, 1970\u201374\nDaniel\
-  \ Overduin, 1975\u20132011\nJames Lim, 2012\u2013\nAssoc. Pastor: Edward Volz, 1970\u2013\
-  75"
+raw_data: 'AR
+
+  Long Beach
+
+
+  Faith Orthodox Presbyterian Church  (April 15, 1941- )
+
+  500 East San Antonio Drive
+
+  Pastors: Henry Coray, 1941-55
+
+  Glenn Coie, 1955-57
+
+  Lawrence Eyres, 1958-70
+
+  Wilson Rinker, 1970-74
+
+  Daniel Overduin, 1975-2011
+
+  James Lim, 2012-
+
+  Assoc. Pastor: Edward Volz, 1970-75
+
+  '
 received_from: null
 states:
 - CA

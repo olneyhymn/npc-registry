@@ -26,10 +26,19 @@ names:
   name: Trinity Orthodox Presbyterian Church
   start: 1985-06-21
 origination_date: *id001
-raw_data: "PA\nPhoenixville\nTrinity Orthodox Presbyterian mission work  (May 18,\
-  \ 1984\u2013June 21, 1985)\nTrinity Orthodox Presbyterian Church  (June 21, 1985\u2013\
-  September 15, 2001)\nOrg. Pastor: Mark Holler, 1984\u201385\nPastor: Mark Holler,\
-  \ 1985\u20132000"
+raw_data: 'PA
+
+  Phoenixville
+
+  Trinity Orthodox Presbyterian mission work  (May 18, 1984-June 21, 1985)
+
+  Trinity Orthodox Presbyterian Church  (June 21, 1985-September 15, 2001)
+
+  Org. Pastor: Mark Holler, 1984-85
+
+  Pastor: Mark Holler, 1985-2000
+
+  '
 received_from: null
 states:
 - PA

@@ -13,8 +13,12 @@ names:
   name: Trinity Orthodox Presbyterian Church
   start: 1938-04-01
 origination_date: *id001
-raw_data: "CT New Haven\n\nTrinity Orthodox Presbyterian Church  (April 1, 1938\u2013\
-  March 25, 1941)"
+raw_data: 'CT New Haven
+
+
+  Trinity Orthodox Presbyterian Church  (April 1, 1938-March 25, 1941)
+
+  '
 received_from: null
 states:
 - CT

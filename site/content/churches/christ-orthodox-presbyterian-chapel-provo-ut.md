@@ -15,8 +15,15 @@ ministers:
 name: Christ Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "UT\nProvo\nChrist Orthodox Presbyterian Chapel  (2003\u20132006)\nOrg.\
-  \ Pastor:  Scott Seder, 2004\u20135"
+raw_data: 'UT
+
+  Provo
+
+  Christ Orthodox Presbyterian Chapel  (2003-2006)
+
+  Org. Pastor:  Scott Seder, 2004-5
+
+  '
 received_from: null
 states:
 - UT

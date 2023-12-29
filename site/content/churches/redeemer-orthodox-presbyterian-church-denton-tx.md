@@ -18,8 +18,16 @@ names:
   name: Redeemer Orthodox Presbyterian Church
   start: 1997-09-26
 origination_date: *id001
-raw_data: "TX\nDenton\n\nRedeemer Orthodox Presbyterian Church  (September 26, 1997\u2013\
-  January 2005)\nPastor: W. Daniel Lipford, 1997\u20132004"
+raw_data: 'TX
+
+  Denton
+
+
+  Redeemer Orthodox Presbyterian Church  (September 26, 1997-January 2005)
+
+  Pastor: W. Daniel Lipford, 1997-2004
+
+  '
 received_from: null
 states:
 - TX

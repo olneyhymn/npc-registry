@@ -15,9 +15,9 @@ ministers:
 name: Faith Bible Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "NEW JERSEY  Brick\nFaith Bible Orthodox Presbyterian Church (February 24,\
-  \ 2013\u2013 )\n(formed by the merger of Redeemer OPC, Seaside Heights, and Faith\
-  \ Bible Church,\nindependent)\n307 Mantoloking Road\nPastor: Todd E. Smith, 2015\u2013"
+raw_data: "NEW JERSEY\tBrick\nFaith Bible Orthodox Presbyterian Church (February 24,\
+  \ 2013- )\n(formed by the merger of Redeemer OPC, Seaside Heights, and Faith Bible\
+  \ Church,\nindependent)\n307 Mantoloking Road\nPastor: Todd E. Smith, 2015-\n"
 received_from: null
 states:
 - NJ

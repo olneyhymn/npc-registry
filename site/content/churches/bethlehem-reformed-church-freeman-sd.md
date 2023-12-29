@@ -28,9 +28,21 @@ names:
   name: Bethlehem Reformed Church, Orthodox Presbyterian
   start: 2002-06-21
 origination_date: *id001
-raw_data: "SD\nFreeman\nBethlehem Reformed Church, Orthodox Presbyterian  (June 21,\
-  \ 2002\u2013 )\n300 S. Relanto Street\nPastors: Benjamin Hopp, 2003\u20137\nKenny\
-  \ Honken, 2008\u201312\nD. Nathan Holloway, 2013\u201315"
+raw_data: 'SD
+
+  Freeman
+
+  Bethlehem Reformed Church, Orthodox Presbyterian  (June 21, 2002- )
+
+  300 S. Relanto Street
+
+  Pastors: Benjamin Hopp, 2003-7
+
+  Kenny Honken, 2008-12
+
+  D. Nathan Holloway, 2013-15
+
+  '
 received_from: null
 states:
 - SD

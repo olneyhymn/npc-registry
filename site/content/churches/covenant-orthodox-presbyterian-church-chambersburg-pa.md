@@ -21,9 +21,19 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 2015-01-01
 origination_date: *id001
-raw_data: "PA\nChambersburg\nCovenant Orthodox Presbyterian Church (2015\u2013 )\n\
-  (previously Chambersburg Orthodox Presbyterian Church)\n1123 Lincoln Way East\n\
-  Org. Pastor: Joshua L. McKamy, 2015\u2013"
+raw_data: 'PA
+
+  Chambersburg
+
+  Covenant Orthodox Presbyterian Church (2015- )
+
+  (previously Chambersburg Orthodox Presbyterian Church)
+
+  1123 Lincoln Way East
+
+  Org. Pastor: Joshua L. McKamy, 2015-
+
+  '
 received_from: null
 states:
 - PA

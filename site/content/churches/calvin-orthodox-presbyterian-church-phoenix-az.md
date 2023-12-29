@@ -20,9 +20,20 @@ ministers:
 name: Calvin Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "AZ\nPhoenix\n\nCalvin Orthodox Presbyterian Church  (June 26, 1994\u2013\
-  \ )\n4150 E. Acoma Drive\nPastors: Wayne Buchtel, 1994\u20132005\nMichael Babcock,\
-  \ 2007\u2013"
+raw_data: 'AZ
+
+  Phoenix
+
+
+  Calvin Orthodox Presbyterian Church  (June 26, 1994- )
+
+  4150 E. Acoma Drive
+
+  Pastors: Wayne Buchtel, 1994-2005
+
+  Michael Babcock, 2007-
+
+  '
 received_from: null
 states:
 - AZ

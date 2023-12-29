@@ -23,9 +23,18 @@ names:
   name: Harvest Orthodox Presbyterian Church
   start: 1995-12-03
 origination_date: *id001
-raw_data: "AR San Marcos\n\nHarvest Orthodox Presbyterian Church  (December 3, 1995\u2013\
-  \ )\n380 Mulberry Dr.\nPastor: Mark Schroeder, 1993\u2013\nAssoc. Pastor: Jesse\
-  \ Pirschel, 2004\u20138"
+raw_data: 'AR San Marcos
+
+
+  Harvest Orthodox Presbyterian Church  (December 3, 1995- )
+
+  380 Mulberry Dr.
+
+  Pastor: Mark Schroeder, 1993-
+
+  Assoc. Pastor: Jesse Pirschel, 2004-8
+
+  '
 received_from: null
 states:
 - CA

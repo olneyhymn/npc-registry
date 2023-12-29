@@ -31,10 +31,20 @@ names:
   name: Grace Orthodox Presbyterian Fellowship
   start: 1994-07-15
 origination_date: *id001
-raw_data: "PA Mansfield\n\nGrace Chapel (1984\u2013July 15, 1994)\nGrace Orthodox\
-  \ Presbyterian Fellowship  (July 15, 1994\u2013December 31, 2013)\nSupply: John\
-  \ W. Monger, 1984\u201389\nOrg. Pastor:  John Kershner, 1989\u201394\nPastor: Joel\
-  \ Kershner, 1994\u20132013"
+raw_data: 'PA Mansfield
+
+
+  Grace Chapel (1984-July 15, 1994)
+
+  Grace Orthodox Presbyterian Fellowship  (July 15, 1994-December 31, 2013)
+
+  Supply: John W. Monger, 1984-89
+
+  Org. Pastor:  John Kershner, 1989-94
+
+  Pastor: Joel Kershner, 1994-2013
+
+  '
 received_from: null
 states:
 - PA

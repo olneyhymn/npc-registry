@@ -36,11 +36,27 @@ names:
   name: Sovereign Grace Community Orthodox Presbyterian Church
   start: 2002-10-18
 origination_date: *id001
-raw_data: "AR\nHughson\n\nSovereign Grace Community Orthodox Presbyterian Chapel \
-  \ (December 17, 1998\u2013October 18, 2002)\nSovereign Grace Community Orthodox\
-  \ Presbyterian Church  (October 18, 2002\u2013 )\n7201 Hughson Avenue\nSupply: Sal\
-  \ Solis, 1998\u201399\nEvangelist: Mark Richline, 2000\u20132002\nPastors: Mark\
-  \ Richline, 2002\u201311\nMark R. Wheat, 2012\u2013"
+raw_data: 'AR
+
+  Hughson
+
+
+  Sovereign Grace Community Orthodox Presbyterian Chapel  (December 17, 1998-October
+  18, 2002)
+
+  Sovereign Grace Community Orthodox Presbyterian Church  (October 18, 2002- )
+
+  7201 Hughson Avenue
+
+  Supply: Sal Solis, 1998-99
+
+  Evangelist: Mark Richline, 2000-2002
+
+  Pastors: Mark Richline, 2002-11
+
+  Mark R. Wheat, 2012-
+
+  '
 received_from: null
 states:
 - CA

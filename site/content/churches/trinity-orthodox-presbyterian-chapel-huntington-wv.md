@@ -20,8 +20,15 @@ ministers:
 name: Trinity Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "WEST VIRGINIA Huntingont\nTrinity Orthodox Presbyterian Chapel (2004\u2013\
-  2015)\nOrg. Pastors: Boone Leigh, 2007\u20139\nDavid Robbins, 2010\u201315"
+raw_data: 'WEST VIRGINIA Huntingont
+
+  Trinity Orthodox Presbyterian Chapel (2004-2015)
+
+  Org. Pastors: Boone Leigh, 2007-9
+
+  David Robbins, 2010-15
+
+  '
 received_from: null
 states:
 - WV

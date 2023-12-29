@@ -33,10 +33,22 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 1953-04-19
 origination_date: *id001
-raw_data: "GA Valdosta\n\nWestminster Orthodox Presbyterian Church  (April 19, 1953\u2013\
-  January 14, 1975)\n(transferred to the Presbyterian Church in America, 1975)\nPastors:\
-  \ John Clelland, 1954\u201363\nRobert Valentine, 1963\u201367\nCromwell Roskamp,\
-  \ 1968\u201371\nWilliam Warren, 1973\u201374"
+raw_data: 'GA Valdosta
+
+
+  Westminster Orthodox Presbyterian Church  (April 19, 1953-January 14, 1975)
+
+  (transferred to the Presbyterian Church in America, 1975)
+
+  Pastors: John Clelland, 1954-63
+
+  Robert Valentine, 1963-67
+
+  Cromwell Roskamp, 1968-71
+
+  William Warren, 1973-74
+
+  '
 received_from: null
 states:
 - GA

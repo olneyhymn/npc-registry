@@ -56,12 +56,29 @@ names:
   name: First Orthodox Presbyterian Church
   start: 1961-01-01
 origination_date: *id001
-raw_data: "MD Baltimore\nFirst Orthodox Presbyterian Church (December 27, 1936\u2013\
-  March 18, 2007)\n(called St. Andrews Presbyterian Church, 1936\u20131961)\nPastors:\
-  \ Theodore Jansma, 1937\u201341\nR. Heber McIlwaine (Supply), 1941\u201343\nEdwards\
-  \ Elliott (Supply), 1943\u201347\nEdwards Elliott, 1947\u201350\nGeorge Willis,\
-  \ 1953\u201359\nCromwell Roskamp, 1960\u201364\nEverett DeVelde, 1966\u201381\n\
-  Stuart Jones, 1982\u20132007"
+raw_data: 'MD Baltimore
+
+  First Orthodox Presbyterian Church (December 27, 1936-March 18, 2007)
+
+  (called St. Andrews Presbyterian Church, 1936-1961)
+
+  Pastors: Theodore Jansma, 1937-41
+
+  R. Heber McIlwaine (Supply), 1941-43
+
+  Edwards Elliott (Supply), 1943-47
+
+  Edwards Elliott, 1947-50
+
+  George Willis, 1953-59
+
+  Cromwell Roskamp, 1960-64
+
+  Everett DeVelde, 1966-81
+
+  Stuart Jones, 1982-2007
+
+  '
 received_from: null
 states:
 - MD

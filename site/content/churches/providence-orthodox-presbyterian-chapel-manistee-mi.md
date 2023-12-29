@@ -23,9 +23,17 @@ names:
   name: Providence Orthodox Presbyterian Chapel
   start: 1999-03-19
 origination_date: *id001
-raw_data: "MI Manistee\nProvidence Orthodox Presbyterian Chapel (March 19, 1999\u2013\
-  \ )\n180 Memorial Drive\nOrg. Pastors: Kenneth Hovingh, 2003\u20136\nMarkus Jeromin,\
-  \ 2010\u201315"
+raw_data: 'MI Manistee
+
+  Providence Orthodox Presbyterian Chapel (March 19, 1999- )
+
+  180 Memorial Drive
+
+  Org. Pastors: Kenneth Hovingh, 2003-6
+
+  Markus Jeromin, 2010-15
+
+  '
 received_from: null
 states:
 - MI

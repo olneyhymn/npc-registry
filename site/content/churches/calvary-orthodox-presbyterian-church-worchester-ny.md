@@ -15,8 +15,15 @@ ministers:
 name: Calvary Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "NY\nWorchester\nCalvary Orthodox Presbyterian Church  (August 5, 1936\u2013\
-  \ September 10, 1957)\nPastor: John Rankin, 1936\u201357"
+raw_data: 'NY
+
+  Worchester
+
+  Calvary Orthodox Presbyterian Church  (August 5, 1936- September 10, 1957)
+
+  Pastor: John Rankin, 1936-57
+
+  '
 received_from: null
 states:
 - NY

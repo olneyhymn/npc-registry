@@ -40,10 +40,10 @@ ministers:
 name: Community Orthodox Presbyterian Church of Kalamazoo
 names: null
 origination_date: *id001
-raw_data: "MI  Kalamazoo\nCommunity Orthodox Presbyterian Church of Kalamazoo  (August\
-  \ 7, 1979\u2013 )\n2131 Alamo Avenue\nPastors: Abe Ediger, 1982\u201388\nKenneth\
-  \ Smith, 1988\u201394\nTimothy Bero, 1996\u20132013\nAssoc. Pastors:  Kenneth Smith,\
-  \ 1987\u201388\nTimothy Bero, 1992\u201394\nK. Dale Collison, 1994\u20132001"
+raw_data: "MI\tKalamazoo\nCommunity Orthodox Presbyterian Church of Kalamazoo  (August\
+  \ 7, 1979- )\n2131 Alamo Avenue\nPastors: Abe Ediger, 1982-88\nKenneth Smith, 1988-94\n\
+  Timothy Bero, 1996-2013\nAssoc. Pastors:  Kenneth Smith, 1987-88\nTimothy Bero,\
+  \ 1992-94\nK. Dale Collison, 1994-2001\n"
 received_from: null
 states:
 - MI

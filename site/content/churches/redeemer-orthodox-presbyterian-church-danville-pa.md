@@ -26,10 +26,24 @@ names:
   name: Redeemer Orthodox Presbyterian Church
   start: 2011-07-10
 origination_date: *id001
-raw_data: "PA Danville\n\nRedeemer Orthodox Presbyterian (mission work) (2005\u2013\
-  July 10, 2011)\n\nRedeemer Orthodox Presbyterian Church (July 10, 2011\u2013 )\n\
-  \nDanville Christian Missionary Alliance, 2 Church Hill Road\n\nOrg. Pastor: Roth\
-  \ Reason, 2006\u201311\n\nPastor: Roth Reason, 2011"
+raw_data: 'PA Danville
+
+
+  Redeemer Orthodox Presbyterian (mission work) (2005-July 10, 2011)
+
+
+  Redeemer Orthodox Presbyterian Church (July 10, 2011- )
+
+
+  Danville Christian Missionary Alliance, 2 Church Hill Road
+
+
+  Org. Pastor: Roth Reason, 2006-11
+
+
+  Pastor: Roth Reason, 2011
+
+  '
 received_from: null
 states:
 - PA

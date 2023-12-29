@@ -43,10 +43,25 @@ names:
   name: Gethsemane Orthodox Presbyterian Church
   start: 1936-06-30
 origination_date: *id001
-raw_data: "PA Philadelphia\nGethsemane Orthodox Presbyterian Church  (June 30, 1936\u2013\
-  June 8, 1967)\n2510 South 65th Street\nPastors: R. Moody Holmes, 1936\u201337\n\
-  John Galbraith, 1937\u201340\nSamuel Allen, 1940\u201347\nLester Bachman, 1950\u2013\
-  56\nWilliam McDowell, 1957\u201360\nSupply: Thayer Westlake, 1948\u201349"
+raw_data: 'PA Philadelphia
+
+  Gethsemane Orthodox Presbyterian Church  (June 30, 1936-June 8, 1967)
+
+  2510 South 65th Street
+
+  Pastors: R. Moody Holmes, 1936-37
+
+  John Galbraith, 1937-40
+
+  Samuel Allen, 1940-47
+
+  Lester Bachman, 1950-56
+
+  William McDowell, 1957-60
+
+  Supply: Thayer Westlake, 1948-49
+
+  '
 received_from: null
 states:
 - PA

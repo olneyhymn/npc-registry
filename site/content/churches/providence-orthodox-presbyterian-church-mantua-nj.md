@@ -28,10 +28,21 @@ names:
   name: Providence Orthodox Presbyterian Church
   start: 1989-06-04
 origination_date: *id001
-raw_data: "NEW JERSEY Mantua\nProvidence Orthodox Presbyterian Church  (June 4, 1989\u2013\
-  \ )\n(formerly Cross Keys Fellowship Presbyterian Church, Turnersville)\n230 Shadow\
-  \ Pl.\nPastors: Alan Strange, 1990\u201399\nClaude D. DePrine III, 2001\u201314\n\
-  Carl McDaniel Jr, 2014\u2013"
+raw_data: 'NEW JERSEY Mantua
+
+  Providence Orthodox Presbyterian Church  (June 4, 1989- )
+
+  (formerly Cross Keys Fellowship Presbyterian Church, Turnersville)
+
+  230 Shadow Pl.
+
+  Pastors: Alan Strange, 1990-99
+
+  Claude D. DePrine III, 2001-14
+
+  Carl McDaniel Jr, 2014-
+
+  '
 received_from: null
 states:
 - NJ

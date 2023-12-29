@@ -15,8 +15,14 @@ ministers:
 name: Grace Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "ME Augusta\n\nGrace Orthodox Presbyterian Chapel  (1978\u20131984)\nEvangelist:\
-  \ John Mallin, 1981\u201384"
+raw_data: 'ME Augusta
+
+
+  Grace Orthodox Presbyterian Chapel  (1978-1984)
+
+  Evangelist: John Mallin, 1981-84
+
+  '
 received_from: null
 states:
 - ME

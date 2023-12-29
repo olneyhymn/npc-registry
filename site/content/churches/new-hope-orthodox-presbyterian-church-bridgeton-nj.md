@@ -61,12 +61,34 @@ names:
   name: Calvary Orthodox Presbyterian Church
   start: 1936-09-08
 origination_date: *id001
-raw_data: "NEW JERSEY Bridgeton\n\nNew Hope Orthodox Presbyterian Church  (September\
-  \ 8, 1936\u2013 )\n(called Calvary Orthodox Presbyterian Church, 1936\u20132005)\n\
-  65 Hitchner Avenue\nPastors: Clifford Smith, 1936\u201345\nRichard Gray, 1945\u2013\
-  49\nRalph Clough, 1949\u201362\nArthur Olson, 1963\u201369\nRobert Marshall, 1970\u2013\
-  76\nRobert Gramp, 1977\u201385\nGlenn Evans, 1987\u201398\nNeil Lodge, 1998\u2013\
-  2005\nClaude Taylor, 2008\u2013"
+raw_data: 'NEW JERSEY Bridgeton
+
+
+  New Hope Orthodox Presbyterian Church  (September 8, 1936- )
+
+  (called Calvary Orthodox Presbyterian Church, 1936-2005)
+
+  65 Hitchner Avenue
+
+  Pastors: Clifford Smith, 1936-45
+
+  Richard Gray, 1945-49
+
+  Ralph Clough, 1949-62
+
+  Arthur Olson, 1963-69
+
+  Robert Marshall, 1970-76
+
+  Robert Gramp, 1977-85
+
+  Glenn Evans, 1987-98
+
+  Neil Lodge, 1998-2005
+
+  Claude Taylor, 2008-
+
+  '
 received_from: null
 states:
 - NJ

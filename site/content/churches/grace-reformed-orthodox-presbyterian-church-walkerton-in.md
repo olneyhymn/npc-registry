@@ -23,9 +23,18 @@ names:
   name: Grace Reformed Orthodox Presbyterian Church
   start: 2000-05-26
 origination_date: *id001
-raw_data: "IN    Walkerton\n\nGrace Reformed Orthodox Presbyterian Church  (May 26,\
-  \ 2000\u2013 )\n700 Van Buren Street\nPastors: Glenn Jerrell, 2000\u20132012\nMatthew\
-  \ W.C. Barker, 2012"
+raw_data: 'IN    Walkerton
+
+
+  Grace Reformed Orthodox Presbyterian Church  (May 26, 2000- )
+
+  700 Van Buren Street
+
+  Pastors: Glenn Jerrell, 2000-2012
+
+  Matthew W.C. Barker, 2012
+
+  '
 received_from: null
 states:
 - IN

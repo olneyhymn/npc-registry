@@ -30,9 +30,21 @@ ministers:
 name: Faith Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "PA  Fawn Grove\nFaith Orthodox Presbyterian Church  (April 12, 1964\u2013\
-  \ )\n405 North Market Street\nPastors: Henry Fikkert, 1964\u201366\nRonald Shaw,\
-  \ 1966\u201369\nDouglas Winward, 1970\u20132015\nShane M. Bennett, 2015\u2013"
+raw_data: 'PA  Fawn Grove
+
+  Faith Orthodox Presbyterian Church  (April 12, 1964- )
+
+  405 North Market Street
+
+  Pastors: Henry Fikkert, 1964-66
+
+  Ronald Shaw, 1966-69
+
+  Douglas Winward, 1970-2015
+
+  Shane M. Bennett, 2015-
+
+  '
 received_from: null
 states:
 - PA

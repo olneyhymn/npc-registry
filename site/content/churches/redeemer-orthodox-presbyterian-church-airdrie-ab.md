@@ -23,9 +23,19 @@ names:
   name: Redeemer Orthodox Presbyterian Church
   start: 2014-05-23
 origination_date: *id001
-raw_data: "AB\nAirdrie\nRedeemer Orthodox Presbyterian Church (May 23, 2014\u2013\
-  \ )\nGood Shepherd School, 1319 Thorburn Drive, SE\nOrg. Pastor: Larry E. Wilson,\
-  \ 2011\u201314\nPastor: Larry E. Wilson, 2014\u2013"
+raw_data: 'AB
+
+  Airdrie
+
+  Redeemer Orthodox Presbyterian Church (May 23, 2014- )
+
+  Good Shepherd School, 1319 Thorburn Drive, SE
+
+  Org. Pastor: Larry E. Wilson, 2011-14
+
+  Pastor: Larry E. Wilson, 2014-
+
+  '
 received_from: null
 states:
 - AB

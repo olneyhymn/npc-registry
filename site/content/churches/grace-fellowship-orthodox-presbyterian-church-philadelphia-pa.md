@@ -41,12 +41,27 @@ names:
   name: Grace Fellowship Orthodox Presbyterian Church
   start: 1992-05-22
 origination_date: *id001
-raw_data: "PA Philadelphia\nGrace Fellowship Chapel of Germantown (October 5, 1984\u2013\
-  May 22, 1992)\nGrace Fellowship Orthodox Presbyterian Church (May 22, 1992\u2013\
-  \ )\n(joint OPC/PCA mission work, 1984\u20131986)\n5727 Germantown Avenue\nOrg.\
-  \ Pastors: Jonathan C. Gibbs III, 1984\u201388\nEdward Gross, 1988\u201392\nPastors:\
-  \ Edward Gross, 1992\u201394\nBenjamin Snodgrass, 1996\u20132004\nWilliam Snodgrass,\
-  \ 2006\u2013"
+raw_data: 'PA Philadelphia
+
+  Grace Fellowship Chapel of Germantown (October 5, 1984-May 22, 1992)
+
+  Grace Fellowship Orthodox Presbyterian Church (May 22, 1992- )
+
+  (joint OPC/PCA mission work, 1984-1986)
+
+  5727 Germantown Avenue
+
+  Org. Pastors: Jonathan C. Gibbs III, 1984-88
+
+  Edward Gross, 1988-92
+
+  Pastors: Edward Gross, 1992-94
+
+  Benjamin Snodgrass, 1996-2004
+
+  William Snodgrass, 2006-
+
+  '
 received_from: null
 states:
 - PA

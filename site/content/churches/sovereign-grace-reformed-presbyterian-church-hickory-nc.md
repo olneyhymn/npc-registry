@@ -34,11 +34,24 @@ names:
   name: Sovereign Grace Reformed Presbyterian Church
   start: 2007-03-16
 origination_date: *id001
-raw_data: "NORTH CAROLINA    Hickory\n\nSovereign Grace Reformed Presbyterian Chapel\
-  \  (October 21, 2000\u2013March 16, 2007)\n(called Reformed Bible Church, 2000\u2013\
-  2005)\nSovereign Grace Reformed Presbyterian Church  (March 16, 2007\u2013 )\n613\
-  \ 3rd Avenue NE\nOrg. Pastor:  E. Cody Ray, 2003\u20137\nPastors: E. Cody Ray, 2007\u2013\
-  12\nChristopher B. Cashen, 2013\u2013"
+raw_data: 'NORTH CAROLINA    Hickory
+
+
+  Sovereign Grace Reformed Presbyterian Chapel  (October 21, 2000-March 16, 2007)
+
+  (called Reformed Bible Church, 2000-2005)
+
+  Sovereign Grace Reformed Presbyterian Church  (March 16, 2007- )
+
+  613 3rd Avenue NE
+
+  Org. Pastor:  E. Cody Ray, 2003-7
+
+  Pastors: E. Cody Ray, 2007-12
+
+  Christopher B. Cashen, 2013-
+
+  '
 received_from: null
 states:
 - NC

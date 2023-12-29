@@ -21,9 +21,15 @@ names:
   name: Twelfth Avenue Orthodox Presbyterian Church
   start: 1983-03-24
 origination_date: *id001
-raw_data: "OK    Norman\nOrthodox Presbyterian Church  (March 24, 1983\u2013September\
-  \ 20, 1991)\n(also called Twelfth Avenue Orthodox Presbyterian Church)\nPastor:\
-  \ William Doerfel, 1985\u201391"
+raw_data: 'OK    Norman
+
+  Orthodox Presbyterian Church  (March 24, 1983-September 20, 1991)
+
+  (also called Twelfth Avenue Orthodox Presbyterian Church)
+
+  Pastor: William Doerfel, 1985-91
+
+  '
 received_from: null
 states:
 - OK

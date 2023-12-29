@@ -38,10 +38,9 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 1995-10-11
 origination_date: *id001
-raw_data: "NV  Battle Mountain\nGrace Orthodox Presbyterian Church  (October 11, 1995\u2013\
-  \ )\n45 E. 4th Street\nEvangelist:  Brian Nicholson, 1990\u201394\nPastors: Andrew\
-  \ Elam, 1996\u201398\nDaniel Patterson, 2003\u20139\nChristopher Post, 2010\u2013\
-  12\nAlan J. Dueck, 2013"
+raw_data: "NV\tBattle Mountain\nGrace Orthodox Presbyterian Church  (October 11, 1995-\
+  \ )\n45 E. 4th Street\nEvangelist:  Brian Nicholson, 1990-94\nPastors: Andrew Elam,\
+  \ 1996-98\nDaniel Patterson, 2003-9\nChristopher Post, 2010-12\nAlan J. Dueck, 2013\n"
 received_from: null
 states:
 - NV

@@ -18,8 +18,14 @@ names:
   name: Kidane-Hiwot Church
   start: 1982-10-09
 origination_date: *id001
-raw_data: "DISTRICT OF COLUMBIA (DC) Washington, DC\n\nKidane-Hiwot Church (October\
-  \ 9, 1982\u20131993)\nEvangelist: Hailu Mekonnen, 1982\u201393"
+raw_data: 'DISTRICT OF COLUMBIA (DC) Washington, DC
+
+
+  Kidane-Hiwot Church (October 9, 1982-1993)
+
+  Evangelist: Hailu Mekonnen, 1982-93
+
+  '
 received_from: null
 states:
 - DC

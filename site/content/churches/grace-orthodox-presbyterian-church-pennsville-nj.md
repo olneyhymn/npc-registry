@@ -18,9 +18,19 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 2008-04-04
 origination_date: *id001
-raw_data: "NEW JERSEY\nPennsville\nGrace Orthodox Presbyterian Church  (April 4, 2008\u2013\
-  \ )\n(formerly Crossroads Community Church, independent)\n50 North Hook Road\nPastor:\
-  \ David Cornette, 2009\u201315"
+raw_data: 'NEW JERSEY
+
+  Pennsville
+
+  Grace Orthodox Presbyterian Church  (April 4, 2008- )
+
+  (formerly Crossroads Community Church, independent)
+
+  50 North Hook Road
+
+  Pastor: David Cornette, 2009-15
+
+  '
 received_from: null
 states:
 - NJ

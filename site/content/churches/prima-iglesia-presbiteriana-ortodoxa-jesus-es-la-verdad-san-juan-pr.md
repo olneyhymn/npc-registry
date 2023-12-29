@@ -12,15 +12,23 @@ minister:
   type: Pastor
 ministers:
 - Milton Villanueva
-name: Prima Iglesia Presbiteriana Ortodoxa "Jesus es la Verdad"
+name: Prima Iglesia Presbiteriana Ortodoxa Jesus es la Verdad
 names:
 - end: null
-  name: Prima Iglesia Presbiteriana Ortodoxa "Jesus es la Verdad"
+  name: Prima Iglesia Presbiteriana Ortodoxa Jesus es la Verdad
   start: 2008-02-17
 origination_date: *id001
-raw_data: "PR\nSan Juan\nPrima Iglesia Presbiteriana Ortodoxa \u201CJesus es la Verdad\u201D\
-  \ (February 17, 2008\u2013 )\nUrb. Roosevelt, 194 Hector Salaman\nPastor: Milton\
-  \ Villanueva, 2008\u201316"
+raw_data: 'PR
+
+  San Juan
+
+  Prima Iglesia Presbiteriana Ortodoxa "Jesus es la Verdad" (February 17, 2008- )
+
+  Urb. Roosevelt, 194 Hector Salaman
+
+  Pastor: Milton Villanueva, 2008-16
+
+  '
 received_from: null
 states:
 - PR
@@ -30,7 +38,7 @@ status:
   reason: null
   received_from: null
   withdrawal_to: null
-title: Prima Iglesia Presbiteriana Ortodoxa "Jesus es la Verdad" (San Juan PR)
+title: Prima Iglesia Presbiteriana Ortodoxa Jesus es la Verdad (San Juan PR)
 year_established:
 - 2008
 

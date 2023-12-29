@@ -58,11 +58,31 @@ names:
   name: First Orthodox Presbyterian Church
   start: 1941-04-15
 origination_date: *id001
-raw_data: "AR San Francisco\nFirst Orthodox Presbyterian Church  (April 15, 1941\u2013\
-  \ )\n1350 Lawton Street\nPastors: Robert Atwell, 1941\u201343\nCarl Ahlfeldt, 1943\u2013\
-  50\nEdwards Elliott, 1950\u201356\nSal Solis, 1958\u201362\nRobert Newsom, 1962\u2013\
-  64\nAlbert Steever, 1966\u201370\nRobert Abbott, 1972\nCharles McIlhenny, 1974\u2013\
-  2005\nGlenn Ferrell, 2010\u2013"
+raw_data: 'AR San Francisco
+
+  First Orthodox Presbyterian Church  (April 15, 1941- )
+
+  1350 Lawton Street
+
+  Pastors: Robert Atwell, 1941-43
+
+  Carl Ahlfeldt, 1943-50
+
+  Edwards Elliott, 1950-56
+
+  Sal Solis, 1958-62
+
+  Robert Newsom, 1962-64
+
+  Albert Steever, 1966-70
+
+  Robert Abbott, 1972
+
+  Charles McIlhenny, 1974-2005
+
+  Glenn Ferrell, 2010-
+
+  '
 received_from: null
 states:
 - CA

@@ -18,8 +18,13 @@ names:
   name: Trinity Orthodox Presbyterian Church
   start: 1997-02-22
 origination_date: *id001
-raw_data: "NEW JERSEY Audubon\nTrinity Orthodox Presbyterian Church (February 22,\
-  \ 1997\u2013December 31, 1997)\nPastor: Joseph P. Trombetta, 1997"
+raw_data: 'NEW JERSEY Audubon
+
+  Trinity Orthodox Presbyterian Church (February 22, 1997-December 31, 1997)
+
+  Pastor: Joseph P. Trombetta, 1997
+
+  '
 received_from: null
 states:
 - NJ

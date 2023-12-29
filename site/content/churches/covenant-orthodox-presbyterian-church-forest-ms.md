@@ -28,10 +28,21 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1998-01-23
 origination_date: *id001
-raw_data: "Mississippi\nForest\nCovenant Orthodox Presbyterian Church  (January 23,\
-  \ 1998\u2013December 11, 2005)\n(reunited with Forest Presbyterian Church, PCA,\
-  \ December 11, 2005)\nPastors: Jack Sawyer, 1998\u201399\nEdward Ludt, 2000\u2013\
-  2002\nMark Smith, 2003\u20135"
+raw_data: 'Mississippi
+
+  Forest
+
+  Covenant Orthodox Presbyterian Church  (January 23, 1998-December 11, 2005)
+
+  (reunited with Forest Presbyterian Church, PCA, December 11, 2005)
+
+  Pastors: Jack Sawyer, 1998-99
+
+  Edward Ludt, 2000-2002
+
+  Mark Smith, 2003-5
+
+  '
 received_from: null
 states:
 - MS

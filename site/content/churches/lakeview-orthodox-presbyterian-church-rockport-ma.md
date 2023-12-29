@@ -33,9 +33,22 @@ names:
   name: Lakeview Orthodox Presbyterian Church
   start: 1976-12-03
 origination_date: *id001
-raw_data: "ME Rockport\n\nLakeview Orthodox Presbyterian Church (December 3, 1976\u2013\
-  \ )\nRoute 17 and Rockland Street\nPastors: Roger Ramsey, 1977\u201379\nCharles\
-  \ Ellis, 1979\u201383\nRandolph Patterson, 1984\u201398\nStephen Tracey, 2001\u2013"
+raw_data: 'ME Rockport
+
+
+  Lakeview Orthodox Presbyterian Church (December 3, 1976- )
+
+  Route 17 and Rockland Street
+
+  Pastors: Roger Ramsey, 1977-79
+
+  Charles Ellis, 1979-83
+
+  Randolph Patterson, 1984-98
+
+  Stephen Tracey, 2001-
+
+  '
 received_from: null
 states:
 - MA

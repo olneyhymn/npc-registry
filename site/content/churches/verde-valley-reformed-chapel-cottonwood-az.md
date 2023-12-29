@@ -15,8 +15,17 @@ ministers:
 name: Verde Valley Reformed Chapel
 names: null
 origination_date: *id001
-raw_data: "AZ\nCottonwood\nVerde Valley Reformed Chapel  (October 22, 2010\u2013 )\n\
-  4855 E. Broken Saddle Dr.\nOrg. Pastor: Brian D. Chang, 2011\u2013"
+raw_data: 'AZ
+
+  Cottonwood
+
+  Verde Valley Reformed Chapel  (October 22, 2010- )
+
+  4855 E. Broken Saddle Dr.
+
+  Org. Pastor: Brian D. Chang, 2011-
+
+  '
 received_from: null
 states:
 - AZ

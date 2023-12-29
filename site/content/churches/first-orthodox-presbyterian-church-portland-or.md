@@ -38,10 +38,26 @@ names:
   name: First Orthodox Presbyterian Church
   start: 1944-08-09
 origination_date: *id001
-raw_data: "OR\nPortland\n\nFirst Orthodox Presbyterian Church  (August 9, 1944\u2013\
-  \ )\n8245 NE Fremont Street\nPastors: Lawrence Eyres, 1944\u201350\nCarl Ahlfeldt,\
-  \ 1950\u201360\nAlbert Edwards, III, 1960\u201375\nDonald Poundstone, 1976\u2013\
-  94\nJack Smith, 1995\u2013"
+raw_data: 'OR
+
+  Portland
+
+
+  First Orthodox Presbyterian Church  (August 9, 1944- )
+
+  8245 NE Fremont Street
+
+  Pastors: Lawrence Eyres, 1944-50
+
+  Carl Ahlfeldt, 1950-60
+
+  Albert Edwards, III, 1960-75
+
+  Donald Poundstone, 1976-94
+
+  Jack Smith, 1995-
+
+  '
 received_from: null
 states:
 - OR

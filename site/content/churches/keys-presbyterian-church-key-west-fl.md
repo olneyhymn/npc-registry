@@ -21,9 +21,20 @@ names:
   name: Keys Presbyterian Church
   start: 2007-01-01
 origination_date: *id001
-raw_data: "FLORIDA\nKey West\n\nKeys Presbyterian Church  (mission work) (July 12,\
-  \ 1992\u2013 )\n(called Keys Orthodox Presbyterian Chapel, 1992\u20132007)\nKeys\
-  \ Bible Center, 1000 Coppitt Road\nEvangelist: William Welzien, 1992"
+raw_data: 'FLORIDA
+
+  Key West
+
+
+  Keys Presbyterian Church  (mission work) (July 12, 1992- )
+
+  (called Keys Orthodox Presbyterian Chapel, 1992-2007)
+
+  Keys Bible Center, 1000 Coppitt Road
+
+  Evangelist: William Welzien, 1992
+
+  '
 received_from: null
 states:
 - FL

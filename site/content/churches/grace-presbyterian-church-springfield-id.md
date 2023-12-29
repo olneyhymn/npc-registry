@@ -28,10 +28,24 @@ names:
   name: Grace Presbyterian Church
   start: 1996-09-20
 origination_date: *id001
-raw_data: "ID\nSpringfield\n\nGrace Presbyterian Church  (September 20, 1996\u2013\
-  \ )\n1800 North Grand Avenue West\n(called Covenant Reformed Orthodox Presbyterian\
-  \ Church, 1996\u20132008)\nPastors: Robert Walker, 1996\u20132000\nTerry Dowds,\
-  \ 2000\u2013\nAssoc. Pastor: Michael Shipma, 1999\u20132002"
+raw_data: 'ID
+
+  Springfield
+
+
+  Grace Presbyterian Church  (September 20, 1996- )
+
+  1800 North Grand Avenue West
+
+  (called Covenant Reformed Orthodox Presbyterian Church, 1996-2008)
+
+  Pastors: Robert Walker, 1996-2000
+
+  Terry Dowds, 2000-
+
+  Assoc. Pastor: Michael Shipma, 1999-2002
+
+  '
 received_from: null
 states:
 - ID

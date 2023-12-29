@@ -53,11 +53,30 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 1951-05-27
 origination_date: *id001
-raw_data: "NEW JERSEY Fair Lawn\n\nGrace Orthodox Presbyterian Church  (May 27, 1951\u2013\
-  \ )\nE. Amsterdam Avenue at Ryan Road\nPastors: Bruce Coie, 1951\nLeRoy Oliver,\
-  \ 1952\u201356\nRaymond Commeret, 1956\u201372\nDennis Johnson, 1973\u201376\nDavid\
-  \ Kiester, 1977\u201379\nKenneth J. Campbell, 1980\u20132006\nMark Larson, 2007\u2013\
-  12\nJohn J. Keegan, 2013"
+raw_data: 'NEW JERSEY Fair Lawn
+
+
+  Grace Orthodox Presbyterian Church  (May 27, 1951- )
+
+  E. Amsterdam Avenue at Ryan Road
+
+  Pastors: Bruce Coie, 1951
+
+  LeRoy Oliver, 1952-56
+
+  Raymond Commeret, 1956-72
+
+  Dennis Johnson, 1973-76
+
+  David Kiester, 1977-79
+
+  Kenneth J. Campbell, 1980-2006
+
+  Mark Larson, 2007-12
+
+  John J. Keegan, 2013
+
+  '
 received_from: null
 states:
 - NJ

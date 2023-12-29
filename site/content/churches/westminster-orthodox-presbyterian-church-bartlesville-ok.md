@@ -48,11 +48,10 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 1971-02-14
 origination_date: *id001
-raw_data: "OKLAHOMA  Bartlesville\nWestminster Orthodox Presbyterian Church  (February\
-  \ 14, 1971\u2013 )\n1001 E. Adams Boulevard\nPastors: Robert Malarkey, 1971\u2013\
-  73\nDennis Prutow, 1974\u201382\nChester Lanious, 1982\u201385\nRichard Shaw, 1985\u2013\
-  97\nJoseph Auksela, 1999\u20132014\nClarence Veld, 2016\u2013\nAssoc. Pastor: Edward\
-  \ Eppinger, 2003\u2013"
+raw_data: "OKLAHOMA\tBartlesville\nWestminster Orthodox Presbyterian Church  (February\
+  \ 14, 1971- )\n1001 E. Adams Boulevard\nPastors: Robert Malarkey, 1971-73\nDennis\
+  \ Prutow, 1974-82\nChester Lanious, 1982-85\nRichard Shaw, 1985-97\nJoseph Auksela,\
+  \ 1999-2014\nClarence Veld, 2016-\nAssoc. Pastor: Edward Eppinger, 2003-\n"
 received_from: null
 states:
 - OK

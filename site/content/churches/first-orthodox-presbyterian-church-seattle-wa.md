@@ -23,9 +23,16 @@ names:
   name: First Orthodox Presbyterian Church
   start: 1946-05-17
 origination_date: *id001
-raw_data: "WASHINGTON Seattle\n\nFirst Orthodox Presbyterian Church (May 17, 1946\u2013\
-  April 19, 1956)\nPastors: James Brown, 1946\u201348\nEarl Zetterholm, 1948\u2013\
-  54"
+raw_data: 'WASHINGTON Seattle
+
+
+  First Orthodox Presbyterian Church (May 17, 1946-April 19, 1956)
+
+  Pastors: James Brown, 1946-48
+
+  Earl Zetterholm, 1948-54
+
+  '
 received_from: null
 states:
 - WA

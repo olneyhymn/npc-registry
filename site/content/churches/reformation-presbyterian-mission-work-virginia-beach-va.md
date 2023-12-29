@@ -13,8 +13,13 @@ names:
   name: Reformation Presbyterian mission work
   start: 2013-04-14
 origination_date: *id001
-raw_data: "VIRGINIA Virginia Beach\nReformation Presbyterian mission work (April 14,\
-  \ 2013\u2013 )\n1313 Indian Lakes Boulevard"
+raw_data: 'VIRGINIA Virginia Beach
+
+  Reformation Presbyterian mission work (April 14, 2013- )
+
+  1313 Indian Lakes Boulevard
+
+  '
 received_from: null
 states:
 - VA

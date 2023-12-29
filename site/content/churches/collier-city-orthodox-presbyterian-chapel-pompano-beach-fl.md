@@ -12,7 +12,9 @@ names: null
 origination_date: *id001
 raw_data: 'FLORIDA Pompano Beach
 
-  Collier City Orthodox Presbyterian Chapel (1960s)'
+  Collier City Orthodox Presbyterian Chapel (1960s)
+
+  '
 received_from: null
 states:
 - FL

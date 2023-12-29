@@ -15,8 +15,15 @@ ministers:
 name: Omega Orthodox Presbyterian mission work
 names: null
 origination_date: *id001
-raw_data: "PA Williamsport\nOmega Orthodox Presbyterian mission work (May 7, 2011\u2013\
-  \ )\n2570 Lycoming Creek Road, Williamsport\nOrg. Pastor: Andrew T. Adcock, 2011\u2013"
+raw_data: 'PA Williamsport
+
+  Omega Orthodox Presbyterian mission work (May 7, 2011- )
+
+  2570 Lycoming Creek Road, Williamsport
+
+  Org. Pastor: Andrew T. Adcock, 2011-
+
+  '
 received_from: null
 states:
 - PA

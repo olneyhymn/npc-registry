@@ -15,8 +15,13 @@ ministers:
 name: Living Water Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "OH Springfield\nLiving Water Orthodox Presbyterian Chapel  (February 1,\
-  \ 2015\u2013 )\nOrg. Pastor: Bradley M. Peppo, 2015-"
+raw_data: 'OH Springfield
+
+  Living Water Orthodox Presbyterian Chapel  (February 1, 2015- )
+
+  Org. Pastor: Bradley M. Peppo, 2015-
+
+  '
 received_from: null
 states:
 - OH

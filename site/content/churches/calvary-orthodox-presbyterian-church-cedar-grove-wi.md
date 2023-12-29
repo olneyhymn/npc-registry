@@ -63,11 +63,36 @@ names:
   name: Calvary Orthodox Presbyterian Church
   start: 1936-06-09
 origination_date: *id001
-raw_data: "WI\nCedar Grove\n\nCalvary Orthodox Presbyterian Church  (June 9, 1936\u2013\
-  \ )\n136 West Union Avenue\nPastors: John DeWaard, 1937\u201340\nGeorge Willis,\
-  \ 1941\u201344\nDean Adair, 1945\u201347\nRobert Churchill, 1948\u201359\nCarl Reitsma,\
-  \ 1960\u201366\nHenry Fikkert, 1966\u201391\nDonald Ritsman, 1991\u201398\nRichard\
-  \ Edwards, 1999\u20132005\nRonald Beabout, 2005\u201314\nDavid Cornette, 2015\u2013"
+raw_data: 'WI
+
+  Cedar Grove
+
+
+  Calvary Orthodox Presbyterian Church  (June 9, 1936- )
+
+  136 West Union Avenue
+
+  Pastors: John DeWaard, 1937-40
+
+  George Willis, 1941-44
+
+  Dean Adair, 1945-47
+
+  Robert Churchill, 1948-59
+
+  Carl Reitsma, 1960-66
+
+  Henry Fikkert, 1966-91
+
+  Donald Ritsman, 1991-98
+
+  Richard Edwards, 1999-2005
+
+  Ronald Beabout, 2005-14
+
+  David Cornette, 2015-
+
+  '
 received_from: null
 states:
 - WI

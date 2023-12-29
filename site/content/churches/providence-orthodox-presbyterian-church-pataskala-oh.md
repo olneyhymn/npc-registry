@@ -36,11 +36,23 @@ names:
   name: Providence Orthodox Presbyterian Church
   start: 2002-09-13
 origination_date: *id001
-raw_data: "OH    Pataskala\nProvidence Orthodox Presbyterian Chapel  (October 24,\
-  \ 1998\u2013September 13, 2002)\nProvidence Orthodox Presbyterian Church  (September\
-  \ 13, 2002\u2013 )\n7095 Summit Road\nOrg. Pastor:  Luis Orteza, 1998\u20132002\n\
-  Pastors:  Luis Orteza, 2002\u20135\nStephen Dufresne, 2006\u2013\nTeacher:  Sacha\
-  \ Walicord, 2011\u201312"
+raw_data: 'OH    Pataskala
+
+  Providence Orthodox Presbyterian Chapel  (October 24, 1998-September 13, 2002)
+
+  Providence Orthodox Presbyterian Church  (September 13, 2002- )
+
+  7095 Summit Road
+
+  Org. Pastor:  Luis Orteza, 1998-2002
+
+  Pastors:  Luis Orteza, 2002-5
+
+  Stephen Dufresne, 2006-
+
+  Teacher:  Sacha Walicord, 2011-12
+
+  '
 received_from: null
 states:
 - OH

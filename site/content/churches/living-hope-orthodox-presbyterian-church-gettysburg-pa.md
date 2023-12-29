@@ -51,12 +51,27 @@ names:
   name: Living Hope Orthodox Presbyterian Church
   start: null
 origination_date: *id001
-raw_data: "Gettysburg Orthodox Presbyterian Church  (October 13, 1983\u2013 )\n(now\
-  \ Living Hope Orthodox Presbyterian Church)\n155 Early AvenuePENNSYLV ANIA PENNSYLV\
-  \ ANIA\nPastors: Richard Craven, 1983\u201394\nJohn Pederson, 1995\u201396\nJohn\
-  \ Van Meerbeke, 1999\u2013\nInterim Pastors: Laurence Vail, 1994\u201395\nJohn Mallin,\
-  \ 1996\u201399\nAssoc. Pastor: Kyle N. Brown, 2013\u2013\nEvangelist: Joshua L.\
-  \ McKamy, 2015\u2013"
+raw_data: 'Gettysburg Orthodox Presbyterian Church  (October 13, 1983- )
+
+  (now Living Hope Orthodox Presbyterian Church)
+
+  155 Early AvenuePENNSYLV ANIA PENNSYLV ANIA
+
+  Pastors: Richard Craven, 1983-94
+
+  John Pederson, 1995-96
+
+  John Van Meerbeke, 1999-
+
+  Interim Pastors: Laurence Vail, 1994-95
+
+  John Mallin, 1996-99
+
+  Assoc. Pastor: Kyle N. Brown, 2013-
+
+  Evangelist: Joshua L. McKamy, 2015-
+
+  '
 received_from: null
 states:
 - PA

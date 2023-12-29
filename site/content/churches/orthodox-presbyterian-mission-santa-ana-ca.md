@@ -18,8 +18,15 @@ names:
   name: Orthodox Presbyterian Mission
   start: 1937-09-09
 origination_date: *id001
-raw_data: "AR    Santa Ana\nOrthodox Presbyterian Mission  (September 9, 1937\u2013\
-  April 18, 1940)\n1120 N. Olive Street\nPastor: Lynne Wade, 1938\u201340"
+raw_data: 'AR    Santa Ana
+
+  Orthodox Presbyterian Mission  (September 9, 1937-April 18, 1940)
+
+  1120 N. Olive Street
+
+  Pastor: Lynne Wade, 1938-40
+
+  '
 received_from: null
 states:
 - CA

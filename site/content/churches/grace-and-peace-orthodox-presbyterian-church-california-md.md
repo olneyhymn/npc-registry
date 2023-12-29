@@ -26,10 +26,20 @@ names:
   name: Grace and Peace Orthodox Presbyterian Church
   start: 2009-02-21
 origination_date: *id001
-raw_data: "MD St. Mary\u2019s County\n\nGrace and Peace Orthodox Presbyterian Chapel\
-  \ (January 2005\u2013February 21, 2009)\nGrace and Peace Orthodox Presbyterian Church\
-  \ (February 21, 2009\u2013 )\n22646 Benswood Road, California\nOrg. Pastor: S. Edd\
-  \ Cathey, 2006\u20139\nPastor: S. Edd Cathey, 2009\u2013"
+raw_data: 'MD St. Mary''s County
+
+
+  Grace and Peace Orthodox Presbyterian Chapel (January 2005-February 21, 2009)
+
+  Grace and Peace Orthodox Presbyterian Church (February 21, 2009- )
+
+  22646 Benswood Road, California
+
+  Org. Pastor: S. Edd Cathey, 2006-9
+
+  Pastor: S. Edd Cathey, 2009-
+
+  '
 received_from: null
 states:
 - MD

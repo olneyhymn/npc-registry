@@ -15,8 +15,15 @@ ministers:
 name: Redeemer Orthodox Presbyterian Mission
 names: null
 origination_date: *id001
-raw_data: "PA  Pittsburgh\nRedeemer Orthodox Presbyterian Mission  (2011\u2013 )\n\
-  1900 Graham Boulevard\nOrg. Pastor: Thomas G. Albaugh, 2011\u2013"
+raw_data: 'PA  Pittsburgh
+
+  Redeemer Orthodox Presbyterian Mission  (2011- )
+
+  1900 Graham Boulevard
+
+  Org. Pastor: Thomas G. Albaugh, 2011-
+
+  '
 received_from: null
 states:
 - PA

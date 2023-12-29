@@ -46,12 +46,29 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1985-01-01
 origination_date: *id001
-raw_data: "PA Doylestown\nCovenant Orthodox Presbyterian Church  (April 7, 1972\u2013\
-  November 3, 2001)\n(received from Independency)\n(formerly Mechanicsville Orthodox\
-  \ Presbyterian Chapel, 1972\u20131985)\n(transferred to the Presbyterian Church\
-  \ in America, November 3, 2001)\nPastors: C. John Miller, 1965\u201372\nGeorge Morton,\
-  \ 1973\u201385\nJohn Harbison, 1986\u201391\nJohn Bettler (Supply), 1991\u201393\n\
-  Stephen Meidahl, 1993\u20132001\nAssoc. Pastor: Matthew Colflesh, 2001"
+raw_data: 'PA Doylestown
+
+  Covenant Orthodox Presbyterian Church  (April 7, 1972-November 3, 2001)
+
+  (received from Independency)
+
+  (formerly Mechanicsville Orthodox Presbyterian Chapel, 1972-1985)
+
+  (transferred to the Presbyterian Church in America, November 3, 2001)
+
+  Pastors: C. John Miller, 1965-72
+
+  George Morton, 1973-85
+
+  John Harbison, 1986-91
+
+  John Bettler (Supply), 1991-93
+
+  Stephen Meidahl, 1993-2001
+
+  Assoc. Pastor: Matthew Colflesh, 2001
+
+  '
 received_from:
 - Independency
 states:

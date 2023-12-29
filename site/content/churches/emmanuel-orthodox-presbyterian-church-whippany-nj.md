@@ -58,11 +58,29 @@ names:
   name: Emmanuel Orthodox Presbyterian Church
   start: 1956-09-22
 origination_date: *id001
-raw_data: "NEW JERSEY Whippany\nEmmanuel Orthodox Presbyterian Church  (September\
-  \ 22, 1956\u2013October 26, 2014)\nPastors: James Price, 1956\nCalvin Busch, 1957\u2013\
-  77\nLarry Morrison, 1978\u201381\nRobert Letham, 1981\u201386\nIvan Davis, 1987\u2013\
-  93\nGeorge Kostas, 1994\u20132002\nHoward Currie, 2004\u201314\nTeachers: Harry\
-  \ W. Warner, 1983\u201398\nGeorge Christian, 1984\u201391"
+raw_data: 'NEW JERSEY Whippany
+
+  Emmanuel Orthodox Presbyterian Church  (September 22, 1956-October 26, 2014)
+
+  Pastors: James Price, 1956
+
+  Calvin Busch, 1957-77
+
+  Larry Morrison, 1978-81
+
+  Robert Letham, 1981-86
+
+  Ivan Davis, 1987-93
+
+  George Kostas, 1994-2002
+
+  Howard Currie, 2004-14
+
+  Teachers: Harry W. Warner, 1983-98
+
+  George Christian, 1984-91
+
+  '
 received_from: null
 states:
 - NJ

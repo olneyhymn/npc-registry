@@ -7,11 +7,11 @@ location:
   state: PA
 minister:
 - end: 1982-01-01
-  name: "David O\u2019Leary"
+  name: David O'Leary
   start: 1981-01-01
   type: Organizing Pastor
 - end: 2002-01-01
-  name: "David O\u2019Leary"
+  name: David O'Leary
   start: 1982-01-01
   type: Pastor
 - end: 2015-01-01
@@ -27,8 +27,8 @@ minister:
   start: 2013-01-01
   type: Associate Pastor
 ministers:
-- "David O\u2019Leary"
-- "David O\u2019Leary"
+- David O'Leary
+- David O'Leary
 - Wendell Stoltzfus
 - Ross Ritter
 - Jonathan F. Peters
@@ -41,11 +41,28 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1982-09-19
 origination_date: *id001
-raw_data: "PA Sinking Spring\n\nCovenant Chapel (1981\u20131982)\nCovenant Orthodox\
-  \ Presbyterian Church (September 19, 1982\u2013 )\n(formerly Covenant OPC, Reading)\n\
-  1201 Yerger Boulevard\nOrg. Pastor: David O\u2019Leary, 1981\u20131982\nPastors:\
-  \ David O\u2019Leary, 1982\u20132002\nWendell Stoltzfus, 2005\u201315\nAssoc. Pastors:\
-  \ Ross Ritter, 2010\u201313\nJonathan F. Peters, 2013\u2013"
+raw_data: 'PA Sinking Spring
+
+
+  Covenant Chapel (1981-1982)
+
+  Covenant Orthodox Presbyterian Church (September 19, 1982- )
+
+  (formerly Covenant OPC, Reading)
+
+  1201 Yerger Boulevard
+
+  Org. Pastor: David O''Leary, 1981-1982
+
+  Pastors: David O''Leary, 1982-2002
+
+  Wendell Stoltzfus, 2005-15
+
+  Assoc. Pastors: Ross Ritter, 2010-13
+
+  Jonathan F. Peters, 2013-
+
+  '
 received_from: null
 states:
 - PA

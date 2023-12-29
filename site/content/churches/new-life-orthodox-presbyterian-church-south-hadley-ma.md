@@ -18,8 +18,8 @@ names:
   name: New Life Orthodox Presbyterian Church
   start: 1989-11-18
 origination_date: *id001
-raw_data: "MA  South Hadley\n\nNew Life Orthodox Presbyterian Church  (November 18,\
-  \ 1989\u2013October 14, 1997)\nPastor: John Pederson, 1989\u201395"
+raw_data: "MA\tSouth Hadley\n\nNew Life Orthodox Presbyterian Church  (November 18,\
+  \ 1989-October 14, 1997)\nPastor: John Pederson, 1989-95\n"
 received_from: null
 states:
 - MA

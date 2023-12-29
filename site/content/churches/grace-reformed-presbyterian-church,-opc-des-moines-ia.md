@@ -25,9 +25,20 @@ ministers:
 name: Grace Reformed Presbyterian Church, OPC
 names: null
 origination_date: *id001
-raw_data: "IA Des Moines\n\nGrace Reformed Presbyterian Church, OPC  (December 15,\
-  \ 1996\u2013 )\n4601 38th Street\nPastors: Rodney King, 1997\u20132012\nEdward E.\
-  \ Jensen, 2013\u2013\nAssoc. Pastor: Charles Muether, 2007\u2013"
+raw_data: 'IA Des Moines
+
+
+  Grace Reformed Presbyterian Church, OPC  (December 15, 1996- )
+
+  4601 38th Street
+
+  Pastors: Rodney King, 1997-2012
+
+  Edward E. Jensen, 2013-
+
+  Assoc. Pastor: Charles Muether, 2007-
+
+  '
 received_from: null
 states:
 - IA

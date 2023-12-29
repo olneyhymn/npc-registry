@@ -50,11 +50,30 @@ ministers:
 name: Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "ND Lark\n\nOrthodox Presbyterian Church  (August 2, 1936\u2013March 29,\
-  \ 1985)\n(merged with Carson, ND, March 29, 1985)\nPastors: Samuel Allen, 1936\u2013\
-  40\nJohn Gray, 1940\u201344\nWalter Magee, 1945\u201352\nHenry Tavares, 1952\u2013\
-  57\nV . Robert Nilson, 1957\u201364\nJack Peterson, 1967\u201379\nDavid Kiester,\
-  \ 1980\u201383\nG. I. Williamson, 1983\u201385"
+raw_data: 'ND Lark
+
+
+  Orthodox Presbyterian Church  (August 2, 1936-March 29, 1985)
+
+  (merged with Carson, ND, March 29, 1985)
+
+  Pastors: Samuel Allen, 1936-40
+
+  John Gray, 1940-44
+
+  Walter Magee, 1945-52
+
+  Henry Tavares, 1952-57
+
+  V . Robert Nilson, 1957-64
+
+  Jack Peterson, 1967-79
+
+  David Kiester, 1980-83
+
+  G. I. Williamson, 1983-85
+
+  '
 received_from: null
 states:
 - ND

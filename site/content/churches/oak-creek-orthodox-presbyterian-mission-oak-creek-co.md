@@ -10,7 +10,7 @@ ministers: []
 name: Oak Creek Orthodox Presbyterian Mission
 names: null
 origination_date: *id001
-raw_data: "AR  Oak Creek\n\nOak Creek Orthodox Presbyterian Mission  (1941\u20131952)"
+raw_data: "AR\tOak Creek\n\nOak Creek Orthodox Presbyterian Mission  (1941-1952)\n"
 received_from: null
 states:
 - CO

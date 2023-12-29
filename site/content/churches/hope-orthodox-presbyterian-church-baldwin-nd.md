@@ -15,8 +15,15 @@ ministers:
 name: Hope Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "ND\nBaldwin\nHope Orthodox Presbyterian Church (April 14, 1937\u2013March\
-  \ 12, 1947)\nPastor: Curtis A. Balcom, 1937\u201347"
+raw_data: 'ND
+
+  Baldwin
+
+  Hope Orthodox Presbyterian Church (April 14, 1937-March 12, 1947)
+
+  Pastor: Curtis A. Balcom, 1937-47
+
+  '
 received_from: null
 states:
 - ND

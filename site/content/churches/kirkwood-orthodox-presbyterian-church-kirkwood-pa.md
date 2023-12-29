@@ -58,12 +58,34 @@ names:
   name: Kirkwood Orthodox Presbyterian Church
   start: 1936-07-26
 origination_date: *id001
-raw_data: "PA\nKirkwood\n\nKirkwood Orthodox Presbyterian Church  (July 26, 1936\u2013\
-  October 2, 1990)\n(transferred to the Presbyterian Church in America, 1990)\nPastors:\
-  \ George Marston, 1936\u201339\nE. Lynne Wade, 1940\u201341\nJohn Galbraith, 1942\u2013\
-  48\nRaymond Commeret, 1949\u201356\nLester Bachman, 1957\u201368\nArthur Seltzer,\
-  \ 1968\u201371\nLeRoy Greer, 1971\u201382\nSamuel Bacon, 1982\u201389\nLuther Kenneth\
-  \ Hash, 1990\u201392"
+raw_data: 'PA
+
+  Kirkwood
+
+
+  Kirkwood Orthodox Presbyterian Church  (July 26, 1936-October 2, 1990)
+
+  (transferred to the Presbyterian Church in America, 1990)
+
+  Pastors: George Marston, 1936-39
+
+  E. Lynne Wade, 1940-41
+
+  John Galbraith, 1942-48
+
+  Raymond Commeret, 1949-56
+
+  Lester Bachman, 1957-68
+
+  Arthur Seltzer, 1968-71
+
+  LeRoy Greer, 1971-82
+
+  Samuel Bacon, 1982-89
+
+  Luther Kenneth Hash, 1990-92
+
+  '
 received_from: null
 states:
 - PA

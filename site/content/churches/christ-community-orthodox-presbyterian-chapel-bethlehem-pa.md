@@ -31,11 +31,26 @@ names:
   name: Christ Community Orthodox Presbyterian Church
   start: 2000-10-08
 origination_date: *id001
-raw_data: "PA Bethlehem\n\nChrist Community Orthodox Presbyterian Chapel  (May 4,\
-  \ 1996\u2013October 8, 2000)\nChrist Community Orthodox Presbyterian Church  (October\
-  \ 8, 2000\u2013November 17, 2007 )\n(united with Covenant OPC, Easton to form Christ\
-  \ Community Church, Easton, November\n17, 2007)\n\nOrg. Pastor: Glenn Evans, 1998\u2013\
-  2000\nPastors: Glenn Evans, 2000\u20132003\nJason Stewart, 2005\u20137"
+raw_data: 'PA Bethlehem
+
+
+  Christ Community Orthodox Presbyterian Chapel  (May 4, 1996-October 8, 2000)
+
+  Christ Community Orthodox Presbyterian Church  (October 8, 2000-November 17, 2007
+  )
+
+  (united with Covenant OPC, Easton to form Christ Community Church, Easton, November
+
+  17, 2007)
+
+
+  Org. Pastor: Glenn Evans, 1998-2000
+
+  Pastors: Glenn Evans, 2000-2003
+
+  Jason Stewart, 2005-7
+
+  '
 received_from: null
 states:
 - PA

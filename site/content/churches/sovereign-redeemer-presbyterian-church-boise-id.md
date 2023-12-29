@@ -20,9 +20,16 @@ ministers:
 name: Sovereign Redeemer Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "ID Boise\n\nSovereign Redeemer Presbyterian Church, OPC  (October 30, 1994\u2013\
-  September 27, 2013)\nPastors: Carl Durham, 1995\u20132003\nGlenn Ferrell, 2005\u2013\
-  10"
+raw_data: 'ID Boise
+
+
+  Sovereign Redeemer Presbyterian Church, OPC  (October 30, 1994-September 27, 2013)
+
+  Pastors: Carl Durham, 1995-2003
+
+  Glenn Ferrell, 2005-10
+
+  '
 received_from: null
 states:
 - ID

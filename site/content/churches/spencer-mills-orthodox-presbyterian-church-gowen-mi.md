@@ -50,11 +50,31 @@ ministers:
 name: Spencer Mills Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "MI\nGowen\nSpencer Mills Orthodox Presbyterian Church  (November 28, 1967\u2013\
-  \ )\n12710 17 Mile Road\nPastors: John Barnett, 1969\u201377\nDonald Stanton, 1979\u2013\
-  92\nFrank Marsh, 1992\u20132008\nAlan Flowers, 2009\u2013\nAssoc. Pastors: Frank\
-  \ Marsh, 1990\u201392\nAlan Flowers, 2004\u20139\nAsst. Pastor: Hank Belfield, 1999\u2013\
-  2002\nYouth Pastor: David Stevenson, 1995\u20132000"
+raw_data: 'MI
+
+  Gowen
+
+  Spencer Mills Orthodox Presbyterian Church  (November 28, 1967- )
+
+  12710 17 Mile Road
+
+  Pastors: John Barnett, 1969-77
+
+  Donald Stanton, 1979-92
+
+  Frank Marsh, 1992-2008
+
+  Alan Flowers, 2009-
+
+  Assoc. Pastors: Frank Marsh, 1990-92
+
+  Alan Flowers, 2004-9
+
+  Asst. Pastor: Hank Belfield, 1999-2002
+
+  Youth Pastor: David Stevenson, 1995-2000
+
+  '
 received_from: null
 states:
 - MI

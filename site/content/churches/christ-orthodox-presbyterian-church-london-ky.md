@@ -2,7 +2,7 @@
 date: &id001 2002-03-08
 end_date: null
 location:
-  address: ''
+  address: null
   city: London
   state: KY
 minister:
@@ -26,10 +26,18 @@ names:
   name: Christ Orthodox Presbyterian Church
   start: 2002-03-08
 origination_date: *id001
-raw_data: "KY London\n\nChrist Orthodox Presbyterian Chapel  (December 6, 1998\u2013\
-  March 8, 2002)\nChrist Orthodox Presbyterian Church  (March 8, 2002 \u2013 October\
-  \ 20, 2012)\nOrg. Pastor: Patrick Ramsey, 1999\u20132002\nPastor: Patrick Ramsey,\
-  \ 2002\u201312"
+raw_data: 'KY London
+
+
+  Christ Orthodox Presbyterian Chapel  (December 6, 1998-March 8, 2002)
+
+  Christ Orthodox Presbyterian Church  (March 8, 2002 - October 20, 2012)
+
+  Org. Pastor: Patrick Ramsey, 1999-2002
+
+  Pastor: Patrick Ramsey, 2002-12
+
+  '
 received_from: null
 states:
 - KY

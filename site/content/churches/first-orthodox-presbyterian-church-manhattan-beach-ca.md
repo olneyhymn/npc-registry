@@ -58,12 +58,31 @@ names:
   name: First Orthodox Presbyterian Church
   start: 1946-12-01
 origination_date: *id001
-raw_data: "AR Manhattan Beach\nFirst Orthodox Presbyterian Church (December 1, 1946\u2013\
-  January 28, 1989)\n(transferred to the Presbyterian Church in America, 1989)\nPastors:\
-  \ Clifford Smith, 1946\u201347\nWilson Albright, 1948\u201356\nPaul Lovik, 1957\u2013\
-  62\nRalph Clough, 1962\u201374\nMichael Stingley, 1975\u201381\nMark House, 1983\u2013\
-  89\nAsst. Pastor: Calvin Malcor, 1971\u201377\nAssoc. Pastors: Daniel Overduin,\
-  \ 1968\u201369\nWilliam Welmers, 1977\u201382\n"
+raw_data: 'AR Manhattan Beach
+
+  First Orthodox Presbyterian Church (December 1, 1946-January 28, 1989)
+
+  (transferred to the Presbyterian Church in America, 1989)
+
+  Pastors: Clifford Smith, 1946-47
+
+  Wilson Albright, 1948-56
+
+  Paul Lovik, 1957-62
+
+  Ralph Clough, 1962-74
+
+  Michael Stingley, 1975-81
+
+  Mark House, 1983-89
+
+  Asst. Pastor: Calvin Malcor, 1971-77
+
+  Assoc. Pastors: Daniel Overduin, 1968-69
+
+  William Welmers, 1977-82
+
+  '
 received_from: null
 states:
 - CA

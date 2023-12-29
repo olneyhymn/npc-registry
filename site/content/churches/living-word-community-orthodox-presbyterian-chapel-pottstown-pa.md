@@ -23,9 +23,19 @@ names:
   name: Living Word Community Orthodox Presbyterian Chapel
   start: 1998-11-21
 origination_date: *id001
-raw_data: "PA Pottstown\n\nLiving Word Community Orthodox Presbyterian Chapel  (November\
-  \ 21, 1998\u2013December 18,\n2004)\nSupply: Robert Minnig, 1999\u20132001\nOrg.\
-  \ Pastor: Wendell Stoltzfus, 2001\u20134"
+raw_data: 'PA Pottstown
+
+
+  Living Word Community Orthodox Presbyterian Chapel  (November 21, 1998-December
+  18,
+
+  2004)
+
+  Supply: Robert Minnig, 1999-2001
+
+  Org. Pastor: Wendell Stoltzfus, 2001-4
+
+  '
 received_from: null
 states:
 - PA

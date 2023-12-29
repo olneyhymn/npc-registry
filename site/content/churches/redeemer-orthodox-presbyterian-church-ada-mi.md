@@ -36,11 +36,10 @@ names:
   name: Redeemer Orthodox Presbyterian Church
   start: 2001-06-03
 origination_date: *id001
-raw_data: "MI  Ada\nRedeemer Orthodox Presbyterian Chapel  (March 20, 1998\u2013June\
-  \ 3, 2001)\nRedeemer Orthodox Presbyterian Church  (June 3, 2001\u2013 )\n8605 E.\
-  \ Fulton Street\nOrg. Pastor: Eric R. Hausler, 1998\u20132001\nPastors: Eric R.\
-  \ Hausler, 2001\u201313\nJohn Currie, 2013\u2013\nAssoc. Pastor: James Mong, 2009\u2013\
-  15"
+raw_data: "MI\tAda\nRedeemer Orthodox Presbyterian Chapel  (March 20, 1998-June 3,\
+  \ 2001)\nRedeemer Orthodox Presbyterian Church  (June 3, 2001- )\n8605 E. Fulton\
+  \ Street\nOrg. Pastor: Eric R. Hausler, 1998-2001\nPastors: Eric R. Hausler, 2001-13\n\
+  John Currie, 2013-\nAssoc. Pastor: James Mong, 2009-15\n"
 received_from: null
 states:
 - MI

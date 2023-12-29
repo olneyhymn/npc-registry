@@ -78,13 +78,39 @@ names:
   name: Bayview Orthodox Presbyterian Church
   start: 1958-04-23
 origination_date: *id001
-raw_data: "California Chula Vista\nBayview Orthodox Presbyterian Church (April 23,\
-  \ 1958\u2013 )\n505 East Naples Street\nPastors: Jack Peterson, 1958\u201360\nRobert\
-  \ Graham, 1961\u201370\nEugene Saltzen, 1970\u201371\nJohn Johnston, 1972\u2013\
-  73\nLarry Conard, 1973\u201377\nLewis Ruff, 1977\u201382\nRoger Wagner, 1983\u2013\
-  \nAssoc. Pastors: Mark Maliepard, 1982\u201386\nVincent Ortiz, 1984\u201385\nGregory\
-  \ Bahnsen, 1992\u201395\nRobert Needham, 1992\u201393\nGeorge Scipione, 1992\u2013\
-  2006\nKenneth Gentry Jr, 1997\u201398"
+raw_data: 'California Chula Vista
+
+  Bayview Orthodox Presbyterian Church (April 23, 1958- )
+
+  505 East Naples Street
+
+  Pastors: Jack Peterson, 1958-60
+
+  Robert Graham, 1961-70
+
+  Eugene Saltzen, 1970-71
+
+  John Johnston, 1972-73
+
+  Larry Conard, 1973-77
+
+  Lewis Ruff, 1977-82
+
+  Roger Wagner, 1983-
+
+  Assoc. Pastors: Mark Maliepard, 1982-86
+
+  Vincent Ortiz, 1984-85
+
+  Gregory Bahnsen, 1992-95
+
+  Robert Needham, 1992-93
+
+  George Scipione, 1992-2006
+
+  Kenneth Gentry Jr, 1997-98
+
+  '
 received_from: null
 states:
 - CA

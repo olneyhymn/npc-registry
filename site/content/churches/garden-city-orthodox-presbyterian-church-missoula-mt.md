@@ -31,10 +31,9 @@ names:
   name: Cornerstone Orthodox Presbyterian Church
   start: 1997-01-01
 origination_date: *id001
-raw_data: "MT  Missoula\nGarden City Orthodox Presbyterian Church  (April 25, 1980\u2013\
-  September 24, 2010)\n(called Cornerstone Orthodox Presbyterian Church, 1980\u2013\
-  1997)\nPastors: Harold McKenzie, 1984\u201386\nGordon Miller, 1987\u201388\nRonald\
-  \ McKenzie, 1989\u20132010"
+raw_data: "MT\tMissoula\nGarden City Orthodox Presbyterian Church  (April 25, 1980-September\
+  \ 24, 2010)\n(called Cornerstone Orthodox Presbyterian Church, 1980-1997)\nPastors:\
+  \ Harold McKenzie, 1984-86\nGordon Miller, 1987-88\nRonald McKenzie, 1989-2010\n"
 received_from: null
 states:
 - MT

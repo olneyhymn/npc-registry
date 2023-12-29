@@ -15,8 +15,13 @@ ministers:
 name: Greentree Orthodox Presbyterian Mission
 names: null
 origination_date: *id001
-raw_data: "NEW JERSEY Marlton\nGreentree Orthodox Presbyterian Mission  (April 8,\
-  \ 1990\u2013July 31, 1993)\nOrg. Pastor: Gerald Malkus, 1990\u201393"
+raw_data: 'NEW JERSEY Marlton
+
+  Greentree Orthodox Presbyterian Mission  (April 8, 1990-July 31, 1993)
+
+  Org. Pastor: Gerald Malkus, 1990-93
+
+  '
 received_from: null
 states:
 - NJ

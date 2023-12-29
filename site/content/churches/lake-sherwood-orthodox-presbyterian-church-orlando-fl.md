@@ -53,11 +53,29 @@ names:
   name: Lake Sherwood Orthodox Presbyterian Church
   start: 1964-06-06
 origination_date: *id001
-raw_data: "FLORIDA Orlando\nLake Sherwood Orthodox Presbyterian Church  (June 6, 1964\u2013\
-  \ )\n8200 Balboa Drive\nPastors: Jonathan Male, 1964\u201370\nLarry G. Mininger,\
-  \ 1972\u2013\nAsst. Pastors: Martin Novak, 1989\u201393\nChad Sadorf, 1996\u2013\
-  2002\nEric B. Watkins, 2001\u20134\nJames Lim, 2007\u201312\nGeoffrey M. Downey,\
-  \ 2013\u2013\nTeacher: Mark Garcia, 2006"
+raw_data: 'FLORIDA Orlando
+
+  Lake Sherwood Orthodox Presbyterian Church  (June 6, 1964- )
+
+  8200 Balboa Drive
+
+  Pastors: Jonathan Male, 1964-70
+
+  Larry G. Mininger, 1972-
+
+  Asst. Pastors: Martin Novak, 1989-93
+
+  Chad Sadorf, 1996-2002
+
+  Eric B. Watkins, 2001-4
+
+  James Lim, 2007-12
+
+  Geoffrey M. Downey, 2013-
+
+  Teacher: Mark Garcia, 2006
+
+  '
 received_from: null
 states:
 - FL

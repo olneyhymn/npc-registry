@@ -15,9 +15,15 @@ ministers:
 name: Coastal Community OP Chapel
 names: null
 origination_date: *id001
-raw_data: "AR Oceanside\nCoastal Community OP Chapel (November 10, 1985\u2013February\
-  \ 2, 1989)\n(withdrew to the Presbyterian Church in America, 1989)\nEvangelist:\
-  \ Douglass Swagerty, 1985\u201389"
+raw_data: 'AR Oceanside
+
+  Coastal Community OP Chapel (November 10, 1985-February 2, 1989)
+
+  (withdrew to the Presbyterian Church in America, 1989)
+
+  Evangelist: Douglass Swagerty, 1985-89
+
+  '
 received_from: null
 states:
 - CA

@@ -15,8 +15,17 @@ ministers:
 name: Good Shepherd OPC
 names: null
 origination_date: *id001
-raw_data: "OH\nCincinnati\nGood Shepherd OPC  (August 23, 2013\u2013 )\n11688 Mill\
-  \ Road\nPastor: Christopher A. Malamisuro, 2013"
+raw_data: 'OH
+
+  Cincinnati
+
+  Good Shepherd OPC  (August 23, 2013- )
+
+  11688 Mill Road
+
+  Pastor: Christopher A. Malamisuro, 2013
+
+  '
 received_from: null
 states:
 - OH

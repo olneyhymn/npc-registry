@@ -56,12 +56,11 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 1950-01-01
 origination_date: *id001
-raw_data: "ID  Tinley Park\nForest View Orthodox Presbyterian Church  (June 19, 1950\u2013\
-  December 31, 1987)\n(called Westminster Orthodox Presbyterian Church, Evergreen\
-  \ Park, 1950\u201368)\nPastors: George Marston, 1950\u201351\nRobert W. Eckardt,\
-  \ 1951\u201354\nRobert Nuermberger, 1955\u201358\nBruce Coie, 1958\u201364\nDonald\
-  \ Parker, 1966\u201372\nLeslie Dunn, 1973\u201381\nDennis Smith, 1981\u201384\n\
-  Calvin Malcor, 1985\u201387"
+raw_data: "ID\tTinley Park\nForest View Orthodox Presbyterian Church  (June 19, 1950-December\
+  \ 31, 1987)\n(called Westminster Orthodox Presbyterian Church, Evergreen Park, 1950-68)\n\
+  Pastors: George Marston, 1950-51\nRobert W. Eckardt, 1951-54\nRobert Nuermberger,\
+  \ 1955-58\nBruce Coie, 1958-64\nDonald Parker, 1966-72\nLeslie Dunn, 1973-81\nDennis\
+  \ Smith, 1981-84\nCalvin Malcor, 1985-87\n"
 received_from: null
 states:
 - ID

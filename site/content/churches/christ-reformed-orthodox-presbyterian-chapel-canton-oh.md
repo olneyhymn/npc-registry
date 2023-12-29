@@ -18,8 +18,17 @@ names:
   name: Christ Reformed Orthodox Presbyterian Chapel
   start: 1973-04-14
 origination_date: *id001
-raw_data: "OH\nCanton\nChrist Reformed Orthodox Presbyterian Chapel  (April 14, 1973\u2013\
-  1983)\n(moved from Alliance in 1979)\nPastor: David King, 1974\u201382"
+raw_data: 'OH
+
+  Canton
+
+  Christ Reformed Orthodox Presbyterian Chapel  (April 14, 1973-1983)
+
+  (moved from Alliance in 1979)
+
+  Pastor: David King, 1974-82
+
+  '
 received_from: null
 states:
 - OH

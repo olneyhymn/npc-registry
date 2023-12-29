@@ -13,7 +13,13 @@ names:
   name: Orthodox Presbyterian Chapel
   start: 1972-10-17
 origination_date: *id001
-raw_data: "LA\nShreveport\nOrthodox Presbyterian Chapel  (October 17, 1972\u20131973)"
+raw_data: 'LA
+
+  Shreveport
+
+  Orthodox Presbyterian Chapel  (October 17, 1972-1973)
+
+  '
 received_from: null
 states:
 - LA

@@ -28,9 +28,18 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 1938-04-29
 origination_date: *id001
-raw_data: "WI Milwaukee\n\nGrace Orthodox Presbyterian Church  (April 29, 1938\u2013\
-  April 29, 1949)\nPastors:  William Swets, 1938\nLeland Jorgensen, 1939\u201342\n\
-  Richard Gaffin, 1942\u201347"
+raw_data: 'WI Milwaukee
+
+
+  Grace Orthodox Presbyterian Church  (April 29, 1938-April 29, 1949)
+
+  Pastors:  William Swets, 1938
+
+  Leland Jorgensen, 1939-42
+
+  Richard Gaffin, 1942-47
+
+  '
 received_from: null
 states:
 - WI

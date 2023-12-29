@@ -15,8 +15,15 @@ ministers:
 name: Iglesia del Senor Viviente
 names: null
 origination_date: *id001
-raw_data: "AR\nSanta Ana\nIglesia del Senor Viviente\nEvangelist: Stephen Larson,\
-  \ 1990\u20132010"
+raw_data: 'AR
+
+  Santa Ana
+
+  Iglesia del Senor Viviente
+
+  Evangelist: Stephen Larson, 1990-2010
+
+  '
 received_from: null
 states:
 - CA

@@ -23,8 +23,16 @@ names:
   name: Christ Orthodox Presbyterian Church
   start: 1983-04-15
 origination_date: *id001
-raw_data: "FLORIDA Melbourne\n\nChrist Orthodox Presbyterian Church  (April 15, 1983\u2013\
-  December 16, 1986)\nPastors: Calvin Cummings, 1983\nGary Edwards, 1983\u201386"
+raw_data: 'FLORIDA Melbourne
+
+
+  Christ Orthodox Presbyterian Church  (April 15, 1983-December 16, 1986)
+
+  Pastors: Calvin Cummings, 1983
+
+  Gary Edwards, 1983-86
+
+  '
 received_from: null
 states:
 - FL

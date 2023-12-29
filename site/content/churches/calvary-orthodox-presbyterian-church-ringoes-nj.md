@@ -63,12 +63,33 @@ names:
   name: Calvary Orthodox Presbyterian Church
   start: 1937-03-19
 origination_date: *id001
-raw_data: "NEW JERSEY Ringoes\nCalvary Orthodox Presbyterian Church  (March 19, 1937\u2013\
-  \ )\n24 Highway 202\nPastors: Bruce Wideman, 1937\u201344\nJohn Gray, 1944\u2013\
-  46\nMeredith Kline, 1948\u201350\nW. Lee Benson (Supply), 1952\u201360\nW. Lee Benson,\
-  \ 1960\u201379\nGeorge Kostas, 1980\u201384\nDouglas Watson, 1984\u201396\nAlbert\
-  \ Steever, 1997\u20132006\nJames Cassidy, 2007\u201314\nTeacher: Jeffrey Waddington,\
-  \ 2008\u201313"
+raw_data: 'NEW JERSEY Ringoes
+
+  Calvary Orthodox Presbyterian Church  (March 19, 1937- )
+
+  24 Highway 202
+
+  Pastors: Bruce Wideman, 1937-44
+
+  John Gray, 1944-46
+
+  Meredith Kline, 1948-50
+
+  W. Lee Benson (Supply), 1952-60
+
+  W. Lee Benson, 1960-79
+
+  George Kostas, 1980-84
+
+  Douglas Watson, 1984-96
+
+  Albert Steever, 1997-2006
+
+  James Cassidy, 2007-14
+
+  Teacher: Jeffrey Waddington, 2008-13
+
+  '
 received_from: null
 states:
 - NJ

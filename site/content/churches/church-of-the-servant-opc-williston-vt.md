@@ -25,9 +25,19 @@ ministers:
 name: Church of the Servant OPC
 names: null
 origination_date: *id001
-raw_data: "VERMONT Williston\n\nChurch of the Servant OPC (November 11, 1977\u2013\
-  March 1, 1997)\n\nPastors: Raymond Commeret, 1977\u201382\nAndrew Selle, 1984\u2013\
-  91\nDennis Smith, 1993\u201395"
+raw_data: 'VERMONT Williston
+
+
+  Church of the Servant OPC (November 11, 1977-March 1, 1997)
+
+
+  Pastors: Raymond Commeret, 1977-82
+
+  Andrew Selle, 1984-91
+
+  Dennis Smith, 1993-95
+
+  '
 received_from: null
 states:
 - VT

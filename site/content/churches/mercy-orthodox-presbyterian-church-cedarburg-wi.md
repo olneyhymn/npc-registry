@@ -15,8 +15,16 @@ ministers:
 name: Mercy Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "WI\nCedarburg\n\nMercy Orthodox Presbyterian Church  (September 21, 2008\u2013\
-  September 30, 2012)\nPastor: James T. Hoekstra, 2008\u201312"
+raw_data: 'WI
+
+  Cedarburg
+
+
+  Mercy Orthodox Presbyterian Church  (September 21, 2008-September 30, 2012)
+
+  Pastor: James T. Hoekstra, 2008-12
+
+  '
 received_from: null
 states:
 - WI

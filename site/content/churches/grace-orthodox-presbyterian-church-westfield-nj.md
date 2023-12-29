@@ -70,12 +70,38 @@ ministers:
 name: Grace Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "NEW JERSEY Westfield\n\nGrace Orthodox Presbyterian Church  (September\
-  \ 22, 1936\u2013 )\n1100 Boulevard\nPastors: Donald Graham, 1937\u201340\nJohn Galbraith,\
-  \ 1940\u201342\nRobert Atwell, 1943\u201346\nDonald Graham, 1947\u201350\nEdmund\
-  \ Clowney (Supply), 1950\u201352\nLeslie Dunn, 1953\u201362\nJay Adams, 1963\u2013\
-  66\nRobert Atwell, 1967\u201375\nAlbert Edwards, III, 1975\u201380\nMack Harrell,\
-  \ 1981\u201385\nStanford Sutton, 1986\u20132013\nTimothy Ferguson, 2015\u2013"
+raw_data: 'NEW JERSEY Westfield
+
+
+  Grace Orthodox Presbyterian Church  (September 22, 1936- )
+
+  1100 Boulevard
+
+  Pastors: Donald Graham, 1937-40
+
+  John Galbraith, 1940-42
+
+  Robert Atwell, 1943-46
+
+  Donald Graham, 1947-50
+
+  Edmund Clowney (Supply), 1950-52
+
+  Leslie Dunn, 1953-62
+
+  Jay Adams, 1963-66
+
+  Robert Atwell, 1967-75
+
+  Albert Edwards, III, 1975-80
+
+  Mack Harrell, 1981-85
+
+  Stanford Sutton, 1986-2013
+
+  Timothy Ferguson, 2015-
+
+  '
 received_from: null
 states:
 - NJ

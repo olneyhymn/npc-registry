@@ -23,8 +23,18 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1991-04-24
 origination_date: *id001
-raw_data: "GA    LaGrange\n\nCovenant Orthodox Presbyterian Church  (April 24, 1991\u2013\
-  \ )\n118 Church Street\nPastors: Timothy Power, 1991\u201393\nA. Boyd Miller, 1994"
+raw_data: 'GA    LaGrange
+
+
+  Covenant Orthodox Presbyterian Church  (April 24, 1991- )
+
+  118 Church Street
+
+  Pastors: Timothy Power, 1991-93
+
+  A. Boyd Miller, 1994
+
+  '
 received_from: null
 states:
 - GA

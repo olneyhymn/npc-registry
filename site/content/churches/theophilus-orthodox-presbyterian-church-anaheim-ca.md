@@ -41,11 +41,27 @@ names:
   name: Theophilus Orthodox Presbyterian Church
   start: 2000-12-03
 origination_date: *id001
-raw_data: "AR\nAnaheim\nTheophilus Orthodox Presbyterian Mission  (October 21, 1995\u2013\
-  December 3, 2000)\nTheophilus Orthodox Presbyterian Church  (December 3, 2000\u2013\
-  \ )\n2660 W. Woodland Dr. Ste. 140\nOrg. Pastor: Yong Kim, 1999\u20132000\nPastors:\
-  \ Yong Kim, 2000\u20132006\nYousik Hong, 2005\u2013\nAssoc. Pastors: Yousik Hong,\
-  \ 2003\u20135\nYong Kim, 2006\u20139"
+raw_data: 'AR
+
+  Anaheim
+
+  Theophilus Orthodox Presbyterian Mission  (October 21, 1995-December 3, 2000)
+
+  Theophilus Orthodox Presbyterian Church  (December 3, 2000- )
+
+  2660 W. Woodland Dr. Ste. 140
+
+  Org. Pastor: Yong Kim, 1999-2000
+
+  Pastors: Yong Kim, 2000-2006
+
+  Yousik Hong, 2005-
+
+  Assoc. Pastors: Yousik Hong, 2003-5
+
+  Yong Kim, 2006-9
+
+  '
 received_from: null
 states:
 - CA

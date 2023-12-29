@@ -15,8 +15,14 @@ ministers:
 name: Grace Presbyterian Church of America
 names: null
 origination_date: *id001
-raw_data: "PA West Pittston\n\nGrace Presbyterian Church of America (July 29, 1936\u2013\
-  January 17, 1938)\nPastor: Reginald Voorhees, 1936\u201338"
+raw_data: 'PA West Pittston
+
+
+  Grace Presbyterian Church of America (July 29, 1936-January 17, 1938)
+
+  Pastor: Reginald Voorhees, 1936-38
+
+  '
 received_from: null
 states:
 - PA

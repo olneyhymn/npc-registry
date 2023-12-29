@@ -18,8 +18,13 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 1981-09-14
 origination_date: *id001
-raw_data: "ME Rochester\nWestminster Orthodox Presbyterian Church  (September 14,\
-  \ 1981\u2013September 18, 1984)\nPastor: Larry Wilson, 1981\u201382"
+raw_data: 'ME Rochester
+
+  Westminster Orthodox Presbyterian Church  (September 14, 1981-September 18, 1984)
+
+  Pastor: Larry Wilson, 1981-82
+
+  '
 received_from: null
 states:
 - MN

@@ -26,10 +26,10 @@ names:
   name: Christ Community Church (OPC)
   start: 2007-01-01
 origination_date: *id001
-raw_data: "PA  Easton\nTrinity Orthodox Presbyterian Church  (November 17, 2007\u2013\
-  \ )\n(formed by union of Christ Community Church Bethlehem, and Covenant OPC, Easton)\n\
-  (known as Christ Community Church [OPC], 2007\u20132011)\n531 Milford Street\nPastors:\
-  \ Jason J. Stewart, 2005\u201311\nLane G. Tipton, 2015\u2013"
+raw_data: "PA\tEaston\nTrinity Orthodox Presbyterian Church  (November 17, 2007- )\n\
+  (formed by union of Christ Community Church Bethlehem, and Covenant OPC, Easton)\n\
+  (known as Christ Community Church [OPC], 2007-2011)\n531 Milford Street\nPastors:\
+  \ Jason J. Stewart, 2005-11\nLane G. Tipton, 2015-\n"
 received_from: null
 states:
 - PA

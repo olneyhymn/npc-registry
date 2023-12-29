@@ -24,11 +24,25 @@ names:
   name: River of Life Orthodox Presbyterian Church
   start: 1993-02-27
 origination_date: *id001
-raw_data: "NEW JERSEY\nPhillipsburg\nNew Life Orthodox Presbyterian mission work,\
-  \ Frenchtown (April 23, 1985\u2013May 15, 1988)\nNew Life Orthodox Presbyterian\
-  \ Church, Frenchtown (April 23, 1985\u2013 February 27, 1993)\nRiver of Life Orthodox\
-  \ Presbyterian Church  (February 27, 1993\u2013 )\n(moved to Phillipsburg with name\
-  \ change in 1993)\n445 S. Main Street\nPastor: William Slack, 1992\u2013"
+raw_data: 'NEW JERSEY
+
+  Phillipsburg
+
+  New Life Orthodox Presbyterian mission work, Frenchtown (April 23, 1985-May 15,
+  1988)
+
+  New Life Orthodox Presbyterian Church, Frenchtown (April 23, 1985- February 27,
+  1993)
+
+  River of Life Orthodox Presbyterian Church  (February 27, 1993- )
+
+  (moved to Phillipsburg with name change in 1993)
+
+  445 S. Main Street
+
+  Pastor: William Slack, 1992-
+
+  '
 received_from: null
 states:
 - NJ

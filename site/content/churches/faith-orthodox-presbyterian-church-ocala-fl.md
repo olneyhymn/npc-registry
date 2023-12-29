@@ -51,11 +51,10 @@ names:
   name: Community Orthodox Presbyterian Church
   start: 2000-01-01
 origination_date: *id001
-raw_data: "FLORIDA  Ocala\nFaith Orthodox Presbyterian Church  (December 17, 1972\u2013\
-  December 31, 2013)\n(from 2000 to 2002, Community Orthodox Presbyterian Church)\n\
-  Pastors: John Thompson, 1974\u201379\nGerald Quarles, 1979\u201382\nJohn Fikkert,\
-  \ 1983\u201388\nTed Gray, 1990\u201397\nRichard Miller, 1998\u20132001\nChad Sadorf,\
-  \ 2002\u20139\nGregory Hoadley, 2010\u201313"
+raw_data: "FLORIDA\tOcala\nFaith Orthodox Presbyterian Church  (December 17, 1972-December\
+  \ 31, 2013)\n(from 2000 to 2002, Community Orthodox Presbyterian Church)\nPastors:\
+  \ John Thompson, 1974-79\nGerald Quarles, 1979-82\nJohn Fikkert, 1983-88\nTed Gray,\
+  \ 1990-97\nRichard Miller, 1998-2001\nChad Sadorf, 2002-9\nGregory Hoadley, 2010-13\n"
 received_from: null
 states:
 - FL

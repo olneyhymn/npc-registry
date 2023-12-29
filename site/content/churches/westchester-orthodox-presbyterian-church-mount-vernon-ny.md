@@ -28,9 +28,19 @@ names:
   name: Westchester Orthodox Presbyterian Church
   start: 1983-02-05
 origination_date: *id001
-raw_data: "NY Mount Vernon\nWestchester Orthodox Presbyterian Church (February 5,\
-  \ 1983- )\n56 West Sidney Avenue\nPastors: Gregory Reynolds, 1983-92\nJack Sawyer,\
-  \ 1994\u201396\nDaniel Osborne, 1996"
+raw_data: 'NY Mount Vernon
+
+  Westchester Orthodox Presbyterian Church (February 5, 1983- )
+
+  56 West Sidney Avenue
+
+  Pastors: Gregory Reynolds, 1983-92
+
+  Jack Sawyer, 1994-96
+
+  Daniel Osborne, 1996
+
+  '
 received_from: null
 states:
 - NY

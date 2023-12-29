@@ -15,8 +15,8 @@ ministers:
 name: Sovereign Grace Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "AR  Yuba City\nSovereign Grace Orthodox Presbyterian Chapel  (1977\u2013\
-  May 18, 1985)\nEvangelist: William Fredericks, 1980\u201381"
+raw_data: "AR\tYuba City\nSovereign Grace Orthodox Presbyterian Chapel  (1977-May\
+  \ 18, 1985)\nEvangelist: William Fredericks, 1980-81\n"
 received_from: null
 states:
 - CA

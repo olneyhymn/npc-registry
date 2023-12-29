@@ -18,9 +18,19 @@ names:
   name: First Church of Merrimack
   start: 2014-12-12
 origination_date: *id001
-raw_data: "NH\nMerrimack\nFirst Church of Merrimack, NH  (December 12, 2014\u2013\
-  \ )\n(received from Congregationalism)\n7 Baboosic Lake Road\nPastor: Allen C. Tomlinson,\
-  \ 1988-"
+raw_data: 'NH
+
+  Merrimack
+
+  First Church of Merrimack, NH  (December 12, 2014- )
+
+  (received from Congregationalism)
+
+  7 Baboosic Lake Road
+
+  Pastor: Allen C. Tomlinson, 1988-
+
+  '
 received_from:
 - Congregationalism
 states:

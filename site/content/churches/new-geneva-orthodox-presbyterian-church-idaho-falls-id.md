@@ -26,9 +26,20 @@ names:
   name: New Geneva Orthodox Presbyterian Church
   start: 2002-06-01
 origination_date: *id001
-raw_data: "ID Idaho Falls\n\nNew Geneva Orthodox Presbyterian Chapel  (September 22,\
-  \ 2000\u2013June 1, 2002)\nNew Geneva Orthodox Presbyterian Church  (June 1, 2002\u2013\
-  \ )\n101 4th Street\nEvangelist: David Bass, 2001\u20132\nPastor: David Bass, 2002"
+raw_data: 'ID Idaho Falls
+
+
+  New Geneva Orthodox Presbyterian Chapel  (September 22, 2000-June 1, 2002)
+
+  New Geneva Orthodox Presbyterian Church  (June 1, 2002- )
+
+  101 4th Street
+
+  Evangelist: David Bass, 2001-2
+
+  Pastor: David Bass, 2002
+
+  '
 received_from: null
 states:
 - ID

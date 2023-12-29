@@ -15,8 +15,13 @@ ministers:
 name: Iglesia Evangelica Reformada
 names: null
 origination_date: *id001
-raw_data: "AR Los Angeles\nIglesia Evangelica Reformada (May 6, 1995\u2013February\
-  \ 28, 2006)\nOrg. Pastor: Gonzalo Salinas, 2002\u20136"
+raw_data: 'AR Los Angeles
+
+  Iglesia Evangelica Reformada (May 6, 1995-February 28, 2006)
+
+  Org. Pastor: Gonzalo Salinas, 2002-6
+
+  '
 received_from: null
 states:
 - CA

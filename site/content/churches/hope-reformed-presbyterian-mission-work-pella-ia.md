@@ -17,7 +17,9 @@ names: null
 origination_date: *id001
 raw_data: 'IA Pella
 
-  Org. Pastor: Charles Muether, 2007-'
+  Org. Pastor: Charles Muether, 2007-
+
+  '
 received_from: null
 states:
 - IA

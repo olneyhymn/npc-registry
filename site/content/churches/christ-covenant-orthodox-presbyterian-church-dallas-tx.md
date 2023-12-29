@@ -31,10 +31,23 @@ names:
   name: Christ Covenant Orthodox Presbyterian Church
   start: 1995-10-25
 origination_date: *id001
-raw_data: "TX\nDallas\nChrist Covenant Orthodox Presbyterian Church  (October 25,\
-  \ 1995\u2013 )\n(formerly Geneva Orthodox Presbyterian Church)\nWycliffe Dining\
-  \ Common, 7500 W. Camp Wisdom Road\nOrg. Pastor: Michael Pasarilla, 1991\u201395\n\
-  Pastors: Michael Pasarilla, 1995\u20132001\nJoseph Keller, 2002\u2013"
+raw_data: 'TX
+
+  Dallas
+
+  Christ Covenant Orthodox Presbyterian Church  (October 25, 1995- )
+
+  (formerly Geneva Orthodox Presbyterian Church)
+
+  Wycliffe Dining Common, 7500 W. Camp Wisdom Road
+
+  Org. Pastor: Michael Pasarilla, 1991-95
+
+  Pastors: Michael Pasarilla, 1995-2001
+
+  Joseph Keller, 2002-
+
+  '
 received_from: null
 states:
 - TX

@@ -55,11 +55,33 @@ ministers:
 name: Grace Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "MA\nFall River\nGrace Orthodox Presbyterian Church  (November 2, 1955\u2013\
-  \ )\n190 Cherry Street\nPastors: G.I. Williamson, 1956\u201362\nDavid Freeman, 1962\u2013\
-  67\nWallace Marshall Jr, 1968\u201370\nPaul Davenport, 1971\u201375\nElmer Dortzbach\
-  \ (Supply), 1976\u201377\nSteve Larson, 1979\u201382\nMark Harrington, 1983\u2013\
-  87\nWendell Rockey (Supply), 1987\u20132004\nPaul Anderson, 2004\u201315"
+raw_data: 'MA
+
+  Fall River
+
+  Grace Orthodox Presbyterian Church  (November 2, 1955- )
+
+  190 Cherry Street
+
+  Pastors: G.I. Williamson, 1956-62
+
+  David Freeman, 1962-67
+
+  Wallace Marshall Jr, 1968-70
+
+  Paul Davenport, 1971-75
+
+  Elmer Dortzbach (Supply), 1976-77
+
+  Steve Larson, 1979-82
+
+  Mark Harrington, 1983-87
+
+  Wendell Rockey (Supply), 1987-2004
+
+  Paul Anderson, 2004-15
+
+  '
 received_from: null
 states:
 - MA

@@ -35,12 +35,33 @@ ministers:
 name: Grace Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "WI\nSheboygan\nGrace Orthodox Presbyterian Church  (November 21, 1982\u2013\
-  \ )\n(reverted to mission status, September 19, 1988; reconstituted as a particular\
-  \ church,\nDecember 9, 1994)\n4930 Green Valley Lane\nEvangelists: John Hilbelink,\
-  \ 1973\u201379\nJonathan Falk, 1980\u201382\nPastors: Jonathan Falk, 1982\u2013\
-  86\nWilliam Laun, 1987\u201388\nLawrence Eyres (Supply), 1989\u201393\nIvan DeMaster,\
-  \ 1993\u20132005\nBrian De Jong, 2005\u2013"
+raw_data: 'WI
+
+  Sheboygan
+
+  Grace Orthodox Presbyterian Church  (November 21, 1982- )
+
+  (reverted to mission status, September 19, 1988; reconstituted as a particular church,
+
+  December 9, 1994)
+
+  4930 Green Valley Lane
+
+  Evangelists: John Hilbelink, 1973-79
+
+  Jonathan Falk, 1980-82
+
+  Pastors: Jonathan Falk, 1982-86
+
+  William Laun, 1987-88
+
+  Lawrence Eyres (Supply), 1989-93
+
+  Ivan DeMaster, 1993-2005
+
+  Brian De Jong, 2005-
+
+  '
 received_from: null
 states:
 - WI

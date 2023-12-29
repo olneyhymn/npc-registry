@@ -31,10 +31,21 @@ names:
   name: Faith Orthodox Presbyterian Church
   start: 2014-05-16
 origination_date: *id001
-raw_data: "TN Silver Point\nFaith Orthodox Presbyterian Chapel  (April 16, 1999\u2013\
-  May 16, 2014)\nFaith Orthodox Presbyterian Church  (May 16, 2014\u2013 )\n9177 Roberts\
-  \ Road\nOrg. Pastors: William Gorrell, 2000\u20132003\nMatthew A. Figura, 2009\u2013\
-  14\nPastor: Matthew A. Figura, 2014\u2013"
+raw_data: 'TN Silver Point
+
+  Faith Orthodox Presbyterian Chapel  (April 16, 1999-May 16, 2014)
+
+  Faith Orthodox Presbyterian Church  (May 16, 2014- )
+
+  9177 Roberts Road
+
+  Org. Pastors: William Gorrell, 2000-2003
+
+  Matthew A. Figura, 2009-14
+
+  Pastor: Matthew A. Figura, 2014-
+
+  '
 received_from: null
 states:
 - TN

@@ -28,9 +28,19 @@ names:
   name: Redeemer Orthodox Presbyterian Church
   start: 1968-04-18
 origination_date: *id001
-raw_data: "GA Doraville\nRedeemer Orthodox Presbyterian Church  (April 18, 1968\u2013\
-  \ )\n3930 Chamblee-Tucker Road, Doraville\nPastors: Elmer Dortzbach, 1968\u2013\
-  73\nThomas Champness, 1974\u20132009\nS. Scott Willet, 2009\u201315"
+raw_data: 'GA Doraville
+
+  Redeemer Orthodox Presbyterian Church  (April 18, 1968- )
+
+  3930 Chamblee-Tucker Road, Doraville
+
+  Pastors: Elmer Dortzbach, 1968-73
+
+  Thomas Champness, 1974-2009
+
+  S. Scott Willet, 2009-15
+
+  '
 received_from: null
 states:
 - GA

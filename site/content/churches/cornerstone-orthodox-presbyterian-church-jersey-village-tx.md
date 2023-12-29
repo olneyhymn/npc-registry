@@ -26,10 +26,19 @@ names:
   name: Cornerstone Orthodox Presbyterian Church
   start: 2014-10-17
 origination_date: *id001
-raw_data: "TX   Jersey Village\nCornerstone Orthodox Presbyterian Chapel  (2012\u2013\
-  October 17, 2014)\nCornerstone Orthodox Presbyterian Church  (October 17, 2014\u2013\
-  \ )\nMeeting at Kids R Kids, 15230 Forest Trails Drive\nOrg. Pastor: Robert S. Arendale,\
-  \ 2012\u201314\nPastor: Robert S. Arendale, 2014"
+raw_data: 'TX   Jersey Village
+
+  Cornerstone Orthodox Presbyterian Chapel  (2012-October 17, 2014)
+
+  Cornerstone Orthodox Presbyterian Church  (October 17, 2014- )
+
+  Meeting at Kids R Kids, 15230 Forest Trails Drive
+
+  Org. Pastor: Robert S. Arendale, 2012-14
+
+  Pastor: Robert S. Arendale, 2014
+
+  '
 received_from: null
 states:
 - TX

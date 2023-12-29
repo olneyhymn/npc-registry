@@ -43,11 +43,27 @@ names:
   name: Lynnwood Orthodox Presbyterian Church
   start: 1995-09-22
 origination_date: *id001
-raw_data: "WA\nLynnwood\nLynnwood Orthodox Presbyterian Church  (September 22, 1995\u2013\
-  \ )\n17711 Spruce Way\nPastors: J. Peter V osteen, 1995\u20132012\nBenjamin Swinburnson,\
-  \ 2012\u2013\nAssoc. Pastors: David Inks, 1998\u20132006\nDavid Klein, 2000\u2013\
-  2004\nBenjamin Swinburnson, 2008\u201312\nTeacher: Richard A. Miller, 1996\u2013\
-  98"
+raw_data: 'WA
+
+  Lynnwood
+
+  Lynnwood Orthodox Presbyterian Church  (September 22, 1995- )
+
+  17711 Spruce Way
+
+  Pastors: J. Peter V osteen, 1995-2012
+
+  Benjamin Swinburnson, 2012-
+
+  Assoc. Pastors: David Inks, 1998-2006
+
+  David Klein, 2000-2004
+
+  Benjamin Swinburnson, 2008-12
+
+  Teacher: Richard A. Miller, 1996-98
+
+  '
 received_from: null
 states:
 - WA

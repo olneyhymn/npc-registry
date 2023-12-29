@@ -35,10 +35,10 @@ ministers:
 name: Bethel Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "ME  Houlton\n\nBethel Orthodox Presbyterian Church  (June 2, 1955\u2013\
-  September 20, 1982)\n\nPastors: C. Herbert Oliver, 1955\u201359\nRonald Jenkins,\
-  \ 1961\u201363\nCharles Stanton (Supply), 1963\u201367\nCharles Stanton, 1967\u2013\
-  73\nLewis Ruff, 1974\u201377\nWilliam Moreau, 1977\u201382"
+raw_data: "ME\tHoulton\n\nBethel Orthodox Presbyterian Church  (June 2, 1955-September\
+  \ 20, 1982)\n\nPastors: C. Herbert Oliver, 1955-59\nRonald Jenkins, 1961-63\nCharles\
+  \ Stanton (Supply), 1963-67\nCharles Stanton, 1967-73\nLewis Ruff, 1974-77\nWilliam\
+  \ Moreau, 1977-82\n"
 received_from: null
 states:
 - ME

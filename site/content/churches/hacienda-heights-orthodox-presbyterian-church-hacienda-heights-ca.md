@@ -28,9 +28,18 @@ names:
   name: Hacienda Heights Orthodox Presbyterian Church
   start: 1959-05-17
 origination_date: *id001
-raw_data: "AR    Hacienda Heights\n\nHacienda Heights Orthodox Presbyterian Church\
-  \  (May 17, 1959\u2013December 3, 1988)\nPastors: H. Wilson Albright, 1963\u2013\
-  78\nStephen Williams, 1979\u201381\nSupply: H. Wilson Albright, 1959\u201363"
+raw_data: 'AR    Hacienda Heights
+
+
+  Hacienda Heights Orthodox Presbyterian Church  (May 17, 1959-December 3, 1988)
+
+  Pastors: H. Wilson Albright, 1963-78
+
+  Stephen Williams, 1979-81
+
+  Supply: H. Wilson Albright, 1959-63
+
+  '
 received_from: null
 states:
 - CA

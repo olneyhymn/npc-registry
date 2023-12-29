@@ -31,10 +31,21 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 2002-09-20
 origination_date: *id001
-raw_data: "North Carolina\nNew Bern\nCovenant Orthodox Presbyterian Mission  (April\
-  \ 26, 1997\u2013September 20, 2002)\nCovenant Orthodox Presbyterian Church  (September\
-  \ 20, 2002\u2013 )\n130 Market Street\nOrg. Pastor: Daniel Fincham, 1998\u20132002\n\
-  Pastor: Daniel Fincham, 2002"
+raw_data: 'North Carolina
+
+  New Bern
+
+  Covenant Orthodox Presbyterian Mission  (April 26, 1997-September 20, 2002)
+
+  Covenant Orthodox Presbyterian Church  (September 20, 2002- )
+
+  130 Market Street
+
+  Org. Pastor: Daniel Fincham, 1998-2002
+
+  Pastor: Daniel Fincham, 2002
+
+  '
 received_from: null
 states:
 - NC

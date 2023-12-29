@@ -20,9 +20,16 @@ ministers:
 name: Jersey Reformed Presbyterian Church, OPC
 names: null
 origination_date: *id001
-raw_data: "OH Pataskala\n\nJersey Reformed Presbyterian Church, OPC  (April 10, 1987\u2013\
-  October 24, 1999)\nPastor: Luis Orteza, 1988\u201394\nAssoc. Pastor: Leo Frailey,\
-  \ 1991\u201399"
+raw_data: 'OH Pataskala
+
+
+  Jersey Reformed Presbyterian Church, OPC  (April 10, 1987-October 24, 1999)
+
+  Pastor: Luis Orteza, 1988-94
+
+  Assoc. Pastor: Leo Frailey, 1991-99
+
+  '
 received_from: null
 states:
 - OH

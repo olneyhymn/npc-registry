@@ -48,11 +48,30 @@ names:
   name: Presbyterian Church of Cape Cod, OPC
   start: 1974-10-15
 origination_date: *id001
-raw_data: "MA\nWest Barnstable\n\nPresbyterian Church of Cape Cod, OPC  (October 15,\
-  \ 1974\u2013 )\n2391 Iyannough Rd, Route 132\nPastors: Wendell Rockey, 1975\u2013\
-  84\nDavid Robinson, 1986\u201388\nRobert Rienstra, 1989\u201399\nWalter Copeland,\
-  \ 2000\u20132001\nCharles Wingard, 2002\u20135\nJames LaBelle, 2007\u2013\nAssoc.\
-  \ Pastor: Alonso Ferreira da Cunha, 2003\u20138"
+raw_data: 'MA
+
+  West Barnstable
+
+
+  Presbyterian Church of Cape Cod, OPC  (October 15, 1974- )
+
+  2391 Iyannough Rd, Route 132
+
+  Pastors: Wendell Rockey, 1975-84
+
+  David Robinson, 1986-88
+
+  Robert Rienstra, 1989-99
+
+  Walter Copeland, 2000-2001
+
+  Charles Wingard, 2002-5
+
+  James LaBelle, 2007-
+
+  Assoc. Pastor: Alonso Ferreira da Cunha, 2003-8
+
+  '
 received_from: null
 states:
 - MA

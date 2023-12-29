@@ -31,11 +31,24 @@ names:
   name: Reformation Fellowship, Orthodox Presbyterian Church
   start: 2002-07-15
 origination_date: *id001
-raw_data: "AR\nRoseville\n\nReformation Fellowship Orthodox Presbyterian Chapel  (March\
-  \ 20, 1999\u2013July 15, 2002)\nReformation Fellowship, Orthodox Presbyterian Church\
-  \  (July 15, 2002\u2013 )\nRoseville Seventh-day Adventist Church, 914 Cirby Way\n\
-  Evangelist: Michael DeLozier, 1999\u20132002\nPastors: Michael DeLozier, 2002\u2013\
-  5\nKevin Van Der Linden, 2006\u2013"
+raw_data: 'AR
+
+  Roseville
+
+
+  Reformation Fellowship Orthodox Presbyterian Chapel  (March 20, 1999-July 15, 2002)
+
+  Reformation Fellowship, Orthodox Presbyterian Church  (July 15, 2002- )
+
+  Roseville Seventh-day Adventist Church, 914 Cirby Way
+
+  Evangelist: Michael DeLozier, 1999-2002
+
+  Pastors: Michael DeLozier, 2002-5
+
+  Kevin Van Der Linden, 2006-
+
+  '
 received_from: null
 states:
 - CA

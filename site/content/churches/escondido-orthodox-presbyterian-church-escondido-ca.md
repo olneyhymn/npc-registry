@@ -26,10 +26,20 @@ names:
   name: Escondido Orthodox Presbyterian Church
   start: 2006-06-03
 origination_date: *id001
-raw_data: "AR Escondido\n\nEscondido Orthodox Presbyterian mission work  (October\
-  \ 19, 2001\u2013June 3, 2006)\nEscondido Orthodox Presbyterian Church  (June 3,\
-  \ 2006\u2013 )\nMeeting at Westminster Seminary California, 1725 Bear Valley Parkway\n\
-  Org. Pastor: Zachary Keele, 2004\u20136\nPastor: Zachary Keele, 2006\u2013"
+raw_data: 'AR Escondido
+
+
+  Escondido Orthodox Presbyterian mission work  (October 19, 2001-June 3, 2006)
+
+  Escondido Orthodox Presbyterian Church  (June 3, 2006- )
+
+  Meeting at Westminster Seminary California, 1725 Bear Valley Parkway
+
+  Org. Pastor: Zachary Keele, 2004-6
+
+  Pastor: Zachary Keele, 2006-
+
+  '
 received_from: null
 states:
 - CA

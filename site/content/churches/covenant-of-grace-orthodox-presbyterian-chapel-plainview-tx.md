@@ -18,8 +18,15 @@ names:
   name: Covenant of Grace Orthodox Presbyterian Chapel
   start: 2001-04-20
 origination_date: *id001
-raw_data: "TX\nPlainview\nCovenant of Grace Orthodox Presbyterian Chapel  (April 20,\
-  \ 2001\u2013March 26, 2006)\nEvangelist: Kevin Van Der Linden, 2001\u20136"
+raw_data: 'TX
+
+  Plainview
+
+  Covenant of Grace Orthodox Presbyterian Chapel  (April 20, 2001-March 26, 2006)
+
+  Evangelist: Kevin Van Der Linden, 2001-6
+
+  '
 received_from: null
 states:
 - TX

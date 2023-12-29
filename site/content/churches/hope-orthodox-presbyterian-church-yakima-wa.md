@@ -26,10 +26,19 @@ names:
   name: Hope Orthodox Presbyterian Church
   start: 1987-11-01
 origination_date: *id001
-raw_data: "WA\nYakima\nHope Orthodox Presbyterian Church  (November 5, 1982\u2013\
-  \ November 1, 1990)\n(formerly Prosser Orthodox Presbyterian Mission and moved to\
-  \ Yakima in 1987)\nEvangelist: Thomas Church, 1982\u201387\nPastor: John Spain,\
-  \ 1987\u201389"
+raw_data: 'WA
+
+  Yakima
+
+  Hope Orthodox Presbyterian Church  (November 5, 1982- November 1, 1990)
+
+  (formerly Prosser Orthodox Presbyterian Mission and moved to Yakima in 1987)
+
+  Evangelist: Thomas Church, 1982-87
+
+  Pastor: John Spain, 1987-89
+
+  '
 received_from: null
 states:
 - WA

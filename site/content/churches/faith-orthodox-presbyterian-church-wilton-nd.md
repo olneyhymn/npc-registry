@@ -15,8 +15,15 @@ ministers:
 name: Faith Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "ND\nWilton\nFaith Orthodox Presbyterian Church  (September 30, 1936\u2013\
-  \ March 12, 1947)\nPastor: Curtiss Balcom, 1936\u201347"
+raw_data: 'ND
+
+  Wilton
+
+  Faith Orthodox Presbyterian Church  (September 30, 1936- March 12, 1947)
+
+  Pastor: Curtiss Balcom, 1936-47
+
+  '
 received_from: null
 states:
 - ND

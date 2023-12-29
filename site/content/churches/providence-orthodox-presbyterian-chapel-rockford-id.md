@@ -18,8 +18,8 @@ names:
   name: Providence Orthodox Presbyterian Chapel
   start: 2009-02-06
 origination_date: *id001
-raw_data: "ID  Rockford\nProvidence Orthodox Presbyterian Chapel  (February 6, 2009\u2013\
-  \ )\n6799 Guilford Road\nOrg. Pastor: John Hilbelink, 2009\u2013"
+raw_data: "ID\tRockford\nProvidence Orthodox Presbyterian Chapel  (February 6, 2009-\
+  \ )\n6799 Guilford Road\nOrg. Pastor: John Hilbelink, 2009-\n"
 received_from: null
 states:
 - ID

@@ -73,13 +73,41 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 1936-08-17
 origination_date: *id001
-raw_data: "CONNECTICUT\nHamden\nWestminster Orthodox Presbyterian Church  (August\
-  \ 17, 1936\u2013 )\n565 Shepard Avenue\nPastors: L. Craig Long, 1936\u201338\nMarvin\
-  \ Derby, 1938\u201342\nEdmund Clowney, 1942\u201346\nRalph Clough, 1947\u201349\n\
-  Philip Chase, 1954\u201355\nRobert Anderson, 1956\u201360\nWilliam Moreau (Supply),\
-  \ 1961\u201362\nWilliam Moreau, 1962\u201375\nRonald Jenkins, 1976\u201378\nRichard\
-  \ Gerber, 1979\u201399\nCalvin Keller, 2000\u20132006\nJonathan Holst, 2007\u2013\
-  \nTeacher: James Campbell, 1987\u2013"
+raw_data: 'CONNECTICUT
+
+  Hamden
+
+  Westminster Orthodox Presbyterian Church  (August 17, 1936- )
+
+  565 Shepard Avenue
+
+  Pastors: L. Craig Long, 1936-38
+
+  Marvin Derby, 1938-42
+
+  Edmund Clowney, 1942-46
+
+  Ralph Clough, 1947-49
+
+  Philip Chase, 1954-55
+
+  Robert Anderson, 1956-60
+
+  William Moreau (Supply), 1961-62
+
+  William Moreau, 1962-75
+
+  Ronald Jenkins, 1976-78
+
+  Richard Gerber, 1979-99
+
+  Calvin Keller, 2000-2006
+
+  Jonathan Holst, 2007-
+
+  Teacher: James Campbell, 1987-
+
+  '
 received_from: null
 states:
 - CT

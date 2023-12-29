@@ -41,11 +41,25 @@ names:
   name: Covenant Reformed Orthodox Presbyterian Church
   start: 2005-05-01
 origination_date: *id001
-raw_data: "IN\nEvansville\nCovenant Community Presbyterian Chapel, OPC  (March 20,\
-  \ 1998\u2013May 2005)\nCovenant Reformed Orthodox Presbyterian Church (May 2005\u2013\
-  October 19, 2012)\nOrg. Pastors: Michael Shipma, 1999\u20132002\nSam Allison, 2002\u2013\
-  5\nPastors: Sam Allison, 2005\u20139\nRussell Westbrook, 2009\u201311\nAssoc. Pastor:\
-  \ Sam Allison, 2009\u201312"
+raw_data: 'IN
+
+  Evansville
+
+  Covenant Community Presbyterian Chapel, OPC  (March 20, 1998-May 2005)
+
+  Covenant Reformed Orthodox Presbyterian Church (May 2005-October 19, 2012)
+
+  Org. Pastors: Michael Shipma, 1999-2002
+
+  Sam Allison, 2002-5
+
+  Pastors: Sam Allison, 2005-9
+
+  Russell Westbrook, 2009-11
+
+  Assoc. Pastor: Sam Allison, 2009-12
+
+  '
 received_from: null
 states:
 - IN

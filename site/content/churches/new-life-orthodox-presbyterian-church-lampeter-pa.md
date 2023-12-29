@@ -20,8 +20,16 @@ ministers:
 name: New Life Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "PA Lampeter\n\nNew Life Orthodox Presbyterian Church  (October 7, 1990\u2013\
-  February 2, 2008)\nPastors: Laurence Vail, 1990\u201393\nJames Day, 1993\u201396"
+raw_data: 'PA Lampeter
+
+
+  New Life Orthodox Presbyterian Church  (October 7, 1990-February 2, 2008)
+
+  Pastors: Laurence Vail, 1990-93
+
+  James Day, 1993-96
+
+  '
 received_from: null
 states:
 - PA

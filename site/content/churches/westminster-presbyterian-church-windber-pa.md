@@ -28,9 +28,20 @@ names:
   name: Westminster Presbyterian Church, OPC
   start: 1998-04-17
 origination_date: *id001
-raw_data: "PA Windber\n\nWestminster Presbyterian Church, OPC  (April 17, 1998\u2013\
-  2015)\n(moved from Johnstown in 2007)\nPastors: Danny Olinger, 1998\u20132001\n\
-  James Cassidy, 2002\u20137\nRobert McKelvey, 2007\u201315"
+raw_data: 'PA Windber
+
+
+  Westminster Presbyterian Church, OPC  (April 17, 1998-2015)
+
+  (moved from Johnstown in 2007)
+
+  Pastors: Danny Olinger, 1998-2001
+
+  James Cassidy, 2002-7
+
+  Robert McKelvey, 2007-15
+
+  '
 received_from: null
 states:
 - PA

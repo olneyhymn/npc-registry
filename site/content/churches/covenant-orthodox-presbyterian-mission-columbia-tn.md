@@ -20,9 +20,15 @@ ministers:
 name: Covenant Orthodox Presbyterian Mission
 names: null
 origination_date: *id001
-raw_data: "TN    Columbia\nCovenant Orthodox Presbyterian Mission  (August 30, 1992\u2013\
-  August 10, 2000)\nOrg. Pastors: James Garretson, 1992\u201394\nMark Smith, 1995\u2013\
-  2000"
+raw_data: 'TN    Columbia
+
+  Covenant Orthodox Presbyterian Mission  (August 30, 1992-August 10, 2000)
+
+  Org. Pastors: James Garretson, 1992-94
+
+  Mark Smith, 1995-2000
+
+  '
 received_from: null
 states:
 - TN

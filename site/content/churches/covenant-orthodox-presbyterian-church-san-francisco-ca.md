@@ -18,9 +18,16 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1956-02-22
 origination_date: *id001
-raw_data: "AR San Francisco\n\nCovenant Orthodox Presbyterian Church  (February 22,\
-  \ 1956\u2013December 12, 1958)\n(Merged into First Orthodox Presbyterian Church,\
-  \ San Francisco, December 12, 1958)\nPastor: Lionel Brown, 1956\u201358"
+raw_data: 'AR San Francisco
+
+
+  Covenant Orthodox Presbyterian Church  (February 22, 1956-December 12, 1958)
+
+  (Merged into First Orthodox Presbyterian Church, San Francisco, December 12, 1958)
+
+  Pastor: Lionel Brown, 1956-58
+
+  '
 received_from: null
 states:
 - CA

@@ -33,10 +33,21 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 1995-10-28
 origination_date: *id001
-raw_data: "MI Lansing\nGrace Orthodox Presbyterian Church  (October 28, 1995\u2013\
-  \ )\n1301 W. Wieland Road\nOrg. Pastors: Richard Sowder, 1984\u201388\nStephen Pribble,\
-  \ 1989\u20131995)\nPastor: Stephen Pribble, 1995\u2013\nAssoc. Pastor: Brian De\
-  \ Jong, 2000\u20132002"
+raw_data: 'MI Lansing
+
+  Grace Orthodox Presbyterian Church  (October 28, 1995- )
+
+  1301 W. Wieland Road
+
+  Org. Pastors: Richard Sowder, 1984-88
+
+  Stephen Pribble, 1989-1995)
+
+  Pastor: Stephen Pribble, 1995-
+
+  Assoc. Pastor: Brian De Jong, 2000-2002
+
+  '
 received_from: null
 states:
 - MI

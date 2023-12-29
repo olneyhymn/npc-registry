@@ -15,9 +15,16 @@ ministers:
 name: Christ the King Presbyterian mission work
 names: null
 origination_date: *id001
-raw_data: "FLORIDA Naples\n\nChrist the King Presbyterian mission work (April 12,\
-  \ 1913\u2013 )\nMeeting at 3400 Radio Road, Ste. 107\nOrg. Pastor: Eric Hausler,\
-  \ 2013\u2013"
+raw_data: 'FLORIDA Naples
+
+
+  Christ the King Presbyterian mission work (April 12, 1913- )
+
+  Meeting at 3400 Radio Road, Ste. 107
+
+  Org. Pastor: Eric Hausler, 2013-
+
+  '
 received_from: null
 states:
 - FL

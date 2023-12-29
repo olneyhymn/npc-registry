@@ -31,10 +31,20 @@ names:
   name: Trinity Church (OPC)
   start: 2012-11-24
 origination_date: *id001
-raw_data: "Trinity Church (mission work)  (September 6, 2011\u2013November 24, 2012)NY\
-  \ \u2013 NORTH CAROLINA NY\nTrinity Church (OPC)  (November 24, 2012\u2013 )\nMeeting\
-  \ at Faith Lutheran Church 231 Jackson Avenue\nOrg. Pastor: Benjamin Miller, 2011\u2013\
-  12\nPastor: Benjamin Miller, 2012\u2013\nTeacher: David Innes, 2012\u2013"
+raw_data: 'Trinity Church (mission work)  (September 6, 2011-November 24, 2012)NY
+  - NORTH CAROLINA NY
+
+  Trinity Church (OPC)  (November 24, 2012- )
+
+  Meeting at Faith Lutheran Church 231 Jackson Avenue
+
+  Org. Pastor: Benjamin Miller, 2011-12
+
+  Pastor: Benjamin Miller, 2012-
+
+  Teacher: David Innes, 2012-
+
+  '
 received_from: null
 states:
 - NY

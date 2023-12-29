@@ -18,9 +18,19 @@ names:
   name: Covenant Family Church
   start: 2015-01-01
 origination_date: *id001
-raw_data: "MISSOURI\nTroy\nCovenant Family Church  (2015\u2013 )\n(formerly independent)\n\
-  Meeting at St. Stephen UMC, 101 St. Stephen Lane\nOrg. Pastor: Marcus J. Serven,\
-  \ 2015\u2013"
+raw_data: 'MISSOURI
+
+  Troy
+
+  Covenant Family Church  (2015- )
+
+  (formerly independent)
+
+  Meeting at St. Stephen UMC, 101 St. Stephen Lane
+
+  Org. Pastor: Marcus J. Serven, 2015-
+
+  '
 received_from: null
 states:
 - MO

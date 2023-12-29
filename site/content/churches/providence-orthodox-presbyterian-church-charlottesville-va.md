@@ -26,10 +26,19 @@ names:
   name: Providence Orthodox Presbyterian Church
   start: 2007-01-05
 origination_date: *id001
-raw_data: "VIRGINIA    Charlottesville\nProvidence Orthodox Presbyterian Mission \
-  \ (September 17, 2000\u2013January 5, 2007)\nProvidence Orthodox Presbyterian Church\
-  \  (January 5, 2007\u2013 )\n674 Hillsdale Drive\nOrg. Pastor: Anthony Monaghan,\
-  \ 2002\u20137\nPastor: Anthony Monaghan, 2007\u2013"
+raw_data: 'VIRGINIA    Charlottesville
+
+  Providence Orthodox Presbyterian Mission  (September 17, 2000-January 5, 2007)
+
+  Providence Orthodox Presbyterian Church  (January 5, 2007- )
+
+  674 Hillsdale Drive
+
+  Org. Pastor: Anthony Monaghan, 2002-7
+
+  Pastor: Anthony Monaghan, 2007-
+
+  '
 received_from: null
 states:
 - VA

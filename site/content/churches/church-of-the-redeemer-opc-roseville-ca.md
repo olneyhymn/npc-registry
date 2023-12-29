@@ -23,9 +23,17 @@ names:
   name: Church of the Redeemer OPC
   start: 1982-05-15
 origination_date: *id001
-raw_data: "AR     Roseville\nChurch of the Redeemer OPC  (May 15, 1982\u2013September\
-  \ 21, 1985)\n(relocated to Placerville, California in 1985)\nOrg. Pastor:  Daniel\
-  \ Morse, 1980\u201382\nPastor: Daniel Morse, 1982\u201384"
+raw_data: 'AR     Roseville
+
+  Church of the Redeemer OPC  (May 15, 1982-September 21, 1985)
+
+  (relocated to Placerville, California in 1985)
+
+  Org. Pastor:  Daniel Morse, 1980-82
+
+  Pastor: Daniel Morse, 1982-84
+
+  '
 received_from: null
 states:
 - CA

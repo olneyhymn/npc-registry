@@ -71,13 +71,37 @@ names:
   name: Emmanuel Orthodox Presbyterian Church
   start: 1960-01-01
 origination_date: *id001
-raw_data: "DELAWARE Wilmington\nEmmanuel Orthodox Presbyterian Church  (June 1936\u2013\
-  \ )\n(called Eastlake Presbyterian/Orthodox Presbyterian Church, 1936\u20131960)\n\
-  1006 Wilson Road\nPastors: John Clelland, 1936\u201354\nRobert W. Eckardt, 1954\u2013\
-  66\nRollin Keller, 1967\u201374\nArthur Steltzer, 1975\u201382\nJonathan Peters,\
-  \ 1983\u201388\nRobert Letham, 1989\u20132006\nMichael Matossian, 2009\u2013\nAssoc.\
-  \ Pastors: Douglas Watson, 1978\u201379\nR. Heber McIlwaine, 1978\u201380\nS. Edd\
-  \ Cathey, 1995\u20132006\nDavid W. Landow, 2014\u2013"
+raw_data: 'DELAWARE Wilmington
+
+  Emmanuel Orthodox Presbyterian Church  (June 1936- )
+
+  (called Eastlake Presbyterian/Orthodox Presbyterian Church, 1936-1960)
+
+  1006 Wilson Road
+
+  Pastors: John Clelland, 1936-54
+
+  Robert W. Eckardt, 1954-66
+
+  Rollin Keller, 1967-74
+
+  Arthur Steltzer, 1975-82
+
+  Jonathan Peters, 1983-88
+
+  Robert Letham, 1989-2006
+
+  Michael Matossian, 2009-
+
+  Assoc. Pastors: Douglas Watson, 1978-79
+
+  R. Heber McIlwaine, 1978-80
+
+  S. Edd Cathey, 1995-2006
+
+  David W. Landow, 2014-
+
+  '
 received_from: null
 states:
 - DE

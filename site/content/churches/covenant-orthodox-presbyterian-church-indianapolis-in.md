@@ -26,10 +26,17 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 2009-02-06
 origination_date: *id001
-raw_data: "IN Indianapolis\nCovenant Orthodox Presbyterian Chapel  (March 5, 2004\u2013\
-  February 6, 2009)\nCovenant Orthodox Presbyterian Church  (February 6, 2009\u2013\
-  November 1, 2010)\nOrg. Pastor: Larry Wilson, 2004\u20139\nPastor: Larry Wilson,\
-  \ 2009\u201310"
+raw_data: 'IN Indianapolis
+
+  Covenant Orthodox Presbyterian Chapel  (March 5, 2004-February 6, 2009)
+
+  Covenant Orthodox Presbyterian Church  (February 6, 2009-November 1, 2010)
+
+  Org. Pastor: Larry Wilson, 2004-9
+
+  Pastor: Larry Wilson, 2009-10
+
+  '
 received_from: null
 states:
 - IN

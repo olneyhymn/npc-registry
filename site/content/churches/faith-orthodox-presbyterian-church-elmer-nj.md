@@ -73,12 +73,38 @@ names:
   name: Faith Orthodox Presbyterian Church
   start: 1936-10-12
 origination_date: *id001
-raw_data: "NEW JERSEY Elmer\n\nFaith Orthodox Presbyterian Church  (October 12, 1936\u2013\
-  \ )\n545 Daretown Road\nPastors: Edward Cooper, 1936\u201346\nJohn Richmond, 1947\u2013\
-  48\nRaymond Zorn, 1955\u201357\nLeonard Chanoux, 1957\u201363\nAndrew Wikholm, 1967\u2013\
-  68\nLendall Smith, 1969\u201374\nRoy Kerns, 1974\u201377\nCraig Lins, 1978\u2013\
-  86\nDavid Cummings, 1986\u20132007\nRichard Ellis, 2009\u2013\nAssoc. Pastors: Claude\
-  \ Taylor, 1998\u20132008\nAndrew Barshinger, 2015\u2013"
+raw_data: 'NEW JERSEY Elmer
+
+
+  Faith Orthodox Presbyterian Church  (October 12, 1936- )
+
+  545 Daretown Road
+
+  Pastors: Edward Cooper, 1936-46
+
+  John Richmond, 1947-48
+
+  Raymond Zorn, 1955-57
+
+  Leonard Chanoux, 1957-63
+
+  Andrew Wikholm, 1967-68
+
+  Lendall Smith, 1969-74
+
+  Roy Kerns, 1974-77
+
+  Craig Lins, 1978-86
+
+  David Cummings, 1986-2007
+
+  Richard Ellis, 2009-
+
+  Assoc. Pastors: Claude Taylor, 1998-2008
+
+  Andrew Barshinger, 2015-
+
+  '
 received_from: null
 states:
 - NJ

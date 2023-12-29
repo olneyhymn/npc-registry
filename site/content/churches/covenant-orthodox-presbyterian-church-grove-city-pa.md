@@ -43,10 +43,10 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1966-05-16
 origination_date: *id001
-raw_data: "PA  Grove City\n\nCovenant Orthodox Presbyterian Church (May 16, 1966\u2013\
-  \ )\n140 E. Poplar Street\nPastors: Henry Tavares, 1965\u201379\nIvan Davis, 1980\u2013\
-  87\nDaniel Osborne, 1988\u201396\nGerald Dodds, 1997\u20132013\nJeremy Jones, 2013\u2013\
-  \nAssoc. Pastor: Jeremy Jones, 2013"
+raw_data: "PA\tGrove City\n\nCovenant Orthodox Presbyterian Church (May 16, 1966-\
+  \ )\n140 E. Poplar Street\nPastors: Henry Tavares, 1965-79\nIvan Davis, 1980-87\n\
+  Daniel Osborne, 1988-96\nGerald Dodds, 1997-2013\nJeremy Jones, 2013-\nAssoc. Pastor:\
+  \ Jeremy Jones, 2013\n"
 received_from: null
 states:
 - PA

@@ -28,9 +28,22 @@ names:
   name: Sandy Springs Orthodox Presbyterian Church
   start: 1997-01-24
 origination_date: *id001
-raw_data: "TN\nMaryville\n\nSandy Springs Orthodox Presbyterian Church  (January 24,\
-  \ 1997\u2013 )\n1201 Montvale Station Road\nOrg. Pastor: Robert Berry, 1997\nPastors:\
-  \ Mark Marquis, 1998\u20132002\nJames Ganzevoort, 2005\u2013"
+raw_data: 'TN
+
+  Maryville
+
+
+  Sandy Springs Orthodox Presbyterian Church  (January 24, 1997- )
+
+  1201 Montvale Station Road
+
+  Org. Pastor: Robert Berry, 1997
+
+  Pastors: Mark Marquis, 1998-2002
+
+  James Ganzevoort, 2005-
+
+  '
 received_from: null
 states:
 - TN

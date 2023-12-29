@@ -15,9 +15,17 @@ ministers:
 name: Resurrection Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "AR\nWestminster\nResurrection Orthodox Presbyterian Chapel (October 15,\
-  \ 1999\u2013 )\nMeeting at Westminster OPC, Westminster, CA, 10101 Cunningham Avenue\n\
-  Org. Pastor: Kim Dang, 1999\u20132001"
+raw_data: 'AR
+
+  Westminster
+
+  Resurrection Orthodox Presbyterian Chapel (October 15, 1999- )
+
+  Meeting at Westminster OPC, Westminster, CA, 10101 Cunningham Avenue
+
+  Org. Pastor: Kim Dang, 1999-2001
+
+  '
 received_from: null
 states:
 - CA

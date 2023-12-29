@@ -26,10 +26,22 @@ names:
   name: Grace Reformed Orthodox Presbyterian Church
   start: 2013-10-09
 origination_date: *id001
-raw_data: "WYOMING\nLander\n\nGrace Reformed Fellowship Chapel, OPC (August 2012\u2013\
-  October 9, 2013)\nGrace Reformed Orthodox Presbyterian Church (October 9, 2013\u2013\
-  \ )\n545 Main Street\nOrg. Pastor: Philip B. Strong, 2013\nPastor: Philip B. Strong,\
-  \ 2013"
+raw_data: 'WYOMING
+
+  Lander
+
+
+  Grace Reformed Fellowship Chapel, OPC (August 2012-October 9, 2013)
+
+  Grace Reformed Orthodox Presbyterian Church (October 9, 2013- )
+
+  545 Main Street
+
+  Org. Pastor: Philip B. Strong, 2013
+
+  Pastor: Philip B. Strong, 2013
+
+  '
 received_from: null
 states:
 - WY

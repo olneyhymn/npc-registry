@@ -15,8 +15,8 @@ ministers:
 name: Faith Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "PA  Broomall\nFaith Orthodox Presbyterian Chapel  (February 25, 2000\u2013\
-  May 31, 2006 )\nEvangelist: Timothy Walker, 2000\u20132006"
+raw_data: "PA\tBroomall\nFaith Orthodox Presbyterian Chapel  (February 25, 2000-May\
+  \ 31, 2006 )\nEvangelist: Timothy Walker, 2000-2006\n"
 received_from: null
 states:
 - PA

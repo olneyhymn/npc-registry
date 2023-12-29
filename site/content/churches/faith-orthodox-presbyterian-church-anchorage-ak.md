@@ -20,9 +20,19 @@ ministers:
 name: Faith Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "ALASKA\nAnchorage\nFaith Orthodox Presbyterian Church  (March 26, 1995\u2013\
-  June 27, 2006)\n(withdrew to the PCA, June 27, 2006)\nPastors: David Inks, 1997\u2013\
-  98\nD. Leonard Gulstrom, 1999\u20132003"
+raw_data: 'ALASKA
+
+  Anchorage
+
+  Faith Orthodox Presbyterian Church  (March 26, 1995-June 27, 2006)
+
+  (withdrew to the PCA, June 27, 2006)
+
+  Pastors: David Inks, 1997-98
+
+  D. Leonard Gulstrom, 1999-2003
+
+  '
 received_from: null
 states:
 - AK

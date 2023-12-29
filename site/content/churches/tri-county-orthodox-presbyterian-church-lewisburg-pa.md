@@ -27,15 +27,25 @@ ministers:
 - Richard Fisher
 - Steve Miller
 - Sherman Isbell
-name: "Tri\u2013County Orthodox Presbyterian Church"
+name: Tri-County Orthodox Presbyterian Church
 names:
 - end: 1985-01-19
-  name: "Tri\u2013County Orthodox Presbyterian Church"
+  name: Tri-County Orthodox Presbyterian Church
   start: 1967-01-11
 origination_date: *id001
-raw_data: "PA Lewisburg\nTri\u2013County Orthodox Presbyterian Church  (January 11,\
-  \ 1967\u2013January 19, 1985)\nPastors: Luther Long, 1967\u201375\nRichard Fisher,\
-  \ 1975\u201376\nSteve Miller, 1977\u201381\nSherman Isbell, 1982\u201384"
+raw_data: 'PA Lewisburg
+
+  Tri-County Orthodox Presbyterian Church  (January 11, 1967-January 19, 1985)
+
+  Pastors: Luther Long, 1967-75
+
+  Richard Fisher, 1975-76
+
+  Steve Miller, 1977-81
+
+  Sherman Isbell, 1982-84
+
+  '
 received_from: null
 states:
 - PA
@@ -45,7 +55,7 @@ status:
   reason: null
   received_from: null
   withdrawal_to: null
-title: "Tri\u2013County Orthodox Presbyterian Church (Lewisburg PA)"
+title: Tri-County Orthodox Presbyterian Church (Lewisburg PA)
 year_established:
 - 1967
 

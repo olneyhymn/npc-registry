@@ -31,9 +31,22 @@ names:
   name: Knox Presbyterian Church
   start: 2014-04-11
 origination_date: *id001
-raw_data: "OH Mount Vernon\n\nKnox Presbyerian mission work (2012\u2013April 11, 2014)\n\
-  Knox Presbyterian Church (April 11, 2014\u2013 )\n1481 Yauger Road\nOrg. Pastor:\
-  \ Sacha Walicord, 2012\u201314\nPastors: Sacha Walicord, 2014\nJeremy Logan, 2015\u2013"
+raw_data: 'OH Mount Vernon
+
+
+  Knox Presbyerian mission work (2012-April 11, 2014)
+
+  Knox Presbyterian Church (April 11, 2014- )
+
+  1481 Yauger Road
+
+  Org. Pastor: Sacha Walicord, 2012-14
+
+  Pastors: Sacha Walicord, 2014
+
+  Jeremy Logan, 2015-
+
+  '
 received_from: null
 states:
 - OH

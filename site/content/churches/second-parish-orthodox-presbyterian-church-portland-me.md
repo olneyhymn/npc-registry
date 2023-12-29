@@ -63,12 +63,34 @@ names:
   name: Second Parish Orthodox Presbyterian Church
   start: 1936-06-30
 origination_date: *id001
-raw_data: "ME Portland\n\nSecond Parish Orthodox Presbyterian Church  (June 30, 1936\u2013\
-  \ )\n32 Neal Street\nPastors: John Skilton, 1936\u201339\nArthur Olson, 1940\u2013\
-  47\nCalvin Busch, 1948\u201357\nHerbert DuMont, 1957\u201362\nLeslie Dunn, 1962\u2013\
-  72\nStanford Sutton, 1974\u201386\nJohn Hilbelink, 1987\u20132009\nDaniel Patterson,\
-  \ 2009\u2013\nAssoc. Pastor: Tim Beauchamp, 2011\u201315\nDavid DeRienzo, 2013\u2013\
-  15"
+raw_data: 'ME Portland
+
+
+  Second Parish Orthodox Presbyterian Church  (June 30, 1936- )
+
+  32 Neal Street
+
+  Pastors: John Skilton, 1936-39
+
+  Arthur Olson, 1940-47
+
+  Calvin Busch, 1948-57
+
+  Herbert DuMont, 1957-62
+
+  Leslie Dunn, 1962-72
+
+  Stanford Sutton, 1974-86
+
+  John Hilbelink, 1987-2009
+
+  Daniel Patterson, 2009-
+
+  Assoc. Pastor: Tim Beauchamp, 2011-15
+
+  David DeRienzo, 2013-15
+
+  '
 received_from: null
 states:
 - ME

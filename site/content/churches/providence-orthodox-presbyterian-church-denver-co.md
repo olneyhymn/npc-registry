@@ -20,9 +20,9 @@ ministers:
 name: Providence Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "AR  Denver\nProvidence Orthodox Presbyterian Church  (February 21, 1987\u2013\
-  \ )\nSeventh-day Adventist Church, 2675 South Downing\nPastor: Leonard Coppes, 1987\u2013\
-  2011\nCo\u2013Pastor: Shawn Mathis, 2006"
+raw_data: "AR\tDenver\nProvidence Orthodox Presbyterian Church  (February 21, 1987-\
+  \ )\nSeventh-day Adventist Church, 2675 South Downing\nPastor: Leonard Coppes, 1987-2011\n\
+  Co-Pastor: Shawn Mathis, 2006\n"
 received_from: null
 states:
 - CO

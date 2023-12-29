@@ -53,11 +53,30 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1965-10-13
 origination_date: *id001
-raw_data: "AR San Jose\n\nCovenant Orthodox Presbyterian Church  (October 13, 1965\u2013\
-  \ )\n2350 Leigh Avenue\nPastors: Wilson Rinker, 1965\u201370\nRobert Raglin, 1971\u2013\
-  73\nWilliam Warren, 1974\u201380\nWilliam Rudolph, 1981\u201386\nJeffery Landis,\
-  \ 1986\u2013\nAssoc. Pastors: Calvin Malcor, 1997\u20132004\nGraham Harbman, 2006\u2013\
-  10\nRobert A. Starke, 2012\u2013"
+raw_data: 'AR San Jose
+
+
+  Covenant Orthodox Presbyterian Church  (October 13, 1965- )
+
+  2350 Leigh Avenue
+
+  Pastors: Wilson Rinker, 1965-70
+
+  Robert Raglin, 1971-73
+
+  William Warren, 1974-80
+
+  William Rudolph, 1981-86
+
+  Jeffery Landis, 1986-
+
+  Assoc. Pastors: Calvin Malcor, 1997-2004
+
+  Graham Harbman, 2006-10
+
+  Robert A. Starke, 2012-
+
+  '
 received_from: null
 states:
 - CA

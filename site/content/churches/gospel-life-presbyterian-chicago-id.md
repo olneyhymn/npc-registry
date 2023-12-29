@@ -15,8 +15,18 @@ ministers:
 name: Gospel Life Presbyterian
 names: null
 origination_date: *id001
-raw_data: "ID\nChicago\n\nGospel Life Presbyterian (October 11, 2008\u2013 )\n1921\
-  \ S. Archer Avenue\nEvangelist: John H. Ro, 2009\u2013"
+raw_data: 'ID
+
+  Chicago
+
+
+  Gospel Life Presbyterian (October 11, 2008- )
+
+  1921 S. Archer Avenue
+
+  Evangelist: John H. Ro, 2009-
+
+  '
 received_from: null
 states:
 - ID

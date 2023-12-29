@@ -46,14 +46,41 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 1958-05-12
 origination_date: *id001
-raw_data: "AR\nSanta Cruz\nLiving Hope Orthodox Presbyterian Church  (May 12, 1958\u2013\
-  April 5, 2002)\n(called Westminster Orthodox Presbyterian Church, 1958\u20131995)\n\
-  Pastors: Rousas Rushdoony, 1958\u201362\nArthur Riffel, 1962\u201365\nMelvin Nonhof,\
-  \ 1965\u201376\nGordon Woolard, 1977\u201380\nAllen Moran, 1981\u201390\nCalvin\
-  \ Keller, 1993\u20132000\nSanta Maria\nCovenant Grace OP Mission  (February 4, 1994\u2013\
-  November 26, 2000)\nRedeemer Orthodox Presbyterian Church  (November 26, 2000\u2013\
-  \ )\n1501 E. Alvin Avenue\nEvangelist: Nicholas Ganas, 1994\u20132000\nPastors:\
-  \ Nicholas Ganas, 2000\u20132005\nJoshua Martin, 2007\u2013"
+raw_data: 'AR
+
+  Santa Cruz
+
+  Living Hope Orthodox Presbyterian Church  (May 12, 1958-April 5, 2002)
+
+  (called Westminster Orthodox Presbyterian Church, 1958-1995)
+
+  Pastors: Rousas Rushdoony, 1958-62
+
+  Arthur Riffel, 1962-65
+
+  Melvin Nonhof, 1965-76
+
+  Gordon Woolard, 1977-80
+
+  Allen Moran, 1981-90
+
+  Calvin Keller, 1993-2000
+
+  Santa Maria
+
+  Covenant Grace OP Mission  (February 4, 1994-November 26, 2000)
+
+  Redeemer Orthodox Presbyterian Church  (November 26, 2000- )
+
+  1501 E. Alvin Avenue
+
+  Evangelist: Nicholas Ganas, 1994-2000
+
+  Pastors: Nicholas Ganas, 2000-2005
+
+  Joshua Martin, 2007-
+
+  '
 received_from: null
 states:
 - CA

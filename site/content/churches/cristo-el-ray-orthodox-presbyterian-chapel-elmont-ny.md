@@ -15,9 +15,17 @@ ministers:
 name: Cristo el Ray Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "NY\nElmont\nCristo el Ray Orthodox Presbyterian Chapel  (January 19, 2008\u2013\
-  November 19, 2011)\nSupply: Nathan Ketchen, 2008\nOrg. Pastor: Nathan Ketchen, 2008\u2013\
-  11"
+raw_data: 'NY
+
+  Elmont
+
+  Cristo el Ray Orthodox Presbyterian Chapel  (January 19, 2008-November 19, 2011)
+
+  Supply: Nathan Ketchen, 2008
+
+  Org. Pastor: Nathan Ketchen, 2008-11
+
+  '
 received_from: null
 states:
 - NY

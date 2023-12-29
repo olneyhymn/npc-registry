@@ -65,12 +65,11 @@ ministers:
 name: Grace Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "VIRGINIA  Vienna\nGrace Orthodox Presbyterian Church  (January 20, 1964\u2013\
-  \ )\n2381 Cedar Lane\nPastors: Laurence Vail, 1964\u201377\nGeorge Hall, 1978\u2013\
-  81\nGeorge Haney, 1982\u201385\nSteve Hohenberger, 1986\u201390\nAlbert Tricarico,\
-  \ 1991\u20132005\nDaniel Clifford, 2007\u2013\nAssoc. Pastors: Hailu Mekonnen, 1987\u2013\
-  93, 1996\u20132003\nDaniel Clifford, 2004\u20137\nChad Van Dixhoorn, 2008\u2013\
-  15\nStephen M. Brown, 2012\u2013"
+raw_data: "VIRGINIA\tVienna\nGrace Orthodox Presbyterian Church  (January 20, 1964-\
+  \ )\n2381 Cedar Lane\nPastors: Laurence Vail, 1964-77\nGeorge Hall, 1978-81\nGeorge\
+  \ Haney, 1982-85\nSteve Hohenberger, 1986-90\nAlbert Tricarico, 1991-2005\nDaniel\
+  \ Clifford, 2007-\nAssoc. Pastors: Hailu Mekonnen, 1987-93, 1996-2003\nDaniel Clifford,\
+  \ 2004-7\nChad Van Dixhoorn, 2008-15\nStephen M. Brown, 2012-\n"
 received_from: null
 states:
 - VA

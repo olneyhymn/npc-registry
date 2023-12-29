@@ -20,9 +20,17 @@ ministers:
 name: Trinity Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "VIRGINIA  Fairfax\nTrinity Orthodox Presbyterian Church  (January 20, 1964\u2013\
-  July 1, 1970)\n(withdrew to Independency, July 1, 1970)\nPastor: Robert Thoburn,\
-  \ 1964\u201370\nAsst. Pastor: Edwin Urban, 1966\u201368"
+raw_data: 'VIRGINIA  Fairfax
+
+  Trinity Orthodox Presbyterian Church  (January 20, 1964-July 1, 1970)
+
+  (withdrew to Independency, July 1, 1970)
+
+  Pastor: Robert Thoburn, 1964-70
+
+  Asst. Pastor: Edwin Urban, 1966-68
+
+  '
 received_from: null
 states:
 - VA

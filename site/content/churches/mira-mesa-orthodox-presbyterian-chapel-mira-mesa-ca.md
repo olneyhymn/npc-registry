@@ -15,9 +15,9 @@ ministers:
 name: Mira Mesa Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "AR  Mira Mesa\nMira Mesa Orthodox Presbyterian Chapel  (July 1, 1986\u2013\
-  June 17, 1988)\n(withdrew to the Presbyterian Church in America, June 17, 1988)\n\
-  Evangelist: Mark Maliepaard, 1986\u201388"
+raw_data: "AR\tMira Mesa\nMira Mesa Orthodox Presbyterian Chapel  (July 1, 1986-June\
+  \ 17, 1988)\n(withdrew to the Presbyterian Church in America, June 17, 1988)\nEvangelist:\
+  \ Mark Maliepaard, 1986-88\n"
 received_from: null
 states:
 - CA

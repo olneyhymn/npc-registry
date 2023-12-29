@@ -13,7 +13,13 @@ names:
   name: Orthodox Presbyterian Chapel
   start: 1980-01-01
 origination_date: *id001
-raw_data: "California\nEncinitas\nOrthodox Presbyterian Chapel  (1980\u201381)"
+raw_data: 'California
+
+  Encinitas
+
+  Orthodox Presbyterian Chapel  (1980-81)
+
+  '
 received_from: null
 states:
 - CA

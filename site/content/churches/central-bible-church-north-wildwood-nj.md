@@ -18,8 +18,18 @@ names:
   name: Central Bible Church, Orthodox Presbyterian
   start: 2002-03-10
 origination_date: *id001
-raw_data: "NEW JERSEY\nNorth Wildwood\n\nCentral Bible Church, Orthodox Presbyterian\
-  \  (March 10, 2002\u2013 )\n18th and Central Avenue\nPastor: James Allay, 2002\u2013"
+raw_data: 'NEW JERSEY
+
+  North Wildwood
+
+
+  Central Bible Church, Orthodox Presbyterian  (March 10, 2002- )
+
+  18th and Central Avenue
+
+  Pastor: James Allay, 2002-
+
+  '
 received_from: null
 states:
 - NJ

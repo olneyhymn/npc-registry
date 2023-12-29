@@ -48,10 +48,27 @@ names:
   name: Murdock Memorial Orthodox Presbyterian Church
   start: 1936-10-04
 origination_date: *id001
-raw_data: "SD Bancroft\nMurdock Memorial Orthodox Presbyterian Church (October 4,\
-  \ 1936\u2013 )\n575 Main Street\nPastors: George Heaton, 1936\u201337\nA. Culver\
-  \ Gordon, 1937\u201341\nMelvin Nonhof, 1942\u201357\nRobert Sander, 1958\u201367\n\
-  Stanford Sutton, 1967\u201373\nEdward Eppinger, 1974\u20132003\nYoung J. Son, 2005\u2013"
+raw_data: 'SD Bancroft
+
+  Murdock Memorial Orthodox Presbyterian Church (October 4, 1936- )
+
+  575 Main Street
+
+  Pastors: George Heaton, 1936-37
+
+  A. Culver Gordon, 1937-41
+
+  Melvin Nonhof, 1942-57
+
+  Robert Sander, 1958-67
+
+  Stanford Sutton, 1967-73
+
+  Edward Eppinger, 1974-2003
+
+  Young J. Son, 2005-
+
+  '
 received_from: null
 states:
 - SD

@@ -28,9 +28,19 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1988-03-18
 origination_date: *id001
-raw_data: "NY Amsterdam\nCovenant Orthodox Presbyterian Church (March 18, 1988\u2013\
-  \ )\n9 Trinity Place\nEvangelist: John J. Johnson, 1981\u201385\nPastors: David\
-  \ Barker, 1988\u20132001\nTimothy Gregson, 2002\u2013"
+raw_data: 'NY Amsterdam
+
+  Covenant Orthodox Presbyterian Church (March 18, 1988- )
+
+  9 Trinity Place
+
+  Evangelist: John J. Johnson, 1981-85
+
+  Pastors: David Barker, 1988-2001
+
+  Timothy Gregson, 2002-
+
+  '
 received_from: null
 states:
 - NY

@@ -18,8 +18,14 @@ names:
   name: Redeemer Orthodox Presbyterian Chapel
   start: 1996-10-18
 origination_date: *id001
-raw_data: "AR Van Nuys\n\nRedeemer Orthodox Presbyterian Chapel (October 18, 1996\u2013\
-  October 26, 2003)\nEvangelist: C. Lee Irons, 1998\u20132003"
+raw_data: 'AR Van Nuys
+
+
+  Redeemer Orthodox Presbyterian Chapel (October 18, 1996-October 26, 2003)
+
+  Evangelist: C. Lee Irons, 1998-2003
+
+  '
 received_from: null
 states:
 - CA

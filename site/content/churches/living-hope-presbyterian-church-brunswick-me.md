@@ -41,11 +41,10 @@ names:
   name: Living Hope Presbyterian Church
   start: 1999-11-21
 origination_date: *id001
-raw_data: "ME  Brunswick\nLiving Hope Presbyterian Church  (November 21, 1999\u2013\
-  \ )\n(formerly called Merrymeeting Bay OPC, Topsham)\n142 Pleasant Street\nMiss.\
-  \ Pastor: Roger Ramsey, 1993\u201395\nEvangelist: Gordon Cook, 1996\u201399\nPastor:\
-  \ Gordon Cook, 1999\u2013\nTeachers: Michael G. Fettes, 2004\u201314\nJohn F. A.\
-  \ Kramer, 2014\u2013"
+raw_data: "ME\tBrunswick\nLiving Hope Presbyterian Church  (November 21, 1999- )\n\
+  (formerly called Merrymeeting Bay OPC, Topsham)\n142 Pleasant Street\nMiss. Pastor:\
+  \ Roger Ramsey, 1993-95\nEvangelist: Gordon Cook, 1996-99\nPastor: Gordon Cook,\
+  \ 1999-\nTeachers: Michael G. Fettes, 2004-14\nJohn F. A. Kramer, 2014-\n"
 received_from: null
 states:
 - ME

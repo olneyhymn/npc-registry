@@ -70,14 +70,42 @@ ministers:
 name: Calvary Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "PA Harrisville\n\nFaith Orthodox Presbyterian Church (August 5, 1936\u2013\
-  February 14, 1966)\nCalvary Orthodox Presbyterian Church (February 14, 1966\u2013\
-  \ )\n(formed from merger of Faith OPC and New Hope OPC, Branchton, PA)\n443 N. Main\
-  \ Street\nPastors: Robert Atwell, 1936\u201339\nJack Zandstra (Supply), 1939\u2013\
-  40\nCharles Schauffele, 1940\u201346\nLeRoy Oliver, 1947\u201352\nFrancis Breisch,\
-  \ 1952\u201355\nCromwell Roskamp, 1955\u201360\nGeorge Morton, 1962\u201370\nLeonard\
-  \ Coppes, 1971\u201382\nDouglas Withington, 1982\u201387\nLouis Wislocki, 1988\u2013\
-  94\nAllen Moran, 1994\u20132000\nPeter J. Puliatti, 2001\u2013"
+raw_data: 'PA Harrisville
+
+
+  Faith Orthodox Presbyterian Church (August 5, 1936-February 14, 1966)
+
+  Calvary Orthodox Presbyterian Church (February 14, 1966- )
+
+  (formed from merger of Faith OPC and New Hope OPC, Branchton, PA)
+
+  443 N. Main Street
+
+  Pastors: Robert Atwell, 1936-39
+
+  Jack Zandstra (Supply), 1939-40
+
+  Charles Schauffele, 1940-46
+
+  LeRoy Oliver, 1947-52
+
+  Francis Breisch, 1952-55
+
+  Cromwell Roskamp, 1955-60
+
+  George Morton, 1962-70
+
+  Leonard Coppes, 1971-82
+
+  Douglas Withington, 1982-87
+
+  Louis Wislocki, 1988-94
+
+  Allen Moran, 1994-2000
+
+  Peter J. Puliatti, 2001-
+
+  '
 received_from: null
 states:
 - PA

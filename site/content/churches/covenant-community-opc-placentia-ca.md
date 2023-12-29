@@ -15,9 +15,15 @@ ministers:
 name: Covenant Community OPC
 names: null
 origination_date: *id001
-raw_data: "AR Placentia\nCovenant Community OPC (February 15, 1981\u2013March 6, 1988)\n\
-  (merged with Plymouth Congregational Church, Newport Beach, California, 1988)\n\
-  Pastor: Gregory Bahnsen, 1981\u201388"
+raw_data: 'AR Placentia
+
+  Covenant Community OPC (February 15, 1981-March 6, 1988)
+
+  (merged with Plymouth Congregational Church, Newport Beach, California, 1988)
+
+  Pastor: Gregory Bahnsen, 1981-88
+
+  '
 received_from: null
 states:
 - CA

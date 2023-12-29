@@ -23,9 +23,17 @@ names:
   name: West Hills Orthodox Presbyterian Church
   start: 1965-06-29
 origination_date: *id001
-raw_data: "TN Harriman\nWest Hills Orthodox Presbyterian Church  (June 29, 1965\u2013\
-  June 25, 1975)\n(transferred to the Presbyterian Church in America, 1975)\nPastors:\
-  \ John Thompson, 1965\u201368\nLuder Whitlock, 1970\u201375"
+raw_data: 'TN Harriman
+
+  West Hills Orthodox Presbyterian Church  (June 29, 1965-June 25, 1975)
+
+  (transferred to the Presbyterian Church in America, 1975)
+
+  Pastors: John Thompson, 1965-68
+
+  Luder Whitlock, 1970-75
+
+  '
 received_from: null
 states:
 - TN

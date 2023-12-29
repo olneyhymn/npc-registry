@@ -18,8 +18,8 @@ names:
   name: Sovereign Grace Orthodox Presbyterian Church
   start: 1997-05-18
 origination_date: *id001
-raw_data: "AR  Ramona\n\nSovereign Grace Orthodox Presbyterian Church  (May 18, 1997\u2013\
-  2008)\nPastor: Bruce Brawdy, 1997\u20132006"
+raw_data: "AR\tRamona\n\nSovereign Grace Orthodox Presbyterian Church  (May 18, 1997-2008)\n\
+  Pastor: Bruce Brawdy, 1997-2006\n"
 received_from: null
 states:
 - CA

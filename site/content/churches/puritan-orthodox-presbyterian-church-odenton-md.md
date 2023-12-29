@@ -28,9 +28,18 @@ names:
   name: Puritan Orthodox Presbyterian Church
   start: 1974-09-21
 origination_date: *id001
-raw_data: "MD Odenton\n\nPuritan Orthodox Presbyterian Church  (September 21, 1974\u2013\
-  December 31, 2004)\nPastors: James West, 1974\u201375\nWallace Marshall, 1975\u2013\
-  79\nSupply:  Robert Lucas, 1979\u20132004"
+raw_data: 'MD Odenton
+
+
+  Puritan Orthodox Presbyterian Church  (September 21, 1974-December 31, 2004)
+
+  Pastors: James West, 1974-75
+
+  Wallace Marshall, 1975-79
+
+  Supply:  Robert Lucas, 1979-2004
+
+  '
 received_from: null
 states:
 - MD

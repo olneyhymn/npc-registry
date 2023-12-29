@@ -20,9 +20,16 @@ ministers:
 name: Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "AR    West Torrance\n\nOrthodox Presbyterian Chapel  (1966/67\u2013 August\
-  \ 31, 1969)\nEvangelists: Louis Knowles, 1967\u201368\nDaniel Overduin, 1968\u2013\
-  69"
+raw_data: 'AR    West Torrance
+
+
+  Orthodox Presbyterian Chapel  (1966/67- August 31, 1969)
+
+  Evangelists: Louis Knowles, 1967-68
+
+  Daniel Overduin, 1968-69
+
+  '
 received_from: null
 states:
 - CA

@@ -23,9 +23,18 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 1980-01-20
 origination_date: *id001
-raw_data: "PA Hollidaysburg\n\nWestminster Orthodox Presbyterian Church  (January\
-  \ 20, 1980\u2013 )\n1401 Frankstown Road\nPastor: Mark Brown, 1980\u2013\nEvangelist:\
-  \ Jeremiah W. Montgomery, 2011\u201314"
+raw_data: 'PA Hollidaysburg
+
+
+  Westminster Orthodox Presbyterian Church  (January 20, 1980- )
+
+  1401 Frankstown Road
+
+  Pastor: Mark Brown, 1980-
+
+  Evangelist: Jeremiah W. Montgomery, 2011-14
+
+  '
 received_from: null
 states:
 - PA

@@ -26,7 +26,13 @@ names:
   name: Berean Presbyterian Church
   start: 2011-05-03
 origination_date: *id001
-raw_data: "UT\nOgden\nBerean Presbyterian Chapel (October 2009\u2013May 3, 2011)"
+raw_data: 'UT
+
+  Ogden
+
+  Berean Presbyterian Chapel (October 2009-May 3, 2011)
+
+  '
 received_from: null
 states:
 - UT

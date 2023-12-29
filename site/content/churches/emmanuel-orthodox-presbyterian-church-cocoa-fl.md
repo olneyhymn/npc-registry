@@ -18,8 +18,13 @@ names:
   name: Emmanuel Orthodox Presbyterian Church
   start: 1970-03-27
 origination_date: *id001
-raw_data: "FLORIDA Cocoa\nEmmanuel Orthodox Presbyterian Church  (March 27, 1970\u2013\
-  April 24, 1976)\nPastor: A. Boyce Spooner, 1970\u201375"
+raw_data: 'FLORIDA Cocoa
+
+  Emmanuel Orthodox Presbyterian Church  (March 27, 1970-April 24, 1976)
+
+  Pastor: A. Boyce Spooner, 1970-75
+
+  '
 received_from: null
 states:
 - FL

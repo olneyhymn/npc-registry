@@ -21,9 +21,16 @@ names:
   name: New Covenant Fellowship Orthodox Presbyterian Church
   start: 2006-05-15
 origination_date: *id001
-raw_data: "IA    Independence\nNew Covenant Fellowship Orthodox Presbyterian Chapel\
-  \  (1996\u2013May 15, 2006)\nNew Covenant Fellowship Orthodox Presbyterian Church\
-  \  (May 15, 2006\u2013February 26, 2012)\nPastor: Kenneth Golden, 2005\u20138"
+raw_data: 'IA    Independence
+
+  New Covenant Fellowship Orthodox Presbyterian Chapel  (1996-May 15, 2006)
+
+  New Covenant Fellowship Orthodox Presbyterian Church  (May 15, 2006-February 26,
+  2012)
+
+  Pastor: Kenneth Golden, 2005-8
+
+  '
 received_from: null
 states:
 - IA

@@ -18,8 +18,15 @@ names:
   name: Iglesia Presbiteriana Reformada del Caribe
   start: 2007-11-25
 origination_date: *id001
-raw_data: "PR    San Juan\nIglesia Presbiteriana Reformada del Caribe  (November 25,\
-  \ 2007\u2013 )\n1825 Calle San Alejandro\nPastor: Carlos Cruz, 2008\u2013"
+raw_data: 'PR    San Juan
+
+  Iglesia Presbiteriana Reformada del Caribe  (November 25, 2007- )
+
+  1825 Calle San Alejandro
+
+  Pastor: Carlos Cruz, 2008-
+
+  '
 received_from: null
 states:
 - PR

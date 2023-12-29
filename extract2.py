@@ -1,5 +1,4 @@
 import argparse
-import csv
 from datetime import date, datetime
 from itertools import islice
 from pathlib import Path
@@ -9,6 +8,7 @@ from typing import List, Optional
 import pydantic
 import yaml
 from pydantic import BaseModel, Field, root_validator
+from rich import print
 
 
 def none_to_default(v, default):
@@ -74,7 +74,7 @@ parser.add_argument(
     "--file",
     type=str,
     help="CSV file to extract",
-    default="OPC Church Registry - Churches.csv",
+    default="opc.yaml",
 )
 parser.add_argument(
     "--count", type=int, help="Number of records to extract", default=10
@@ -96,15 +96,13 @@ def slugify(s):
 p = Path("site/content/churches")
 errors_path = Path("errors")
 errors = 0
-with open(args.file, newline="") as csvfile:
-    spamreader = csv.reader(csvfile, delimiter=",", quotechar='"')
-    for row in islice(spamreader, args.count):
-        print("-------------")
+success = 0
+with open(args.file, newline="") as f:
+    opc = yaml.safe_load(f)
+    print(f"Extracting {args.count} records from {args.file}")
+    for rec in islice(opc, args.count):
+        print(".", end="", flush=True)
         try:
-            rec = yaml.safe_load(
-                row[3].replace("\t", "  ").replace("```yaml", "").replace("```", "")
-            )[0]
-            print(row[3].split("\n")[0])
             status = {}
             rec["status"] = rec.get("status", {})
             for s in rec["status"]:
@@ -145,4 +143,6 @@ with open(args.file, newline="") as csvfile:
 {yaml.dump(d)}
 ---"""
         )
-print(errors)
+        success = success + 1
+print(f"\n{success} records extracted successfully")
+print(f"{errors} records failed to extract")

@@ -56,12 +56,31 @@ names:
   name: Harvest Orthodox Presbyterian Church
   start: 1989-01-01
 origination_date: *id001
-raw_data: "MI    Grand Rapids\nHarvest Orthodox Presbyterian Church  (August 28, 1979\u2013\
-  \ )\n(called Griggs Street Orthodox Presbyterian Church, 1979\u201389)\n930 52nd\
-  \ Street, Wyoming\nPastors: Henry Buikema, 1979\u201381\nRobert Borger, 1981\u2013\
-  86\nCalvin Malcor, 1988\u201392\nDale Van Dyke, 1995\u2013\nAssoc. Pastors: Stephen\
-  \ Igo, 2002\u20135\nFrancis Van Delden, 2006\u201311\nMika Edmondson, 2014\u2013\
-  \nJeffrey Shamess, 2014\u2013"
+raw_data: 'MI    Grand Rapids
+
+  Harvest Orthodox Presbyterian Church  (August 28, 1979- )
+
+  (called Griggs Street Orthodox Presbyterian Church, 1979-89)
+
+  930 52nd Street, Wyoming
+
+  Pastors: Henry Buikema, 1979-81
+
+  Robert Borger, 1981-86
+
+  Calvin Malcor, 1988-92
+
+  Dale Van Dyke, 1995-
+
+  Assoc. Pastors: Stephen Igo, 2002-5
+
+  Francis Van Delden, 2006-11
+
+  Mika Edmondson, 2014-
+
+  Jeffrey Shamess, 2014-
+
+  '
 received_from: null
 states:
 - MI

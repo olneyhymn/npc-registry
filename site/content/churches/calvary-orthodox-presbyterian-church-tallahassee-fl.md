@@ -43,10 +43,27 @@ names:
   name: Calvary Orthodox Presbyterian Church
   start: 1973-12-02
 origination_date: *id001
-raw_data: "FLORIDA\nTallahassee\nCalvary Orthodox Presbyterian Church  (December 2,\
-  \ 1973\u2013 )\n814 North Gadsden Street\nPastors: Calvin Cummings, 1975\u201381\n\
-  Gordon Woolard, 1981\u201383\nRobert Evans, 1984\u201391\nWilliam Hobbs, 1992\u2013\
-  2016\nJohn A. Sharpe, 2016\u2013\nAssoc. Pastor: John A. Sharpe, 2011\u201316"
+raw_data: 'FLORIDA
+
+  Tallahassee
+
+  Calvary Orthodox Presbyterian Church  (December 2, 1973- )
+
+  814 North Gadsden Street
+
+  Pastors: Calvin Cummings, 1975-81
+
+  Gordon Woolard, 1981-83
+
+  Robert Evans, 1984-91
+
+  William Hobbs, 1992-2016
+
+  John A. Sharpe, 2016-
+
+  Assoc. Pastor: John A. Sharpe, 2011-16
+
+  '
 received_from: null
 states:
 - FL

@@ -26,10 +26,22 @@ names:
   name: First Presbyterian Church, OPC
   start: 2011-12-02
 origination_date: *id001
-raw_data: "PA Perkasie\nFirst Presbyterian Orthodox Presbyterian Mission Work (July\
-  \ 11, 1994\u2013December 2, 2011)\nFirst Presbyterian Church, OPC (December 2, 2011\u2013\
-  \ )\n(called Good News Chapel, 1994\u20132000)\n5th and Race Streets\nOrg. Pastor:\
-  \ Richard Scott MacLaren, 1996\u20132011\nPastor: Richard Scott MacLaren, 2011\u2013"
+raw_data: 'PA Perkasie
+
+  First Presbyterian Orthodox Presbyterian Mission Work (July 11, 1994-December 2,
+  2011)
+
+  First Presbyterian Church, OPC (December 2, 2011- )
+
+  (called Good News Chapel, 1994-2000)
+
+  5th and Race Streets
+
+  Org. Pastor: Richard Scott MacLaren, 1996-2011
+
+  Pastor: Richard Scott MacLaren, 2011-
+
+  '
 received_from: null
 states:
 - PA

@@ -13,8 +13,8 @@ names:
   name: Grace Reformed Presbyterian
   start: 2014-08-24
 origination_date: *id001
-raw_data: "ME  Farmington\nGrace Reformed Presbyterian (August 24, 2014\u2013 )\n\
-  Meeting at University of Maine at Farmington"
+raw_data: "ME\tFarmington\nGrace Reformed Presbyterian (August 24, 2014- )\nMeeting\
+  \ at University of Maine at Farmington\n"
 received_from: null
 states:
 - ME

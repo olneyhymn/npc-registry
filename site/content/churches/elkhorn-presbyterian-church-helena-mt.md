@@ -21,9 +21,17 @@ names:
   name: Elkhorn Presbyterian Church
   start: 2005-05-27
 origination_date: *id001
-raw_data: "MT\nHelena\nElkhorn Presbyterian (Mission Work)  (December 15, 2002\u2013\
-  May 27, 2005)\nElkhorn Presbyterian Church  (May 27, 2005\u2013October 12, 2009)\n\
-  Supply: Richard Venema, 2003\u20139"
+raw_data: 'MT
+
+  Helena
+
+  Elkhorn Presbyterian (Mission Work)  (December 15, 2002-May 27, 2005)
+
+  Elkhorn Presbyterian Church  (May 27, 2005-October 12, 2009)
+
+  Supply: Richard Venema, 2003-9
+
+  '
 received_from: null
 states:
 - MT

@@ -36,11 +36,24 @@ names:
   name: First Orthodox Presbyterian Church
   start: 1947-09-07
 origination_date: *id001
-raw_data: "AR  San Diego\n\nParadise Hills Orthodox Presbyterian Church  (September\
-  \ 7, 1947\u2013October 18, 1975)\n(from 1947 to 1958, First Orthodox Presbyterian\
-  \ Church, National City , California)\n(withdrew to Independency, October 18, 1975)\n\
-  Pastors: Charles Schauffele, 1947\u201349\nHerman Petersen, 1949\u201354\nEdward\
-  \ Kellogg, 1954\u201366\nWallace Bell, 1966\u201372"
+raw_data: 'AR  San Diego
+
+
+  Paradise Hills Orthodox Presbyterian Church  (September 7, 1947-October 18, 1975)
+
+  (from 1947 to 1958, First Orthodox Presbyterian Church, National City , California)
+
+  (withdrew to Independency, October 18, 1975)
+
+  Pastors: Charles Schauffele, 1947-49
+
+  Herman Petersen, 1949-54
+
+  Edward Kellogg, 1954-66
+
+  Wallace Bell, 1966-72
+
+  '
 received_from: null
 states:
 - CA

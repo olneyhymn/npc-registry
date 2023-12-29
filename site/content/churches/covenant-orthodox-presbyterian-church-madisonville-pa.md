@@ -36,10 +36,22 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1984-01-01
 origination_date: *id001
-raw_data: "PA Madisonville\n\nCovenant Orthodox Presbyterian Church  (May 21, 1989\u2013\
-  May 7, 1994)\n(organized as New Life OP Chapel, Scranton, later Sterling, PA)\n\
-  Org. Pastors: H. Leverne Rosenberger, 1978\u201384\nTim Young, 1985\u201389\nPastors:\
-  \ Tim Young, 1989\u201390\nH. Jeffrey Lawson, 1991\u201392"
+raw_data: 'PA Madisonville
+
+
+  Covenant Orthodox Presbyterian Church  (May 21, 1989-May 7, 1994)
+
+  (organized as New Life OP Chapel, Scranton, later Sterling, PA)
+
+  Org. Pastors: H. Leverne Rosenberger, 1978-84
+
+  Tim Young, 1985-89
+
+  Pastors: Tim Young, 1989-90
+
+  H. Jeffrey Lawson, 1991-92
+
+  '
 received_from: null
 states:
 - PA

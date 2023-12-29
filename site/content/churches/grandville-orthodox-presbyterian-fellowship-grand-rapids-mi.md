@@ -15,8 +15,14 @@ ministers:
 name: Grandville Orthodox Presbyterian Fellowship
 names: null
 origination_date: *id001
-raw_data: "MI Grand Rapids\n\nGrandville Orthodox Presbyterian Fellowship  (September\
-  \ 15, 1975\u20131979)\nLay Evangelist: Henry Buikema, 1975\u201378"
+raw_data: 'MI Grand Rapids
+
+
+  Grandville Orthodox Presbyterian Fellowship  (September 15, 1975-1979)
+
+  Lay Evangelist: Henry Buikema, 1975-78
+
+  '
 received_from: null
 states:
 - MI

@@ -30,10 +30,22 @@ ministers:
 name: Galloway Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "FLORIDA Miami\n\nGalloway Orthodox Presbyterian Church  (January 3, 1962\u2013\
-  October 8, 1982)\n(joined Immanuel Presbyterian Church in America, August 15, 1982)\n\
-  Pastors: Robert Atwell, 1962\u201367\nArthur Olson, 1969\u201373\nJames Workman,\
-  \ 1974\u201377\nRobert Minnig, 1978\u201382"
+raw_data: 'FLORIDA Miami
+
+
+  Galloway Orthodox Presbyterian Church  (January 3, 1962-October 8, 1982)
+
+  (joined Immanuel Presbyterian Church in America, August 15, 1982)
+
+  Pastors: Robert Atwell, 1962-67
+
+  Arthur Olson, 1969-73
+
+  James Workman, 1974-77
+
+  Robert Minnig, 1978-82
+
+  '
 received_from: null
 states:
 - FL

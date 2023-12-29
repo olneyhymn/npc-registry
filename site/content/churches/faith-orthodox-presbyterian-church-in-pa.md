@@ -18,8 +18,15 @@ names:
   name: Faith Orthodox Presbyterian Church
   start: 1997-05-02
 origination_date: *id001
-raw_data: "PA IN\nFaith Orthodox Presbyterian Church  (May 2, 1997\u2013 )\n1654 Old\
-  \ Route 119 Highwar N.\nPastor: Douglas Snyder, 1997"
+raw_data: 'PA IN
+
+  Faith Orthodox Presbyterian Church  (May 2, 1997- )
+
+  1654 Old Route 119 Highwar N.
+
+  Pastor: Douglas Snyder, 1997
+
+  '
 received_from: null
 states:
 - PA

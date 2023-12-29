@@ -28,9 +28,17 @@ names:
   name: Hope Orthodox Presbyterian Mission
   start: 1979-10-07
 origination_date: *id001
-raw_data: "ID Libertyville\nHope Orthodox Presbyterian Mission  (October 7, 1979\u2013\
-  September 16, 1994)\nPastors: Karl Dortzbach, 1979\u201380\nRobert Evans, 1980\u2013\
-  84\nDennis Disselkoen, 1985\u201391"
+raw_data: 'ID Libertyville
+
+  Hope Orthodox Presbyterian Mission  (October 7, 1979-September 16, 1994)
+
+  Pastors: Karl Dortzbach, 1979-80
+
+  Robert Evans, 1980-84
+
+  Dennis Disselkoen, 1985-91
+
+  '
 received_from: null
 states:
 - ID

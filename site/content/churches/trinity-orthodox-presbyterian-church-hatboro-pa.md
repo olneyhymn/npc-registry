@@ -68,13 +68,36 @@ names:
   name: Trinity Orthodox Presbyterian Church
   start: 1955-11-28
 origination_date: *id001
-raw_data: "PA Hatboro\n\nTrinity Orthodox Presbyterian Church  (November 28, 1955\u2013\
-  \ )\n151 West County Line Road\nPastors: Robert Thoburn, 1956\u201359\nA. Boyce\
-  \ Spooner, 1961\u201366\nJohn Bettler, 1967\u201370\nThomas Tyson, 1971\u201380\n\
-  George Cottenden, 1981\u20132008\nLarry Westerveld, 2008\u2013\nAssoc. Pastors:\
-  \ William Laverty, 1993\u201399\nLarry Westerveld, 2002\u20138\nTeacher: Douglas\
-  \ A. Watson, 2005\u201314\nMinister of Visitation:  LeRoy Oliver, 1980\u201392\n\
-  Evangelist: George Morton, 1985\u201389"
+raw_data: 'PA Hatboro
+
+
+  Trinity Orthodox Presbyterian Church  (November 28, 1955- )
+
+  151 West County Line Road
+
+  Pastors: Robert Thoburn, 1956-59
+
+  A. Boyce Spooner, 1961-66
+
+  John Bettler, 1967-70
+
+  Thomas Tyson, 1971-80
+
+  George Cottenden, 1981-2008
+
+  Larry Westerveld, 2008-
+
+  Assoc. Pastors: William Laverty, 1993-99
+
+  Larry Westerveld, 2002-8
+
+  Teacher: Douglas A. Watson, 2005-14
+
+  Minister of Visitation:  LeRoy Oliver, 1980-92
+
+  Evangelist: George Morton, 1985-89
+
+  '
 received_from: null
 states:
 - PA

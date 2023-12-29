@@ -20,9 +20,17 @@ ministers:
 name: Faith Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "OH\nMarietta\nFaith Orthodox Presbyterian Church (October 21, 1963\u2013\
-  February 20, 1976)\nPastors: Stanford Sutton, 1965\u201367\nAndrew Wikholm, 1968\u2013\
-  70"
+raw_data: 'OH
+
+  Marietta
+
+  Faith Orthodox Presbyterian Church (October 21, 1963-February 20, 1976)
+
+  Pastors: Stanford Sutton, 1965-67
+
+  Andrew Wikholm, 1968-70
+
+  '
 received_from: null
 states:
 - OH

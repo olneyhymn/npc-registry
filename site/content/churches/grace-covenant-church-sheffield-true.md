@@ -28,9 +28,21 @@ names:
   name: Grace Covenant Church
   start: 2001-11-09
 origination_date: *id001
-raw_data: "ON\nSheffield\nGrace Covenant Church  (November 9, 2001\u2013 )\n1260 Sheffield\
-  \ Road\nPastors: Edward Ludt, 2003\u201310\nNeil P. Stewart, 2013\u2013\nAssoc.\
-  \ Pastor: Douglas L. Bylsma, 2011\u2013"
+raw_data: 'ON
+
+  Sheffield
+
+  Grace Covenant Church  (November 9, 2001- )
+
+  1260 Sheffield Road
+
+  Pastors: Edward Ludt, 2003-10
+
+  Neil P. Stewart, 2013-
+
+  Assoc. Pastor: Douglas L. Bylsma, 2011-
+
+  '
 received_from: null
 states:
 - 'True'

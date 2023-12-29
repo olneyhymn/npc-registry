@@ -18,8 +18,14 @@ names:
   name: Grace Orthodox Presbyterian Chapel
   start: 1993-09-18
 origination_date: *id001
-raw_data: "VIRGINIA Rocky Mount\n\nGrace Orthodox Presbyterian Chapel  (September\
-  \ 18, 1993\u2013December 4, 1998)\nEvangelist: Thomas Ellis, 1993\u201398"
+raw_data: 'VIRGINIA Rocky Mount
+
+
+  Grace Orthodox Presbyterian Chapel  (September 18, 1993-December 4, 1998)
+
+  Evangelist: Thomas Ellis, 1993-98
+
+  '
 received_from: null
 states:
 - VA

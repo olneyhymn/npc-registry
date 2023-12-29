@@ -15,8 +15,16 @@ ministers:
 name: Saint Thomas Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "ON\nSaint Thomas\n\nSaint Thomas Orthodox Presbyterian Church  (June 20,\
-  \ 1991\u2013September 19, 1998)\nPastor: Theocharis Joannides, 1991\u201398"
+raw_data: 'ON
+
+  Saint Thomas
+
+
+  Saint Thomas Orthodox Presbyterian Church  (June 20, 1991-September 19, 1998)
+
+  Pastor: Theocharis Joannides, 1991-98
+
+  '
 received_from: null
 states:
 - 'True'

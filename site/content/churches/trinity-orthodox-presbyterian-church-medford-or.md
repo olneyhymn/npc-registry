@@ -38,10 +38,23 @@ names:
   name: Trinity Orthodox Presbyterian Church
   start: 1978-04-29
 origination_date: *id001
-raw_data: "OR Medford\nTrinity Orthodox Presbyterian Church  (April 29, 1978\u2013\
-  \ )\n1332 Mt. Pitt\nPastors: Calvin Malcor, 1978\u201385\nTed Gray, 1986\u201390\n\
-  Jay Milojevich, 1993\u20132007\nBrian Nicholson, 2009\u2013\nAssoc. Pastor: Jay\
-  \ Milojevich, 1979\u201383"
+raw_data: 'OR Medford
+
+  Trinity Orthodox Presbyterian Church  (April 29, 1978- )
+
+  1332 Mt. Pitt
+
+  Pastors: Calvin Malcor, 1978-85
+
+  Ted Gray, 1986-90
+
+  Jay Milojevich, 1993-2007
+
+  Brian Nicholson, 2009-
+
+  Assoc. Pastor: Jay Milojevich, 1979-83
+
+  '
 received_from: null
 states:
 - OR

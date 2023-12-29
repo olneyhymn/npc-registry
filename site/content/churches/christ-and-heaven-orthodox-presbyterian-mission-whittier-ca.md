@@ -18,9 +18,17 @@ names:
   name: Christ and Heaven Orthodox Presbyterian Mission
   start: 2008-12-12
 origination_date: *id001
-raw_data: "AR Whittier\nChrist and Heaven Orthodox Presbyterian Mission  (December\
-  \ 12, 2008\u2013 )\n(formerly in Long Beach and Garden Grove)\nMeeting at Whittier\
-  \ Community Christian Church, 10823 Colima Road\nOrg. Pastor: Yong Kim, 2008\u2013"
+raw_data: 'AR Whittier
+
+  Christ and Heaven Orthodox Presbyterian Mission  (December 12, 2008- )
+
+  (formerly in Long Beach and Garden Grove)
+
+  Meeting at Whittier Community Christian Church, 10823 Colima Road
+
+  Org. Pastor: Yong Kim, 2008-
+
+  '
 received_from: null
 states:
 - CA

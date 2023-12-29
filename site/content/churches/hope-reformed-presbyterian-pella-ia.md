@@ -13,8 +13,14 @@ names:
   name: Hope Reformed Presbyterian mission work
   start: 2007-01-01
 origination_date: *id001
-raw_data: "IA    Pella\n\nHope Reformed Presbyterian mission work  (2007\u2013 )\n\
-  612 Franklin Street, Suite 101"
+raw_data: 'IA    Pella
+
+
+  Hope Reformed Presbyterian mission work  (2007- )
+
+  612 Franklin Street, Suite 101
+
+  '
 received_from: null
 states:
 - IA

@@ -21,10 +21,17 @@ names:
   name: New Life Northeast Orthodox Presbyterian Church
   start: 1984-05-05
 origination_date: *id001
-raw_data: "PA Philadelphia\nNew Life Bible Orthodox Presbyterian Mission  (January\
-  \ 21, 1984\u20131987)\nNew Life Northeast Orthodox Presbyterian Church  (May 5,\
-  \ 1984\u2013June 26, 1988)\n(withdrew to the Presbyterian Church in America, 1988)\n\
-  Pastor: John Julien, 1984\u201388"
+raw_data: 'PA Philadelphia
+
+  New Life Bible Orthodox Presbyterian Mission  (January 21, 1984-1987)
+
+  New Life Northeast Orthodox Presbyterian Church  (May 5, 1984-June 26, 1988)
+
+  (withdrew to the Presbyterian Church in America, 1988)
+
+  Pastor: John Julien, 1984-88
+
+  '
 received_from: null
 states:
 - PA

@@ -18,8 +18,15 @@ names:
   name: Providence Orthodox Presbyterian Chapel
   start: 1997-11-01
 origination_date: *id001
-raw_data: "AR\nHayward\nProvidence Orthodox Presbyterian Chapel  (November 1, 1997\u2013\
-  February 29, 2008)\nPastor: Charles McIlhenny, 1997\u20132005"
+raw_data: 'AR
+
+  Hayward
+
+  Providence Orthodox Presbyterian Chapel  (November 1, 1997-February 29, 2008)
+
+  Pastor: Charles McIlhenny, 1997-2005
+
+  '
 received_from: null
 states:
 - CA

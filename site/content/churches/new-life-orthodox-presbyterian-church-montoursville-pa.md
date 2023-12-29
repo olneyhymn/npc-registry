@@ -28,9 +28,19 @@ names:
   name: New Life Orthodox Presbyterian Church
   start: 1994-11-13
 origination_date: *id001
-raw_data: "PA Williamsport\nNew Life Orthodox Presbyterian Church (November 13, 1994\u2013\
-  \ )\n1500 Hidden Valley Drive, Montoursville\nPastor: Paul Browne, 1995\u2013\n\
-  Assoc. Pastors: Roth Reason, 2006\u201311\nAndrew T. Adcock, 2011\u2013"
+raw_data: 'PA Williamsport
+
+  New Life Orthodox Presbyterian Church (November 13, 1994- )
+
+  1500 Hidden Valley Drive, Montoursville
+
+  Pastor: Paul Browne, 1995-
+
+  Assoc. Pastors: Roth Reason, 2006-11
+
+  Andrew T. Adcock, 2011-
+
+  '
 received_from: null
 states:
 - PA

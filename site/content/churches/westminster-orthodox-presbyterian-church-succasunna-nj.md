@@ -13,8 +13,13 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 1975-10-24
 origination_date: *id001
-raw_data: "NEW JERSEY\nSuccasunna\nWestminster Orthodox Presbyterian Church (October\
-  \ 24, 1975\u2013December 15, 1978)"
+raw_data: 'NEW JERSEY
+
+  Succasunna
+
+  Westminster Orthodox Presbyterian Church (October 24, 1975-December 15, 1978)
+
+  '
 received_from: null
 states:
 - NJ

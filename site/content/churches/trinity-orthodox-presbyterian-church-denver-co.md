@@ -26,10 +26,19 @@ names:
   name: Trinity Orthodox Presbyterian Church
   start: 1992-08-08
 origination_date: *id001
-raw_data: "AR\nDenver\nTrinity Orthodox Presbyterian Chapel (December 16, 1990\u2013\
-  August 8, 1992)\nTrinity Orthodox Presbyterian Church (August 8, 1992\u2013September\
-  \ 30, 1997)\nOrg. Pastor: Jack Unangst, 1990\u201392\nPastor: Jack Unangst, 1992\u2013\
-  97"
+raw_data: 'AR
+
+  Denver
+
+  Trinity Orthodox Presbyterian Chapel (December 16, 1990-August 8, 1992)
+
+  Trinity Orthodox Presbyterian Church (August 8, 1992-September 30, 1997)
+
+  Org. Pastor: Jack Unangst, 1990-92
+
+  Pastor: Jack Unangst, 1992-97
+
+  '
 received_from: null
 states:
 - CO

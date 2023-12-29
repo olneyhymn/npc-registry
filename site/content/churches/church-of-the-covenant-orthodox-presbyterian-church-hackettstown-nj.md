@@ -33,10 +33,10 @@ names:
   name: Church of the Covenant Orthodox Presbyterian Church
   start: 1981-09-26
 origination_date: *id001
-raw_data: "NEW JERSEY  Hackettstown\nChurch of the Covenant Orthodox Presbyterian\
-  \ Church  (September 26, 1981\u2013 )\n319 Blau Road\nPastor: Ronald Pearce, 1981\u2013\
-  \nAssoc. Pastors: Frederick Rice, 2001\u20135\nGregory Gentry, 2008\u201310\nJames\
-  \ J. Jordan, 2016\u2013"
+raw_data: "NEW JERSEY\tHackettstown\nChurch of the Covenant Orthodox Presbyterian\
+  \ Church  (September 26, 1981- )\n319 Blau Road\nPastor: Ronald Pearce, 1981-\n\
+  Assoc. Pastors: Frederick Rice, 2001-5\nGregory Gentry, 2008-10\nJames J. Jordan,\
+  \ 2016-\n"
 received_from: null
 states:
 - NJ

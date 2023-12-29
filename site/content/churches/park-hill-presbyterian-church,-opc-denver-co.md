@@ -75,15 +75,41 @@ names:
   name: Park Hill Presbyterian Church, OPC
   start: 2001-04-29
 origination_date: *id001
-raw_data: "AR Denver\nGrace Orthodox Presbyterian Chapel of Lincoln Park  (1941\u2013\
-  44)\nPark Hill Orthodox Presbyterian Church  (December 10, 1944\u2013December 16,\
-  \ 1990)\nPark Hill Presbyterian Church, independent (1990\u20131994)\nPark Hill\
-  \ Presbyterian Chapel, OPC (1994\u2013April 29, 2001)\nPark Hill Presbyterian Church,\
-  \ OPC (April 29, 2001\u2013 )\n3411 Albion Street\nPastors: W. Benson Male, 1944\u2013\
-  56\nElmer Dortzbach, 1956\u201367\nLarry Conard, 1968\u201373\nJames Bosgraf, 1973\u2013\
-  79\nRodney Alexander, 1980\u201381\nLeonard Coppes, 1982\u201387\nJack Unangst,\
-  \ 1988\u201390\nMatthew Kingsbury, 2001\u2013\nEvangelists: Jonathan Male, 1991\u2013\
-  96\nMatthew Kingsbury, 1999\u20132001"
+raw_data: 'AR Denver
+
+  Grace Orthodox Presbyterian Chapel of Lincoln Park  (1941-44)
+
+  Park Hill Orthodox Presbyterian Church  (December 10, 1944-December 16, 1990)
+
+  Park Hill Presbyterian Church, independent (1990-1994)
+
+  Park Hill Presbyterian Chapel, OPC (1994-April 29, 2001)
+
+  Park Hill Presbyterian Church, OPC (April 29, 2001- )
+
+  3411 Albion Street
+
+  Pastors: W. Benson Male, 1944-56
+
+  Elmer Dortzbach, 1956-67
+
+  Larry Conard, 1968-73
+
+  James Bosgraf, 1973-79
+
+  Rodney Alexander, 1980-81
+
+  Leonard Coppes, 1982-87
+
+  Jack Unangst, 1988-90
+
+  Matthew Kingsbury, 2001-
+
+  Evangelists: Jonathan Male, 1991-96
+
+  Matthew Kingsbury, 1999-2001
+
+  '
 received_from: null
 states:
 - CO

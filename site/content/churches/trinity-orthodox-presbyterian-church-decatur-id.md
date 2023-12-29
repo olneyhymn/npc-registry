@@ -20,9 +20,17 @@ ministers:
 name: Trinity Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "ID\nDecatur\nTrinity Orthodox Presbyterian Church (July 21, 1979\u2013\
-  September 19, 1988)\nPastors: John Wiers, 1979\u201384\nDonald Parker, 1985\u2013\
-  88"
+raw_data: 'ID
+
+  Decatur
+
+  Trinity Orthodox Presbyterian Church (July 21, 1979-September 19, 1988)
+
+  Pastors: John Wiers, 1979-84
+
+  Donald Parker, 1985-88
+
+  '
 received_from: null
 states:
 - ID

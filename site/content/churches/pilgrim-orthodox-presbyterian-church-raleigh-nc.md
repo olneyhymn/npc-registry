@@ -23,9 +23,17 @@ names:
   name: Pilgrim Orthodox Presbyterian Church
   start: 1972-03-11
 origination_date: *id001
-raw_data: "NORTH CAROLINA Raleigh\nPilgrim Orthodox Presbyterian Church  (March 11,\
-  \ 1972\u2013 )\n5420 Ebenezer Church Road\nPastors: Cromwell Roskamp, 1972\u2013\
-  95\nDouglas Withington, 1996\u2013"
+raw_data: 'NORTH CAROLINA Raleigh
+
+  Pilgrim Orthodox Presbyterian Church  (March 11, 1972- )
+
+  5420 Ebenezer Church Road
+
+  Pastors: Cromwell Roskamp, 1972-95
+
+  Douglas Withington, 1996-
+
+  '
 received_from: null
 states:
 - NC

@@ -18,9 +18,18 @@ names:
   name: Christ Presbyterian Church
   start: 1991-10-27
 origination_date: *id001
-raw_data: "NORTH CAROLINA\nEtowah\n\nChrist Presbyterian Church, Orthodox Presbyterian\
-  \ Church  (October 27, 1991\u2013December\n31, 2013)\nPastor: Roy Davenport, 1991\u2013\
-  2013"
+raw_data: 'NORTH CAROLINA
+
+  Etowah
+
+
+  Christ Presbyterian Church, Orthodox Presbyterian Church  (October 27, 1991-December
+
+  31, 2013)
+
+  Pastor: Roy Davenport, 1991-2013
+
+  '
 received_from: null
 states:
 - NC

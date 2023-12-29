@@ -18,8 +18,15 @@ names:
   name: Susquehanna Bible Fellowship Mission
   start: 2004-10-08
 origination_date: *id001
-raw_data: "PA West Pittston\nWilkes\u2013Barre\nSusquehanna Bible Fellowship Mission\
-  \  (October 8, 2004\u2013September 30, 2007)\nPastor: Edward Guyer, 2004\u20137"
+raw_data: 'PA West Pittston
+
+  Wilkes-Barre
+
+  Susquehanna Bible Fellowship Mission  (October 8, 2004-September 30, 2007)
+
+  Pastor: Edward Guyer, 2004-7
+
+  '
 received_from: null
 states:
 - PA

@@ -28,9 +28,17 @@ names:
   name: Liberty Christian Fellowship OPC
   start: 1987-04-17
 origination_date: *id001
-raw_data: "TX  Lubbock\nLiberty Christian Fellowship OPC  (April 17, 1987\u2013May\
-  \ 11, 1991)\nEvangelists: Glenn Black, 1976\u201380\nTimothy Bero, 1980\u201386\n\
-  Pastor: R. Scott MacLaren, 1987\u201391"
+raw_data: 'TX  Lubbock
+
+  Liberty Christian Fellowship OPC  (April 17, 1987-May 11, 1991)
+
+  Evangelists: Glenn Black, 1976-80
+
+  Timothy Bero, 1980-86
+
+  Pastor: R. Scott MacLaren, 1987-91
+
+  '
 received_from: null
 states:
 - TX

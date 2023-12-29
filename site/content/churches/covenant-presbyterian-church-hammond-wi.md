@@ -28,9 +28,9 @@ names:
   name: Covenant Presbyterian Church
   start: 2005-08-25
 origination_date: *id001
-raw_data: "WI  Hammond\nCovenant Presbyterian Church (August 25, 2005\u2013 )\n(received\
-  \ from Independency)\n680 Broadway Street\nPastors: Kim Kuhfuss, 2005\u201313\n\
-  Shane P. Lems, 2013\u2013\nEvangelist: Kim Kuhfuss, 2013\u2013"
+raw_data: "WI\tHammond\nCovenant Presbyterian Church (August 25, 2005- )\n(received\
+  \ from Independency)\n680 Broadway Street\nPastors: Kim Kuhfuss, 2005-13\nShane\
+  \ P. Lems, 2013-\nEvangelist: Kim Kuhfuss, 2013-\n"
 received_from:
 - Independency
 states:

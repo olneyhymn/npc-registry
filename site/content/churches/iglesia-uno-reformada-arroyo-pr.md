@@ -18,8 +18,18 @@ names:
   name: Iglesia Uno Reformada
   start: 2014-01-01
 origination_date: *id001
-raw_data: "PR\nIglesia Uno Reformada\n\n\n\n113 Morse Street\nSupply: Bradney LopezPENNSYLV\
-  \ ANIA \u2013 PR"
+raw_data: 'PR
+
+  Iglesia Uno Reformada
+
+
+
+
+  113 Morse Street
+
+  Supply: Bradney LopezPENNSYLV ANIA - PR
+
+  '
 received_from: null
 states:
 - PR

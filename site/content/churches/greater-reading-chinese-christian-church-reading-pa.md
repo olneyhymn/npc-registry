@@ -15,9 +15,15 @@ ministers:
 name: Greater Reading Chinese Christian Church
 names: null
 origination_date: *id001
-raw_data: "PA Reading\nGreater Reading Chinese Christian Church, Mission Work  (2008\u2013\
-  2013 )\n(since 2013, part of Covenant OPC, Sinking Spring)\nOrg. Pastor: Li Cheng\
-  \ Fu"
+raw_data: 'PA Reading
+
+  Greater Reading Chinese Christian Church, Mission Work  (2008-2013 )
+
+  (since 2013, part of Covenant OPC, Sinking Spring)
+
+  Org. Pastor: Li Cheng Fu
+
+  '
 received_from: null
 states:
 - PA

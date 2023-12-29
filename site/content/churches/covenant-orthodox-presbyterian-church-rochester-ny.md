@@ -53,11 +53,30 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1936-11-12
 origination_date: *id001
-raw_data: "NY Rochester\n\nCovenant Orthodox Presbyterian Church (November 12, 1936\u2013\
-  \ )\n3201 Dewey Avenue\nPastors: R. Moody Holmes, 1938\nPeter Pascoe, 1939\u2013\
-  44\nCharles Shook, 1944\u201347\nHerbert DuMont, 1948\u201357\nTheodore GAn, 1958\u2013\
-  87\nKenneth M. Campbell, 1988\u201394\nWilliam Crawford, 1995\u201398\nKevin Kisler,\
-  \ 1999\u2013"
+raw_data: 'NY Rochester
+
+
+  Covenant Orthodox Presbyterian Church (November 12, 1936- )
+
+  3201 Dewey Avenue
+
+  Pastors: R. Moody Holmes, 1938
+
+  Peter Pascoe, 1939-44
+
+  Charles Shook, 1944-47
+
+  Herbert DuMont, 1948-57
+
+  Theodore GAn, 1958-87
+
+  Kenneth M. Campbell, 1988-94
+
+  William Crawford, 1995-98
+
+  Kevin Kisler, 1999-
+
+  '
 received_from: null
 states:
 - NY

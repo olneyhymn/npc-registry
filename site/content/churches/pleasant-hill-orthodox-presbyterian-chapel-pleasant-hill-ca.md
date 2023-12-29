@@ -18,8 +18,15 @@ names:
   name: Pleasant Hill Orthodox Presbyterian Chapel
   start: 1985-09-20
 origination_date: *id001
-raw_data: "AR\nPleasant Hill\nPleasant Hill Orthodox Presbyterian Chapel  (September\
-  \ 20, 1985\u2013February 21, 1987)\nEvangelist: Vincent Ortiz, 1985\u201386"
+raw_data: 'AR
+
+  Pleasant Hill
+
+  Pleasant Hill Orthodox Presbyterian Chapel  (September 20, 1985-February 21, 1987)
+
+  Evangelist: Vincent Ortiz, 1985-86
+
+  '
 received_from: null
 states:
 - CA

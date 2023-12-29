@@ -23,9 +23,20 @@ names:
   name: Oakland Hills Community Orthodox Presbyterian Church
   start: 1989-10-08
 origination_date: *id001
-raw_data: "MI\nFarmington Hills\n\nOakland Hills Community Orthodox Presbyterian Church\
-  \  (October 8, 1989\u2013 )\n37150 West Eight Mile Road\nPastor: Ralph Rebandt,\
-  \ 1989\u2013\nAssoc. Pastor: Jeffrey Wilson, 1996\u201397"
+raw_data: 'MI
+
+  Farmington Hills
+
+
+  Oakland Hills Community Orthodox Presbyterian Church  (October 8, 1989- )
+
+  37150 West Eight Mile Road
+
+  Pastor: Ralph Rebandt, 1989-
+
+  Assoc. Pastor: Jeffrey Wilson, 1996-97
+
+  '
 received_from: null
 states:
 - MI

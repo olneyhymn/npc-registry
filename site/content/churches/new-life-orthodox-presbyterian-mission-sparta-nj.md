@@ -15,8 +15,14 @@ ministers:
 name: New Life Orthodox Presbyterian Mission
 names: null
 origination_date: *id001
-raw_data: "NEW JERSEY Sparta\n\nNew Life Orthodox Presbyterian Mission  (April 26,\
-  \ 1988\u2013October 8, 1989)\nEvangelist: L. Kenneth Hash, 1988\u201389"
+raw_data: 'NEW JERSEY Sparta
+
+
+  New Life Orthodox Presbyterian Mission  (April 26, 1988-October 8, 1989)
+
+  Evangelist: L. Kenneth Hash, 1988-89
+
+  '
 received_from: null
 states:
 - NJ

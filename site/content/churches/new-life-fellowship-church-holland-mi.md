@@ -26,10 +26,20 @@ names:
   name: New Life Fellowship Church, Orthodox Presbyterian
   start: 2003-10-24
 origination_date: *id001
-raw_data: "MI Holland\nNew Life Fellowship Chapel, Orthodox Presbyterian Church  (March\
-  \ 21, 1997\u2013October 24, 2003)\nNew Life Fellowship Church, Orthodox Presbyterian\
-  \  (October 24, 2003\u2013 )\n12960 James Street\nEvangelist: Martin Novak, 1998\u2013\
-  2003\nPastor: Martin Novak, 2003\u2013"
+raw_data: 'MI Holland
+
+  New Life Fellowship Chapel, Orthodox Presbyterian Church  (March 21, 1997-October
+  24, 2003)
+
+  New Life Fellowship Church, Orthodox Presbyterian  (October 24, 2003- )
+
+  12960 James Street
+
+  Evangelist: Martin Novak, 1998-2003
+
+  Pastor: Martin Novak, 2003-
+
+  '
 received_from: null
 states:
 - MI

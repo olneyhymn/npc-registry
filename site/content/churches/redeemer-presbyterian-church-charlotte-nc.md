@@ -31,12 +31,24 @@ names:
   name: Redeemer Presbyterian Church
   start: 2003-04-27
 origination_date: *id001
-raw_data: "NORTH CAROLINA Charlotte\n\nPuritan Reformed Orthodox Presbyterian Mission\
-  \  (July 28, 1985\u2013September 17, 1986)\nRedeemer Presbyterian Church  (April\
-  \ 27, 2003\u2013 )\n(originally called Christ Presbyterian Church)\nMeeting at Reformed\
-  \ Theological Seminary, 4824 Sharon Road\nPastor: Cliff Blair, 2003\u2013\nAssoc.\
-  \ Pastor: Joseph H. Fowler Jr, 2011\u201314\nTeacher: George Knight, 2004\u2013\
-  12"
+raw_data: 'NORTH CAROLINA Charlotte
+
+
+  Puritan Reformed Orthodox Presbyterian Mission  (July 28, 1985-September 17, 1986)
+
+  Redeemer Presbyterian Church  (April 27, 2003- )
+
+  (originally called Christ Presbyterian Church)
+
+  Meeting at Reformed Theological Seminary, 4824 Sharon Road
+
+  Pastor: Cliff Blair, 2003-
+
+  Assoc. Pastor: Joseph H. Fowler Jr, 2011-14
+
+  Teacher: George Knight, 2004-12
+
+  '
 received_from: null
 states:
 - NC

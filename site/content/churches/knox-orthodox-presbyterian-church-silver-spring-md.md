@@ -63,12 +63,34 @@ names:
   name: Knox Orthodox Presbyterian Church
   start: 1936-09-22
 origination_date: *id001
-raw_data: "MARYLAND Silver Spring\n\nKnox Orthodox Presbyterian Church  (September\
-  \ 22, 1936\u2013 )\n410 Granville Drive\nPastors: Leslie Sloat, 1936\u201339\nHenry\
-  \ Phillips, 1939\u201343\nGlenn Coie, 1945\u201355\nCharles Ellis, 1955\u201379\n\
-  Thomas Tyson, 1980\u201389\nThomas Martin, 1991\u2013\nAsst. Pastor: Bryan Estelle,\
-  \ 1996\u20132000\nAssoc. Pastors: Robert Thoburn, 1959\u201361\nLeonard Stewart,\
-  \ 1977\u201380\nJames Stastny, 2000\u2013"
+raw_data: 'MARYLAND Silver Spring
+
+
+  Knox Orthodox Presbyterian Church  (September 22, 1936- )
+
+  410 Granville Drive
+
+  Pastors: Leslie Sloat, 1936-39
+
+  Henry Phillips, 1939-43
+
+  Glenn Coie, 1945-55
+
+  Charles Ellis, 1955-79
+
+  Thomas Tyson, 1980-89
+
+  Thomas Martin, 1991-
+
+  Asst. Pastor: Bryan Estelle, 1996-2000
+
+  Assoc. Pastors: Robert Thoburn, 1959-61
+
+  Leonard Stewart, 1977-80
+
+  James Stastny, 2000-
+
+  '
 received_from: null
 states:
 - MD

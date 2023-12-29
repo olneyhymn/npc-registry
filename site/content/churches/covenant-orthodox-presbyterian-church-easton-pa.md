@@ -31,10 +31,19 @@ names:
   name: New Life Orthodox Presbyterian Church
   start: 1982-01-16
 origination_date: *id001
-raw_data: "PA  Easton\nCovenant Orthodox Presbyterian Church  (January 16, 1982\u2013\
-  November 17, 2007)\n(known as New Life Orthodox Presbyterian Church, 1982\u2013\
-  2003)\nPastors: Jack Kineer, 1982\u201397\nBruce Jarvis, 1997\u20132002\nGraham\
-  \ Harbman, 2002\u20136"
+raw_data: 'PA  Easton
+
+  Covenant Orthodox Presbyterian Church  (January 16, 1982-November 17, 2007)
+
+  (known as New Life Orthodox Presbyterian Church, 1982-2003)
+
+  Pastors: Jack Kineer, 1982-97
+
+  Bruce Jarvis, 1997-2002
+
+  Graham Harbman, 2002-6
+
+  '
 received_from: null
 states:
 - PA

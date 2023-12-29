@@ -35,10 +35,10 @@ ministers:
 name: Rockford Springs Orthodox Presbyterian Mission
 names: null
 origination_date: *id001
-raw_data: "MI      Rockford\nRockford Springs Orthodox Presbyterian Mission  (October\
-  \ 31, 1997\u2013 )\n5815 14 Mile Road\nEvangelists: Robert West, 1994\u201396\n\
-  Louis Wislocki, 1996\u201397\nPastors: Louis Wislocki, 1997\u20132009\nDavid Vander\
-  \ Meer, 2010\u2013\nSupply:  David Vander Meer, 2009\u201310"
+raw_data: "MI    \tRockford\nRockford Springs Orthodox Presbyterian Mission  (October\
+  \ 31, 1997- )\n5815 14 Mile Road\nEvangelists: Robert West, 1994-96\nLouis Wislocki,\
+  \ 1996-97\nPastors: Louis Wislocki, 1997-2009\nDavid Vander Meer, 2010-\nSupply:\
+  \  David Vander Meer, 2009-10\n"
 received_from: null
 states:
 - MI

@@ -25,9 +25,20 @@ ministers:
 name: Garst Mill Presbyterian Church, OPC
 names: null
 origination_date: *id001
-raw_data: "VIRGINIA Roanoke\n\nGarst Mill Presbyterian Church, OPC  (October 23, 1976\u2013\
-  \ )\n3739 Willetta Drive\nPastors: Richard Horner, 1976\u20132007\nTimothy McClymonds,\
-  \ 2008\u201312\nRodney T. King, 2012\u2013"
+raw_data: 'VIRGINIA Roanoke
+
+
+  Garst Mill Presbyterian Church, OPC  (October 23, 1976- )
+
+  3739 Willetta Drive
+
+  Pastors: Richard Horner, 1976-2007
+
+  Timothy McClymonds, 2008-12
+
+  Rodney T. King, 2012-
+
+  '
 received_from: null
 states:
 - VA

@@ -26,10 +26,19 @@ names:
   name: Holy Trinity Presbyterian Church
   start: 2009-05-08
 origination_date: *id001
-raw_data: "FLORIDA Fort Lauderdale\nHoly Trinity Presbyterian mission work  (April\
-  \ 20. 2007\u2013May 8, 2009)\nHoly Trinity Presbyterian Church (May 8, 2009\u2013\
-  \ )\n2901 SW 26th Terr.\nSupply: Robert Reymond, 2009\u201311\nPastor: Chad Mullinix,\
-  \ 2011\u2013"
+raw_data: 'FLORIDA Fort Lauderdale
+
+  Holy Trinity Presbyterian mission work  (April 20. 2007-May 8, 2009)
+
+  Holy Trinity Presbyterian Church (May 8, 2009- )
+
+  2901 SW 26th Terr.
+
+  Supply: Robert Reymond, 2009-11
+
+  Pastor: Chad Mullinix, 2011-
+
+  '
 received_from: null
 states:
 - FL

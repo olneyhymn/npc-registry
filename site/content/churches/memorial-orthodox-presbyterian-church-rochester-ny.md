@@ -33,9 +33,21 @@ names:
   name: Memorial Orthodox Presbyterian Church
   start: 1939-08-08
 origination_date: *id001
-raw_data: "NY Rochester\nMemorial Orthodox Presbyterian Church  (August 8, 1939\u2013\
-  \ )\n650 Merchants Road\nPastors: John DeWaard, 1940\u201359\nGeorge Willis, 1959\u2013\
-  75\nStephen Phillips, 1976\u20132000\nMatthew Judd, 2001\u201314"
+raw_data: 'NY Rochester
+
+  Memorial Orthodox Presbyterian Church  (August 8, 1939- )
+
+  650 Merchants Road
+
+  Pastors: John DeWaard, 1940-59
+
+  George Willis, 1959-75
+
+  Stephen Phillips, 1976-2000
+
+  Matthew Judd, 2001-14
+
+  '
 received_from: null
 states:
 - NY

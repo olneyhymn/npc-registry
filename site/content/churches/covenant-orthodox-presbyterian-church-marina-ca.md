@@ -46,11 +46,28 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 2004-04-02
 origination_date: *id001
-raw_data: "AR Marina\n\nCovenant Orthodox Presbyterian Chapel  (January 4, 1996\u2013\
-  April 2, 2004)\nCovenant Orthodox Presbyterian Church  (April 2, 2004\u2013 )\n\
-  910 2nd Ave\nSupply: Donald Owsley, 1996\u201397\nEvangelists: Donald Owsley, 1997\u2013\
-  2000\nJoel Robbins, 2002\u20134\nPastors: Joel Robbins, 2004\u2013\nTimothy G. Walker,\
-  \ 2015\u2013\nTeacher: Timothy G. Walker, 2011\u2013"
+raw_data: 'AR Marina
+
+
+  Covenant Orthodox Presbyterian Chapel  (January 4, 1996-April 2, 2004)
+
+  Covenant Orthodox Presbyterian Church  (April 2, 2004- )
+
+  910 2nd Ave
+
+  Supply: Donald Owsley, 1996-97
+
+  Evangelists: Donald Owsley, 1997-2000
+
+  Joel Robbins, 2002-4
+
+  Pastors: Joel Robbins, 2004-
+
+  Timothy G. Walker, 2015-
+
+  Teacher: Timothy G. Walker, 2011-
+
+  '
 received_from: null
 states:
 - CA

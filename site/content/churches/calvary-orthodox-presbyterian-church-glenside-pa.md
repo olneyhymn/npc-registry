@@ -78,13 +78,41 @@ names:
   name: Calvary Orthodox Presbyterian Church
   start: 1936-07-29
 origination_date: *id001
-raw_data: "PENNSYLVANIA\nGlenside\nCalvary Orthodox Presbyterian Church  (July 29,\
-  \ 1936\u2013 )\n734 Willow Grove Avenue at Church Road\nPastors: Cary Weisiger,\
-  \ 1937\u201340\nTheodore Jansma, 1941\u201343\nEugene Bradford, 1944\u201351\nRobert\
-  \ Atwell, 1952\u201361\nLarry Sibley, 1963\u201367\nHenry Coray, 1967\u201371\n\
-  Robert Drake, 1972\u201377\nDaniel Morse, 1978\u201380\nSteven Miller, 1981\u2013\
-  94\nA. Craig Troxel, 1995\u20132007\nJ. Mark Sallade, 2008\u2013\nAssoc. Pastors:\
-  \ Chad E. Bond, 2001\u20134\nJ. Mark Sallade, 2006\u20138"
+raw_data: 'PENNSYLVANIA
+
+  Glenside
+
+  Calvary Orthodox Presbyterian Church  (July 29, 1936- )
+
+  734 Willow Grove Avenue at Church Road
+
+  Pastors: Cary Weisiger, 1937-40
+
+  Theodore Jansma, 1941-43
+
+  Eugene Bradford, 1944-51
+
+  Robert Atwell, 1952-61
+
+  Larry Sibley, 1963-67
+
+  Henry Coray, 1967-71
+
+  Robert Drake, 1972-77
+
+  Daniel Morse, 1978-80
+
+  Steven Miller, 1981-94
+
+  A. Craig Troxel, 1995-2007
+
+  J. Mark Sallade, 2008-
+
+  Assoc. Pastors: Chad E. Bond, 2001-4
+
+  J. Mark Sallade, 2006-8
+
+  '
 received_from: null
 states:
 - PA

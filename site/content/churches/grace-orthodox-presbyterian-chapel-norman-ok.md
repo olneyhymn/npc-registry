@@ -28,9 +28,19 @@ names:
   name: Grace Orthodox Presbyterian Chapel
   start: 1999-09-12
 origination_date: *id001
-raw_data: "OKLAHOMA Norman\nGrace Orthodox Presbyterian Chapel  (September 12, 1999\u2013\
-  \ )\n310 N. Findlay Avenue\nSupply: William Doerfel, 1999\u20132003\nPastors: M.\
-  \ Scott Johnson, 2003\u20137\nTodd P. Dole, 2012\u2013"
+raw_data: 'OKLAHOMA Norman
+
+  Grace Orthodox Presbyterian Chapel  (September 12, 1999- )
+
+  310 N. Findlay Avenue
+
+  Supply: William Doerfel, 1999-2003
+
+  Pastors: M. Scott Johnson, 2003-7
+
+  Todd P. Dole, 2012-
+
+  '
 received_from: null
 states:
 - OK

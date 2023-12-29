@@ -15,8 +15,14 @@ ministers:
 name: Covenant Orthodox Presbyterian Mission
 names: null
 origination_date: *id001
-raw_data: "SOUTH CAROLINA Charleston\n\nCovenant Orthodox Presbyterian Mission (February\
-  \ 2, 1992\u2013June 1, 1992)\nSupply: Robert Berry, 1992"
+raw_data: 'SOUTH CAROLINA Charleston
+
+
+  Covenant Orthodox Presbyterian Mission (February 2, 1992-June 1, 1992)
+
+  Supply: Robert Berry, 1992
+
+  '
 received_from: null
 states:
 - SC

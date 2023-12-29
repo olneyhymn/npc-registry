@@ -15,8 +15,13 @@ ministers:
 name: Portage Reformed Chapel
 names: null
 origination_date: *id001
-raw_data: "MI Houghton\nPortage Reformed Chapel  (2004\u20132006)\nPastor: Todd Wagenmaker,\
-  \ 2004\u20136"
+raw_data: 'MI Houghton
+
+  Portage Reformed Chapel  (2004-2006)
+
+  Pastor: Todd Wagenmaker, 2004-6
+
+  '
 received_from: null
 states:
 - MI

@@ -31,10 +31,22 @@ names:
   name: Providence Orthodox Presbyterian Church
   start: 2010-03-20
 origination_date: *id001
-raw_data: "PA    Mifflinburg\n\nProvidence Orthodox Presbyterian Chapel  (January\
-  \ 29, 2006\u2013March 20, 2010)\nProvidence Orthodox Presbyterian Church (March\
-  \ 20, 2010\u2013 )\n325 Market Street\nOrg. Pastor: Stephen Payson, 2007\u201310\n\
-  Pastors: Stephen Payson, 2010\u201315\nChristopher Pose, 2016\u2013"
+raw_data: 'PA    Mifflinburg
+
+
+  Providence Orthodox Presbyterian Chapel  (January 29, 2006-March 20, 2010)
+
+  Providence Orthodox Presbyterian Church (March 20, 2010- )
+
+  325 Market Street
+
+  Org. Pastor: Stephen Payson, 2007-10
+
+  Pastors: Stephen Payson, 2010-15
+
+  Christopher Pose, 2016-
+
+  '
 received_from: null
 states:
 - PA

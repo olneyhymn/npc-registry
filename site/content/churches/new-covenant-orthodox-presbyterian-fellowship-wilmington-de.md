@@ -18,8 +18,13 @@ names:
   name: New Covenant Orthodox Presbyterian Fellowship
   start: 1986-06-01
 origination_date: *id001
-raw_data: "DE Wilmington\nNew Covenant Orthodox Presbyterian Fellowship (June 1, 1986\u2013\
-  \ September 19, 1988)\nPastor: LeRoy Greer, 1986\u201388"
+raw_data: 'DE Wilmington
+
+  New Covenant Orthodox Presbyterian Fellowship (June 1, 1986- September 19, 1988)
+
+  Pastor: LeRoy Greer, 1986-88
+
+  '
 received_from: null
 states:
 - DE

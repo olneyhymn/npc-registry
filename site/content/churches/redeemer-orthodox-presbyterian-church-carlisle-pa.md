@@ -26,9 +26,9 @@ names:
   name: Redeemer Orthodox Presbyterian Church
   start: 2005-05-27
 origination_date: *id001
-raw_data: "PA  Carlisle\nRedeemer Orthodox Presbyterian Chapel  (September 21, 2003\u2013\
-  May 27, 2005)\nRedeemer Orthodox Presbyterian Church  (May 27, 2005\u2013 )\n101\
-  \ Petersburg Road\nSupply: John Mallin, 2003\u20136\nPastor: Jody Morris, 2006\u2013"
+raw_data: "PA\tCarlisle\nRedeemer Orthodox Presbyterian Chapel  (September 21, 2003-May\
+  \ 27, 2005)\nRedeemer Orthodox Presbyterian Church  (May 27, 2005- )\n101 Petersburg\
+  \ Road\nSupply: John Mallin, 2003-6\nPastor: Jody Morris, 2006-\n"
 received_from: null
 states:
 - PA

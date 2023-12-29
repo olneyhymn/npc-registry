@@ -15,8 +15,15 @@ ministers:
 name: Pilgrim Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "MI\nGladstone\nPilgrim Orthodox Presbyterian Chapel  (1975\u20131980)\n\
-  Pastor: Henry Phillips, 1975\u201380"
+raw_data: 'MI
+
+  Gladstone
+
+  Pilgrim Orthodox Presbyterian Chapel  (1975-1980)
+
+  Pastor: Henry Phillips, 1975-80
+
+  '
 received_from: null
 states:
 - MI

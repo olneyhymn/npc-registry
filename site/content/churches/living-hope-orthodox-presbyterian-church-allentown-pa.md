@@ -31,10 +31,21 @@ names:
   name: Living Hope Orthodox Presbyterian Church
   start: 1994-11-20
 origination_date: *id001
-raw_data: "PA Allentown\nLiving Hope Orthodox Presbyterian Chapel (September 15, 1990\u2013\
-  November 20, 1994)\nLiving Hope Orthodox Presbyterian Church (November 20, 1994\u2013\
-  \ )\n330 Schantz Road\nOrg. Pastor: Tim Young, 1990\u201394\nPastor: Tim Young,\
-  \ 1994\u2013\nAssoc. Pastor: Harold McKenzie, 1995\u20132010"
+raw_data: 'PA Allentown
+
+  Living Hope Orthodox Presbyterian Chapel (September 15, 1990-November 20, 1994)
+
+  Living Hope Orthodox Presbyterian Church (November 20, 1994- )
+
+  330 Schantz Road
+
+  Org. Pastor: Tim Young, 1990-94
+
+  Pastor: Tim Young, 1994-
+
+  Assoc. Pastor: Harold McKenzie, 1995-2010
+
+  '
 received_from: null
 states:
 - PA

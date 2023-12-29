@@ -18,8 +18,17 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 2005-01-01
 origination_date: *id001
-raw_data: "OR\nCorvallis\nWestminster Orthodox Presbyterian Church (2005\u2013 )\n\
-  5005 NW Highland Drive\nPastor: Martin Emmrich, 2007\u2013"
+raw_data: 'OR
+
+  Corvallis
+
+  Westminster Orthodox Presbyterian Church (2005- )
+
+  5005 NW Highland Drive
+
+  Pastor: Martin Emmrich, 2007-
+
+  '
 received_from: null
 states:
 - OR

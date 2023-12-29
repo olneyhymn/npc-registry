@@ -41,11 +41,25 @@ names:
   name: Providence Orthodox Presbyterian Church
   start: 2007-01-19
 origination_date: *id001
-raw_data: "ALABAMA Madison\nProvidence Orthodox Presbyterian Chapel  (October 22,\
-  \ 1999\u2013January 19, 2007)\nProvidence Orthodox Presbyterian Church (January\
-  \ 19, 2007\u2013 )\n7745 Highway 72 West\nOrg. Pastors: Mark Smith, 2000\u20132003\n\
-  Mark Winder, 2004\u20137\nEvangelist: Carl Russell, 2002\u20134\nPastors: Mark Winder,\
-  \ 2007\u201310\nDarren S. Thole, 2011\u2013"
+raw_data: 'ALABAMA Madison
+
+  Providence Orthodox Presbyterian Chapel  (October 22, 1999-January 19, 2007)
+
+  Providence Orthodox Presbyterian Church (January 19, 2007- )
+
+  7745 Highway 72 West
+
+  Org. Pastors: Mark Smith, 2000-2003
+
+  Mark Winder, 2004-7
+
+  Evangelist: Carl Russell, 2002-4
+
+  Pastors: Mark Winder, 2007-10
+
+  Darren S. Thole, 2011-
+
+  '
 received_from: null
 states:
 - AL

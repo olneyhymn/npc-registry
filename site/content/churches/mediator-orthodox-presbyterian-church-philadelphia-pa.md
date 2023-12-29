@@ -38,12 +38,11 @@ names:
   name: Mediator Orthodox Presbyterian Church
   start: 1938-08-16
 origination_date: *id001
-raw_data: "PA  Philadelphia\nLiving Word Orthodox Presbyterian Mission  (September\
-  \ 19, 1987\u2013August 22,1988)\nLivingstone Memorial OPC  (November 11, 1937\u2013\
-  January 15, 1945)\nMediator Orthodox Presbyterian Church  (August 16, 1938\u2013\
-  January 10, 1968)\nPastors: James Price, 1938\u201345\nJohn Betzold, Co\u2013Pastor,\
-  \ 1943\u201344\nHerbert Hoeflinger, 1945\u201348\nKenneth Meilahn, 1951\u201352\n\
-  William Rankin, 1958\u201366"
+raw_data: "PA\tPhiladelphia\nLiving Word Orthodox Presbyterian Mission  (September\
+  \ 19, 1987-August 22,1988)\nLivingstone Memorial OPC  (November 11, 1937-January\
+  \ 15, 1945)\nMediator Orthodox Presbyterian Church  (August 16, 1938-January 10,\
+  \ 1968)\nPastors: James Price, 1938-45\nJohn Betzold, Co-Pastor, 1943-44\nHerbert\
+  \ Hoeflinger, 1945-48\nKenneth Meilahn, 1951-52\nWilliam Rankin, 1958-66\n"
 received_from: null
 states:
 - PA

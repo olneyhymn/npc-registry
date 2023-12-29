@@ -13,8 +13,15 @@ names:
   name: Emmanuel Reformed Church Mission
   start: 2004-01-17
 origination_date: *id001
-raw_data: "ON\nMeaford\nEmmanuel Reformed Church Mission  (January 17, 2004\u2013\
-  \ )\nSykes and Nelson Streets"
+raw_data: 'ON
+
+  Meaford
+
+  Emmanuel Reformed Church Mission  (January 17, 2004- )
+
+  Sykes and Nelson Streets
+
+  '
 received_from: null
 states:
 - 'True'

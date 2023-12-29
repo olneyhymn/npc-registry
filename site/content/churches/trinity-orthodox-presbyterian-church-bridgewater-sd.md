@@ -78,12 +78,38 @@ names:
   name: Trinity Orthodox Presbyterian Church
   start: 1936-10-28
 origination_date: *id001
-raw_data: "SD Bridgewater\n\nTrinity Orthodox Presbyterian Church  (October 28, 1936\u2013\
-  September 28, 2011)\nPastors: Jack Zandstra, 1936\u201339\nWalter Magee, 1939\u2013\
-  44\nRussell Piper, 1945\u201357\nAbe Ediger, 1957\u201361\nSamuel van Houte, 1961\u2013\
-  65\nHoward Hart, 1966\u201369\nMaurice Riedesel, 1970\u201379\nRichard Shaw, 1980\u2013\
-  85\nT. Jeffrey Taylor, 1986\u201388\nCarl Durham, 1989\u201395\nTerrance Clarke,\
-  \ 1995\u201396\nRalph English, 1997\u201399\nRandall Klynsma, 1999\u20132009"
+raw_data: 'SD Bridgewater
+
+
+  Trinity Orthodox Presbyterian Church  (October 28, 1936-September 28, 2011)
+
+  Pastors: Jack Zandstra, 1936-39
+
+  Walter Magee, 1939-44
+
+  Russell Piper, 1945-57
+
+  Abe Ediger, 1957-61
+
+  Samuel van Houte, 1961-65
+
+  Howard Hart, 1966-69
+
+  Maurice Riedesel, 1970-79
+
+  Richard Shaw, 1980-85
+
+  T. Jeffrey Taylor, 1986-88
+
+  Carl Durham, 1989-95
+
+  Terrance Clarke, 1995-96
+
+  Ralph English, 1997-99
+
+  Randall Klynsma, 1999-2009
+
+  '
 received_from: null
 states:
 - SD

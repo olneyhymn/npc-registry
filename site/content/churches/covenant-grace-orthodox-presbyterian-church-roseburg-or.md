@@ -31,10 +31,21 @@ names:
   name: Covenant Grace Orthodox Presbyterian Church
   start: 2011-05-20
 origination_date: *id001
-raw_data: "OR Roseburg\nCovenant Grace Orthodox Presbyterian Chapel  (September 25,\
-  \ 1999\u2013 May 20, 2011)\nCovenant Grace Orthodox Presbyterian Church  (May 20,\
-  \ 2011\u2013 )\n3510 NE Douglas Avenue\nOrg. Pastors: Ralph English, 2000\u2013\
-  2002\nDaniel McManigal, 2006\u20138\nPastor: Jeffrey Scott, 2014\u2013"
+raw_data: 'OR Roseburg
+
+  Covenant Grace Orthodox Presbyterian Chapel  (September 25, 1999- May 20, 2011)
+
+  Covenant Grace Orthodox Presbyterian Church  (May 20, 2011- )
+
+  3510 NE Douglas Avenue
+
+  Org. Pastors: Ralph English, 2000-2002
+
+  Daniel McManigal, 2006-8
+
+  Pastor: Jeffrey Scott, 2014-
+
+  '
 received_from: null
 states:
 - OR

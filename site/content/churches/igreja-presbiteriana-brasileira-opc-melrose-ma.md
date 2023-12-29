@@ -26,10 +26,21 @@ names:
   name: Igreja Presbiteriana Brasileira OPC
   start: 2015-01-25
 origination_date: *id001
-raw_data: "MA\nMelrose\nIgreja Presbiteriana Brasileira  mission work  (2007\u2013\
-  January 25, 2015)\nIgreja Presbiteriana Brasileira, OPC (January 25, 2015\u2013\
-  \ )\nMeeting at Church of the Nazarene, 2 Short Street\nOrg. Pastor: Roberto Laranjo,\
-  \ 2007\u201315\nPastor: Roberto Laranjo, 2015\u2013"
+raw_data: 'MA
+
+  Melrose
+
+  Igreja Presbiteriana Brasileira  mission work  (2007-January 25, 2015)
+
+  Igreja Presbiteriana Brasileira, OPC (January 25, 2015- )
+
+  Meeting at Church of the Nazarene, 2 Short Street
+
+  Org. Pastor: Roberto Laranjo, 2007-15
+
+  Pastor: Roberto Laranjo, 2015-
+
+  '
 received_from: null
 states:
 - MA

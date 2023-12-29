@@ -18,9 +18,19 @@ names:
   name: Limington Orthodox Presbyterian Church
   start: 2011-09-30
 origination_date: *id001
-raw_data: "ME\nLimington\nLimington Orthodox Presbyterian Church (September 30, 2011\u2013\
-  \ )\n(founded in 1789 and formerly Congregational)\n302 Sokokis Avenue\nPastor:\
-  \ Leonard Gulstrom, 2011\u2013"
+raw_data: 'ME
+
+  Limington
+
+  Limington Orthodox Presbyterian Church (September 30, 2011- )
+
+  (founded in 1789 and formerly Congregational)
+
+  302 Sokokis Avenue
+
+  Pastor: Leonard Gulstrom, 2011-
+
+  '
 received_from: null
 states:
 - ME

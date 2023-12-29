@@ -15,8 +15,17 @@ ministers:
 name: Christ Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "NY\nLindenhurst\n\nChrist Orthodox Presbyterian Chapel  (April 29, 1984\u2013\
-  April 13, 1986)\n\nPastor: H. Laverne Rosenberger, 1984\u201386"
+raw_data: 'NY
+
+  Lindenhurst
+
+
+  Christ Orthodox Presbyterian Chapel  (April 29, 1984-April 13, 1986)
+
+
+  Pastor: H. Laverne Rosenberger, 1984-86
+
+  '
 received_from: null
 states:
 - NY

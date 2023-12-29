@@ -15,8 +15,13 @@ ministers:
 name: Covenant Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "FLORIDA Lake Worth\nCovenant Orthodox Presbyterian Chapel (April 19, 1965\u2013\
-  1968)\nEvangelist: Jack Peterson, 1966\u201367"
+raw_data: 'FLORIDA Lake Worth
+
+  Covenant Orthodox Presbyterian Chapel (April 19, 1965-1968)
+
+  Evangelist: Jack Peterson, 1966-67
+
+  '
 received_from: null
 states:
 - FL

@@ -73,12 +73,38 @@ names:
   name: Bethel Orthodox Presbyterian Church
   start: 1936-08-02
 origination_date: *id001
-raw_data: "ND Carson\n\nBethel Orthodox Presbyterian Church (August 2, 1936\u2013\
-  \ )\n601 Grant Street\nPastors: Samuel Allen, 1936\u201340\nJohn Gray, 1940\u2013\
-  44\nWalter Magee, 1945\u201352\nHenry Tavares, 1952\u201357\nV . Robert Nilson,\
-  \ 1957\u201364\nJack Peterson, 1967\u201379\nDavid Kiester, 1980\u201383\nG. I.\
-  \ Williamson, 1983\u201392\nSam Allison, 1991\u201395\nPaul Ferrie, 1995\u201396\n\
-  W. Vernon Picknally Jr, 2000\u20132011\nBruce L. Prentice, 2013"
+raw_data: 'ND Carson
+
+
+  Bethel Orthodox Presbyterian Church (August 2, 1936- )
+
+  601 Grant Street
+
+  Pastors: Samuel Allen, 1936-40
+
+  John Gray, 1940-44
+
+  Walter Magee, 1945-52
+
+  Henry Tavares, 1952-57
+
+  V . Robert Nilson, 1957-64
+
+  Jack Peterson, 1967-79
+
+  David Kiester, 1980-83
+
+  G. I. Williamson, 1983-92
+
+  Sam Allison, 1991-95
+
+  Paul Ferrie, 1995-96
+
+  W. Vernon Picknally Jr, 2000-2011
+
+  Bruce L. Prentice, 2013
+
+  '
 received_from: null
 states:
 - ND

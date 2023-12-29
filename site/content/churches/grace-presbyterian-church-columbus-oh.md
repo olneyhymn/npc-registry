@@ -63,12 +63,33 @@ names:
   name: Grace Presbyterian Church
   start: 1979-07-01
 origination_date: *id001
-raw_data: "OH Columbus\nGrace Presbyterian Church, Orthodox Presbyterian Church  (July\
-  \ 1, 1979\u2013 )\n5099 Postlewaite Road\nPastors: Robert Y . Eckardt, 1980\u2013\
-  85\nLarry Wilson, 1985\u20132000\nWilliam Kessler, 2002\u2013\nAssoc. Pastors: Joseph\
-  \ Keller, 1994\u20132002\nStephen Igo, 1998\u20132002\nLeo Frailey, 2005\u201311\n\
-  Kyle Brown, 2006\u201313\nJason C. Kirklin, 2012\u2013\nEvangelists: Lawrence Oldaker,\
-  \ 1995\u201397\nDavid Robbins, 2010\u201315"
+raw_data: 'OH Columbus
+
+  Grace Presbyterian Church, Orthodox Presbyterian Church  (July 1, 1979- )
+
+  5099 Postlewaite Road
+
+  Pastors: Robert Y . Eckardt, 1980-85
+
+  Larry Wilson, 1985-2000
+
+  William Kessler, 2002-
+
+  Assoc. Pastors: Joseph Keller, 1994-2002
+
+  Stephen Igo, 1998-2002
+
+  Leo Frailey, 2005-11
+
+  Kyle Brown, 2006-13
+
+  Jason C. Kirklin, 2012-
+
+  Evangelists: Lawrence Oldaker, 1995-97
+
+  David Robbins, 2010-15
+
+  '
 received_from: null
 states:
 - OH

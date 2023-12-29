@@ -33,9 +33,24 @@ names:
   name: Trinity Presbyterian Church of the Orthodox Presbyterian Church
   start: 1964-03-12
 origination_date: *id001
-raw_data: "OR\nNewberg\nTrinity Presbyterian Church of the Orthodox Presbyterian Church\
-  \  (March 12, 1964\u2013 )\n600 E. Columbia Drive\nPastors: Herbert Butt, 1964\u2013\
-  65\nRobert Newsom, 1966\u201372\nArthur Ames, 1973\u201376\nJohn Mahaffy, 1977\u2013"
+raw_data: 'OR
+
+  Newberg
+
+  Trinity Presbyterian Church of the Orthodox Presbyterian Church  (March 12, 1964-
+  )
+
+  600 E. Columbia Drive
+
+  Pastors: Herbert Butt, 1964-65
+
+  Robert Newsom, 1966-72
+
+  Arthur Ames, 1973-76
+
+  John Mahaffy, 1977-
+
+  '
 received_from: null
 states:
 - OR

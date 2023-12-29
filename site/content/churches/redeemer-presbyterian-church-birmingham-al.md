@@ -46,12 +46,28 @@ names:
   name: Redeemer Presbyterian Church, OPC
   start: 2002-09-06
 origination_date: *id001
-raw_data: "ALABAMA Birmingham\nRedeemer Presbyterian Chapel, Orthodox Presbyterian\
-  \ Church (Oct. 22, 1999\u2013September 6, 2002)\nRedeemer Presbyterian Church, OPC\
-  \ (September 6, 2002\u2013 )\n2122 Columbiana Road\nEvangelist: Carl Russell, 1999\u2013\
-  2001\nOrg. Pastor: Joseph Puglia, 2001\u20132\nPastors: Joseph Puglia, 2002\u2013\
-  4\nMark Soud, 2015\u2013\nTeacher: Jerry Crick, 2008\u201312\nSupply: Carl Russell,\
-  \ 2004\u201311"
+raw_data: 'ALABAMA Birmingham
+
+  Redeemer Presbyterian Chapel, Orthodox Presbyterian Church (Oct. 22, 1999-September
+  6, 2002)
+
+  Redeemer Presbyterian Church, OPC (September 6, 2002- )
+
+  2122 Columbiana Road
+
+  Evangelist: Carl Russell, 1999-2001
+
+  Org. Pastor: Joseph Puglia, 2001-2
+
+  Pastors: Joseph Puglia, 2002-4
+
+  Mark Soud, 2015-
+
+  Teacher: Jerry Crick, 2008-12
+
+  Supply: Carl Russell, 2004-11
+
+  '
 received_from: null
 states:
 - AL

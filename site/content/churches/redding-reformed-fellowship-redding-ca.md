@@ -23,9 +23,17 @@ names:
   name: Redding Reformed Fellowship
   start: 2015-05-15
 origination_date: *id001
-raw_data: "AR Redding\nRedding Reformed Fellowship (May 15, 2015\u2013 )\n(was Trinity\
-  \ Presbyterian mission work, Shasta Lake, 2001\u20132010)\nOrg. Pastor: Gene L.\
-  \ Crow, 2008\u201315\nPastor: Gene. L. Crow, 2015\u2013"
+raw_data: 'AR Redding
+
+  Redding Reformed Fellowship (May 15, 2015- )
+
+  (was Trinity Presbyterian mission work, Shasta Lake, 2001-2010)
+
+  Org. Pastor: Gene L. Crow, 2008-15
+
+  Pastor: Gene. L. Crow, 2015-
+
+  '
 received_from: null
 states:
 - CA

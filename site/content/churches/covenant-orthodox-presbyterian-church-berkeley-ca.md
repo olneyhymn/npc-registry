@@ -33,9 +33,23 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1936-10-21
 origination_date: *id001
-raw_data: "California\nBerkeley\nCovenant Orthodox Presbyterian Church  (October 21,\
-  \ 1936\u2013 )\n1623 University Avenue\nPastors: Robert Churchill, 1937\u201348\n\
-  Robert Graham, 1949\u201355\nRichard Lewis, 1957\u20132001\nWayne Forkner, 2001\u2013"
+raw_data: 'California
+
+  Berkeley
+
+  Covenant Orthodox Presbyterian Church  (October 21, 1936- )
+
+  1623 University Avenue
+
+  Pastors: Robert Churchill, 1937-48
+
+  Robert Graham, 1949-55
+
+  Richard Lewis, 1957-2001
+
+  Wayne Forkner, 2001-
+
+  '
 received_from: null
 states:
 - CA

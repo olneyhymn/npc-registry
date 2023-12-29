@@ -25,10 +25,24 @@ ministers:
 name: Reformation Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "WEST VIRGINIA\nMorgantown\n\nReformation Orthodox Presbyterian Church \
-  \ (November 10, 1985\u2013 )\n450 Arch Street\nPastors: Lawrence Semel, 1985\u2013\
-  2010\nJonathan Hutchison, 2011\u2013\nAssoc. Pastors: Robert Broline, 1998\u2013\
-  2000\nJonathan Hutchison, 2010\u201311"
+raw_data: 'WEST VIRGINIA
+
+  Morgantown
+
+
+  Reformation Orthodox Presbyterian Church  (November 10, 1985- )
+
+  450 Arch Street
+
+  Pastors: Lawrence Semel, 1985-2010
+
+  Jonathan Hutchison, 2011-
+
+  Assoc. Pastors: Robert Broline, 1998-2000
+
+  Jonathan Hutchison, 2010-11
+
+  '
 received_from: null
 states:
 - WV

@@ -23,8 +23,19 @@ names:
   name: High Plains Orthodox Presbyterian Church
   start: 2008-05-15
 origination_date: *id001
-raw_data: "AR\nCalhan\nHigh Plains Orthodox Presbyterian Church  (May 15, 2008\u2013\
-  \ )\n657 7th Street\nPastors: Scott Seder, 2008\u201311\nDavid A. Bosch, 2012\u2013"
+raw_data: 'AR
+
+  Calhan
+
+  High Plains Orthodox Presbyterian Church  (May 15, 2008- )
+
+  657 7th Street
+
+  Pastors: Scott Seder, 2008-11
+
+  David A. Bosch, 2012-
+
+  '
 received_from: null
 states:
 - CO

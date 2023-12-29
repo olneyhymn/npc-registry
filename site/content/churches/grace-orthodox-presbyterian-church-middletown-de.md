@@ -46,10 +46,26 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 1938-02-02
 origination_date: *id001
-raw_data: "DE    Middletown\n\nGrace Orthodox Presbyterian Church  (February 2, 1938\u2013\
-  \ )\n13 Pennington Street\nPastors: Robert Graham, 1938\u201343\nLeRoy Oliver, 1943\u2013\
-  47\nWilliam Goodrow, 1949\u201351\nF. Clarke Evans, 1954\u201374\nNeil Lodge, 1975\u2013\
-  81\nRobert Harting, 1982\u2013"
+raw_data: 'DE    Middletown
+
+
+  Grace Orthodox Presbyterian Church  (February 2, 1938- )
+
+  13 Pennington Street
+
+  Pastors: Robert Graham, 1938-43
+
+  LeRoy Oliver, 1943-47
+
+  William Goodrow, 1949-51
+
+  F. Clarke Evans, 1954-74
+
+  Neil Lodge, 1975-81
+
+  Robert Harting, 1982-
+
+  '
 received_from: null
 states:
 - DE

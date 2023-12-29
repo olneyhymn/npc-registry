@@ -26,10 +26,22 @@ names:
   name: Reformation Orthodox Presbyterian Church
   start: 2008-05-23
 origination_date: *id001
-raw_data: "WA\nOlympia\n\nReformation Orthodox Presbyterian Chapel  (April 23, 2004\u2013\
-  May 23, 2008)\nReformation Orthodox Presbyterian Church  (May 23, 2008\u2013 )\n\
-  Hansen Elementary School, 1919 Road 65 NW\nOrg. Pastor: Brett McNeill, 2005\u2013\
-  8\nPastor: Brett McNeill, 2008\u2013"
+raw_data: 'WA
+
+  Olympia
+
+
+  Reformation Orthodox Presbyterian Chapel  (April 23, 2004-May 23, 2008)
+
+  Reformation Orthodox Presbyterian Church  (May 23, 2008- )
+
+  Hansen Elementary School, 1919 Road 65 NW
+
+  Org. Pastor: Brett McNeill, 2005-8
+
+  Pastor: Brett McNeill, 2008-
+
+  '
 received_from: null
 states:
 - WA

@@ -46,12 +46,30 @@ names:
   name: Cedar Presbyterian Church
   start: 2005-11-04
 origination_date: *id001
-raw_data: "MI\nHudsonville\n\nCedar Presbyterian Mission, Orthodox Presbyterian  (2002\u2013\
-  \ November 4, 2005)\nCedar Presbyterian Church, Orthodox Presbyterian  (November\
-  \ 4, 2005\u2013 )\nHudsonville Christian Elementary School, 3435 Oak Street\nOrg.\
-  \ Pastor: Stephen Igo, 2002\u20135\nPastor: Stephen Igo, 2005\u2013\nAssoc. Pastors:\
-  \ Michael Knierim, 2005\u2013\nChristopher Post, 2009\u201310\nLarry Johnson, 2014\u2013\
-  \nEvangelist:  Christopher Post, 2015\u201316"
+raw_data: 'MI
+
+  Hudsonville
+
+
+  Cedar Presbyterian Mission, Orthodox Presbyterian  (2002- November 4, 2005)
+
+  Cedar Presbyterian Church, Orthodox Presbyterian  (November 4, 2005- )
+
+  Hudsonville Christian Elementary School, 3435 Oak Street
+
+  Org. Pastor: Stephen Igo, 2002-5
+
+  Pastor: Stephen Igo, 2005-
+
+  Assoc. Pastors: Michael Knierim, 2005-
+
+  Christopher Post, 2009-10
+
+  Larry Johnson, 2014-
+
+  Evangelist:  Christopher Post, 2015-16
+
+  '
 received_from: null
 states:
 - MI

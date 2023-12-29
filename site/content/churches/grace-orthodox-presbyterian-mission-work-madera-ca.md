@@ -15,8 +15,16 @@ ministers:
 name: Grace Orthodox Presbyterian mission work
 names: null
 origination_date: *id001
-raw_data: "AR Madera\n\nGrace Orthodox Presbyterian mission work (September 2014\u2013\
-  \ )\nMadera United Methodist Church, 500 Sunset Avenue\nPastor: Terry Thole, 2014\u2013"
+raw_data: 'AR Madera
+
+
+  Grace Orthodox Presbyterian mission work (September 2014- )
+
+  Madera United Methodist Church, 500 Sunset Avenue
+
+  Pastor: Terry Thole, 2014-
+
+  '
 received_from: null
 states:
 - CA

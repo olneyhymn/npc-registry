@@ -23,9 +23,19 @@ names:
   name: Apple Valley Orthodox Presbyterian Church
   start: 1993-03-11
 origination_date: *id001
-raw_data: "WI\nAppleton\nApple Valley Orthodox Presbyterian Church  (March 11, 1993\u2013\
-  \ )\n1750 Olde Buggy Drive, Neenah\nPastors: William Acker, 1993\u20132009\nJohn\
-  \ Hartley, 2010\u2013"
+raw_data: 'WI
+
+  Appleton
+
+  Apple Valley Orthodox Presbyterian Church  (March 11, 1993- )
+
+  1750 Olde Buggy Drive, Neenah
+
+  Pastors: William Acker, 1993-2009
+
+  John Hartley, 2010-
+
+  '
 received_from: null
 states:
 - WI

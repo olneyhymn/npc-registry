@@ -26,10 +26,22 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 2004-03-12
 origination_date: *id001
-raw_data: "WA\nMount Vernon\n\nGrace Orthodox Presbyterian Chapel  (September 25,\
-  \ 1999\u2013March 12, 2004)\nGrace Orthodox Presbyterian Church  (March 12, 2004\u2013\
-  April 25, 2014)\n(withdrew to the PCA, April 25, 2014)\nOrg. Pastor: David Klein,\
-  \ 2000\u20132004\nPastor: David Klein, 2004\u201314"
+raw_data: 'WA
+
+  Mount Vernon
+
+
+  Grace Orthodox Presbyterian Chapel  (September 25, 1999-March 12, 2004)
+
+  Grace Orthodox Presbyterian Church  (March 12, 2004-April 25, 2014)
+
+  (withdrew to the PCA, April 25, 2014)
+
+  Org. Pastor: David Klein, 2000-2004
+
+  Pastor: David Klein, 2004-14
+
+  '
 received_from: null
 states:
 - WA

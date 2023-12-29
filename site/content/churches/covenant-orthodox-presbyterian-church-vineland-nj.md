@@ -53,11 +53,30 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1936-09-17
 origination_date: *id001
-raw_data: "NEW JERSEY Vineland\n\nCovenant Orthodox Presbyterian Church  (September\
-  \ 17, 1936\u2013 )\n1029 East Landis Avenue\nPastors: Alexander Davison, 1936\u2013\
-  41\nEverett DeVelde, 1942\u201366\nRobert W. Eckardt, 1966\u201378\nCraig Rowe,\
-  \ 1979\u201382\nLaurence Vail, 1984\u201389\nJames Reber, 1991\u201397\nJohn McGowan,\
-  \ 1999\u20132012\nTeacher: Frederick Reber, 1995\u201397"
+raw_data: 'NEW JERSEY Vineland
+
+
+  Covenant Orthodox Presbyterian Church  (September 17, 1936- )
+
+  1029 East Landis Avenue
+
+  Pastors: Alexander Davison, 1936-41
+
+  Everett DeVelde, 1942-66
+
+  Robert W. Eckardt, 1966-78
+
+  Craig Rowe, 1979-82
+
+  Laurence Vail, 1984-89
+
+  James Reber, 1991-97
+
+  John McGowan, 1999-2012
+
+  Teacher: Frederick Reber, 1995-97
+
+  '
 received_from: null
 states:
 - NJ

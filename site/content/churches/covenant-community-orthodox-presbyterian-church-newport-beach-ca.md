@@ -28,9 +28,18 @@ names:
   name: Covenant Community Orthodox Presbyterian Church
   start: 1988-03-06
 origination_date: *id001
-raw_data: "AR    Newport Beach\n\nCovenant Community Orthodox Presbyterian Church\
-  \  (Mar. 6, 1988\u2013Feb. 4, 1995)\nCo\u2013Pastors: L. Anthony Curto, 1988\u2013\
-  92\nGregory Bahnsen, 1988\u201392\nPastor: L. Anthony Curto, 1992\u201394"
+raw_data: 'AR    Newport Beach
+
+
+  Covenant Community Orthodox Presbyterian Church  (Mar. 6, 1988-Feb. 4, 1995)
+
+  Co-Pastors: L. Anthony Curto, 1988-92
+
+  Gregory Bahnsen, 1988-92
+
+  Pastor: L. Anthony Curto, 1992-94
+
+  '
 received_from: null
 states:
 - CA

@@ -28,9 +28,9 @@ names:
   name: Orthodox Presbyterian Church of Abilene
   start: 1970-09-07
 origination_date: *id001
-raw_data: "TX  Abilene\nOrthodox Presbyterian Church of Abilene  (September 7, 1970\u2013\
-  \ )\n2742 Buffalo Gap Road\nPastors: Jonathan Male, 1971\u201381\nNeil Lodge, 1981\u2013\
-  98\nRobert Lotzer, 2000\u2013"
+raw_data: "TX\tAbilene\nOrthodox Presbyterian Church of Abilene  (September 7, 1970-\
+  \ )\n2742 Buffalo Gap Road\nPastors: Jonathan Male, 1971-81\nNeil Lodge, 1981-98\n\
+  Robert Lotzer, 2000-\n"
 received_from: null
 states:
 - TX

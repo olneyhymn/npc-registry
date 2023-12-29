@@ -63,11 +63,33 @@ names:
   name: Calvary Presbyterian Church, OPC
   start: 1936-10-28
 origination_date: *id001
-raw_data: "SD Volga\nCalvary Presbyterian Church, OPC  (October 28, 1936\u2013 )\n\
-  309 Astrachan Avenue\nPastors: Charles Shook, 1936\u201344\nLlouis Knowles, 1945\u2013\
-  47\nArthur Olson, 1947\u201351\nBruce Coie, 1951\u201358\nLionel Brown, 1958\u2013\
-  72\nArthur Olson, 1973\u201380\nDonald Ritsman, 1980\u201391\nJoseph Auksela, 1992\u2013\
-  99\nChristopher Accardy, 2000\u20132003\nSteven Richert, 2008\u2013"
+raw_data: 'SD Volga
+
+  Calvary Presbyterian Church, OPC  (October 28, 1936- )
+
+  309 Astrachan Avenue
+
+  Pastors: Charles Shook, 1936-44
+
+  Llouis Knowles, 1945-47
+
+  Arthur Olson, 1947-51
+
+  Bruce Coie, 1951-58
+
+  Lionel Brown, 1958-72
+
+  Arthur Olson, 1973-80
+
+  Donald Ritsman, 1980-91
+
+  Joseph Auksela, 1992-99
+
+  Christopher Accardy, 2000-2003
+
+  Steven Richert, 2008-
+
+  '
 received_from: null
 states:
 - SD

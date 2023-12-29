@@ -13,8 +13,13 @@ names:
   name: Church of the Redeemer OPC
   start: 1985-09-21
 origination_date: *id001
-raw_data: "AR\nPlacerville\nChurch of the Redeemer OPC (September 21, 1985\u2013April\
-  \ 4, 1989)"
+raw_data: 'AR
+
+  Placerville
+
+  Church of the Redeemer OPC (September 21, 1985-April 4, 1989)
+
+  '
 received_from: null
 states:
 - CA

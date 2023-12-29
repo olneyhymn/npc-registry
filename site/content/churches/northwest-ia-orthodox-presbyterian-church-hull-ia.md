@@ -15,8 +15,8 @@ ministers:
 name: Northwest IA Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "IA  Hull\nNorthwest IA Orthodox Presbyterian Church  (November 22, 1993\u2013\
-  March 21, 1995)\nSupply: G. I. Williamson, 1993\u201395"
+raw_data: "IA\tHull\nNorthwest IA Orthodox Presbyterian Church  (November 22, 1993-March\
+  \ 21, 1995)\nSupply: G. I. Williamson, 1993-95\n"
 received_from: null
 states:
 - IA

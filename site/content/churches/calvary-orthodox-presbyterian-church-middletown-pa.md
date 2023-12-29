@@ -63,11 +63,34 @@ names:
   name: Calvary Orthodox Presbyterian Church
   start: 1936-06-24
 origination_date: *id001
-raw_data: "PA Middletown\n\nCalvary Orthodox Presbyterian Church  (June 24, 1936\u2013\
-  \ )\n10 Spruce Street\nPastors: Robert Marsden, 1936\u201339\nEdward Kellog, 1940\u2013\
-  46\nRobert Atwell, 1946\u201352\nRobley Johnston, 1952\u201355\nRobert Graham, 1956\u2013\
-  61\nGeorge Hall, 1962\u201372\nAbe Ediger, 1972\u201382\nAlbert Steever, 1983\u2013\
-  93\nArthur Fox, 1994\u2013\nAsst. Pastor: James Day, 1988\u201393"
+raw_data: 'PA Middletown
+
+
+  Calvary Orthodox Presbyterian Church  (June 24, 1936- )
+
+  10 Spruce Street
+
+  Pastors: Robert Marsden, 1936-39
+
+  Edward Kellog, 1940-46
+
+  Robert Atwell, 1946-52
+
+  Robley Johnston, 1952-55
+
+  Robert Graham, 1956-61
+
+  George Hall, 1962-72
+
+  Abe Ediger, 1972-82
+
+  Albert Steever, 1983-93
+
+  Arthur Fox, 1994-
+
+  Asst. Pastor: James Day, 1988-93
+
+  '
 received_from: null
 states:
 - PA

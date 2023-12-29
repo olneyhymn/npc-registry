@@ -18,9 +18,9 @@ names:
   name: New Life Orthodox Presbyterian Church
   start: 2004-04-14
 origination_date: *id001
-raw_data: "NY  Canton\nNew Life Orthodox Presbyterian Church  (April 14, 2004\u2013\
-  April 28, 2009)\n(removed from the roll of the OPC by the Presbytery at its request,\
-  \ April 28, 2009)\nPastor: Laurence Veinott, 2004\u20139"
+raw_data: "NY\tCanton\nNew Life Orthodox Presbyterian Church  (April 14, 2004-April\
+  \ 28, 2009)\n(removed from the roll of the OPC by the Presbytery at its request,\
+  \ April 28, 2009)\nPastor: Laurence Veinott, 2004-9\n"
 received_from: null
 states:
 - NY

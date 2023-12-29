@@ -21,9 +21,20 @@ names:
   name: Christ the King Orthodox Presbyterian Church
   start: 2006-06-09
 origination_date: *id001
-raw_data: "TX\nLongview\n\nChrist the King Orthodox Presbyterian Chapel  (2003\u2013\
-  June 9, 2006)\nChrist the King Orthodox Presbyterian Church  (June 9, 2006\u2013\
-  \ )\n5648 Highway 300 (Gilmore Road)\nPastor: Phillip Hodson, 2007\u2013"
+raw_data: 'TX
+
+  Longview
+
+
+  Christ the King Orthodox Presbyterian Chapel  (2003-June 9, 2006)
+
+  Christ the King Orthodox Presbyterian Church  (June 9, 2006- )
+
+  5648 Highway 300 (Gilmore Road)
+
+  Pastor: Phillip Hodson, 2007-
+
+  '
 received_from: null
 states:
 - TX

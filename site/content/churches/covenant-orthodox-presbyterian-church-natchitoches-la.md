@@ -23,10 +23,9 @@ names:
   name: Covenant Orthodox Presbyterian Chapel
   start: 2003-05-17
 origination_date: *id001
-raw_data: "LA  Natchitoches\nCovenant Orthodox Presbyterian Chapel  (May 17, 2003\u2013\
-  November 7, 2008)\nCovenant Orthodox Presbyterian Church  (November 7, 2008\u2013\
-  \ )\n100 Jefferson Street\nOrg. Pastor: Mark Winder, 2003\u20134\nPastor: Warren\
-  \ Bennett, 2008\u2013"
+raw_data: "LA\tNatchitoches\nCovenant Orthodox Presbyterian Chapel  (May 17, 2003-November\
+  \ 7, 2008)\nCovenant Orthodox Presbyterian Church  (November 7, 2008- )\n100 Jefferson\
+  \ Street\nOrg. Pastor: Mark Winder, 2003-4\nPastor: Warren Bennett, 2008-\n"
 received_from: null
 states:
 - LA

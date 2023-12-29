@@ -15,9 +15,17 @@ ministers:
 name: Pioneer Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "NEBRASKA\nLincoln\nPioneer Orthodox Presbyterian Church  (May 5, 1963\u2013\
-  February 13, 1969)\n(merged with Faith Orthodox Presbyterian Church, 1969)\nPastor:\
-  \ Russell Piper, 1963\u201369"
+raw_data: 'NEBRASKA
+
+  Lincoln
+
+  Pioneer Orthodox Presbyterian Church  (May 5, 1963-February 13, 1969)
+
+  (merged with Faith Orthodox Presbyterian Church, 1969)
+
+  Pastor: Russell Piper, 1963-69
+
+  '
 received_from: null
 states:
 - NE

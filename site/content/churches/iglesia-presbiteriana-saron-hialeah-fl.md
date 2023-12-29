@@ -23,9 +23,17 @@ names:
   name: Iglesia Presbiteriana Saron
   start: 1979-01-24
 origination_date: *id001
-raw_data: "FLORIDA Hialeah\nIglesia Presbiteriana Saron (January 24, 1979\u2013June\
-  \ 1, 1993)\n(later Iglesia Presbiteriana Internacional)\nPastors: Jose Vera, 1985\u2013\
-  90\nDiego Gomez (Supply), 1990"
+raw_data: 'FLORIDA Hialeah
+
+  Iglesia Presbiteriana Saron (January 24, 1979-June 1, 1993)
+
+  (later Iglesia Presbiteriana Internacional)
+
+  Pastors: Jose Vera, 1985-90
+
+  Diego Gomez (Supply), 1990
+
+  '
 received_from: null
 states:
 - FL

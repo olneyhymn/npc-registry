@@ -20,8 +20,17 @@ ministers:
 name: Pioneer Orthodox Presbyterian Community Chapel
 names: null
 origination_date: *id001
-raw_data: "WA\nGlenwood\nPioneer Orthodox Presbyterian Community Chapel  (1974\u2013\
-  1979)\nEvangelists: John Davies, 1974\u201377\nWilliam Fredericks, 1978\u201379"
+raw_data: 'WA
+
+  Glenwood
+
+  Pioneer Orthodox Presbyterian Community Chapel  (1974-1979)
+
+  Evangelists: John Davies, 1974-77
+
+  William Fredericks, 1978-79
+
+  '
 received_from: null
 states:
 - WA

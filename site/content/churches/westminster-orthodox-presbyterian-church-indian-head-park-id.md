@@ -53,11 +53,29 @@ names:
   name: Westminster Orthodox Presbyterian Church
   start: 1951-04-15
 origination_date: *id001
-raw_data: "IDAHO Indian Head Park\nWestminster Orthodox Presbyterian Church (April\
-  \ 15, 1951\u2013 )\n6871 Joliet Road\nPastors: Lawrence Eyres, 1951\u201358\nGlenn\
-  \ Black, 1958\u201363\nW. Harllee Bordeaux, 1963\u201366\nIvan DeMaster, 1966\u2013\
-  85\nWilliam Rudolph, 1986\u201397\nBradford Freeman, 1998\u201399\nCharles Telfer,\
-  \ 2002\u201311\nRobert E. Tarullo, 2012\u2013"
+raw_data: 'IDAHO Indian Head Park
+
+  Westminster Orthodox Presbyterian Church (April 15, 1951- )
+
+  6871 Joliet Road
+
+  Pastors: Lawrence Eyres, 1951-58
+
+  Glenn Black, 1958-63
+
+  W. Harllee Bordeaux, 1963-66
+
+  Ivan DeMaster, 1966-85
+
+  William Rudolph, 1986-97
+
+  Bradford Freeman, 1998-99
+
+  Charles Telfer, 2002-11
+
+  Robert E. Tarullo, 2012-
+
+  '
 received_from: null
 states:
 - ID

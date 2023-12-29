@@ -68,12 +68,37 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 1938-12-06
 origination_date: *id001
-raw_data: "NEW JERSEY\nHamilton Township\nGrace Orthodox Presbyterian Church  (December\
-  \ 6, 1938\u2013 )\n416 White Horse Avenue\nPastors: Leslie Dunn, 1939\u201340\n\
-  Lawrence Gilmore, 1941\u201343\nH. Wilson Albright, 1943\u201348\nTheodore Georgian,\
-  \ 1949\u201358\nDonald Parker, 1961\u201366\nWilliam Rankin, 1966\nGordon Mouw,\
-  \ 1968\u201370\nDouglas Kittredge, 1971\u201375\nGeorge Kirkwood, 1976\nRichard\
-  \ Nelson, 1978\u20132009\nTravis Yonkman 2011"
+raw_data: 'NEW JERSEY
+
+  Hamilton Township
+
+  Grace Orthodox Presbyterian Church  (December 6, 1938- )
+
+  416 White Horse Avenue
+
+  Pastors: Leslie Dunn, 1939-40
+
+  Lawrence Gilmore, 1941-43
+
+  H. Wilson Albright, 1943-48
+
+  Theodore Georgian, 1949-58
+
+  Donald Parker, 1961-66
+
+  William Rankin, 1966
+
+  Gordon Mouw, 1968-70
+
+  Douglas Kittredge, 1971-75
+
+  George Kirkwood, 1976
+
+  Richard Nelson, 1978-2009
+
+  Travis Yonkman 2011
+
+  '
 received_from: null
 states:
 - NJ

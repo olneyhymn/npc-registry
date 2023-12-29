@@ -18,8 +18,15 @@ names:
   name: Bethany Presbyterian Church of America
   start: 1937-02-03
 origination_date: *id001
-raw_data: "AR\nGlendale\nBethany Presbyterian Church of America  (February 3, 1937\u2013\
-  July 19, 1937)\nPastor: E. Lynne Wade, 1937"
+raw_data: 'AR
+
+  Glendale
+
+  Bethany Presbyterian Church of America  (February 3, 1937-July 19, 1937)
+
+  Pastor: E. Lynne Wade, 1937
+
+  '
 received_from: null
 states:
 - CA

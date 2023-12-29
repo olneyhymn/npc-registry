@@ -26,10 +26,20 @@ names:
   name: Mount Rose Reformed Orthodox Presbyterian Church
   start: 2007-11-10
 origination_date: *id001
-raw_data: "NV    Sparks\n\nMount Rose Reformed Orthodox Presbyterian Chapel  (2005\u2013\
-  November 10, 2007)\nMount Rose Reformed Orthodox Presbyterian Church (November 10,\
-  \ 2007\u2013 )\n155 Glendale Ave, Ste. 14\nOrg. Pastor: Andrew Preston, 2005\u2013\
-  7\nPastor: Andrew Preston, 2007\u2013"
+raw_data: 'NV    Sparks
+
+
+  Mount Rose Reformed Orthodox Presbyterian Chapel  (2005-November 10, 2007)
+
+  Mount Rose Reformed Orthodox Presbyterian Church (November 10, 2007- )
+
+  155 Glendale Ave, Ste. 14
+
+  Org. Pastor: Andrew Preston, 2005-7
+
+  Pastor: Andrew Preston, 2007-
+
+  '
 received_from: null
 states:
 - NV

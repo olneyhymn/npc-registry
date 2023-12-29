@@ -30,10 +30,21 @@ ministers:
 name: Redeemer Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "OH    Dayton\nRedeemer Orthodox Presbyterian Church (April 19, 1971\u2013\
-  \ )\n22 South Fairfield Road\nPastors: Lawrence Eyres, 1971\u201382\nMichael Frangipane,\
-  \ 1983\u20132005\nRobert Y . Eckardt, 2005\u2013\nAssoc. Pastor: Ken Montgomery,\
-  \ 2009\u2013"
+raw_data: 'OH    Dayton
+
+  Redeemer Orthodox Presbyterian Church (April 19, 1971- )
+
+  22 South Fairfield Road
+
+  Pastors: Lawrence Eyres, 1971-82
+
+  Michael Frangipane, 1983-2005
+
+  Robert Y . Eckardt, 2005-
+
+  Assoc. Pastor: Ken Montgomery, 2009-
+
+  '
 received_from: null
 states:
 - OH

@@ -10,7 +10,7 @@ ministers: []
 name: Presbyterian and Reformed Fellowship
 names: null
 origination_date: *id001
-raw_data: "ID Rantoul Presbyterian and Reformed Fellowship (1978\u2013 March 7, 1982)"
+raw_data: ID Rantoul Presbyterian and Reformed Fellowship (1978- March 7, 1982)
 received_from: null
 states:
 - ID

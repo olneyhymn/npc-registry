@@ -15,8 +15,15 @@ ministers:
 name: Living Hope Community Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "MI\nIonia\nLiving Hope Community Orthodox Presbyterian Chapel  (Sept. 17,\
-  \ 1993\u2013Mar. 31, 1998)\nOrg. Pastor: Terry Thole, 1994\u201398"
+raw_data: 'MI
+
+  Ionia
+
+  Living Hope Community Orthodox Presbyterian Chapel  (Sept. 17, 1993-Mar. 31, 1998)
+
+  Org. Pastor: Terry Thole, 1994-98
+
+  '
 received_from: null
 states:
 - MI

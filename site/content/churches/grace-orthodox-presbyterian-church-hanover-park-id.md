@@ -53,11 +53,11 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 1968-09-13
 origination_date: *id001
-raw_data: "ID  Hanover Park\nGrace Orthodox Presbyterian Church  (September 13, 1968\u2013\
-  \ )\n1510 Greenbrook Boulevard\nPastors: James Bosgraf, 1968\u201373\nDavid Cummings,\
-  \ 1975\u201386\nDouglas Clawson, 1987\u20132002\nMatthew Cotta, 2003\u2013\nAsst.\
-  \ Pastor:  David VanDrunen, 1999\u20132001\nEvangelists: Eric Bristley, 2001\u2013\
-  4\nC. Mark Jenkins, 2005\u201311\nTeacher: Dennis Disselkoen, 1998\u2013"
+raw_data: "ID\tHanover Park\nGrace Orthodox Presbyterian Church  (September 13, 1968-\
+  \ )\n1510 Greenbrook Boulevard\nPastors: James Bosgraf, 1968-73\nDavid Cummings,\
+  \ 1975-86\nDouglas Clawson, 1987-2002\nMatthew Cotta, 2003-\nAsst. Pastor:  David\
+  \ VanDrunen, 1999-2001\nEvangelists: Eric Bristley, 2001-4\nC. Mark Jenkins, 2005-11\n\
+  Teacher: Dennis Disselkoen, 1998-\n"
 received_from: null
 states:
 - ID

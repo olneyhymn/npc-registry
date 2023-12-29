@@ -35,10 +35,19 @@ ministers:
 name: Good Shepherd Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "Good Shepherd Orthodox Presbyterian Church  (March 13, 1966\u2013March\
-  \ 31, 1991)\nPastors: Rollin Keller, 1966\u201367\nGeorge Cottenden, 1967\u2013\
-  77\nDouglas Rogers, 1978\u201384\nCharles Robbins, 1986\u201389\nA. Culver Gordon\
-  \ (Supply), 1989\u201391"
+raw_data: 'Good Shepherd Orthodox Presbyterian Church  (March 13, 1966-March 31, 1991)
+
+  Pastors: Rollin Keller, 1966-67
+
+  George Cottenden, 1967-77
+
+  Douglas Rogers, 1978-84
+
+  Charles Robbins, 1986-89
+
+  A. Culver Gordon (Supply), 1989-91
+
+  '
 received_from: null
 states:
 - NJ

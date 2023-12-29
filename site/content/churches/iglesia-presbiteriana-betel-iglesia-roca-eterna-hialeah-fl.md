@@ -10,8 +10,8 @@ ministers: []
 name: Iglesia Presbiteriana Betel/Iglesia Roca Eterna
 names: null
 origination_date: *id001
-raw_data: "FLORIDA  Hialeah\nIglesia Presbiteriana Betel/Iglesia Roca Eterna  (1994\u2013\
-  1996)\n(reconstitution of Iglesia Presbiteriana Saron)"
+raw_data: "FLORIDA\tHialeah\nIglesia Presbiteriana Betel/Iglesia Roca Eterna  (1994-1996)\n\
+  (reconstitution of Iglesia Presbiteriana Saron)\n"
 received_from: null
 states:
 - FL

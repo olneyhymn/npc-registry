@@ -18,8 +18,15 @@ names:
   name: Fountain Valley Orthodox Presbyterian Church
   start: 1967-02-09
 origination_date: *id001
-raw_data: "AR\nFountain Valley\nFountain Valley Orthodox Presbyterian Church  (February\
-  \ 9, 1967\u2013January 3, 1968)\nPastor: Stanley Allen, 1967\u201368"
+raw_data: 'AR
+
+  Fountain Valley
+
+  Fountain Valley Orthodox Presbyterian Church  (February 9, 1967-January 3, 1968)
+
+  Pastor: Stanley Allen, 1967-68
+
+  '
 received_from: null
 states:
 - CA

@@ -58,11 +58,31 @@ names:
   name: Faith Orthodox Presbyterian Church
   start: 1938-07-22
 origination_date: *id001
-raw_data: "NEBRASKA Lincoln\nFaith Orthodox Presbyterian Church  (July 22, 1938\u2013\
-  \ )\n5640 Salt Valley View\nPastors:  Thomas Cooper, 1938\u201341\nJames Brown,\
-  \ 1941\u201344\nDelbert Schowalter, 1945\u201346\nHerbert Bird, 1948\u201352\nV\
-  \ . Robert Nilson, 1953\u201356\nRussell Piper, 1957\u201374\nRichard Miller, 1975\u2013\
-  78\nStephen Doe, 1984\u201392\nLeRoy Miller, 1993\u2013"
+raw_data: 'NEBRASKA Lincoln
+
+  Faith Orthodox Presbyterian Church  (July 22, 1938- )
+
+  5640 Salt Valley View
+
+  Pastors:  Thomas Cooper, 1938-41
+
+  James Brown, 1941-44
+
+  Delbert Schowalter, 1945-46
+
+  Herbert Bird, 1948-52
+
+  V . Robert Nilson, 1953-56
+
+  Russell Piper, 1957-74
+
+  Richard Miller, 1975-78
+
+  Stephen Doe, 1984-92
+
+  LeRoy Miller, 1993-
+
+  '
 received_from: null
 states:
 - NE

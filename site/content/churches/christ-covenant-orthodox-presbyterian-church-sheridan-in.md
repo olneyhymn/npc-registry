@@ -23,9 +23,19 @@ names:
   name: Christ Covenant Orthodox Presbyterian Church
   start: 2004-05-21
 origination_date: *id001
-raw_data: "IN Sheridan\nChrist Covenant Orthodox Presbyterian Church  (May 21, 2004\u2013\
-  \ )\n(formerly independent)\n6070 N. 900 East\nPastor: Mark Melton, 2004\u2013\n\
-  Assoc. Pastor: Timothy Baker, 2005\u201310"
+raw_data: 'IN Sheridan
+
+  Christ Covenant Orthodox Presbyterian Church  (May 21, 2004- )
+
+  (formerly independent)
+
+  6070 N. 900 East
+
+  Pastor: Mark Melton, 2004-
+
+  Assoc. Pastor: Timothy Baker, 2005-10
+
+  '
 received_from:
 - Independency
 states:

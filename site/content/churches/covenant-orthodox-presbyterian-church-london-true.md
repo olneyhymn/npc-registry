@@ -31,10 +31,22 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 2002-02-15
 origination_date: *id001
-raw_data: "ON London\nCovenant Community Orthodox Presbyterian Chapel  (September\
-  \ 12, 1997\u2013February 15, 2002)\nCovenant Orthodox Presbyterian Church (February\
-  \ 15, 2002\u2013 )\n10246 Glendon Drive\nEvangelist: John Ferguson, 2000\u20132002\n\
-  Pastor: John Ferguson, 2002\u2013\nAssoc. Pastor: K. Dale Collison, 2012\u201315"
+raw_data: 'ON London
+
+  Covenant Community Orthodox Presbyterian Chapel  (September 12, 1997-February 15,
+  2002)
+
+  Covenant Orthodox Presbyterian Church (February 15, 2002- )
+
+  10246 Glendon Drive
+
+  Evangelist: John Ferguson, 2000-2002
+
+  Pastor: John Ferguson, 2002-
+
+  Assoc. Pastor: K. Dale Collison, 2012-15
+
+  '
 received_from: null
 states:
 - 'True'

@@ -63,12 +63,36 @@ names:
   name: Immanuel Orthodox Presbyterian Church
   start: 1942-05-06
 origination_date: *id001
-raw_data: "NEW JERSEY\nWest Collingswood\n\nImmanuel Orthodox Presbyterian Church\
-  \  (May 6, 1942\u2013 )\n1221 Elm Avenue (at Calvert Avenue)\nPastors: William Strong,\
-  \ 1942\u201345\nEdward Kellogg, 1946\u201354\nCarl Reitsma, 1955\u201360\nGeorge\
-  \ Knight, 1961\u201365\nAllen Curry, 1967\u201370\nAlbert Steever, 1970\u201382\n\
-  Gordon Miller, 1984\u201385\nHoward Currie, 1988\u20132004\nGlen Clary, 2005\u2013\
-  12\nNeil J. Lodge, 2014\u2013"
+raw_data: 'NEW JERSEY
+
+  West Collingswood
+
+
+  Immanuel Orthodox Presbyterian Church  (May 6, 1942- )
+
+  1221 Elm Avenue (at Calvert Avenue)
+
+  Pastors: William Strong, 1942-45
+
+  Edward Kellogg, 1946-54
+
+  Carl Reitsma, 1955-60
+
+  George Knight, 1961-65
+
+  Allen Curry, 1967-70
+
+  Albert Steever, 1970-82
+
+  Gordon Miller, 1984-85
+
+  Howard Currie, 1988-2004
+
+  Glen Clary, 2005-12
+
+  Neil J. Lodge, 2014-
+
+  '
 received_from: null
 states:
 - NJ

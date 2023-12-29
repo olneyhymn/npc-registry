@@ -15,8 +15,13 @@ ministers:
 name: Trinity Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "KY Newport\nTrinity Orthodox Presbyterian Chapel  (October 27, 1936\u2013\
-  1952)\nPastor: J. Lyle Shaw, 1937\u201352"
+raw_data: 'KY Newport
+
+  Trinity Orthodox Presbyterian Chapel  (October 27, 1936-1952)
+
+  Pastor: J. Lyle Shaw, 1937-52
+
+  '
 received_from: null
 states:
 - KY

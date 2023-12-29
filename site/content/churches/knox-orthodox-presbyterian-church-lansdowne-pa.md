@@ -50,12 +50,32 @@ ministers:
 name: Knox Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "PA Lansdowne\n\nKnox Orthodox Presbyterian Church (June 13, 1936\u2013\
-  \ )\n(augmented by addition of Grace/New Covenant OPC, Philadelphia, 1950)\n311\
-  \ North Lansdowne Avenue\nPastors: John Thwing, 1936\u201339\nGeorge Marston, 1940\u2013\
-  43\nWilliam Welmers, 1943\u201346\nC. Alan Tichenor, 1946\u201348\nDavid Freeman,\
-  \ 1949\u201362\nKarl Hubenthal, 1976\u201390\nW. Scott Emery, 1991\u20132005\nJeffrey\
-  \ C. Waddington, 2012\u2013"
+raw_data: 'PA Lansdowne
+
+
+  Knox Orthodox Presbyterian Church (June 13, 1936- )
+
+  (augmented by addition of Grace/New Covenant OPC, Philadelphia, 1950)
+
+  311 North Lansdowne Avenue
+
+  Pastors: John Thwing, 1936-39
+
+  George Marston, 1940-43
+
+  William Welmers, 1943-46
+
+  C. Alan Tichenor, 1946-48
+
+  David Freeman, 1949-62
+
+  Karl Hubenthal, 1976-90
+
+  W. Scott Emery, 1991-2005
+
+  Jeffrey C. Waddington, 2012-
+
+  '
 received_from: null
 states:
 - PA

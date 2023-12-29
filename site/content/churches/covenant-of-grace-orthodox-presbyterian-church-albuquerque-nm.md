@@ -28,10 +28,21 @@ names:
   name: Covenant of Grace Orthodox Presbyterian Church
   start: 1984-10-12
 origination_date: *id001
-raw_data: "NM\nAlbuquerque\nCovenant of Grace Orthodox Presbyterian Church  (October\
-  \ 12, 1984\u2013 )\nMeeting at Sandia Prep, 532 Osuna Road, NE\nPastors: Christopher\
-  \ Wisdom, 1984\u201386\nJohn Hunt, 1991\u2013\nAssoc. Pastor:  Gary Davenport, 1993\u2013\
-  96"
+raw_data: 'NM
+
+  Albuquerque
+
+  Covenant of Grace Orthodox Presbyterian Church  (October 12, 1984- )
+
+  Meeting at Sandia Prep, 532 Osuna Road, NE
+
+  Pastors: Christopher Wisdom, 1984-86
+
+  John Hunt, 1991-
+
+  Assoc. Pastor:  Gary Davenport, 1993-96
+
+  '
 received_from: null
 states:
 - NM

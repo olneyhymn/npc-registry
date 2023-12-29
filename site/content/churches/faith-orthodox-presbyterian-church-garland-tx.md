@@ -26,10 +26,21 @@ names:
   name: Faith Orthodox Presbyterian Church
   start: 2004-07-09
 origination_date: *id001
-raw_data: "TX\nGarland\nOrthodox Presbyterian Chapel of Dallas Northeast  (August\
-  \ 22, 2003\u2013July 9, 2004)\nFaith Orthodox Presbyterian Church  (July 9, 2004\u2013\
-  \ )\n418 Cashmere Drive\nOrg. Pastor: Roger Gibbons, 2003\u20134\nPastor: Chad Bond,\
-  \ 2004\u2013"
+raw_data: 'TX
+
+  Garland
+
+  Orthodox Presbyterian Chapel of Dallas Northeast  (August 22, 2003-July 9, 2004)
+
+  Faith Orthodox Presbyterian Church  (July 9, 2004- )
+
+  418 Cashmere Drive
+
+  Org. Pastor: Roger Gibbons, 2003-4
+
+  Pastor: Chad Bond, 2004-
+
+  '
 received_from: null
 states:
 - TX

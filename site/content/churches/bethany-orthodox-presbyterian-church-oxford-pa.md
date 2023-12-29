@@ -55,12 +55,32 @@ ministers:
 name: Bethany Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "PA Oxford\n\nBethany Orthodox Presbyterian Church  (July 22, 1936\u2013\
-  June 22, 2014)\n(withdrew to the PCA, June 22, 2014)\nPastors: Peter DeRuiter, 1936\u2013\
-  43\nHenry Phillips, 1943\u201350\nRobert Vining, 1950\u201372\nJonathan Peters,\
-  \ 1974\u201382\nPeter Lillback, 1983\u201388\nClinton Foraker, 1989\u20132003\n\
-  Mark Holler, 2004\u20139\nMark D. Matthews, 2011\u201314\nAssoc. Pastor: David Stevenson,\
-  \ 2000\u20132003"
+raw_data: 'PA Oxford
+
+
+  Bethany Orthodox Presbyterian Church  (July 22, 1936-June 22, 2014)
+
+  (withdrew to the PCA, June 22, 2014)
+
+  Pastors: Peter DeRuiter, 1936-43
+
+  Henry Phillips, 1943-50
+
+  Robert Vining, 1950-72
+
+  Jonathan Peters, 1974-82
+
+  Peter Lillback, 1983-88
+
+  Clinton Foraker, 1989-2003
+
+  Mark Holler, 2004-9
+
+  Mark D. Matthews, 2011-14
+
+  Assoc. Pastor: David Stevenson, 2000-2003
+
+  '
 received_from: null
 states:
 - PA

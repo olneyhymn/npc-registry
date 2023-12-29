@@ -48,11 +48,26 @@ names:
   name: Immanuel Orthodox Presbyterian Church
   start: 1961-04-05
 origination_date: *id001
-raw_data: "AR    Thornton\n\nImmanuel Orthodox Presbyterian Church  (April 5, 1961\u2013\
-  October 2, 2002)\nPastors: Laurence Vail, 1961\u201363\nDonald Taws, 1963\u2013\
-  67\nAbe Ediger, 1967\u201372\nElmer Dortzbach (Supply), 1973\u201376\nRichard Wynja,\
-  \ 1977\u20132002\nAssoc. Pastors: Jonathan Male, 1992\u20131996\nMatthew Kingsbury,\
-  \ 1999\u20132001"
+raw_data: 'AR    Thornton
+
+
+  Immanuel Orthodox Presbyterian Church  (April 5, 1961-October 2, 2002)
+
+  Pastors: Laurence Vail, 1961-63
+
+  Donald Taws, 1963-67
+
+  Abe Ediger, 1967-72
+
+  Elmer Dortzbach (Supply), 1973-76
+
+  Richard Wynja, 1977-2002
+
+  Assoc. Pastors: Jonathan Male, 1992-1996
+
+  Matthew Kingsbury, 1999-2001
+
+  '
 received_from: null
 states:
 - CO

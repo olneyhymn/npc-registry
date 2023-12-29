@@ -13,8 +13,11 @@ names:
   name: Orthodox Presbyterian Church
   start: 1978-05-11
 origination_date: *id001
-raw_data: "NEW JERSEY Ocean City\nOrthodox Presbyterian Church  (May 11, 1978\u2013\
-  December 15, 1981)NEW JERSEY NEW JERSEY"
+raw_data: 'NEW JERSEY Ocean City
+
+  Orthodox Presbyterian Church  (May 11, 1978-December 15, 1981)NEW JERSEY NEW JERSEY
+
+  '
 received_from: null
 states:
 - NJ

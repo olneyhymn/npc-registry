@@ -26,9 +26,15 @@ names:
   name: Providence Orthodox Presbyterian Church
   start: 2015-05-15
 origination_date: *id001
-raw_data: "Providence Orthodox Presbyterian mission work (April 21, 2012\u2013May\
-  \ 15, 2015)\nProvidence Orthodox Presbyterian Church (May 15, 2015\u2013 )\nOrg.\
-  \ Pastor: Jim G. Stevenson, 2012\u201315\nPastor: Jim G. Stevenson, 2015\u2013"
+raw_data: 'Providence Orthodox Presbyterian mission work (April 21, 2012-May 15, 2015)
+
+  Providence Orthodox Presbyterian Church (May 15, 2015- )
+
+  Org. Pastor: Jim G. Stevenson, 2012-15
+
+  Pastor: Jim G. Stevenson, 2015-
+
+  '
 received_from: null
 states:
 - OK

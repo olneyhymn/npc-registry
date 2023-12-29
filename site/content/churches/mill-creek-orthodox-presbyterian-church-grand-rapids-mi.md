@@ -20,9 +20,8 @@ ministers:
 name: Mill Creek Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "MI  Grand Rapids\nMill Creek Orthodox Presbyterian Church  (April 4, 1996\u2013\
-  December 31, 2014)\nPastors: Rodney Thole, 1996\u20132001\nNorman De Jong, 2001\u2013\
-  3"
+raw_data: "MI\tGrand Rapids\nMill Creek Orthodox Presbyterian Church  (April 4, 1996-December\
+  \ 31, 2014)\nPastors: Rodney Thole, 1996-2001\nNorman De Jong, 2001-3\n"
 received_from: null
 states:
 - MI

@@ -81,7 +81,9 @@ raw_data: 'WI Oostburg
 
   David L. Veldhorst, 2013-
 
-  Teacher: Donald F. Ritsman, 2001-10'
+  Teacher: Donald F. Ritsman, 2001-10
+
+  '
 received_from: null
 states:
 - WI

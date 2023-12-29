@@ -41,11 +41,27 @@ names:
   name: Christ Covenant Orthodox Presbyterian Church
   start: 1990-01-01
 origination_date: *id001
-raw_data: "TX Amarillo\nChrist Covenant Orthodox Presbyterian Church  (October 20,\
-  \ 1982\u2013 )\n(called Grace Orthodox Presbyterian Church, 1982\u201390)\n7801\
-  \ West 34th Street\nPastors: John Hilbelink, 1982\u201387\nK. Scott Oliphint, 1987\u2013\
-  91\nDavid Brack, 1993\u20132014\nJeremy Boothby, 2014\u2013\nAssoc. Pastor: K. Scott\
-  \ Oliphint, 1985\u201387\nCo\u2013Pastor: Andrew Moody, 2006\u201310"
+raw_data: 'TX Amarillo
+
+  Christ Covenant Orthodox Presbyterian Church  (October 20, 1982- )
+
+  (called Grace Orthodox Presbyterian Church, 1982-90)
+
+  7801 West 34th Street
+
+  Pastors: John Hilbelink, 1982-87
+
+  K. Scott Oliphint, 1987-91
+
+  David Brack, 1993-2014
+
+  Jeremy Boothby, 2014-
+
+  Assoc. Pastor: K. Scott Oliphint, 1985-87
+
+  Co-Pastor: Andrew Moody, 2006-10
+
+  '
 received_from: null
 states:
 - TX

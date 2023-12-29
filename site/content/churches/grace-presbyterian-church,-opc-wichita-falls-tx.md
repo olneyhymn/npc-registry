@@ -31,10 +31,22 @@ names:
   name: Grace Presbyterian Church, OPC
   start: 2000-12-01
 origination_date: *id001
-raw_data: "TX    Wichita Falls\n\nWestminster OP Chapel  (September 19, 1997\u2013\
-  December 1, 2000)\nGrace Presbyterian Church, OPC (December 1, 2000\u2013December\
-  \ 21, 2011)\n(called Westminster OPC, 2000\u20132003)\nEvangelist: Douglas Nystrom,\
-  \ 1998\u20132000\nPastors: Bryan Schroeder, 2001\u20135\nTodd Dole, 2006\u201311"
+raw_data: 'TX    Wichita Falls
+
+
+  Westminster OP Chapel  (September 19, 1997-December 1, 2000)
+
+  Grace Presbyterian Church, OPC (December 1, 2000-December 21, 2011)
+
+  (called Westminster OPC, 2000-2003)
+
+  Evangelist: Douglas Nystrom, 1998-2000
+
+  Pastors: Bryan Schroeder, 2001-5
+
+  Todd Dole, 2006-11
+
+  '
 received_from: null
 states:
 - TX

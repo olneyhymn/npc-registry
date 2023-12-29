@@ -38,11 +38,25 @@ names:
   name: Stratford Orthodox Presbyterian Church
   start: 1958-11-07
 origination_date: *id001
-raw_data: "NEW JERSEY\nStratford\nStratford Orthodox Presbyterian Church  (November\
-  \ 7, 1958\u2013December 4, 2012)\n(renounced jurisdiction of the OPC, September\
-  \ 9, 2012)\nPastors: Jack Peterson, 1961\u201366\nStephen Phillips, 1967\u201375\n\
-  Steve Hohenberger, 1976\u201379\nMartin Dawson, 1979\u20132013\nMinister of Evangelism:\
-  \  Richard Anderson, 2000\u20132013"
+raw_data: 'NEW JERSEY
+
+  Stratford
+
+  Stratford Orthodox Presbyterian Church  (November 7, 1958-December 4, 2012)
+
+  (renounced jurisdiction of the OPC, September 9, 2012)
+
+  Pastors: Jack Peterson, 1961-66
+
+  Stephen Phillips, 1967-75
+
+  Steve Hohenberger, 1976-79
+
+  Martin Dawson, 1979-2013
+
+  Minister of Evangelism:  Richard Anderson, 2000-2013
+
+  '
 received_from: null
 states:
 - NJ

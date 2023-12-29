@@ -20,10 +20,19 @@ ministers:
 name: Covenant Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "FLORIDA St. Augustine\nCovenant Orthodox Presbyterian mission work  (January\
-  \ 25, 2008\u2013November 8, 2009)\nCovenant Orthodox Presbyterian Church  (November\
-  \ 8, 2009\u2013 )\nMill Creek Elementary School, 3750 International Golf Parkway\n\
-  Org. Pastor: Eric Watkins, 2008\u20139\nPastor: Eric Watkins, 2009\u2013"
+raw_data: 'FLORIDA St. Augustine
+
+  Covenant Orthodox Presbyterian mission work  (January 25, 2008-November 8, 2009)
+
+  Covenant Orthodox Presbyterian Church  (November 8, 2009- )
+
+  Mill Creek Elementary School, 3750 International Golf Parkway
+
+  Org. Pastor: Eric Watkins, 2008-9
+
+  Pastor: Eric Watkins, 2009-
+
+  '
 received_from: null
 states:
 - FL

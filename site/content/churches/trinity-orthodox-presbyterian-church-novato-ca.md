@@ -28,9 +28,22 @@ names:
   name: Trinity Orthodox Presbyterian Church
   start: 1971-05-13
 origination_date: *id001
-raw_data: "California\nNovato\n\nTrinity Orthodox Presbyterian Church  (May 13, 1971\u2013\
-  \ )\nSeventh-day Adventist Church, 495 San Marin Drive at Simmons Lane\nPastors:\
-  \ Robert Graham, 1971\u201373\nRichard Miller, 1974\u20132006\nReid Hankins, 2008-"
+raw_data: 'California
+
+  Novato
+
+
+  Trinity Orthodox Presbyterian Church  (May 13, 1971- )
+
+  Seventh-day Adventist Church, 495 San Marin Drive at Simmons Lane
+
+  Pastors: Robert Graham, 1971-73
+
+  Richard Miller, 1974-2006
+
+  Reid Hankins, 2008-
+
+  '
 received_from: null
 states:
 - CA

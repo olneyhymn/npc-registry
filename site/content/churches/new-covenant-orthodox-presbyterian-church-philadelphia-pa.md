@@ -18,8 +18,15 @@ names:
   name: New Covenant Orthodox Presbyterian Church
   start: 1936-08-04
 origination_date: *id001
-raw_data: "PA Philadelphia\nNew Covenant Orthodox Presbyterian Church  (August 4,\
-  \ 1936\u20131950)\n(see Lansdowne)\nPastor: David Freeman, 1936\u201346"
+raw_data: 'PA Philadelphia
+
+  New Covenant Orthodox Presbyterian Church  (August 4, 1936-1950)
+
+  (see Lansdowne)
+
+  Pastor: David Freeman, 1936-46
+
+  '
 received_from: null
 states:
 - PA

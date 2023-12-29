@@ -15,8 +15,13 @@ ministers:
 name: Providence Presbyterian Church of America
 names: null
 origination_date: *id001
-raw_data: "OH    Youngstown\nProvidence Presbyterian Church of America  (March 9,\
-  \ 1937\u20131938)\nPastor: Thomas Mitchell, 1937\u201338"
+raw_data: 'OH    Youngstown
+
+  Providence Presbyterian Church of America  (March 9, 1937-1938)
+
+  Pastor: Thomas Mitchell, 1937-38
+
+  '
 received_from: null
 states:
 - OH

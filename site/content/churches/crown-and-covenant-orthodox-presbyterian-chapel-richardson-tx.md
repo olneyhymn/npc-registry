@@ -18,8 +18,13 @@ names:
   name: Crown and Covenant Orthodox Presbyterian Chapel
   start: 1981-03-27
 origination_date: *id001
-raw_data: "TX Richardson\nCrown and Covenant Orthodox Presbyterian Chapel  (March\
-  \ 27, 1981\u2013October 1, 1982)\nMissionary: Clarence Mays, 1981\u201382"
+raw_data: 'TX Richardson
+
+  Crown and Covenant Orthodox Presbyterian Chapel  (March 27, 1981-October 1, 1982)
+
+  Missionary: Clarence Mays, 1981-82
+
+  '
 received_from: null
 states:
 - TX

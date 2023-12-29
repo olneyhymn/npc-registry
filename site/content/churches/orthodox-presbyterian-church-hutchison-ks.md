@@ -23,9 +23,16 @@ names:
   name: Orthodox Presbyterian Church
   start: 1970-04-01
 origination_date: *id001
-raw_data: "KANSAS Hutchison\n\nOrthodox Presbyterian Church (April 1, 1970\u2013March\
-  \ 27, 1980)\nPastors: William Bomer, 1971\u201378\nJ. Anthony Blair, 1978\u2013\
-  79"
+raw_data: 'KANSAS Hutchison
+
+
+  Orthodox Presbyterian Church (April 1, 1970-March 27, 1980)
+
+  Pastors: William Bomer, 1971-78
+
+  J. Anthony Blair, 1978-79
+
+  '
 received_from: null
 states:
 - KS

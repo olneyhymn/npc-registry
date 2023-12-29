@@ -15,8 +15,18 @@ ministers:
 name: Heritage Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "GA\nRoyston\n\nHeritage Presbyterian Church\n82 Franklin Springs Street\n\
-  Org. Pastor: Michael Myers, 2013\u2013"
+raw_data: 'GA
+
+  Royston
+
+
+  Heritage Presbyterian Church
+
+  82 Franklin Springs Street
+
+  Org. Pastor: Michael Myers, 2013-
+
+  '
 received_from: null
 states:
 - GA

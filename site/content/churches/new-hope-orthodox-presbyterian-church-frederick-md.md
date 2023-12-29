@@ -38,10 +38,25 @@ names:
   name: New Hope Orthodox Presbyterian Church
   start: 1988-05-15
 origination_date: *id001
-raw_data: "MD\nFrederick\nNew Hope Orthodox Presbyterian Church  (May 15, 1988\u2013\
-  \ )\n5305A Jefferson Pike\nPastors: Richard Ellis, 1988\u20132008\nFrancis E. Van\
-  \ Delden, 2011\u2013\nAssoc. Pastors: Laurence Vail, 1996\u201399\nVincent Touriello,\
-  \ 2002\u20139\nTeacher: Steven Hake, 2006\u2013"
+raw_data: 'MD
+
+  Frederick
+
+  New Hope Orthodox Presbyterian Church  (May 15, 1988- )
+
+  5305A Jefferson Pike
+
+  Pastors: Richard Ellis, 1988-2008
+
+  Francis E. Van Delden, 2011-
+
+  Assoc. Pastors: Laurence Vail, 1996-99
+
+  Vincent Touriello, 2002-9
+
+  Teacher: Steven Hake, 2006-
+
+  '
 received_from: null
 states:
 - MD

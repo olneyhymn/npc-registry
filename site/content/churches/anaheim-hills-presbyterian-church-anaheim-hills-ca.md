@@ -18,9 +18,17 @@ names:
   name: Anaheim Hills Presbyterian Church
   start: 2014-01-01
 origination_date: *id001
-raw_data: "AR\nAnaheim Hills\nAnaheim Hills Presbyterian Church  (2014\u2013 )\nEast\
-  \ Anaheim Community Center, 8201 E. Santa Ana Canyon Road\nOrg. Pastor: Christopher\
-  \ D. Hartshorn, 2014\u2013"
+raw_data: 'AR
+
+  Anaheim Hills
+
+  Anaheim Hills Presbyterian Church  (2014- )
+
+  East Anaheim Community Center, 8201 E. Santa Ana Canyon Road
+
+  Org. Pastor: Christopher D. Hartshorn, 2014-
+
+  '
 received_from: null
 states:
 - CA

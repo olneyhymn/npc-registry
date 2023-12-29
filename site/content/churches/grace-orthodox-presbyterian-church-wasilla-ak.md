@@ -41,11 +41,25 @@ names:
   name: New Life Orthodox Presbyterian Church
   start: 1994-12-11
 origination_date: *id001
-raw_data: "ALASKA Wasilla\nGrace Orthodox Presbyterian Church  (December 11, 1994\u2013\
-  \ )\n(called New Life Orthodox Presbyterian Church, 1994\u201397)\n2851 Bogard Road\n\
-  Pastors: Thomas Albaugh, 1995\u201398\nMartin Emmrich, 2003\u20137\nM. Scott Johnson,\
-  \ 2007\u2013\nSupply: Mark Sumpter, 1989\u201393\nEvangelist: Mark Sumpter, 1993\u2013\
-  94"
+raw_data: 'ALASKA Wasilla
+
+  Grace Orthodox Presbyterian Church  (December 11, 1994- )
+
+  (called New Life Orthodox Presbyterian Church, 1994-97)
+
+  2851 Bogard Road
+
+  Pastors: Thomas Albaugh, 1995-98
+
+  Martin Emmrich, 2003-7
+
+  M. Scott Johnson, 2007-
+
+  Supply: Mark Sumpter, 1989-93
+
+  Evangelist: Mark Sumpter, 1993-94
+
+  '
 received_from: null
 states:
 - AK

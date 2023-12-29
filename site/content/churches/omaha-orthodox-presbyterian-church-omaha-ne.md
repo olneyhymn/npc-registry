@@ -33,9 +33,19 @@ names:
   name: Omaha Orthodox Presbyterian Church
   start: 1939-04-11
 origination_date: *id001
-raw_data: "NEBRASKA Omaha\nOmaha Orthodox Presbyterian Church  (April 11, 1939\u2013\
-  April 30, 1980)\nPastors: Robert Brown, 1939\u201345\nReginald V oorhees, 1945\u2013\
-  74\nRansom Webster Jr, 1974\u201379\nV . Robert Nilson (Supply), 1979\u201380"
+raw_data: 'NEBRASKA Omaha
+
+  Omaha Orthodox Presbyterian Church  (April 11, 1939-April 30, 1980)
+
+  Pastors: Robert Brown, 1939-45
+
+  Reginald V oorhees, 1945-74
+
+  Ransom Webster Jr, 1974-79
+
+  V . Robert Nilson (Supply), 1979-80
+
+  '
 received_from: null
 states:
 - NE

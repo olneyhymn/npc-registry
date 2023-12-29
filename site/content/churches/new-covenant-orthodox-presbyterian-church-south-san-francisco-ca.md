@@ -28,10 +28,22 @@ names:
   name: Brentwood Orthodox Presbyterian Church
   start: 1957-09-25
 origination_date: *id001
-raw_data: "AR    South San Francisco\n\nNew Covenant Orthodox Presbyterian Church\
-  \  (September 25, 1957\u2013 )\n(called Brentwood Orthodox Presbyterian Church,\
-  \ 1957\u20131988)\n186 Country Club Drive\nPastors: Arthur Riffel, 1958\u201362\n\
-  Edwin Urban, 1963\u201365\nCarl Erickson, 1967\u2013"
+raw_data: 'AR    South San Francisco
+
+
+  New Covenant Orthodox Presbyterian Church  (September 25, 1957- )
+
+  (called Brentwood Orthodox Presbyterian Church, 1957-1988)
+
+  186 Country Club Drive
+
+  Pastors: Arthur Riffel, 1958-62
+
+  Edwin Urban, 1963-65
+
+  Carl Erickson, 1967-
+
+  '
 received_from: null
 states:
 - CA

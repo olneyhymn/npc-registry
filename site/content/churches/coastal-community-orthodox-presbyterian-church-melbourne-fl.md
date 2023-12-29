@@ -18,8 +18,13 @@ names:
   name: Coastal Community Orthodox Presbyterian Church
   start: 1990-05-05
 origination_date: *id001
-raw_data: "FLORIDA Melbourne\nCoastal Community Orthodox Presbyterian Church  (May\
-  \ 5, 1990\u2013June 1, 1996)\nPastor: Donald Parker, 1990\u201396"
+raw_data: 'FLORIDA Melbourne
+
+  Coastal Community Orthodox Presbyterian Church  (May 5, 1990-June 1, 1996)
+
+  Pastor: Donald Parker, 1990-96
+
+  '
 received_from: null
 states:
 - FL

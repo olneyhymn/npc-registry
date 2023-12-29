@@ -48,11 +48,10 @@ names:
   name: Faith Orthodox Presbyterian Church
   start: 1978-04-29
 origination_date: *id001
-raw_data: "OR  Grants Pass\nFaith Orthodox Presbyterian Church  (April 29, 1978\u2013\
-  \ )\n280 Red Mountain Drive\nPastors: Calvin Malcor, 1978\u201383\nJay Milojevich,\
-  \ 1983\u201391\nLarry Conard, 1992\u20132002\nMark Sumpter, 2002\u201312\nKarl E.\
-  \ Thompson, 2014\u2013\nAsst. Pastors: Ralph English, 2000\u20132002\nDaniel McManigal,\
-  \ 2006\u20138"
+raw_data: "OR\tGrants Pass\nFaith Orthodox Presbyterian Church  (April 29, 1978- )\n\
+  280 Red Mountain Drive\nPastors: Calvin Malcor, 1978-83\nJay Milojevich, 1983-91\n\
+  Larry Conard, 1992-2002\nMark Sumpter, 2002-12\nKarl E. Thompson, 2014-\nAsst. Pastors:\
+  \ Ralph English, 2000-2002\nDaniel McManigal, 2006-8\n"
 received_from: null
 states:
 - OR

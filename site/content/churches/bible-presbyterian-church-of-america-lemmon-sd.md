@@ -15,9 +15,15 @@ ministers:
 name: Bible Presbyterian Church of America
 names: null
 origination_date: *id001
-raw_data: "SD Lemmon\nBible Presbyterian Church of America  (September 28, 1937\u2013\
-  1938)\n(joined the Bible Presbyterian Church, 1939)\nPastor: David Myer, 1937\u2013\
-  38"
+raw_data: 'SD Lemmon
+
+  Bible Presbyterian Church of America  (September 28, 1937-1938)
+
+  (joined the Bible Presbyterian Church, 1939)
+
+  Pastor: David Myer, 1937-38
+
+  '
 received_from: null
 states:
 - SD

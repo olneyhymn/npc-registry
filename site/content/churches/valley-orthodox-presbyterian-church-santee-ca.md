@@ -75,13 +75,38 @@ ministers:
 name: Valley Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "AR Santee\n\nValley Orthodox Presbyterian Church  (January 18, 1946\u2013\
-  May 6, 2005)\nSupplies: Bruce Hunt, 1944\u201346\nPaul Lovik, 1946\nJames Moore,\
-  \ 1953\u201359\nPastors: Delbert Schowalter, 1946\u201349\nJames Brown, 1950\nRobert\
-  \ Sander, 1951\u201353\nGerald Latal, 1959\u201363\nBruce Coie, 1964\u201371\nBruce\
-  \ Brawdy, 1971\u201375\nRobert Graham, 1975\u201378\nKenneth Meilahn, 1979\u2013\
-  99\nMichael Matossian, 1999\u20132003\nAssoc. Pastor: Michael Matossian, 1998\u2013\
-  99"
+raw_data: 'AR Santee
+
+
+  Valley Orthodox Presbyterian Church  (January 18, 1946-May 6, 2005)
+
+  Supplies: Bruce Hunt, 1944-46
+
+  Paul Lovik, 1946
+
+  James Moore, 1953-59
+
+  Pastors: Delbert Schowalter, 1946-49
+
+  James Brown, 1950
+
+  Robert Sander, 1951-53
+
+  Gerald Latal, 1959-63
+
+  Bruce Coie, 1964-71
+
+  Bruce Brawdy, 1971-75
+
+  Robert Graham, 1975-78
+
+  Kenneth Meilahn, 1979-99
+
+  Michael Matossian, 1999-2003
+
+  Assoc. Pastor: Michael Matossian, 1998-99
+
+  '
 received_from: null
 states:
 - CA

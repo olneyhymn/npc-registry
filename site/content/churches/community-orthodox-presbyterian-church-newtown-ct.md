@@ -38,9 +38,20 @@ names:
   name: Community Orthodox Presbyterian Church
   start: 1982-04-23
 origination_date: *id001
-raw_data: "CT Newtown\n\nCommunity Orthodox Presbyterian Church  (April 23, 1982\u2013\
-  April 19, 2014)\nPastors: James Campbell, 1982\u201385\nWilliam Kessler, 1986\u2013\
-  96, 1997\u20132000\nRichard Mozer, 2001\u20132\nRobert Tarullo, 2004\u201312"
+raw_data: 'CT Newtown
+
+
+  Community Orthodox Presbyterian Church  (April 23, 1982-April 19, 2014)
+
+  Pastors: James Campbell, 1982-85
+
+  William Kessler, 1986-96, 1997-2000
+
+  Richard Mozer, 2001-2
+
+  Robert Tarullo, 2004-12
+
+  '
 received_from: null
 states:
 - CT

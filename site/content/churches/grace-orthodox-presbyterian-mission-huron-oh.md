@@ -10,8 +10,15 @@ ministers: []
 name: Grace Orthodox Presbyterian mission
 names: null
 origination_date: *id001
-raw_data: "OH\nHuron\nGrace Orthodox Presbyterian mission (2009\u2013 )\n1023 S. Main\
-  \ StreetOH"
+raw_data: 'OH
+
+  Huron
+
+  Grace Orthodox Presbyterian mission (2009- )
+
+  1023 S. Main StreetOH
+
+  '
 received_from: null
 states:
 - OH

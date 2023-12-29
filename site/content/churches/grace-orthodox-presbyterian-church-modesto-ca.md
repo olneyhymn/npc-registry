@@ -30,9 +30,23 @@ ministers:
 name: Grace Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "AR\nModesto\nGrace Orthodox Presbyterian Church (March 12, 1964\u2013 )\n\
-  1448 Standiford Avenue\nPastors: Thomas Champness, 1965\u201373\nRollin Keller,\
-  \ 1974\u201383\nC. Thomas Fincher, 1984\u201391\nP. Shaun Bryant, 1994\u2013\n"
+raw_data: 'AR
+
+  Modesto
+
+  Grace Orthodox Presbyterian Church (March 12, 1964- )
+
+  1448 Standiford Avenue
+
+  Pastors: Thomas Champness, 1965-73
+
+  Rollin Keller, 1974-83
+
+  C. Thomas Fincher, 1984-91
+
+  P. Shaun Bryant, 1994-
+
+  '
 received_from: null
 states:
 - CA

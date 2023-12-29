@@ -28,9 +28,19 @@ names:
   name: Fellowship Orthodox Presbyterian Church
   start: 1989-12-08
 origination_date: *id001
-raw_data: "FLORIDA Lake Worth\nFellowship Orthodox Presbyterian Church  (December\
-  \ 8, 1989\u2013 )\n5536 Hypoluxo Road\nPastors: Paul Hill, 1989\u201391\nArthur\
-  \ Steltzer, 1992\u201398\nHenry Stanke, 2000\u2013"
+raw_data: 'FLORIDA Lake Worth
+
+  Fellowship Orthodox Presbyterian Church  (December 8, 1989- )
+
+  5536 Hypoluxo Road
+
+  Pastors: Paul Hill, 1989-91
+
+  Arthur Steltzer, 1992-98
+
+  Henry Stanke, 2000-
+
+  '
 received_from: null
 states:
 - FL

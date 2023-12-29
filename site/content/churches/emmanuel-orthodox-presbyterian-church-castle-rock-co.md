@@ -21,9 +21,19 @@ names:
   name: Emmanuel Orthodox Presbyterian Church
   start: 2015-04-25
 origination_date: *id001
-raw_data: "AR\nCastle Rock\nEmmanuel OPC Chapel (May 11, 2014\u2013April 25, 2015)\n\
-  Emmanuel Orthodox Presbyterian Church (April 25, 2015\u2013 )\nClear Sky Elementary\
-  \ School, 1470 Clear Sky Way\nPastor: Michael J. Chapa, 2015\u2013"
+raw_data: 'AR
+
+  Castle Rock
+
+  Emmanuel OPC Chapel (May 11, 2014-April 25, 2015)
+
+  Emmanuel Orthodox Presbyterian Church (April 25, 2015- )
+
+  Clear Sky Elementary School, 1470 Clear Sky Way
+
+  Pastor: Michael J. Chapa, 2015-
+
+  '
 received_from: null
 states:
 - CO

@@ -43,11 +43,27 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 1977-12-10
 origination_date: *id001
-raw_data: "VIRGINIA\nLynchburg\nGrace Orthodox Presbyterian Church  (December 10,\
-  \ 1977\u2013 )\n3300 Carroll Avenue\nEvangelist: Richard Horner, 1969\u201374\n\
-  Pastors: Andrew Wikholm, 1975\u201379\nRichard Knodel, 1981\u20132005\nPeter Stazen\
-  \ II, 2006\u2013\nAssoc. Pastor: Thomas Ellis, 1993\u20132000\nEvangelist: John\
-  \ Jamison, 2000\u2013"
+raw_data: 'VIRGINIA
+
+  Lynchburg
+
+  Grace Orthodox Presbyterian Church  (December 10, 1977- )
+
+  3300 Carroll Avenue
+
+  Evangelist: Richard Horner, 1969-74
+
+  Pastors: Andrew Wikholm, 1975-79
+
+  Richard Knodel, 1981-2005
+
+  Peter Stazen II, 2006-
+
+  Assoc. Pastor: Thomas Ellis, 1993-2000
+
+  Evangelist: John Jamison, 2000-
+
+  '
 received_from: null
 states:
 - VA

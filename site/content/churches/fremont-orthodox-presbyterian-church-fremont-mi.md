@@ -31,10 +31,22 @@ names:
   name: Fremont Orthodox Presbyterian Church
   start: 2016-02-05
 origination_date: *id001
-raw_data: "MI Fremont\n\nFremont Orthodox Presbyterian mission work  (January 31,\
-  \ 2009\u2013February 5, 2106)\nFremont Orthodox Presbyterian Church (February 5,\
-  \ 2016\u2013 )\n203 East Main Street\nOrg. Pastors: Norman De Jong, 2009\u201311\n\
-  W. Vernon Picknally Jr, 2011\u201316\nPastor: W. Vernon Picknally Jr, 2016\u2013"
+raw_data: 'MI Fremont
+
+
+  Fremont Orthodox Presbyterian mission work  (January 31, 2009-February 5, 2106)
+
+  Fremont Orthodox Presbyterian Church (February 5, 2016- )
+
+  203 East Main Street
+
+  Org. Pastors: Norman De Jong, 2009-11
+
+  W. Vernon Picknally Jr, 2011-16
+
+  Pastor: W. Vernon Picknally Jr, 2016-
+
+  '
 received_from: null
 states:
 - MI

@@ -26,10 +26,20 @@ names:
   name: Trinity Reformed Presbyterian Church
   start: 2011-08-12
 origination_date: *id001
-raw_data: "NORTH CAROLINA Wilmington\n\nTrinity Reformed Presbyterian Chapel  (June\
-  \ 27, 2008\u2013August 12, 2011)\nTrinity Reformed Presbyterian Church  (August\
-  \ 12, 2011\u2013 )\n3701 South College Road\nOrg. Pastor: Frederick Hofland, 2008\u2013\
-  11\nPastor: Frederick Hofland, 2011\u2013"
+raw_data: 'NORTH CAROLINA Wilmington
+
+
+  Trinity Reformed Presbyterian Chapel  (June 27, 2008-August 12, 2011)
+
+  Trinity Reformed Presbyterian Church  (August 12, 2011- )
+
+  3701 South College Road
+
+  Org. Pastor: Frederick Hofland, 2008-11
+
+  Pastor: Frederick Hofland, 2011-
+
+  '
 received_from: null
 states:
 - NC

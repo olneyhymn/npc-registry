@@ -26,11 +26,20 @@ names:
   name: Redeemer Orthodox Presbyterian Church
   start: 2000-10-01
 origination_date: *id001
-raw_data: "NEW JERSEY Toms River\n\nRedeemer Orthodox Presbyterian Chapel  (September\
-  \ 28, 1996\u2013October 1, 2000)\nRedeemer Orthodox Presbyterian Church  (October\
-  \ 1, 2000\u2013February 24, 2013)\n(merged with Faith Bible Church to form Faith\
-  \ Bible OPC, Brick, February 24, 2013)\nEvangelist: Geoffrey Willour, 1997\u2013\
-  2000\nPastor: Geoffrey Willour, 2000\u20132012"
+raw_data: 'NEW JERSEY Toms River
+
+
+  Redeemer Orthodox Presbyterian Chapel  (September 28, 1996-October 1, 2000)
+
+  Redeemer Orthodox Presbyterian Church  (October 1, 2000-February 24, 2013)
+
+  (merged with Faith Bible Church to form Faith Bible OPC, Brick, February 24, 2013)
+
+  Evangelist: Geoffrey Willour, 1997-2000
+
+  Pastor: Geoffrey Willour, 2000-2012
+
+  '
 received_from: null
 states:
 - NJ

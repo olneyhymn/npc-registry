@@ -31,10 +31,24 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 2002-02-15
 origination_date: *id001
-raw_data: "MI\nBrighton\n\nCovenant Orthodox Presbyterian Mission  (March 19, 1999\u2013\
-  February 15, 2002)\nCovenant Orthodox Presbyterian Church (February 15, 2002\u2013\
-  \ )\nSpencer Elementary School, Spencer Road\nOrg. Pastor: Brian DeJong, 2000\u2013\
-  2002\nPastors: Brian De Jong, 2002\u20135\nDouglas Doll, 2008\u2013"
+raw_data: 'MI
+
+  Brighton
+
+
+  Covenant Orthodox Presbyterian Mission  (March 19, 1999-February 15, 2002)
+
+  Covenant Orthodox Presbyterian Church (February 15, 2002- )
+
+  Spencer Elementary School, Spencer Road
+
+  Org. Pastor: Brian DeJong, 2000-2002
+
+  Pastors: Brian De Jong, 2002-5
+
+  Douglas Doll, 2008-
+
+  '
 received_from: null
 states:
 - MI

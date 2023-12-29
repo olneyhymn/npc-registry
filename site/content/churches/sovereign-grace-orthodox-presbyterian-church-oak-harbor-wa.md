@@ -23,9 +23,19 @@ names:
   name: Sovereign Grace Orthodox Presbyterian Church
   start: 1998-08-09
 origination_date: *id001
-raw_data: "WA\nOak Harbor\nSovereign Grace Orthodox Presbyterian Church  (August 9,\
-  \ 1998\u2013 )\nSeventh-day Adventist Church, 31830 Highway 20\nEvangelist: Robert\
-  \ Van Kooten, 1995\u201398\nPastor: Robert Van Kooten, 1998\u2013"
+raw_data: 'WA
+
+  Oak Harbor
+
+  Sovereign Grace Orthodox Presbyterian Church  (August 9, 1998- )
+
+  Seventh-day Adventist Church, 31830 Highway 20
+
+  Evangelist: Robert Van Kooten, 1995-98
+
+  Pastor: Robert Van Kooten, 1998-
+
+  '
 received_from: null
 states:
 - WA

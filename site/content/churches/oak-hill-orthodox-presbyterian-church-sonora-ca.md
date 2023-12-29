@@ -43,10 +43,26 @@ names:
   name: Oak Hill Orthodox Presbyterian Church
   start: 1962-02-12
 origination_date: *id001
-raw_data: "AR Sonora\n\nOak Hill Orthodox Presbyterian Church  (February 12, 1962\u2013\
-  \ )\n14892 Peaceful Valley Road\nPastors: Robert Churchill, 1963\u201373\nRoger\
-  \ Wagner, 1973\u201383\nDavid Cole, 1984\u201387\nGerald Neumair, 1988\u201390\n\
-  John Vroegindewey, 1992\u20131999\nDavid Bush, 2002\u2013"
+raw_data: 'AR Sonora
+
+
+  Oak Hill Orthodox Presbyterian Church  (February 12, 1962- )
+
+  14892 Peaceful Valley Road
+
+  Pastors: Robert Churchill, 1963-73
+
+  Roger Wagner, 1973-83
+
+  David Cole, 1984-87
+
+  Gerald Neumair, 1988-90
+
+  John Vroegindewey, 1992-1999
+
+  David Bush, 2002-
+
+  '
 received_from: null
 states:
 - CA

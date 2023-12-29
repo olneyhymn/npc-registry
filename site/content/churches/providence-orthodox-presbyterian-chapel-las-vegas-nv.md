@@ -15,8 +15,15 @@ ministers:
 name: Providence Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "NV\nLas Vegas\nProvidence Orthodox Presbyterian Chapel  (January 4, 2001\u2013\
-  March 17, 2007)\nEvangelist: Michael Babcock, 2001\u20137"
+raw_data: 'NV
+
+  Las Vegas
+
+  Providence Orthodox Presbyterian Chapel  (January 4, 2001-March 17, 2007)
+
+  Evangelist: Michael Babcock, 2001-7
+
+  '
 received_from: null
 states:
 - NV

@@ -36,11 +36,26 @@ names:
   name: Providence Orthodox Presbyterian Church
   start: 2008-06-01
 origination_date: *id001
-raw_data: "AR    Temecula\n\nProvidence Orthodox Presbyterian Mission  (October 18,\
-  \ 1997\u2013June 1, 2008)\nProvidence Orthodox Presbyterian Church  (June 1, 2008\u2013\
-  \ )\nErle Stanley Gardner Middle School, 45125 Via Del Coronado\nEvangelists: Donald\
-  \ Poundstone, 1997\u20132000\nBenjamin Wikner, 2000\u20132004\nJesse Pirschel, 2004\u2013\
-  8\nPastor: Jesse Pirschel, 2008\u201315\nTeacher: Benjamin Wikner, 2004\u20135"
+raw_data: 'AR    Temecula
+
+
+  Providence Orthodox Presbyterian Mission  (October 18, 1997-June 1, 2008)
+
+  Providence Orthodox Presbyterian Church  (June 1, 2008- )
+
+  Erle Stanley Gardner Middle School, 45125 Via Del Coronado
+
+  Evangelists: Donald Poundstone, 1997-2000
+
+  Benjamin Wikner, 2000-2004
+
+  Jesse Pirschel, 2004-8
+
+  Pastor: Jesse Pirschel, 2008-15
+
+  Teacher: Benjamin Wikner, 2004-5
+
+  '
 received_from: null
 states:
 - CA

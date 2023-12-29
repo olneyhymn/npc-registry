@@ -31,10 +31,21 @@ names:
   name: Geneva Orthodox Presbyterian Church
   start: 2004-04-16
 origination_date: *id001
-raw_data: "GA Marietta\nGeneva Orthodox Presbyterian Chapel  (October 2, 1998\u2013\
-  April 16, 2004)\nGeneva Orthodox Presbyterian Church  (April 16, 2004\u2013 )\n\
-  Meeting at Hope Presbyterian Church, 4101 Sandy Plains Road\nEvangelist: John Fesko,\
-  \ 1998\u20132004\nPastors: John Fesko, 2004\u20139\nMatthew Holst, 2010\u2013"
+raw_data: 'GA Marietta
+
+  Geneva Orthodox Presbyterian Chapel  (October 2, 1998-April 16, 2004)
+
+  Geneva Orthodox Presbyterian Church  (April 16, 2004- )
+
+  Meeting at Hope Presbyterian Church, 4101 Sandy Plains Road
+
+  Evangelist: John Fesko, 1998-2004
+
+  Pastors: John Fesko, 2004-9
+
+  Matthew Holst, 2010-
+
+  '
 received_from: null
 states:
 - GA

@@ -2,7 +2,7 @@
 date: &id001 1981-03-29
 end_date: null
 location:
-  address: "N8122 Pa\u2013Yae\u2013Wa\u2013Say Road"
+  address: N8122 Pa-Yae-Wa-Say Road
   city: Zoar
   state: WI
 minister:
@@ -33,10 +33,21 @@ names:
   name: Menominee Orthodox Presbyterian Church
   start: 1981-03-29
 origination_date: *id001
-raw_data: "WI Zoar\nMenominee Orthodox Presbyterian Church  (March 29, 1981\u2013\
-  \ )\nN8122 Pa\u2013Yae\u2013Wa\u2013Say Road\nSupply: Gordon Peterson, 1981\u2013\
-  84\nPastors: Kenneth Smith, 1984\u201386\nDaryl Daniels, 1994\u201396\nKarl Thompson,\
-  \ 2003\u201314"
+raw_data: 'WI Zoar
+
+  Menominee Orthodox Presbyterian Church  (March 29, 1981- )
+
+  N8122 Pa-Yae-Wa-Say Road
+
+  Supply: Gordon Peterson, 1981-84
+
+  Pastors: Kenneth Smith, 1984-86
+
+  Daryl Daniels, 1994-96
+
+  Karl Thompson, 2003-14
+
+  '
 received_from: null
 states:
 - WI

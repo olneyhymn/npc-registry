@@ -15,8 +15,15 @@ ministers:
 name: Pencader Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "DE\nGlasgow\nPencader Presbyterian Church  (June 21, 1936\u20131942)\n\
-  Pastor: Henry Welbon, 1936\u201337"
+raw_data: 'DE
+
+  Glasgow
+
+  Pencader Presbyterian Church  (June 21, 1936-1942)
+
+  Pastor: Henry Welbon, 1936-37
+
+  '
 received_from: null
 states:
 - DE

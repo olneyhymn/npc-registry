@@ -36,11 +36,26 @@ names:
   name: Pocono Orthodox Presbyterian Church
   start: 1989-10-01
 origination_date: *id001
-raw_data: "PA Reeders\n\nNew Life Chapel, Stroudsburg (1986\u2013October 1,1989)\n\
-  Pocono Orthodox Presbyterian Church (October 1, 1989\u2013 )\n(formerly New Life\
-  \ OPC, Stroudburg, 1989\u201391)\n2631 Mountain Road\nOrg. Pastor: William Laverty,\
-  \ 1988\u201389\nPastors: William Laverty, 1989\u201393\nThomas Foh, 1995\u2013\n\
-  Supply:  Thomas Foh, 1993\u201395"
+raw_data: 'PA Reeders
+
+
+  New Life Chapel, Stroudsburg (1986-October 1,1989)
+
+  Pocono Orthodox Presbyterian Church (October 1, 1989- )
+
+  (formerly New Life OPC, Stroudburg, 1989-91)
+
+  2631 Mountain Road
+
+  Org. Pastor: William Laverty, 1988-89
+
+  Pastors: William Laverty, 1989-93
+
+  Thomas Foh, 1995-
+
+  Supply:  Thomas Foh, 1993-95
+
+  '
 received_from: null
 states:
 - PA

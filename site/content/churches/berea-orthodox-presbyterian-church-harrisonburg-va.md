@@ -23,9 +23,8 @@ names:
   name: Berea Orthodox Presbyterian Church
   start: 1974-07-22
 origination_date: *id001
-raw_data: "VIRGINIA  Harrisonburg\nBerea Orthodox Presbyterian Church  (July 22, 1974\u2013\
-  December 3, 2005)\nPastors: Timothy Gregson, 1974\u20132002\nStephen Dufresne, 2004\u2013\
-  5"
+raw_data: "VIRGINIA\tHarrisonburg\nBerea Orthodox Presbyterian Church  (July 22, 1974-December\
+  \ 3, 2005)\nPastors: Timothy Gregson, 1974-2002\nStephen Dufresne, 2004-5\n"
 received_from: null
 states:
 - VA

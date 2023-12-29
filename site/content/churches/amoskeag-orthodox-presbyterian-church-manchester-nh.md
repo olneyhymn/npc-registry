@@ -26,10 +26,21 @@ names:
   name: Amoskeag Orthodox Presbyterian Church
   start: 2000-06-03
 origination_date: *id001
-raw_data: "NH\nManchester\nAmoskeag Orthodox Presbyterian Chapel  (April 1997\u2013\
-  June 3, 2000)\nAmoskeag Orthodox Presbyterian Church  (June 3, 2000\u2013 )\n95\
-  \ Brook Street\nMissionary: Gregory Reynolds, 1997\u20132000\nPastor: Gregory Reynolds,\
-  \ 2000\u2013"
+raw_data: 'NH
+
+  Manchester
+
+  Amoskeag Orthodox Presbyterian Chapel  (April 1997-June 3, 2000)
+
+  Amoskeag Orthodox Presbyterian Church  (June 3, 2000- )
+
+  95 Brook Street
+
+  Missionary: Gregory Reynolds, 1997-2000
+
+  Pastor: Gregory Reynolds, 2000-
+
+  '
 received_from: null
 states:
 - NH

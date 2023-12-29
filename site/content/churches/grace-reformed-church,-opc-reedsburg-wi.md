@@ -26,9 +26,20 @@ names:
   name: Grace Reformed Church, OPC
   start: 2007-10-12
 origination_date: *id001
-raw_data: "WI   Reedsburg\n\nGrace Reformed Chapel  (April 16, 2004\u2013October 12,\
-  \ 2007)\nGrace Reformed Church, OPC  (October 12, 2007\u2014 )\n148 N. Park Street\n\
-  Org. Pastor: Christian McShaffrey, 2004\u20147\nPastor: Christian McShaffrey, 2007"
+raw_data: 'WI   Reedsburg
+
+
+  Grace Reformed Chapel  (April 16, 2004-October 12, 2007)
+
+  Grace Reformed Church, OPC  (October 12, 2007- )
+
+  148 N. Park Street
+
+  Org. Pastor: Christian McShaffrey, 2004-7
+
+  Pastor: Christian McShaffrey, 2007
+
+  '
 received_from: null
 states:
 - WI

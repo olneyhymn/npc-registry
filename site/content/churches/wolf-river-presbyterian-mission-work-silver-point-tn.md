@@ -15,8 +15,17 @@ ministers:
 name: Wolf River Presbyterian mission work
 names: null
 origination_date: *id001
-raw_data: "TN\nCollierville\nWolf River Presbyterian mission work  (September 10,\
-  \ 2010\u2013 )\nSilver Point, 9177 Roberts Road.\nOrg. Pastor: Mark Winder, 2010\u2013"
+raw_data: 'TN
+
+  Collierville
+
+  Wolf River Presbyterian mission work  (September 10, 2010- )
+
+  Silver Point, 9177 Roberts Road.
+
+  Org. Pastor: Mark Winder, 2010-
+
+  '
 received_from: null
 states:
 - TN

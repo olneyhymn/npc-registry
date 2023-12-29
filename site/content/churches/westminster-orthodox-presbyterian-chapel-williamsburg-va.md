@@ -15,9 +15,17 @@ ministers:
 name: Westminster Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "VIRGINIA\nWilliamsburg\nWestminster Orthodox Presbyterian Chapel  (April\
-  \ 28, 1973\u2013 December 18, 1983)\n(transferred to the Presbyterian Church in\
-  \ America, December 18, 1983)\nEvangelist: H. Morton Whitman, 1973\u201383"
+raw_data: 'VIRGINIA
+
+  Williamsburg
+
+  Westminster Orthodox Presbyterian Chapel  (April 28, 1973- December 18, 1983)
+
+  (transferred to the Presbyterian Church in America, December 18, 1983)
+
+  Evangelist: H. Morton Whitman, 1973-83
+
+  '
 received_from: null
 states:
 - VA

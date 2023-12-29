@@ -21,10 +21,20 @@ names:
   name: Reformation Church, OPC
   start: 2002-04-12
 origination_date: *id001
-raw_data: "AR    Elizabeth\n\nReformation Church Chapel  (February 5, 2001\u2013April\
-  \ 12, 2002)\nReformation Church, OPC (April 12, 2002\u2013 )\n(formerly in Parker,\
-  \ 2001\u20132, and in Castle Rock, 2002\u201314)\n489 Rocky Cliff Circle\nPastor:\
-  \ Kevin Swanson, 2002\u2013"
+raw_data: 'AR    Elizabeth
+
+
+  Reformation Church Chapel  (February 5, 2001-April 12, 2002)
+
+  Reformation Church, OPC (April 12, 2002- )
+
+  (formerly in Parker, 2001-2, and in Castle Rock, 2002-14)
+
+  489 Rocky Cliff Circle
+
+  Pastor: Kevin Swanson, 2002-
+
+  '
 received_from: null
 states:
 - CO

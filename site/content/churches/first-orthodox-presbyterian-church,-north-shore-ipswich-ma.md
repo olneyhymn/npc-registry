@@ -23,7 +23,7 @@ minister:
   start: 1991-01-01
   type: Pastor
 - end: 2013-01-01
-  name: "David O\u2019Leary"
+  name: David O'Leary
   start: 2002-01-01
   type: Pastor
 - end: null
@@ -43,7 +43,7 @@ ministers:
 - Kenneth Ironside
 - James Kern
 - Charles Wingard
-- "David O\u2019Leary"
+- David O'Leary
 - Gregory Hills
 - Gregory Hills
 - Derek Baker
@@ -56,12 +56,31 @@ names:
   name: First Orthodox Presbyterian Church of Hamilton
   start: 1961-11-16
 origination_date: *id001
-raw_data: "MASSACHUSSETTS Ipswich\nFirst Orthodox Presbyterian Church, North Shore\
-  \  (November 16, 1961\u2013 )\n179 County Road (Highway 1A)\n(called First Orthodox\
-  \ Presbyterian Church of Hamilton, 1961\u20131987)\nPastors: Wendell Rockey, 1964\u2013\
-  75\nKenneth Ironside, 1976\u201383\nJames Kern, 1984\u201390\nCharles Wingard, 1991\u2013\
-  2000\nDavid O\u2019Leary, 2002\u201313\nGregory Hills, 2012\u2013\nAssoc. Pastors:\
-  \ Gregory Hills, 2002\u201312\nDerek Baker, 2010\u2013"
+raw_data: 'MASSACHUSSETTS Ipswich
+
+  First Orthodox Presbyterian Church, North Shore  (November 16, 1961- )
+
+  179 County Road (Highway 1A)
+
+  (called First Orthodox Presbyterian Church of Hamilton, 1961-1987)
+
+  Pastors: Wendell Rockey, 1964-75
+
+  Kenneth Ironside, 1976-83
+
+  James Kern, 1984-90
+
+  Charles Wingard, 1991-2000
+
+  David O''Leary, 2002-13
+
+  Gregory Hills, 2012-
+
+  Assoc. Pastors: Gregory Hills, 2002-12
+
+  Derek Baker, 2010-
+
+  '
 received_from: null
 states:
 - MA

@@ -31,10 +31,23 @@ names:
   name: Providence Orthodox Presbyterian Church
   start: 2004-03-28
 origination_date: *id001
-raw_data: "NORTH CAROLINA\nGreensboro\nProvidence Orthodox Presbyterian Chapel  (April\
-  \ 27, 2001\u2013March 28, 2004)\nProvidence Orthodox Presbyterian Church  (March\
-  \ 28, 2004\u2013 )\n4600 Lake Brandt Road\nOrg. Pastor: Arie van Eyk, 2003\u2013\
-  4\nPastor: Arie van Eyk, 2004\u2013\nTeacher: Bryan P. Crotts, 2013\u201314"
+raw_data: 'NORTH CAROLINA
+
+  Greensboro
+
+  Providence Orthodox Presbyterian Chapel  (April 27, 2001-March 28, 2004)
+
+  Providence Orthodox Presbyterian Church  (March 28, 2004- )
+
+  4600 Lake Brandt Road
+
+  Org. Pastor: Arie van Eyk, 2003-4
+
+  Pastor: Arie van Eyk, 2004-
+
+  Teacher: Bryan P. Crotts, 2013-14
+
+  '
 received_from: null
 states:
 - NC

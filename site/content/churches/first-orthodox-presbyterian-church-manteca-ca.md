@@ -26,9 +26,18 @@ names:
   name: Bethany Orthodox Presbyterian Church
   start: 1959-01-01
 origination_date: *id001
-raw_data: "AR Manteca\n\nFirst Orthodox Presbyterian Church  (March 19, 1959\u2013\
-  March 18, 1978)\n(Bethany Orthodox Presbyterian Church, Stockton, California, 1959\u2013\
-  1972)\nPastors: C. John Miller, 1959\u201363\nGerald Latal, 1963\u201372"
+raw_data: 'AR Manteca
+
+
+  First Orthodox Presbyterian Church  (March 19, 1959-March 18, 1978)
+
+  (Bethany Orthodox Presbyterian Church, Stockton, California, 1959-1972)
+
+  Pastors: C. John Miller, 1959-63
+
+  Gerald Latal, 1963-72
+
+  '
 received_from: null
 states:
 - CA

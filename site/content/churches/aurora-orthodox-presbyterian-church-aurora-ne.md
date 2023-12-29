@@ -33,9 +33,19 @@ names:
   name: Aurora Orthodox Presbyterian Church
   start: 1937-10-19
 origination_date: *id001
-raw_data: "NEBRASKA Aurora\nAurora Orthodox Presbyterian Church  (October 19, 1937\u2013\
-  \ January 1, 1955)\nPastors: James Brown, 1937\u201338\nCalvin Busch, 1938\u2013\
-  43\nWalter Magee, 1944\u201345\nSupply:  R. Heber McIlwaine, 1946"
+raw_data: 'NEBRASKA Aurora
+
+  Aurora Orthodox Presbyterian Church  (October 19, 1937- January 1, 1955)
+
+  Pastors: James Brown, 1937-38
+
+  Calvin Busch, 1938-43
+
+  Walter Magee, 1944-45
+
+  Supply:  R. Heber McIlwaine, 1946
+
+  '
 received_from: null
 states:
 - NE

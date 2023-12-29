@@ -28,9 +28,19 @@ names:
   name: Delta Oaks Orthodox Presbyterian Church
   start: 1994-10-07
 origination_date: *id001
-raw_data: "AR Pittsburg\nDelta Oaks Orthodox Presbyterian Church  (October 7, 1994\u2013\
-  \ )\n1251 California Avenue #700\nEvangelist: Martin Ban, 1989\u201394\nPastors:\
-  \ Martin Ban, 1994\u20132000\nMichael Dengerink, 2002"
+raw_data: 'AR Pittsburg
+
+  Delta Oaks Orthodox Presbyterian Church  (October 7, 1994- )
+
+  1251 California Avenue #700
+
+  Evangelist: Martin Ban, 1989-94
+
+  Pastors: Martin Ban, 1994-2000
+
+  Michael Dengerink, 2002
+
+  '
 received_from: null
 states:
 - CA

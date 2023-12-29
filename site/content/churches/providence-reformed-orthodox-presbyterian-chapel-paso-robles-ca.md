@@ -20,9 +20,15 @@ ministers:
 name: Providence Reformed Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "AR    Paso Robles\nProvidence Reformed Orthodox Presbyterian Chapel  (May\
-  \ 5, 2000\u2013June 7, 2009)\nOrg. Pastors: Marcus Serven, 2000\u20132005\nTimothy\
-  \ Walker, 2006\u20139"
+raw_data: 'AR    Paso Robles
+
+  Providence Reformed Orthodox Presbyterian Chapel  (May 5, 2000-June 7, 2009)
+
+  Org. Pastors: Marcus Serven, 2000-2005
+
+  Timothy Walker, 2006-9
+
+  '
 received_from: null
 states:
 - CA

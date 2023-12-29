@@ -15,8 +15,13 @@ ministers:
 name: Trinity Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "NY Syracuse\nTrinity Orthodox Presbyterian Chapel  (May 21, 1978\u2013\
-  1979)\nEvangelist: Richard Knodel, 1978\u201379"
+raw_data: 'NY Syracuse
+
+  Trinity Orthodox Presbyterian Chapel  (May 21, 1978-1979)
+
+  Evangelist: Richard Knodel, 1978-79
+
+  '
 received_from: null
 states:
 - NY

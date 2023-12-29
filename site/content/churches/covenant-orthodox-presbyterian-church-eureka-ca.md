@@ -26,10 +26,9 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 2000-10-20
 origination_date: *id001
-raw_data: "AR  Eureka\nCovenant Orthodox Presbyterian Mission  (October 9, 1994\u2013\
-  October 20, 2000)\nCovenant Orthodox Presbyterian Church  (October 20, 2000\u2013\
-  October 18, 2009)\nEvangelist: Andrew Preston, 1995\u20132000\nPastor: Andrew Preston,\
-  \ 2000\u20132005"
+raw_data: "AR\tEureka\nCovenant Orthodox Presbyterian Mission  (October 9, 1994-October\
+  \ 20, 2000)\nCovenant Orthodox Presbyterian Church  (October 20, 2000-October 18,\
+  \ 2009)\nEvangelist: Andrew Preston, 1995-2000\nPastor: Andrew Preston, 2000-2005\n"
 received_from: null
 states:
 - CA

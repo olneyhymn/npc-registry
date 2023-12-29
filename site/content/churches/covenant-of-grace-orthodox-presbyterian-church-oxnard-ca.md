@@ -33,10 +33,21 @@ names:
   name: Covenant of Grace Orthodox Presbyterian Church
   start: 1981-08-02
 origination_date: *id001
-raw_data: "AR    Oxnard\nCovenant of Grace Orthodox Presbyterian Church  (August 2,\
-  \ 1981\u2013 )\nNorth Oxnard United Methodost Church, Gonzales Road at Gallatin\n\
-  Evangelist: Stephen Doe, 1981\nPastors: Donald Duff, 1981\u201392\nMark Mueller\
-  \ (Supply), 1992\u201393\nMark Mueller, 1993\u2013"
+raw_data: 'AR    Oxnard
+
+  Covenant of Grace Orthodox Presbyterian Church  (August 2, 1981- )
+
+  North Oxnard United Methodost Church, Gonzales Road at Gallatin
+
+  Evangelist: Stephen Doe, 1981
+
+  Pastors: Donald Duff, 1981-92
+
+  Mark Mueller (Supply), 1992-93
+
+  Mark Mueller, 1993-
+
+  '
 received_from: null
 states:
 - CA

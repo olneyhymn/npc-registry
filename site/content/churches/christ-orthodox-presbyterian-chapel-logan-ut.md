@@ -18,8 +18,15 @@ names:
   name: Christ Orthodox Presbyterian Chapel
   start: 2004-01-01
 origination_date: *id001
-raw_data: "UT\nLogan\nChrist Orthodox Presbyterian Chapel (2004\u20132009)\nOrg. Pastor:\
-  \ Scott Seder, 2004\u20135"
+raw_data: 'UT
+
+  Logan
+
+  Christ Orthodox Presbyterian Chapel (2004-2009)
+
+  Org. Pastor: Scott Seder, 2004-5
+
+  '
 received_from: null
 states:
 - UT

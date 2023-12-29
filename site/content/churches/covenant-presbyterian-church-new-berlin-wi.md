@@ -26,10 +26,22 @@ names:
   name: Covenant Presbyterian Church, OPC
   start: 2007-10-21
 origination_date: *id001
-raw_data: "WI\nNew Berlin\n\nCovenant Presbyterian Chapel, OPC  (January 25, 2002\u2013\
-  October 21, 2007)\nCovenant Presbyterian Church, OPC  (October 21, 2007\u2013 )\n\
-  Elwood Elementary School, 5900 S. Sunny Slope Road\nOrg. Pastor: James Hoekstra,\
-  \ 2002\u20137\nPastor: Frank Marsh, 2008\u2013"
+raw_data: 'WI
+
+  New Berlin
+
+
+  Covenant Presbyterian Chapel, OPC  (January 25, 2002-October 21, 2007)
+
+  Covenant Presbyterian Church, OPC  (October 21, 2007- )
+
+  Elwood Elementary School, 5900 S. Sunny Slope Road
+
+  Org. Pastor: James Hoekstra, 2002-7
+
+  Pastor: Frank Marsh, 2008-
+
+  '
 received_from: null
 states:
 - WI

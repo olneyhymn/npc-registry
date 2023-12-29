@@ -18,8 +18,15 @@ names:
   name: Trinity Orthodox Presbyterian Chapel
   start: 2009-01-01
 origination_date: *id001
-raw_data: "IN\nEvansville\nTrinity Orthodox Presbyterian Chapel  (2009\u201312)\n\
-  Org. Pastor: Sam Allison, 2009\u201312"
+raw_data: 'IN
+
+  Evansville
+
+  Trinity Orthodox Presbyterian Chapel  (2009-12)
+
+  Org. Pastor: Sam Allison, 2009-12
+
+  '
 received_from: null
 states:
 - IN

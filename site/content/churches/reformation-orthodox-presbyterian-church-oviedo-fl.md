@@ -36,11 +36,11 @@ names:
   name: Reformation Orthodox Presbyterian Church
   start: 2004-05-30
 origination_date: *id001
-raw_data: "FLORIDA  Oviedo\nReformation Orthodox Presbyterian mission work (September\
-  \ 7, 2003\u2013May 30, 2004)\nReformation Orthodox Presbyterian Church  (May 30,\
-  \ 2004\u2013 )\nMeeting at Reformed Theological Seminary, 1231 Reformation Drive\n\
-  Org. Pastor: Eric Watkins, 2003\u20134\nPastors: Eric Watkins, 2004\u20138\nStephen\
-  \ Oharek, 2008\u2013\nAssoc. Pastor: David Chilton, 2004\u2013"
+raw_data: "FLORIDA\tOviedo\nReformation Orthodox Presbyterian mission work (September\
+  \ 7, 2003-May 30, 2004)\nReformation Orthodox Presbyterian Church  (May 30, 2004-\
+  \ )\nMeeting at Reformed Theological Seminary, 1231 Reformation Drive\nOrg. Pastor:\
+  \ Eric Watkins, 2003-4\nPastors: Eric Watkins, 2004-8\nStephen Oharek, 2008-\nAssoc.\
+  \ Pastor: David Chilton, 2004-\n"
 received_from: null
 states:
 - FL

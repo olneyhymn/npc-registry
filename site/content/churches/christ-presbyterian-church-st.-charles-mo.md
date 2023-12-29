@@ -28,10 +28,21 @@ names:
   name: Christ Presbyterian Church
   start: 2008-04-06
 origination_date: *id001
-raw_data: "MISSOURI St. Charles\nChrist Presbyterian Church  (April 6, 2008\u2013\
-  \ )\n(formerly in the Presbyterian Church in America)\n2156 Bluestone Drive\nPastor:\
-  \ Scott Churnock, 1991\u2013\nAssoc. Pastors: Todd Wagenmaker, 2008\u201310\nKent\
-  \ W. Harding, 2011"
+raw_data: 'MISSOURI St. Charles
+
+  Christ Presbyterian Church  (April 6, 2008- )
+
+  (formerly in the Presbyterian Church in America)
+
+  2156 Bluestone Drive
+
+  Pastor: Scott Churnock, 1991-
+
+  Assoc. Pastors: Todd Wagenmaker, 2008-10
+
+  Kent W. Harding, 2011
+
+  '
 received_from:
 - Presbyterian Church in America
 states:

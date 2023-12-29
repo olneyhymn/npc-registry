@@ -26,9 +26,19 @@ names:
   name: Staunton Orthodox Presbyterian Church
   start: 2007-01-01
 origination_date: *id001
-raw_data: "VIRGINIA Staunton\nStaunton Orthodox Presbyterian Church  (October 2, 1999\u2013\
-  \ )\n(called Covenant Community Orthodox Presbyterian Church, 1999\u20132007)\n\
-  2408 Hickory Street\nPastors: S. Scott Willet, 1999\u20132009\nEthan Allison, 2010\u2013"
+raw_data: 'VIRGINIA Staunton
+
+  Staunton Orthodox Presbyterian Church  (October 2, 1999- )
+
+  (called Covenant Community Orthodox Presbyterian Church, 1999-2007)
+
+  2408 Hickory Street
+
+  Pastors: S. Scott Willet, 1999-2009
+
+  Ethan Allison, 2010-
+
+  '
 received_from: null
 states:
 - VA

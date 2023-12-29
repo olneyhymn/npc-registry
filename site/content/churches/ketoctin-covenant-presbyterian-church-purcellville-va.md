@@ -44,7 +44,9 @@ raw_data: 'VIRGINIA Purcellville
 
   Pastor: Charles Biggs, 2005-
 
-  Assoc. Pastor: Daniel J. Halley, 2013-15'
+  Assoc. Pastor: Daniel J. Halley, 2013-15
+
+  '
 received_from: null
 states:
 - VA

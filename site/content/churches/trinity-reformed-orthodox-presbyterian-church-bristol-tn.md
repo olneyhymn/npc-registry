@@ -23,9 +23,16 @@ names:
   name: Trinity Reformed Orthodox Presbyterian Church
   start: 2000-07-21
 origination_date: *id001
-raw_data: "TN Bristol\n\nTrinity Reformed Orthodox Presbyterian Church  (July 21,\
-  \ 2000\u2013May 31, 2006)\nSupply: Robert McCurley, 1997\u20132000\nPastor: Robert\
-  \ McCurley, 2000\u20132002"
+raw_data: 'TN Bristol
+
+
+  Trinity Reformed Orthodox Presbyterian Church  (July 21, 2000-May 31, 2006)
+
+  Supply: Robert McCurley, 1997-2000
+
+  Pastor: Robert McCurley, 2000-2002
+
+  '
 received_from: null
 states:
 - TN

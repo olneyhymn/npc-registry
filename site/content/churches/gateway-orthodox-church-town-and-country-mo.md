@@ -20,9 +20,18 @@ ministers:
 name: Gateway Orthodox Church
 names: null
 origination_date: *id001
-raw_data: "MISSOURI St. Louis\n\nGateway Orthodox Church mission work (2012\u2013\
-  \ )\nMeeting at Westminster Christian Academy, 800 Maryville Centre Dr., Town and\
-  \ Country\nOrg. Pastors: Todd V. Wagenmaker, 2009\u201315\nPaul A. Mourreale, 2015\u2013"
+raw_data: 'MISSOURI St. Louis
+
+
+  Gateway Orthodox Church mission work (2012- )
+
+  Meeting at Westminster Christian Academy, 800 Maryville Centre Dr., Town and Country
+
+  Org. Pastors: Todd V. Wagenmaker, 2009-15
+
+  Paul A. Mourreale, 2015-
+
+  '
 received_from: null
 states:
 - MO

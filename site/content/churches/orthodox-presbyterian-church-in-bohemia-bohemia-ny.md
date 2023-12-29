@@ -26,10 +26,19 @@ names:
   name: Orthodox Presbyterian Church in Bohemia
   start: 2001-01-20
 origination_date: *id001
-raw_data: "NY Bohemia\nFaith Orthodox Presbyterian Mission  (January 10, 1998\u2013\
-  January 20, 2001)\nOrthodox Presbyterian Church in Bohemia  (January 20, 2001\u2013\
-  \ )\n906 Church Street\nOrg. Pastor: Meindert Ploegman, 1999\u20132001\nPastor:\
-  \ Meindert Ploegman, 2001"
+raw_data: 'NY Bohemia
+
+  Faith Orthodox Presbyterian Mission  (January 10, 1998-January 20, 2001)
+
+  Orthodox Presbyterian Church in Bohemia  (January 20, 2001- )
+
+  906 Church Street
+
+  Org. Pastor: Meindert Ploegman, 1999-2001
+
+  Pastor: Meindert Ploegman, 2001
+
+  '
 received_from: null
 states:
 - NY

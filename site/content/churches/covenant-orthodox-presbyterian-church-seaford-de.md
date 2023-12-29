@@ -18,8 +18,13 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1979-05-14
 origination_date: *id001
-raw_data: "DE Seaford\nCovenant Orthodox Presbyterian Church (May 14, 1979\u2013January\
-  \ 30, 1983)\nPastor: Douglas Watson, 1979\u201383"
+raw_data: 'DE Seaford
+
+  Covenant Orthodox Presbyterian Church (May 14, 1979-January 30, 1983)
+
+  Pastor: Douglas Watson, 1979-83
+
+  '
 received_from: null
 states:
 - DE

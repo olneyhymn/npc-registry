@@ -48,11 +48,30 @@ names:
   name: Matthews Orthodox Presbyterian Church
   start: 1980-09-20
 origination_date: *id001
-raw_data: "NORTH CAROLINA\nMatthews\n\nMatthews Orthodox Presbyterian Church  (September\
-  \ 20, 1980\u2013 )\n2701 Rice Road\nPastors: Douglas Felch, 1981\u201384\nRobert\
-  \ Y . Eckardt, 1985\u201391\nJohn Carrick, 1992\u201394\nGeorge Knight, III, 1994\u2013\
-  95\nT. Nathan Trice, 1996\u2013\nAssoc. Pastor: M. Justin Rosser, 2015\u2013\nTeacher:\
-  \ George Knight, III, 1996\u20132004"
+raw_data: 'NORTH CAROLINA
+
+  Matthews
+
+
+  Matthews Orthodox Presbyterian Church  (September 20, 1980- )
+
+  2701 Rice Road
+
+  Pastors: Douglas Felch, 1981-84
+
+  Robert Y . Eckardt, 1985-91
+
+  John Carrick, 1992-94
+
+  George Knight, III, 1994-95
+
+  T. Nathan Trice, 1996-
+
+  Assoc. Pastor: M. Justin Rosser, 2015-
+
+  Teacher: George Knight, III, 1996-2004
+
+  '
 received_from: null
 states:
 - NC

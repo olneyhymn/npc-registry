@@ -41,11 +41,11 @@ names:
   name: Bethel Reformed Presbyterian Church, Orthodox Presbyterian
   start: 2003-11-01
 origination_date: *id001
-raw_data: "VIRGINIA  Fredericksburg\nBethel Reformed Presbyterian mission work  (December\
-  \ 2001\u2013November 1, 2003)\nBethel Reformed Presbyterian Church, Orthodox Presbyterian\
-  \ (November 1, 2003\u2013 )\n9304 Onyx Court\nOrg. Pastor:  Stephen Doe, 2001\u2013\
-  3\nPastors: Stephen Doe, 2003\u201312\nAndrew Miller, 2016\u2013\nAssoc. Pastor:\
-  \  Andrew Miller, 2014\u201316\nSupply:  Andrew Miller, 2012\u201314"
+raw_data: "VIRGINIA\tFredericksburg\nBethel Reformed Presbyterian mission work  (December\
+  \ 2001-November 1, 2003)\nBethel Reformed Presbyterian Church, Orthodox Presbyterian\
+  \ (November 1, 2003- )\n9304 Onyx Court\nOrg. Pastor:  Stephen Doe, 2001-3\nPastors:\
+  \ Stephen Doe, 2003-12\nAndrew Miller, 2016-\nAssoc. Pastor:  Andrew Miller, 2014-16\n\
+  Supply:  Andrew Miller, 2012-14\n"
 received_from: null
 states:
 - VA

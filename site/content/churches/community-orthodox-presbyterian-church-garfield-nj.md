@@ -28,9 +28,19 @@ names:
   name: Community Orthodox Presbyterian Church
   start: 1959-01-04
 origination_date: *id001
-raw_data: "NEW JERSEY\nGarfield\nCommunity Orthodox Presbyterian Church  (January\
-  \ 4, 1959\u2013June 2, 1983)\nPastors:  Thomas Champness, 1959\u201364\nGordon Mouw,\
-  \ 1965\u201368\nRichard Miller, 1970\u201374"
+raw_data: 'NEW JERSEY
+
+  Garfield
+
+  Community Orthodox Presbyterian Church  (January 4, 1959-June 2, 1983)
+
+  Pastors:  Thomas Champness, 1959-64
+
+  Gordon Mouw, 1965-68
+
+  Richard Miller, 1970-74
+
+  '
 received_from: null
 states:
 - NJ

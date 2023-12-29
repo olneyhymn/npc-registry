@@ -26,10 +26,20 @@ names:
   name: Hillsdale Orthodox Presbyterian Church
   start: 2015-04-17
 origination_date: *id001
-raw_data: "MI Hillsdale\n\nHillsdale Orthodox Presbyterian mission work  (September\
-  \ 22, 2007\u2013April 17, 2015)\nHillsdale Orthodox Presbyterian Church  (April\
-  \ 17, 2015\u2013 )\n44 Monroe Street\nOrg. Pastor: Everett Henes, 2008\u201315\n\
-  Pastor: Everett Henes, 2015-"
+raw_data: 'MI Hillsdale
+
+
+  Hillsdale Orthodox Presbyterian mission work  (September 22, 2007-April 17, 2015)
+
+  Hillsdale Orthodox Presbyterian Church  (April 17, 2015- )
+
+  44 Monroe Street
+
+  Org. Pastor: Everett Henes, 2008-15
+
+  Pastor: Everett Henes, 2015-
+
+  '
 received_from: null
 states:
 - MI

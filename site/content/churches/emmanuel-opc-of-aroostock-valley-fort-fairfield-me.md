@@ -18,8 +18,15 @@ names:
   name: Emmanuel OPC of Aroostock Valley
   start: 1976-04-20
 origination_date: *id001
-raw_data: "ME\nFort Fairfield\nEmmanuel OPC of Aroostock Valley  (April 20, 1976\u2013\
-  October 3, 1989)\nPastor: Charles Stanton, 1976\u201387"
+raw_data: 'ME
+
+  Fort Fairfield
+
+  Emmanuel OPC of Aroostock Valley  (April 20, 1976-October 3, 1989)
+
+  Pastor: Charles Stanton, 1976-87
+
+  '
 received_from: null
 states:
 - ME

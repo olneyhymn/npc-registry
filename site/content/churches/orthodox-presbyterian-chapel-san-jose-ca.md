@@ -15,9 +15,9 @@ ministers:
 name: Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "AR  San Jose\nOrthodox Presbyterian Chapel  (February 18, 1985\u2013 July\
-  \ 1, 1990)\n(merged with Covenant Orthodox Presbyterian Church, July 1, 1990)\n\
-  Pastor: Jonathan Male, 1985\u201390"
+raw_data: "AR\tSan Jose\nOrthodox Presbyterian Chapel  (February 18, 1985- July 1,\
+  \ 1990)\n(merged with Covenant Orthodox Presbyterian Church, July 1, 1990)\nPastor:\
+  \ Jonathan Male, 1985-90\n"
 received_from: null
 states:
 - CA

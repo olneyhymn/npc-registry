@@ -23,9 +23,21 @@ names:
   name: Immanuel Chapel Orthodox Presbyterian Church
   start: 2009-10-16
 origination_date: *id001
-raw_data: "MA\nUpton\nImmanuel Chapel Orthodox Presbyterian Church  (October 16, 2009\u2013\
-  \ )\n(formerly independent)\n38 Hopkinton Road\nPastors: D. Leonard Gulstrom, 1995\u2013\
-  99 (while it was independent)\nMark Marquis, 2003\u2013"
+raw_data: 'MA
+
+  Upton
+
+  Immanuel Chapel Orthodox Presbyterian Church  (October 16, 2009- )
+
+  (formerly independent)
+
+  38 Hopkinton Road
+
+  Pastors: D. Leonard Gulstrom, 1995-99 (while it was independent)
+
+  Mark Marquis, 2003-
+
+  '
 received_from:
 - Independency
 states:

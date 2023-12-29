@@ -35,10 +35,24 @@ ministers:
 name: Covenant Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "PA Pittsburgh\n\nCovenant Orthodox Presbyterian Church  (February 2, 1937\u2013\
-  October 17, 2008)\n(withdrew to the Presbyterian Church in America, 2008)\nPastors:\
-  \ Calvin Cummings, 1937\u201374\nEdward Volz, 1976\u201379\nC. Tom Fincher, 1979\u2013\
-  84\nPaul Copeland, 1985\u201389\nJohn Wilson, 1990\u20132008"
+raw_data: 'PA Pittsburgh
+
+
+  Covenant Orthodox Presbyterian Church  (February 2, 1937-October 17, 2008)
+
+  (withdrew to the Presbyterian Church in America, 2008)
+
+  Pastors: Calvin Cummings, 1937-74
+
+  Edward Volz, 1976-79
+
+  C. Tom Fincher, 1979-84
+
+  Paul Copeland, 1985-89
+
+  John Wilson, 1990-2008
+
+  '
 received_from: null
 states:
 - PA

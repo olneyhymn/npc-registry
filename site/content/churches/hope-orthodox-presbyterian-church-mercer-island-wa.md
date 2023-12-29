@@ -15,9 +15,18 @@ ministers:
 name: Hope Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "WA\nMercer Island\n\nHope Orthodox Presbyterian Church (2013\u2013December\
-  \ 20, 2015)\n(withdrew to the PCA, December 20, 2015)\nPastor:  Daniel W. McManigal,\
-  \ 2014\u201315"
+raw_data: 'WA
+
+  Mercer Island
+
+
+  Hope Orthodox Presbyterian Church (2013-December 20, 2015)
+
+  (withdrew to the PCA, December 20, 2015)
+
+  Pastor:  Daniel W. McManigal, 2014-15
+
+  '
 received_from: null
 states:
 - WA

@@ -20,9 +20,18 @@ ministers:
 name: Roswell Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "NM\nRoswell\n\nRoswell Orthodox Presbyterian Church  (April 8, 1981\u2013\
-  December 28, 2003)\nPastors: Glenn Jerrell, 1981\u201398\nRichard Shaw, 1999\u2013\
-  2003"
+raw_data: 'NM
+
+  Roswell
+
+
+  Roswell Orthodox Presbyterian Church  (April 8, 1981-December 28, 2003)
+
+  Pastors: Glenn Jerrell, 1981-98
+
+  Richard Shaw, 1999-2003
+
+  '
 received_from: null
 states:
 - NM

@@ -18,8 +18,15 @@ names:
   name: East Madison Orthodox Presbyterian Church
   start: 1957-03-27
 origination_date: *id001
-raw_data: "ME\nEast Madison\nEast Madison Orthodox Presbyterian Church  (March 27,\
-  \ 1957\u2013March 15, 1960)\nPastor: Harold Dorman, 1958\u201360"
+raw_data: 'ME
+
+  East Madison
+
+  East Madison Orthodox Presbyterian Church  (March 27, 1957-March 15, 1960)
+
+  Pastor: Harold Dorman, 1958-60
+
+  '
 received_from: null
 states:
 - ME

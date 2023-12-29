@@ -87,7 +87,9 @@ raw_data: 'California Sunnyvale
 
   Asst. Pastor: Arthur Ames, 1970-73
 
-  Assoc. Pastor: Donald Buchanan, 1975-79'
+  Assoc. Pastor: Donald Buchanan, 1975-79
+
+  '
 received_from: null
 states:
 - CA

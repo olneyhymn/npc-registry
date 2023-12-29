@@ -36,10 +36,23 @@ names:
   name: Calvary Community Orthodox Presbyterian Church
   start: null
 origination_date: *id001
-raw_data: "NEW JERSEY    Phillipsburg\nCalvary Community Orthodox Presbyterian Church\
-  \  (April 15, 1966\u2013 )\n(received from Independency, April 15, 1966)\n4 Old\
-  \ Church Road\nPastors: Lewis Grotenhuis, 1937\u201373\nGeorge Scipione, 1974\u2013\
-  82\nDonald Taws, 1982\u201392\nMichael Bobick, 1993\u2013"
+raw_data: 'NEW JERSEY    Phillipsburg
+
+  Calvary Community Orthodox Presbyterian Church  (April 15, 1966- )
+
+  (received from Independency, April 15, 1966)
+
+  4 Old Church Road
+
+  Pastors: Lewis Grotenhuis, 1937-73
+
+  George Scipione, 1974-82
+
+  Donald Taws, 1982-92
+
+  Michael Bobick, 1993-
+
+  '
 received_from:
 - Independency
 states:

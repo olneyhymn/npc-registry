@@ -28,9 +28,19 @@ names:
   name: The Orthodox Presbyterian Church of the Covenant
   start: 1943-04-08
 origination_date: *id001
-raw_data: "NY\nAlbany\nThe Orthodox Presbyterian Church of the Covenant  (April 8,\
-  \ 1943\u2013March 27, 1962)\nPastors: Herman Petersen, 1943\u201349\nKelly Tucker\
-  \ (Supply), 1951\u201352\nKelly Tucker, 1952\u201359"
+raw_data: 'NY
+
+  Albany
+
+  The Orthodox Presbyterian Church of the Covenant  (April 8, 1943-March 27, 1962)
+
+  Pastors: Herman Petersen, 1943-49
+
+  Kelly Tucker (Supply), 1951-52
+
+  Kelly Tucker, 1952-59
+
+  '
 received_from: null
 states:
 - NY

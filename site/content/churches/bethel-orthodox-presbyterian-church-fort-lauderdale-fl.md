@@ -45,11 +45,11 @@ ministers:
 name: Bethel Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "FLORIDA  Fort Lauderdale\nBethel Orthodox Presbyterian Church  (October\
-  \ 26, 1943\u2013October 28, 2000)\n(withdrew from the Orthodox Presbyterian Church,\
-  \ October 28, 2000)\nPastors: John Hills, 1945\u201357\nHenry Tavares, 1957\u2013\
-  64\nCornelius Tolsma, 1965\u201374\nDonald Taws, 1975\u201382\nJohn Smith, 1983\u2013\
-  84\nIvan DeMaster, 1985\u201393\nJon Smith, 1993\u20132000"
+raw_data: "FLORIDA\tFort Lauderdale\nBethel Orthodox Presbyterian Church  (October\
+  \ 26, 1943-October 28, 2000)\n(withdrew from the Orthodox Presbyterian Church, October\
+  \ 28, 2000)\nPastors: John Hills, 1945-57\nHenry Tavares, 1957-64\nCornelius Tolsma,\
+  \ 1965-74\nDonald Taws, 1975-82\nJohn Smith, 1983-84\nIvan DeMaster, 1985-93\nJon\
+  \ Smith, 1993-2000\n"
 received_from: null
 states:
 - FL

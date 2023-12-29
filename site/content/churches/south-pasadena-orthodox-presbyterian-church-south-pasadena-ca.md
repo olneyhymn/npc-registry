@@ -53,11 +53,28 @@ names:
   name: South Pasadena Orthodox Presbyterian Church
   start: 1936-11-02
 origination_date: *id001
-raw_data: "AR South Pasadena\n\nSouth Pasadena Orthodox Presbyterian Church  (November\
-  \ 2, 1936\u2013March 20, 1983)\nPastors: Lynne Wade, 1936\u201339\nRussell Piper,\
-  \ 1939\u201343\nBruce Hunt (Supply), 1943\u201344\nRobert Brown, 1944\u201348\n\
-  James Moore, 1951\u201361\nMichael Stingley, 1962\u201365\nSal Solis, 1965\u2013\
-  78\nDavid Tickner, 1979\u201382"
+raw_data: 'AR South Pasadena
+
+
+  South Pasadena Orthodox Presbyterian Church  (November 2, 1936-March 20, 1983)
+
+  Pastors: Lynne Wade, 1936-39
+
+  Russell Piper, 1939-43
+
+  Bruce Hunt (Supply), 1943-44
+
+  Robert Brown, 1944-48
+
+  James Moore, 1951-61
+
+  Michael Stingley, 1962-65
+
+  Sal Solis, 1965-78
+
+  David Tickner, 1979-82
+
+  '
 received_from: null
 states:
 - CA

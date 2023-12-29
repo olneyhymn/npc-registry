@@ -31,10 +31,21 @@ names:
   name: Mt. Carmel Orthodox Presbyterian Church
   start: 2001-03-18
 origination_date: *id001
-raw_data: "NEW JERSEY Somerset\nMt. Carmel Orthodox Presbyterian Church  (March 18,\
-  \ 2001\u2013 )\n(received from Independency, March 18, 2001)\n350 Franklin Boulevard\n\
-  Pastors: Robert J. Cameron, 2001\u20139\nSamuel Rodriguez, 2011\u201313\nAssoc.\
-  \ Pastor: Cornelius Johnson, 2001\u20134"
+raw_data: 'NEW JERSEY Somerset
+
+  Mt. Carmel Orthodox Presbyterian Church  (March 18, 2001- )
+
+  (received from Independency, March 18, 2001)
+
+  350 Franklin Boulevard
+
+  Pastors: Robert J. Cameron, 2001-9
+
+  Samuel Rodriguez, 2011-13
+
+  Assoc. Pastor: Cornelius Johnson, 2001-4
+
+  '
 received_from:
 - Independency
 states:

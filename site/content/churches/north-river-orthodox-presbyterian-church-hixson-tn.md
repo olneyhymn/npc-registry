@@ -2,7 +2,7 @@
 date: &id001 1979-07-24
 end_date: null
 location:
-  address: ''
+  address: null
   city: Hixson
   state: TN
 minister:
@@ -23,9 +23,16 @@ names:
   name: North River Orthodox Presbyterian Church
   start: 1979-07-24
 origination_date: *id001
-raw_data: "TN    Hixson\n\nNorth River Orthodox Presbyterian Church  (July 24, 1979\u2013\
-  April 3, 1987)\nSupply: Henry Krabbendam, 1979\u201381\nPastor: Barry Henning, 1982\u2013\
-  87"
+raw_data: 'TN    Hixson
+
+
+  North River Orthodox Presbyterian Church  (July 24, 1979-April 3, 1987)
+
+  Supply: Henry Krabbendam, 1979-81
+
+  Pastor: Barry Henning, 1982-87
+
+  '
 received_from: null
 states:
 - TN

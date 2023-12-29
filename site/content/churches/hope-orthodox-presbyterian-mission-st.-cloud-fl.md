@@ -20,9 +20,16 @@ ministers:
 name: Hope Orthodox Presbyterian Mission
 names: null
 origination_date: *id001
-raw_data: "FLORIDA St. Cloud\n\nHope Orthodox Presbyterian Mission  (February 22,\
-  \ 1996\u2013April 14, 2005)\nEvangelists: Chad Sadorf, 1996\u20132002\nWilliam Holiday,\
-  \ 2002\u20134"
+raw_data: 'FLORIDA St. Cloud
+
+
+  Hope Orthodox Presbyterian Mission  (February 22, 1996-April 14, 2005)
+
+  Evangelists: Chad Sadorf, 1996-2002
+
+  William Holiday, 2002-4
+
+  '
 received_from: null
 states:
 - FL

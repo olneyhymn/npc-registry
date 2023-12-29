@@ -18,8 +18,15 @@ names:
   name: Providence Presbyterian Church
   start: null
 origination_date: *id001
-raw_data: "West Lebanon\nProvidence Presbyterian Church\n99 Maple Street\nOrg. Pastor:\
-  \ Timothy G. Herndon, 2013\u2013"
+raw_data: 'West Lebanon
+
+  Providence Presbyterian Church
+
+  99 Maple Street
+
+  Org. Pastor: Timothy G. Herndon, 2013-
+
+  '
 received_from: null
 states:
 - NH

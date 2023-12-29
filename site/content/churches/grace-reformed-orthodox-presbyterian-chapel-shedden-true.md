@@ -18,9 +18,18 @@ names:
   name: Grace Reformed Orthodox Presbyterian Chapel
   start: 1999-03-19
 origination_date: *id001
-raw_data: "ON\nShedden\n\nGrace Reformed Orthodox Presbyterian Chapel  (March 19,\
-  \ 1999\u2013January 1, 2012)\n325888 Talbot Line (Highway 3)\nPastor: K. Dale Collison,\
-  \ 2004\u201312"
+raw_data: 'ON
+
+  Shedden
+
+
+  Grace Reformed Orthodox Presbyterian Chapel  (March 19, 1999-January 1, 2012)
+
+  325888 Talbot Line (Highway 3)
+
+  Pastor: K. Dale Collison, 2004-12
+
+  '
 received_from: null
 states:
 - 'True'

@@ -46,10 +46,28 @@ names:
   name: Calvary Orthodox Presbyterian Church
   start: null
 origination_date: *id001
-raw_data: "NY\nSchenectady\n\nCalvary Orthodox Presbyterian Church  (November 4, 1938\u2013\
-  \ )\n1230 Rugby Road\nPastors: Raymond Meiners, 1938\u201380\nH. Carl Shank, 1982\u2013\
-  88\nJohn Mallin, 1989\u201391\nWilliam Gorrell, 1992\u20132001\nThomas Trouwborst,\
-  \ 2001\u2013\nAssoc. Pastor: Stuart Jones, 1977\u201382"
+raw_data: 'NY
+
+  Schenectady
+
+
+  Calvary Orthodox Presbyterian Church  (November 4, 1938- )
+
+  1230 Rugby Road
+
+  Pastors: Raymond Meiners, 1938-80
+
+  H. Carl Shank, 1982-88
+
+  John Mallin, 1989-91
+
+  William Gorrell, 1992-2001
+
+  Thomas Trouwborst, 2001-
+
+  Assoc. Pastor: Stuart Jones, 1977-82
+
+  '
 received_from: null
 states:
 - NY

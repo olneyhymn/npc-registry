@@ -18,9 +18,18 @@ names:
   name: Orthodox Presbyterian Church
   start: 1967-10-11
 origination_date: *id001
-raw_data: "TN\nGreeneville\n\nOrthodox Presbyterian Church  (October 11, 1967\u2013\
-  October 29, 1975)\n(transferred to the Presbyterian Church in America, 1975)\nPastor:\
-  \ Robert Valentine, 1967\u201375"
+raw_data: 'TN
+
+  Greeneville
+
+
+  Orthodox Presbyterian Church  (October 11, 1967-October 29, 1975)
+
+  (transferred to the Presbyterian Church in America, 1975)
+
+  Pastor: Robert Valentine, 1967-75
+
+  '
 received_from: null
 states:
 - TN

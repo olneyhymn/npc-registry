@@ -20,10 +20,19 @@ ministers:
 name: Sovereign Grace OPC of the Quad Cities mission work
 names: null
 origination_date: *id001
-raw_data: "IA Davenport\nSovereign Grace OPC of the Quad Cities mission work  (April\
-  \ 26, 2009\u2013 )\n(moved from Moline, Illinois in 2014.)\nDavenport Seventh-day\
-  \ Adventist Church, 4444 West Kimberly Road\nOrg. Pastors:  John Wiers, 2009\u2013\
-  11\nKenneth R. Golden, 2011\u2013"
+raw_data: 'IA Davenport
+
+  Sovereign Grace OPC of the Quad Cities mission work  (April 26, 2009- )
+
+  (moved from Moline, Illinois in 2014.)
+
+  Davenport Seventh-day Adventist Church, 4444 West Kimberly Road
+
+  Org. Pastors:  John Wiers, 2009-11
+
+  Kenneth R. Golden, 2011-
+
+  '
 received_from: null
 states:
 - IA

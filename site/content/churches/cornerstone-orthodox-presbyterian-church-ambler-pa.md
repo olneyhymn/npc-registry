@@ -31,11 +31,11 @@ minister:
   start: 1997-01-01
   type: Associate Pastor
 - end: 2005-01-01
-  name: Harry R. "Buster" McLeod Jr
+  name: Harry R. Buster McLeod Jr
   start: 2003-01-01
   type: Associate Pastor
 - end: null
-  name: Cecil R. "Cris" Simpson
+  name: Cecil R. Cris Simpson
   start: 2015-01-01
   type: Associate Pastor
 - end: 2012-01-01
@@ -43,7 +43,7 @@ minister:
   start: 2010-01-01
   type: Teacher
 - end: 2015-01-01
-  name: Cecil R. "Cris" Simpson
+  name: Cecil R. Cris Simpson
   start: 2013-01-01
   type: Teacher
 - end: 2005-01-01
@@ -57,10 +57,10 @@ ministers:
 - Charles Abbate
 - Carl Trueman
 - Michael Obel
-- Harry R. "Buster" McLeod Jr
-- Cecil R. "Cris" Simpson
+- Harry R. Buster McLeod Jr
+- Cecil R. Cris Simpson
 - Carl Trueman
-- Cecil R. "Cris" Simpson
+- Cecil R. Cris Simpson
 - John Currie
 name: Cornerstone Orthodox Presbyterian Church
 names:
@@ -71,15 +71,39 @@ names:
   name: Cornerstone Orthodox Presbyterian Church
   start: 1995-12-10
 origination_date: *id001
-raw_data: "PA Ambler\nGynedd Valley Mission Work (September 18, 1993\u2013December\
-  \ 10, 1995)\nCornerstone Orthodox Presbyterian Church (December 10, 1995\u2013 )\n\
-  (called Gywnedd Valley Orthodox Presbyterian Church (1995\u20132007)\n211 W. Butler\
-  \ Pike\nOrg. Pastor: Bernard J. Stonehouse, 1993\u201395\nPastors: Edward Gross,\
-  \ 1995\u20132000\nJohn Currie, 2005\u20139\nCharles Abbate, 2010\u201311\nCarl Trueman,\
-  \ 2012\u2013\nAssoc. Pastors: Michael Obel, 1997\u20132003\nHarry R. \u201CBuster\u201D\
-  \ McLeod Jr, 2003\u20135\nCecil R. \u201CCris\u201D Simpson, 2015\u2013\nTeachers:\
-  \ Carl Trueman, 2010\u201312\nCecil R. \u201CCris\u201D Simpson, 2013\u201315\n\
-  Supply: John Currie, 2001\u20135"
+raw_data: 'PA Ambler
+
+  Gynedd Valley Mission Work (September 18, 1993-December 10, 1995)
+
+  Cornerstone Orthodox Presbyterian Church (December 10, 1995- )
+
+  (called Gywnedd Valley Orthodox Presbyterian Church (1995-2007)
+
+  211 W. Butler Pike
+
+  Org. Pastor: Bernard J. Stonehouse, 1993-95
+
+  Pastors: Edward Gross, 1995-2000
+
+  John Currie, 2005-9
+
+  Charles Abbate, 2010-11
+
+  Carl Trueman, 2012-
+
+  Assoc. Pastors: Michael Obel, 1997-2003
+
+  Harry R. "Buster" McLeod Jr, 2003-5
+
+  Cecil R. "Cris" Simpson, 2015-
+
+  Teachers: Carl Trueman, 2010-12
+
+  Cecil R. "Cris" Simpson, 2013-15
+
+  Supply: John Currie, 2001-5
+
+  '
 received_from: null
 states:
 - PA

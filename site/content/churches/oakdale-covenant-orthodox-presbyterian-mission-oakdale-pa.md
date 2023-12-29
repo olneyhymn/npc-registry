@@ -15,8 +15,14 @@ ministers:
 name: Oakdale Covenant Orthodox Presbyterian Mission
 names: null
 origination_date: *id001
-raw_data: "PA Oakdale\n\nOakdale Covenant Orthodox Presbyterian Mission  (April 1984\u2013\
-  May 31, 1987)\nEvangelist: R. Daniel Knox, 1984\u201387"
+raw_data: 'PA Oakdale
+
+
+  Oakdale Covenant Orthodox Presbyterian Mission  (April 1984-May 31, 1987)
+
+  Evangelist: R. Daniel Knox, 1984-87
+
+  '
 received_from: null
 states:
 - PA

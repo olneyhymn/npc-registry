@@ -31,10 +31,21 @@ names:
   name: Shiloh Orthodox Presbyterian Church
   start: 2013-02-08
 origination_date: *id001
-raw_data: "NORTH CAROLINA Raleigh\nShiloh Orthodox Presbyterian mission work (October\
-  \ 15, 2010\u2013 February 8, 2013)\nShiloh Orthodox Presbyterian Church  (February\
-  \ 8, 2013\u2013 )\n524 E. Whitaker Mill Road\nOrg. Pastor:  Gabriel Fluhrer, 2012\u2013\
-  13\nPastor: Gabriel Fluhrer, 2013\u201315\nAssoc. Pastor: R. Irfon Hughes, 2014\u2013"
+raw_data: 'NORTH CAROLINA Raleigh
+
+  Shiloh Orthodox Presbyterian mission work (October 15, 2010- February 8, 2013)
+
+  Shiloh Orthodox Presbyterian Church  (February 8, 2013- )
+
+  524 E. Whitaker Mill Road
+
+  Org. Pastor:  Gabriel Fluhrer, 2012-13
+
+  Pastor: Gabriel Fluhrer, 2013-15
+
+  Assoc. Pastor: R. Irfon Hughes, 2014-
+
+  '
 received_from: null
 states:
 - NC

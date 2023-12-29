@@ -21,8 +21,18 @@ names:
   name: Church of the Lakes
   start: 2004-09-17
 origination_date: *id001
-raw_data: "ME\nBrainerd\n\nChurch of the Lakes (September 17, 2004\u2013February 23,\
-  \ 2014)\n(formerly Breezy Point)\nEvangelist: Roger L. Gibbons, 2005\u201312"
+raw_data: 'ME
+
+  Brainerd
+
+
+  Church of the Lakes (September 17, 2004-February 23, 2014)
+
+  (formerly Breezy Point)
+
+  Evangelist: Roger L. Gibbons, 2005-12
+
+  '
 received_from: null
 states:
 - ME

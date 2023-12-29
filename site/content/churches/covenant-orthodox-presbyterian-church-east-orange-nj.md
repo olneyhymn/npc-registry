@@ -38,10 +38,22 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1936-11-03
 origination_date: *id001
-raw_data: "NEW JERSEY    East Orange\n\nCovenant Orthodox Presbyterian Church  (November\
-  \ 3, 1936\u2013September 27, 1969)\nPastors: Richard Gray, 1937\u201345\nAlexander\
-  \ Davison, 1946\u201348\nCharles Ellis, 1948\u201355\nW. Harllee Bordeaux, 1959\u2013\
-  63\nRichard Hodgson, 1964\u201367"
+raw_data: 'NEW JERSEY    East Orange
+
+
+  Covenant Orthodox Presbyterian Church  (November 3, 1936-September 27, 1969)
+
+  Pastors: Richard Gray, 1937-45
+
+  Alexander Davison, 1946-48
+
+  Charles Ellis, 1948-55
+
+  W. Harllee Bordeaux, 1959-63
+
+  Richard Hodgson, 1964-67
+
+  '
 received_from: null
 states:
 - NJ

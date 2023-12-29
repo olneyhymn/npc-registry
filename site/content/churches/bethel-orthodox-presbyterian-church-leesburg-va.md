@@ -33,10 +33,23 @@ names:
   name: Bethel Orthodox Presbyterian Church
   start: 1971-04-18
 origination_date: *id001
-raw_data: "VIRGINIA\nLeesburg\nBethel Orthodox Presbyterian Church  (April 18, 1971\u2013\
-  \ )\n19856 Evergreen Mills Road\nPastors: Edwin Urban, 1970\u201384\nDouglas Felch,\
-  \ 1984\u201392\nGeorge Hammond, 1993\u2013\nAssoc. Pastor: Edward Kellog, 1977\u2013\
-  83"
+raw_data: 'VIRGINIA
+
+  Leesburg
+
+  Bethel Orthodox Presbyterian Church  (April 18, 1971- )
+
+  19856 Evergreen Mills Road
+
+  Pastors: Edwin Urban, 1970-84
+
+  Douglas Felch, 1984-92
+
+  George Hammond, 1993-
+
+  Assoc. Pastor: Edward Kellog, 1977-83
+
+  '
 received_from: null
 states:
 - VA

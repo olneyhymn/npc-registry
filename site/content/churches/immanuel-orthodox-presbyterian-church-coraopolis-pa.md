@@ -31,10 +31,22 @@ names:
   name: Immanuel Orthodox Presbyterian Church
   start: 2004-11-11
 origination_date: *id001
-raw_data: "PA Coraopolis\n\nImmanuel Orthodox Presbyterian Mission  (2001\u2013November\
-  \ 11, 2004)\nImmanuel Orthodox Presbyterian Church  (November 11, 2004\u2013 )\n\
-  529 Chestnut Street\nOrg. Pastor: Robert Broline, 2000\u20132004\nPastors: Robert\
-  \ Broline, 2004\u20136\nMark Garcia, 2007\u2013"
+raw_data: 'PA Coraopolis
+
+
+  Immanuel Orthodox Presbyterian Mission  (2001-November 11, 2004)
+
+  Immanuel Orthodox Presbyterian Church  (November 11, 2004- )
+
+  529 Chestnut Street
+
+  Org. Pastor: Robert Broline, 2000-2004
+
+  Pastors: Robert Broline, 2004-6
+
+  Mark Garcia, 2007-
+
+  '
 received_from: null
 states:
 - PA

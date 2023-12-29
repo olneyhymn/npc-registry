@@ -18,9 +18,16 @@ names:
   name: New Hope Orthodox Presbyterian Church
   start: 1995-12-07
 origination_date: *id001
-raw_data: "GA Cumming\n\nNew Hope Orthodox Presbyterian Church (December 7, 1995\u2013\
-  August 16, 1998)\n(transferred to the Presbyterian Church in America, August 16,\
-  \ 1998)\nPastor: T. Jeffrey Taylor, 1995\u201398"
+raw_data: 'GA Cumming
+
+
+  New Hope Orthodox Presbyterian Church (December 7, 1995-August 16, 1998)
+
+  (transferred to the Presbyterian Church in America, August 16, 1998)
+
+  Pastor: T. Jeffrey Taylor, 1995-98
+
+  '
 received_from: null
 states:
 - GA

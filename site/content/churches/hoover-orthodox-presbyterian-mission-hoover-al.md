@@ -15,9 +15,17 @@ ministers:
 name: Hoover Orthodox Presbyterian Mission
 names: null
 origination_date: *id001
-raw_data: "ALABAMA\nHoover\nHoover Orthodox Presbyterian Mission  (February 27, 1991\u2013\
-  April 16, 1994)\n(received from the Presbyterian Church in America)\nPastor: Jon\
-  \ Smith, 1991\u201393"
+raw_data: 'ALABAMA
+
+  Hoover
+
+  Hoover Orthodox Presbyterian Mission  (February 27, 1991-April 16, 1994)
+
+  (received from the Presbyterian Church in America)
+
+  Pastor: Jon Smith, 1991-93
+
+  '
 received_from: null
 states:
 - AL

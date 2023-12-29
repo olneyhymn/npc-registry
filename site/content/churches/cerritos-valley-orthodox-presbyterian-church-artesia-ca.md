@@ -35,11 +35,24 @@ ministers:
 name: Cerritos Valley Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "AR Artesia\n\nCerritos Valley Orthodox Presbyterian Church  (December 5,\
-  \ 1976\u2013May 23, 1989)\n(transferred to the Presbyterian Church in America, May\
-  \ 23, 1989)\nPastors: Robert Newsom, 1976\u201378\nDominic Aquila, 1978\u201383\n\
-  Dana Casey, 1984\u201387\nAssoc. Pastors: Stephen Williams, 1981\u201389\nMark House,\
-  \ 1982\u201383"
+raw_data: 'AR Artesia
+
+
+  Cerritos Valley Orthodox Presbyterian Church  (December 5, 1976-May 23, 1989)
+
+  (transferred to the Presbyterian Church in America, May 23, 1989)
+
+  Pastors: Robert Newsom, 1976-78
+
+  Dominic Aquila, 1978-83
+
+  Dana Casey, 1984-87
+
+  Assoc. Pastors: Stephen Williams, 1981-89
+
+  Mark House, 1982-83
+
+  '
 received_from: null
 states:
 - CA

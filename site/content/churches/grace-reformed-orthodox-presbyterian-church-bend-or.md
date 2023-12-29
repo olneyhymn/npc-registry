@@ -63,13 +63,38 @@ names:
   name: Grace Reformed Orthodox Presbyterian Church
   start: 1936-10-25
 origination_date: *id001
-raw_data: "OR    Bend\n\nGrace Reformed Orthodox Presbyterian Church  (October 25,\
-  \ 1936\u2013 )\n(from 1936 to 1987, Westminster Orthodox Presbyterian Church)\n\
-  (from 1987 to 2003, Grace Community Orthodox Presbyterian Church)\n62162 Hamby Road\n\
-  Pastors: Glenn Coie, 1936\u201343\nRobert Nicholas, 1944\u201353\nRobert Sander,\
-  \ 1953\u201355\nEdward Wybenga, 1955\u201362\nThomas Beech, 1963\u201364\nWallace\
-  \ Bell, 1966\nDavid Hitt, 1967\u201369\nDavid Miller, 1971\u201374\nRonald McKenzie,\
-  \ 1976\u201389\nDaniel Dillard, 1990\u2013"
+raw_data: 'OR    Bend
+
+
+  Grace Reformed Orthodox Presbyterian Church  (October 25, 1936- )
+
+  (from 1936 to 1987, Westminster Orthodox Presbyterian Church)
+
+  (from 1987 to 2003, Grace Community Orthodox Presbyterian Church)
+
+  62162 Hamby Road
+
+  Pastors: Glenn Coie, 1936-43
+
+  Robert Nicholas, 1944-53
+
+  Robert Sander, 1953-55
+
+  Edward Wybenga, 1955-62
+
+  Thomas Beech, 1963-64
+
+  Wallace Bell, 1966
+
+  David Hitt, 1967-69
+
+  David Miller, 1971-74
+
+  Ronald McKenzie, 1976-89
+
+  Daniel Dillard, 1990-
+
+  '
 received_from: null
 states:
 - OR

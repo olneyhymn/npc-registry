@@ -26,10 +26,20 @@ names:
   name: Lake Orthodox Presbyterian Church
   start: 2012-06-22
 origination_date: *id001
-raw_data: "OH    Mentor\n\nLake Orthodox Presbyterian mission work  (October 19, 2007\u2013\
-  June 22, 2012)\nLake Orthodox Presbyterian Church  (June 22, 2012\u2013 )\nMeeting\
-  \ at Holiday Inn, 7701 Reynolds Road\nOrg. Pastor: Larry Oldaker, 2009\u201312\n\
-  Pastor: Geoffrey L. Willour, 2012\u2013"
+raw_data: 'OH    Mentor
+
+
+  Lake Orthodox Presbyterian mission work  (October 19, 2007-June 22, 2012)
+
+  Lake Orthodox Presbyterian Church  (June 22, 2012- )
+
+  Meeting at Holiday Inn, 7701 Reynolds Road
+
+  Org. Pastor: Larry Oldaker, 2009-12
+
+  Pastor: Geoffrey L. Willour, 2012-
+
+  '
 received_from: null
 states:
 - OH

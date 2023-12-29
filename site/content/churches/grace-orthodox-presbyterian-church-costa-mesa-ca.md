@@ -28,9 +28,9 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 1998-07-19
 origination_date: *id001
-raw_data: "AR  Costa Mesa\nGrace Orthodox Presbyterian Church  (July 19, 1998\u2013\
-  \ )\nCosta Mesa Seventh-day Adventist Church, 271 Avocado Street\nPastors: Kenneth\
-  \ Gentry, 1998\u20132001\nMichael Pasarilla, 2004\u201311\nDavid L. Thibault, 2015\u2013"
+raw_data: "AR\tCosta Mesa\nGrace Orthodox Presbyterian Church  (July 19, 1998- )\n\
+  Costa Mesa Seventh-day Adventist Church, 271 Avocado Street\nPastors: Kenneth Gentry,\
+  \ 1998-2001\nMichael Pasarilla, 2004-11\nDavid L. Thibault, 2015-\n"
 received_from: null
 states:
 - CA

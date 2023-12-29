@@ -18,8 +18,14 @@ names:
   name: Orthodox Presbyterian Chapel
   start: 1999-04-17
 origination_date: *id001
-raw_data: "CT Torrington\n\nOrthodox Presbyterian Chapel  (April 17, 1999\u2013September\
-  \ 16, 2000)\nPastor: Richard Mozer, 2000"
+raw_data: 'CT Torrington
+
+
+  Orthodox Presbyterian Chapel  (April 17, 1999-September 16, 2000)
+
+  Pastor: Richard Mozer, 2000
+
+  '
 received_from: null
 states:
 - CT

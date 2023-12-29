@@ -53,12 +53,33 @@ names:
   name: Calvary Orthodox Presbyterian Church
   start: 1936-07-05
 origination_date: *id001
-raw_data: "NEW JERSEY\nCape May Court House\nCalvary Orthodox Presbyterian Church\
-  \  (July 5, 1936\u2013 )\n(formerly Wildwood)\nAmerican Legion Post 198 Building,\
-  \ 100 Dias Creek Road\nPastors: Leonard Pitcher, 1936\u201337\nJames Rohrbaugh,\
-  \ 1937\u201340\nLeslie Dunn, 1941\u201352\nJohn Davies, 1954\u201371\nRichard Gerber,\
-  \ 1972\u201379\nDavid Cole, 1980\u201384\nGeorge Kostas, 1984\u201394\nJames Zozzaro,\
-  \ 1995\u2013"
+raw_data: 'NEW JERSEY
+
+  Cape May Court House
+
+  Calvary Orthodox Presbyterian Church  (July 5, 1936- )
+
+  (formerly Wildwood)
+
+  American Legion Post 198 Building, 100 Dias Creek Road
+
+  Pastors: Leonard Pitcher, 1936-37
+
+  James Rohrbaugh, 1937-40
+
+  Leslie Dunn, 1941-52
+
+  John Davies, 1954-71
+
+  Richard Gerber, 1972-79
+
+  David Cole, 1980-84
+
+  George Kostas, 1984-94
+
+  James Zozzaro, 1995-
+
+  '
 received_from: null
 states:
 - NJ

@@ -23,9 +23,18 @@ names:
   name: Arco Orthodox Presbyterian Church
   start: 2003-08-17
 origination_date: *id001
-raw_data: "ID Arco\n\nArco Orthodox Presbyterian Church (August 17, 2003\u2013 )\n\
-  (received from Independency)\n159 N. Idaho Street\nPastor: Richard A. Miller, 2005\u2013\
-  10, 2012\u2013"
+raw_data: 'ID Arco
+
+
+  Arco Orthodox Presbyterian Church (August 17, 2003- )
+
+  (received from Independency)
+
+  159 N. Idaho Street
+
+  Pastor: Richard A. Miller, 2005-10, 2012-
+
+  '
 received_from:
 - Independency
 states:

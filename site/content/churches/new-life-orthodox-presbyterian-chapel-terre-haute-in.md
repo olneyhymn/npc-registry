@@ -15,8 +15,13 @@ ministers:
 name: New Life Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "IN Terre Haute\nNew Life Orthodox Presbyterian Chapel (May 19, 1983\u2013\
-  \ September 16, 1985)\nEvangelist: Larry Wilson, 1983\u201385"
+raw_data: 'IN Terre Haute
+
+  New Life Orthodox Presbyterian Chapel (May 19, 1983- September 16, 1985)
+
+  Evangelist: Larry Wilson, 1983-85
+
+  '
 received_from: null
 states:
 - IN

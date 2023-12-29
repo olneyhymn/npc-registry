@@ -20,10 +20,17 @@ ministers:
 name: New Life Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "New Life Orthodox Presbyterian Chapel  (December 15, 1981\u2013March 23,\
-  \ 1985)\nNew Life Orthodox Presbyterian Church (March 23, 1985\u2013December 31,\
-  \ 1995)\n(moved from Sweetwater on September 24, 1983)\nOrg. Pastor: Steve Hohenberger,\
-  \ 1981\u201385\nPastor: Steve Hohenberger, 1985\u201386"
+raw_data: 'New Life Orthodox Presbyterian Chapel  (December 15, 1981-March 23, 1985)
+
+  New Life Orthodox Presbyterian Church (March 23, 1985-December 31, 1995)
+
+  (moved from Sweetwater on September 24, 1983)
+
+  Org. Pastor: Steve Hohenberger, 1981-85
+
+  Pastor: Steve Hohenberger, 1985-86
+
+  '
 received_from: null
 states:
 - NJ

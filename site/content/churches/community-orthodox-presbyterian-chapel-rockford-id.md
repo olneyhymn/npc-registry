@@ -18,8 +18,15 @@ names:
   name: Community Orthodox Presbyterian Chapel
   start: 1974-01-01
 origination_date: *id001
-raw_data: "ID\nRockford\nCommunity Orthodox Presbyterian Chapel  (1974\u20131975)\n\
-  Pastor: Eugene Grille, 1974\u201375"
+raw_data: 'ID
+
+  Rockford
+
+  Community Orthodox Presbyterian Chapel  (1974-1975)
+
+  Pastor: Eugene Grille, 1974-75
+
+  '
 received_from: null
 states:
 - ID

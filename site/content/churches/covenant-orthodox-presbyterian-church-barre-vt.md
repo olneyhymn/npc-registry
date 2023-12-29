@@ -38,10 +38,24 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1988-12-02
 origination_date: *id001
-raw_data: "VERMONT Barre\n\nCovenant Orthodox Presbyterian Church  (December 2, 1988\u2013\
-  \ )\n249 Airport Road\nPastors: Raymond Commeret, 1989\u201392\nStephen Doe, 1992\u2013\
-  2002\nCarl Durham, 2003\u2013\nEvangelist:  Timothy G. Herndon, 2013\nTeacher: Andrew\
-  \ Selle, 1996"
+raw_data: 'VERMONT Barre
+
+
+  Covenant Orthodox Presbyterian Church  (December 2, 1988- )
+
+  249 Airport Road
+
+  Pastors: Raymond Commeret, 1989-92
+
+  Stephen Doe, 1992-2002
+
+  Carl Durham, 2003-
+
+  Evangelist:  Timothy G. Herndon, 2013
+
+  Teacher: Andrew Selle, 1996
+
+  '
 received_from: null
 states:
 - VT

@@ -26,10 +26,9 @@ names:
   name: Providence Orthodox Presbyterian Church
   start: 2005-02-25
 origination_date: *id001
-raw_data: "TX  Kingwood\n\nOrthodox Presbyterian Chapel (March 16, 2000\u2013February\
-  \ 25, 2005)\nProvidence Orthodox Presbyterian Church  (February 25, 2005\u2013 )\n\
-  3838 Woodland Hills Drive\nOrg. Pastor: Adam York, 2002\u20135\nPastor: Adam York,\
-  \ 2005\u2013"
+raw_data: "TX\tKingwood\n\nOrthodox Presbyterian Chapel (March 16, 2000-February 25,\
+  \ 2005)\nProvidence Orthodox Presbyterian Church  (February 25, 2005- )\n3838 Woodland\
+  \ Hills Drive\nOrg. Pastor: Adam York, 2002-5\nPastor: Adam York, 2005-\n"
 received_from: null
 states:
 - TX

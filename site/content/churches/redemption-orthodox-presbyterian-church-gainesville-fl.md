@@ -26,10 +26,20 @@ names:
   name: Redemption Orthodox Presbyterian Church
   start: 2011-11-06
 origination_date: *id001
-raw_data: "FLORIDA   Gainesville\n\nRedemption Orthodox Presbyterian mission work\
-  \  (April 20, 2007\u2013November 6, 2011)\nRedemption Orthodox Presbyterian Church\
-  \  (November 6, 2011\u2013 )\nMeeting at SDA Building, 2115 NW 39th Avenue\nOrg.\
-  \ Pastor: Joel Fick, 2008\u201311\nPastor: Joel Fick, 2011\u2013"
+raw_data: 'FLORIDA   Gainesville
+
+
+  Redemption Orthodox Presbyterian mission work  (April 20, 2007-November 6, 2011)
+
+  Redemption Orthodox Presbyterian Church  (November 6, 2011- )
+
+  Meeting at SDA Building, 2115 NW 39th Avenue
+
+  Org. Pastor: Joel Fick, 2008-11
+
+  Pastor: Joel Fick, 2011-
+
+  '
 received_from: null
 states:
 - FL

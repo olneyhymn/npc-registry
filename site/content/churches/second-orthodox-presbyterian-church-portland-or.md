@@ -15,9 +15,17 @@ ministers:
 name: Second Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "OR\nPortland\nSecond Orthodox Presbyterian Church  (September 19, 1956\u2013\
-  \ September 24, 1961)\n(merged with First Orthodox Presbyterian Church, Portland,\
-  \ 1961)\nPastor: Gerald Latal, 1956\u201359"
+raw_data: 'OR
+
+  Portland
+
+  Second Orthodox Presbyterian Church  (September 19, 1956- September 24, 1961)
+
+  (merged with First Orthodox Presbyterian Church, Portland, 1961)
+
+  Pastor: Gerald Latal, 1956-59
+
+  '
 received_from: null
 states:
 - OR

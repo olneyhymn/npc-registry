@@ -23,9 +23,19 @@ names:
   name: Redeeming Grace Orthodox Presbyterian Chapel
   start: 2003-04-01
 origination_date: *id001
-raw_data: "WA\nPort Angeles\nRedeeming Grace Orthodox Presbyterian Chapel  (April\
-  \ 2003\u2013 )\nScandia Hall, 131 W. Fifth Street\nSupply: William Renkema, 2004\u2013\
-  7\nOrg. Pastor: Andrew Elam, 2009\u2013"
+raw_data: 'WA
+
+  Port Angeles
+
+  Redeeming Grace Orthodox Presbyterian Chapel  (April 2003- )
+
+  Scandia Hall, 131 W. Fifth Street
+
+  Supply: William Renkema, 2004-7
+
+  Org. Pastor: Andrew Elam, 2009-
+
+  '
 received_from: null
 states:
 - WA

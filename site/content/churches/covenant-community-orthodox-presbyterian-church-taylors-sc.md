@@ -36,11 +36,23 @@ names:
   name: Covenant Community Orthodox Presbyterian Church
   start: 2007-11-30
 origination_date: *id001
-raw_data: "SOUTH CAROLINA Greenville\nCovenant Community Orthodox Presbyterian Chapel\
-  \  (April 22, 2005\u2013November 30, 2007)\nCovenant Community Orthodox Presbyterian\
-  \ Church  (November 30, 2007\u2013 )\n418 E. Main Street, Taylors\nOrg. Pastor:\
-  \ George Scipione, 2006\u20137\nPastor: Peter Van Doodewaard, 2008\u2013\nTeacher:\
-  \ L. Anthony Curto, 2007\u2013\nEvangelist: Zecharias Abraham Weldeyesus, 2015"
+raw_data: 'SOUTH CAROLINA Greenville
+
+  Covenant Community Orthodox Presbyterian Chapel  (April 22, 2005-November 30, 2007)
+
+  Covenant Community Orthodox Presbyterian Church  (November 30, 2007- )
+
+  418 E. Main Street, Taylors
+
+  Org. Pastor: George Scipione, 2006-7
+
+  Pastor: Peter Van Doodewaard, 2008-
+
+  Teacher: L. Anthony Curto, 2007-
+
+  Evangelist: Zecharias Abraham Weldeyesus, 2015
+
+  '
 received_from: null
 states:
 - SC

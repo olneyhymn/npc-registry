@@ -26,10 +26,21 @@ names:
   name: Emmaus Orthodox Presbyterian Church
   start: 2001-03-16
 origination_date: *id001
-raw_data: "AR\nFort Collins\nEmmaus Orthodox Presbyterian Chapel  (July 23, 1993\u2013\
-  March 16, 2001)\nEmmaus Orthodox Presbyterian Church  (March 16, 2001\u2013 )\n\
-  College America, 4601 S. Mason Street\nOrg. Pastor: Archibald A. Allison, 1993\u2013\
-  2001\nPastor: Archibald A. Allison, 2001\u2013"
+raw_data: 'AR
+
+  Fort Collins
+
+  Emmaus Orthodox Presbyterian Chapel  (July 23, 1993-March 16, 2001)
+
+  Emmaus Orthodox Presbyterian Church  (March 16, 2001- )
+
+  College America, 4601 S. Mason Street
+
+  Org. Pastor: Archibald A. Allison, 1993-2001
+
+  Pastor: Archibald A. Allison, 2001-
+
+  '
 received_from: null
 states:
 - CO

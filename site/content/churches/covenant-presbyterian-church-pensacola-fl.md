@@ -26,9 +26,19 @@ names:
   name: Covenant Presbyterian Church
   start: 2012-01-01
 origination_date: *id001
-raw_data: "FLORIDA Pensacola\nCovenant Presbyterian Church mission work (December\
-  \ 1, 2000\u20132012)\nCovenant Presbyterian Church (2012\u2013 )\n2885 Olive Road\n\
-  Org. Pastor: John Schortmann, 2006\u201312\nPastor: John Schortmann, 2012\u2013"
+raw_data: 'FLORIDA Pensacola
+
+  Covenant Presbyterian Church mission work (December 1, 2000-2012)
+
+  Covenant Presbyterian Church (2012- )
+
+  2885 Olive Road
+
+  Org. Pastor: John Schortmann, 2006-12
+
+  Pastor: John Schortmann, 2012-
+
+  '
 received_from: null
 states:
 - FL

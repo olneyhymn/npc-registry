@@ -36,11 +36,23 @@ names:
   name: Cornerstone Orthodox Presbyterian Church
   start: 2001-01-12
 origination_date: *id001
-raw_data: "TN Chattanooga\nCornerstone Orthodox Presbyterian Chapel (March 17, 1996\u2013\
-  January 12, 2001)\nCornerstone Orthodox Presbyterian Church (January 12, 2001\u2013\
-  \ )\n1813 Long Street\nOrg. Pastor: Robert Y. Eckardt, 1997\u20132001\nPastors:\
-  \ Robert Y. Eckardt, 2001\u20135\nCalvin Keller, 2006\u2013\nTeacher: Ralph English,\
-  \ 2004\u201315"
+raw_data: 'TN Chattanooga
+
+  Cornerstone Orthodox Presbyterian Chapel (March 17, 1996-January 12, 2001)
+
+  Cornerstone Orthodox Presbyterian Church (January 12, 2001- )
+
+  1813 Long Street
+
+  Org. Pastor: Robert Y. Eckardt, 1997-2001
+
+  Pastors: Robert Y. Eckardt, 2001-5
+
+  Calvin Keller, 2006-
+
+  Teacher: Ralph English, 2004-15
+
+  '
 received_from: null
 states:
 - TN

@@ -33,9 +33,22 @@ names:
   name: Covenant Orthodox Presbyterian Church
   start: 1995-04-09
 origination_date: *id001
-raw_data: "ID    Orland Park\n\nCovenant Orthodox Presbyterian Church  (April 9, 1995\u2013\
-  \ )\n9340 W. 147th Street\nPastors: Norman De Jong, 1995\u201398\nIain Wright, 1999\u2013\
-  \nAssoc. Pastors: Victor Atallah, 2001\u2013\nChristopher Sandoval, 2006\u201310"
+raw_data: 'ID    Orland Park
+
+
+  Covenant Orthodox Presbyterian Church  (April 9, 1995- )
+
+  9340 W. 147th Street
+
+  Pastors: Norman De Jong, 1995-98
+
+  Iain Wright, 1999-
+
+  Assoc. Pastors: Victor Atallah, 2001-
+
+  Christopher Sandoval, 2006-10
+
+  '
 received_from: null
 states:
 - ID

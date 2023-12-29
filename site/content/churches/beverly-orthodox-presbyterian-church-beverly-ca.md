@@ -61,12 +61,11 @@ names:
   name: Gardens Tabernacle PCA
   start: 1936-10-28
 origination_date: *id001
-raw_data: "AR  Los Angeles\nBeverly Orthodox Presbyterian Church  (October 28, 1936\u2013\
-  2006)\n(called Gardens Tabernacle PCA, October 28, 1936\u2013July 19, 1937)\nPastors:\
-  \ Donald Blackie, 1936\u201339\nDwight Poundstone, 1939\u201356\nArthur Olson, 1957\u2013\
-  62\nCalvin Malcor, 1963\u201369\nDaniel Overduin, 1969\u201375\nDennis Johnson,\
-  \ 1976\u201381\nSteven Larson, 1982\u201388\nAlan Pontier, 1988\u20132004\nAssoc.\
-  \ Pastor: Josue Balderas, 1982\u201387"
+raw_data: "AR\tLos Angeles\nBeverly Orthodox Presbyterian Church  (October 28, 1936-2006)\n\
+  (called Gardens Tabernacle PCA, October 28, 1936-July 19, 1937)\nPastors: Donald\
+  \ Blackie, 1936-39\nDwight Poundstone, 1939-56\nArthur Olson, 1957-62\nCalvin Malcor,\
+  \ 1963-69\nDaniel Overduin, 1969-75\nDennis Johnson, 1976-81\nSteven Larson, 1982-88\n\
+  Alan Pontier, 1988-2004\nAssoc. Pastor: Josue Balderas, 1982-87\n"
 received_from: null
 states:
 - CA

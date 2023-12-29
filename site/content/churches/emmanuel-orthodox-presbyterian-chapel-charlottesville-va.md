@@ -15,8 +15,15 @@ ministers:
 name: Emmanuel Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "VIRGINIA\nCharlottesville\nEmmanuel Orthodox Presbyterian Chapel (September\
-  \ 16, 1972\u2013February 1, 1974)\nEvangelist: Timothy Gregson, 1973\u201374"
+raw_data: 'VIRGINIA
+
+  Charlottesville
+
+  Emmanuel Orthodox Presbyterian Chapel (September 16, 1972-February 1, 1974)
+
+  Evangelist: Timothy Gregson, 1973-74
+
+  '
 received_from: null
 states:
 - VA

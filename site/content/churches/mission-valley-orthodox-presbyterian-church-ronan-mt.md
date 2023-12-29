@@ -18,8 +18,15 @@ names:
   name: Mission Valley Orthodox Presbyterian Church
   start: 1976-04-26
 origination_date: *id001
-raw_data: "MT\nRonan\nMission Valley Orthodox Presbyterian Church  (April 26, 1976\u2013\
-  April 25, 1987)\nPastor: Russell Piper, 1976\u201386"
+raw_data: 'MT
+
+  Ronan
+
+  Mission Valley Orthodox Presbyterian Church  (April 26, 1976-April 25, 1987)
+
+  Pastor: Russell Piper, 1976-86
+
+  '
 received_from: null
 states:
 - MT

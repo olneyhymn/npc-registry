@@ -31,10 +31,10 @@ names:
   name: Providence Orthodox Presbyterian Church
   start: 2006-04-14
 origination_date: *id001
-raw_data: "FLORIDA  Bradenton\nProvidence Orthodox Presbyterian Chapel  (April 23,\
-  \ 2004\u2013April 14, 2006)\nProvidence Orthodox Presbyterian Church  (April 14,\
-  \ 2006\u2013 )\n4455 30th Street E.\nOrg. Pastor: David Smiley, 2005\u20136\nPastors:\
-  \ David Smiley, 2006\u201314\nMichael S. Borg, 2014\u2013"
+raw_data: "FLORIDA\tBradenton\nProvidence Orthodox Presbyterian Chapel  (April 23,\
+  \ 2004-April 14, 2006)\nProvidence Orthodox Presbyterian Church  (April 14, 2006-\
+  \ )\n4455 30th Street E.\nOrg. Pastor: David Smiley, 2005-6\nPastors: David Smiley,\
+  \ 2006-14\nMichael S. Borg, 2014-\n"
 received_from: null
 states:
 - FL

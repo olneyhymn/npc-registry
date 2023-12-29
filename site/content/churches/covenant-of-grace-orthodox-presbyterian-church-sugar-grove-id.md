@@ -36,11 +36,24 @@ names:
   name: Covenant of Grace Orthodox Presbyterian Church
   start: 2001-10-19
 origination_date: *id001
-raw_data: "ID Sugar Grove\n\nCovenant of Grace Orthodox Presbyterian Mission  (February\
-  \ 2, 1997\u2013October 19, 2001)\nCovenant of Grace Orthodox Presbyterian Church\
-  \  (October 19, 2001\u2013 )\nMeeting at John Shields Elementary School, 85 S. Main\
-  \ Street\nOrg. Pastor: James Megchelsen, 1997\u20132001\nPastor: James Megchelsen,\
-  \ 2001\u2013\nAssoc. Pastors: John Wiers, 2009\u2013\nKenneth R. Golden, 2011\u2013"
+raw_data: 'ID Sugar Grove
+
+
+  Covenant of Grace Orthodox Presbyterian Mission  (February 2, 1997-October 19, 2001)
+
+  Covenant of Grace Orthodox Presbyterian Church  (October 19, 2001- )
+
+  Meeting at John Shields Elementary School, 85 S. Main Street
+
+  Org. Pastor: James Megchelsen, 1997-2001
+
+  Pastor: James Megchelsen, 2001-
+
+  Assoc. Pastors: John Wiers, 2009-
+
+  Kenneth R. Golden, 2011-
+
+  '
 received_from: null
 states:
 - ID

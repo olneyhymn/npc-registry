@@ -26,9 +26,19 @@ names:
   name: Neon Presbyterian Church
   start: 2000-10-20
 origination_date: *id001
-raw_data: "KY Neon\nNeon Presbyterian Church (Mission work) (October 20, 2000\u2013\
-  \ )\n(changed name from Covenant Reformed Presbyterian Church on April 26, 2008)\n\
-  986 Highway 317\nOrg. Pastors: John Belden, 2004\u201310\nM. Jay Bennett, 2012\u2013"
+raw_data: 'KY Neon
+
+  Neon Presbyterian Church (Mission work) (October 20, 2000- )
+
+  (changed name from Covenant Reformed Presbyterian Church on April 26, 2008)
+
+  986 Highway 317
+
+  Org. Pastors: John Belden, 2004-10
+
+  M. Jay Bennett, 2012-
+
+  '
 received_from: null
 states:
 - KY

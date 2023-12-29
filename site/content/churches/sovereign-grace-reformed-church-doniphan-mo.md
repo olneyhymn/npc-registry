@@ -26,10 +26,23 @@ names:
   name: Sovereign Grace Reformed Church
   start: 2014-11-17
 origination_date: *id001
-raw_data: "MISSOURI\nDoniphan\nSovereign Grace Reformed Chapel  (September 17, 2010\u2013\
-  November 17, 2014)\n(received as an unorganized mission work, March 19, 2010)\n\
-  Sovereign Grace Reformed Church  (November 17, 2014\u2013 )\n97A Washington Street\n\
-  Org. Pastor: Kent W. Harding, 2011\u201314\nPastor: Kent W. Harding, 2014\u2013"
+raw_data: 'MISSOURI
+
+  Doniphan
+
+  Sovereign Grace Reformed Chapel  (September 17, 2010-November 17, 2014)
+
+  (received as an unorganized mission work, March 19, 2010)
+
+  Sovereign Grace Reformed Church  (November 17, 2014- )
+
+  97A Washington Street
+
+  Org. Pastor: Kent W. Harding, 2011-14
+
+  Pastor: Kent W. Harding, 2014-
+
+  '
 received_from: null
 states:
 - MO

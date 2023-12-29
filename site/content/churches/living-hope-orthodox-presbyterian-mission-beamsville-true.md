@@ -25,10 +25,23 @@ ministers:
 name: Living Hope Orthodox Presbyterian Mission
 names: null
 origination_date: *id001
-raw_data: "ON\nBeamsville\nLiving Hope Orthodox Presbyterian Mission  (September 15,\
-  \ 2000\u2013 )\n4875 King Street\nSupplies: Tristan Emmanuel, 2000\u20132005\nPeter\
-  \ Moelker, 2009\u201310\nDouglas L. Bylsma, 2010\u201311\nOrg. Pastor: Douglas L.\
-  \ Bylsma, 2011\u2013"
+raw_data: 'ON
+
+  Beamsville
+
+  Living Hope Orthodox Presbyterian Mission  (September 15, 2000- )
+
+  4875 King Street
+
+  Supplies: Tristan Emmanuel, 2000-2005
+
+  Peter Moelker, 2009-10
+
+  Douglas L. Bylsma, 2010-11
+
+  Org. Pastor: Douglas L. Bylsma, 2011-
+
+  '
 received_from: null
 states:
 - 'True'

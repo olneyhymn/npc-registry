@@ -15,8 +15,16 @@ ministers:
 name: Shenango Valley Orthodox Presbyterian Mission
 names: null
 origination_date: *id001
-raw_data: "PA\nHermitage\n\nShenango Valley Orthodox Presbyterian Mission  (1989\u2013\
-  October 16, 1992)\nHome Miss.: David Kiester, 1989\u201392"
+raw_data: 'PA
+
+  Hermitage
+
+
+  Shenango Valley Orthodox Presbyterian Mission  (1989-October 16, 1992)
+
+  Home Miss.: David Kiester, 1989-92
+
+  '
 received_from: null
 states:
 - PA

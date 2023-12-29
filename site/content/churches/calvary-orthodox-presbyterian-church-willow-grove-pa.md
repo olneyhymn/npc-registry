@@ -15,9 +15,16 @@ ministers:
 name: Calvary Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "PA Willow Grove\n\nCalvary Orthodox Presbyterian Church (October 13, 1936\u2013\
-  March 21, 1949)\n(withdrew from the Orthodox Presbyterian Church, March 21, 1949)\n\
-  Pastor: Robert Strong, 1936\u201349"
+raw_data: 'PA Willow Grove
+
+
+  Calvary Orthodox Presbyterian Church (October 13, 1936-March 21, 1949)
+
+  (withdrew from the Orthodox Presbyterian Church, March 21, 1949)
+
+  Pastor: Robert Strong, 1936-49
+
+  '
 received_from: null
 states:
 - PA

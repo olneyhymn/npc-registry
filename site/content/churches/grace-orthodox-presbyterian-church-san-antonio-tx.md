@@ -38,10 +38,23 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 1978-06-15
 origination_date: *id001
-raw_data: "TX San Antonio\nGrace Orthodox Presbyterian Church  (June 15, 1978\u2013\
-  \ )\n5602 UTEX Boulevard\nPastors: Duane Spencer, 1978\u201379\nJack Peterson, 1979\u2013\
-  2001\nNathan Hornfeld, 2003\u2013\nAssoc. Pastors: William Bomer, 1984\u201390\n\
-  Christopher Wisdom, 1986\u20132014"
+raw_data: 'TX San Antonio
+
+  Grace Orthodox Presbyterian Church  (June 15, 1978- )
+
+  5602 UTEX Boulevard
+
+  Pastors: Duane Spencer, 1978-79
+
+  Jack Peterson, 1979-2001
+
+  Nathan Hornfeld, 2003-
+
+  Assoc. Pastors: William Bomer, 1984-90
+
+  Christopher Wisdom, 1986-2014
+
+  '
 received_from: null
 states:
 - TX

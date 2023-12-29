@@ -43,11 +43,29 @@ names:
   name: Lisbon Orthodox Presbyterian Church
   start: 1958-12-15
 origination_date: *id001
-raw_data: "NY\nLisbon\nGrace Orthodox Presbyterian Church  (December 15, 1958\u2013\
-  \ )\n(called Lisbon Orthodox Presbyterian Church, 1958\u20132006)\n6671 County Route\
-  \ 10\nPastors: Laurence Sibley, 1959\u201363\nEugene Grille, 1964\u201373\nRichard\
-  \ Wirth, 1974\u201381\nLaurence Veinott, 1982\u20132004\nPeter Moelker, 2004\u2013\
-  8\nPatrick Severson, 2009\u2013"
+raw_data: 'NY
+
+  Lisbon
+
+  Grace Orthodox Presbyterian Church  (December 15, 1958- )
+
+  (called Lisbon Orthodox Presbyterian Church, 1958-2006)
+
+  6671 County Route 10
+
+  Pastors: Laurence Sibley, 1959-63
+
+  Eugene Grille, 1964-73
+
+  Richard Wirth, 1974-81
+
+  Laurence Veinott, 1982-2004
+
+  Peter Moelker, 2004-8
+
+  Patrick Severson, 2009-
+
+  '
 received_from: null
 states:
 - NY

@@ -31,11 +31,22 @@ names:
   name: Church of the City
   start: 1971-03-01
 origination_date: *id001
-raw_data: "PA Philadelphia\n\nAtonement Orthodox Presbyterian Church (November 11,\
-  \ 1936\u2013November 19, 1945)\nChurch of the City (March 1971\u2013July 19, 1987)\n\
-  (withdrew to the Presbyterian Church in America, July 19, 1987)\nPastors: James\
-  \ Petty, 1975\u201382\nThomas Corey, 1981\u201387\nAssoc. Pastor: James Petty, 1983\u2013\
-  87"
+raw_data: 'PA Philadelphia
+
+
+  Atonement Orthodox Presbyterian Church (November 11, 1936-November 19, 1945)
+
+  Church of the City (March 1971-July 19, 1987)
+
+  (withdrew to the Presbyterian Church in America, July 19, 1987)
+
+  Pastors: James Petty, 1975-82
+
+  Thomas Corey, 1981-87
+
+  Assoc. Pastor: James Petty, 1983-87
+
+  '
 received_from: null
 states:
 - PA

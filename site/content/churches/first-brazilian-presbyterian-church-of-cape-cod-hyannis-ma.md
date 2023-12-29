@@ -15,8 +15,15 @@ ministers:
 name: First Brazilian Presbyterian Church of Cape Cod
 names: null
 origination_date: *id001
-raw_data: "MA\nHyannis\nFirst Brazilian Presbyterian Church of Cape Cod (Mission work)\
-  \ (2006\u20132008)\nOrg. Pastor: Alonso da Cunha, 2006\u20138"
+raw_data: 'MA
+
+  Hyannis
+
+  First Brazilian Presbyterian Church of Cape Cod (Mission work) (2006-2008)
+
+  Org. Pastor: Alonso da Cunha, 2006-8
+
+  '
 received_from: null
 states:
 - MA

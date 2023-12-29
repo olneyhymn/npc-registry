@@ -53,11 +53,32 @@ names:
   name: Calvary Orthodox Presbyterian Church
   start: 1958-05-14
 origination_date: *id001
-raw_data: "California\nLa Mirada\n\nCalvary Orthodox Presbyterian Church  (May 14,\
-  \ 1958\u2013 )\n12206 La Mirada Boulevard\nPastors: Dwight Poundstone, 1958\u2013\
-  65\nEugene Saltzen, 1966\u201369\nKent Hinkson, 1970\u201379\nJay Fluck, 1980\u2013\
-  98\nDonald Buchanan, 1999\u20132017\nM. Austin Britton, 2012\u2013\nAssoc. Pastors:\
-  \ Nicholas Ganas, 1995\u20132000\nRobert G. Herrmann, 2001\u20137"
+raw_data: 'California
+
+  La Mirada
+
+
+  Calvary Orthodox Presbyterian Church  (May 14, 1958- )
+
+  12206 La Mirada Boulevard
+
+  Pastors: Dwight Poundstone, 1958-65
+
+  Eugene Saltzen, 1966-69
+
+  Kent Hinkson, 1970-79
+
+  Jay Fluck, 1980-98
+
+  Donald Buchanan, 1999-2017
+
+  M. Austin Britton, 2012-
+
+  Assoc. Pastors: Nicholas Ganas, 1995-2000
+
+  Robert G. Herrmann, 2001-7
+
+  '
 received_from: null
 states:
 - CA

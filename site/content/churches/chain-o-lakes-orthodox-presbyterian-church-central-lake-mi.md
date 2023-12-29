@@ -46,7 +46,9 @@ raw_data: 'MI
 
   Pastors: Dale Collison, 2001-4
 
-  Bruce Buchanan, 2007-'
+  Bruce Buchanan, 2007-
+
+  '
 received_from: null
 states:
 - MI

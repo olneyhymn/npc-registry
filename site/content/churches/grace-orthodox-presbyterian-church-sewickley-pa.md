@@ -58,12 +58,33 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 1969-12-28
 origination_date: *id001
-raw_data: "PA\nSewickley\nGrace Orthodox Presbyterian Church  (December 28, 1969\u2013\
-  \ )\n1419 Beaver Road\nPastors: Donald Poundstone, 1970\u201375\nCharles Dennison,\
-  \ 1976\u201399\nR. Daniel Knox, 2000\u2013\nAssoc. Pastors: Danny Olinger, 1996\u2013\
-  98\nR. Daniel Knox, 1998\u20132000\nRobert Broline, 2000\u20132004\nBrett E. Mahlen,\
-  \ 2011\u2013\nEvangelists: Douglas Clawson, 1984\u201387\nR. Daniel Knox, 1984\u2013\
-  98"
+raw_data: 'PA
+
+  Sewickley
+
+  Grace Orthodox Presbyterian Church  (December 28, 1969- )
+
+  1419 Beaver Road
+
+  Pastors: Donald Poundstone, 1970-75
+
+  Charles Dennison, 1976-99
+
+  R. Daniel Knox, 2000-
+
+  Assoc. Pastors: Danny Olinger, 1996-98
+
+  R. Daniel Knox, 1998-2000
+
+  Robert Broline, 2000-2004
+
+  Brett E. Mahlen, 2011-
+
+  Evangelists: Douglas Clawson, 1984-87
+
+  R. Daniel Knox, 1984-98
+
+  '
 received_from: null
 states:
 - PA

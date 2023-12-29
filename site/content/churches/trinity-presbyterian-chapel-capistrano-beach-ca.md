@@ -15,9 +15,17 @@ ministers:
 name: Trinity Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "AR\nCapistrano Beach\nTrinity Presbyterian Chapel  (May 5, 2012\u2013 )\n\
-  Palisades Elementary School, 26462 Via Sacramento\nOrg. Pastor: Jonathan B. Moersch,\
-  \ 2012\u2013"
+raw_data: 'AR
+
+  Capistrano Beach
+
+  Trinity Presbyterian Chapel  (May 5, 2012- )
+
+  Palisades Elementary School, 26462 Via Sacramento
+
+  Org. Pastor: Jonathan B. Moersch, 2012-
+
+  '
 received_from: null
 states:
 - CA

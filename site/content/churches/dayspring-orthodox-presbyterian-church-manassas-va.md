@@ -38,10 +38,22 @@ names:
   name: Dayspring Orthodox Presbyterian Church
   start: 1971-04-18
 origination_date: *id001
-raw_data: "VIRGINIA Manassas\n\nDayspring Orthodox Presbyterian Church  (April 18,\
-  \ 1971\u2013December 1, 2012)\nPastors: Richard Wirth, 1971\u201373\nRobert Countess,\
-  \ 1974\u201375\nRichard Nelson, 1977\nGeorge Hall, 1982\u20132004\nBennett Wethered,\
-  \ 2004\u201312"
+raw_data: 'VIRGINIA Manassas
+
+
+  Dayspring Orthodox Presbyterian Church  (April 18, 1971-December 1, 2012)
+
+  Pastors: Richard Wirth, 1971-73
+
+  Robert Countess, 1974-75
+
+  Richard Nelson, 1977
+
+  George Hall, 1982-2004
+
+  Bennett Wethered, 2004-12
+
+  '
 received_from: null
 states:
 - VA

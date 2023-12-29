@@ -2,7 +2,7 @@
 date: &id001 2009-10-30
 end_date: null
 location:
-  address: "103 Rio Rancho Drive, Suite A\u201310"
+  address: 103 Rio Rancho Drive, Suite A-10
   city: Rio Rancho
   state: NM
 minister:
@@ -21,10 +21,21 @@ names:
   name: Orthodox Presbyterian Church of Rio Rancho
   start: 2009-10-30
 origination_date: *id001
-raw_data: "NM\nRio Rancho\nOrthodox Presbyterian Church of Rio Rancho, Mission Work\
-  \  (September 21, 2007\u2013October\n30, 2009)\nOrthodox Presbyterian Church of\
-  \ Rio Rancho  (October 30, 2009\u2013 )\n103 Rio Rancho Drive, Suite A\u201310\n\
-  Pastor: Todd Bordow, 2009\u2013"
+raw_data: 'NM
+
+  Rio Rancho
+
+  Orthodox Presbyterian Church of Rio Rancho, Mission Work  (September 21, 2007-October
+
+  30, 2009)
+
+  Orthodox Presbyterian Church of Rio Rancho  (October 30, 2009- )
+
+  103 Rio Rancho Drive, Suite A-10
+
+  Pastor: Todd Bordow, 2009-
+
+  '
 received_from: null
 states:
 - NM

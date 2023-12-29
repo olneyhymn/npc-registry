@@ -29,11 +29,21 @@ names:
   name: Cornerstone Presbyterian Church, OPC
   start: 2004-12-11
 origination_date: *id001
-raw_data: "MD\nGermantown\nCornerstone Reformed Fellowship OPC (mission) (December\
-  \ 3, 1999\u2013December 11, 2004)\n(changed name to Cornerstone Presbyterian Church\
-  \ [Mission] in 2004)\nCornerstone Presbyterian Church, OPC  (December 11, 2004\u2013\
-  January 4, 2009)\nOrg. Pastor: James Stastny, 2000\u20132004\nPastor: James Stastny,\
-  \ 2004\u20139"
+raw_data: 'MD
+
+  Germantown
+
+  Cornerstone Reformed Fellowship OPC (mission) (December 3, 1999-December 11, 2004)
+
+  (changed name to Cornerstone Presbyterian Church [Mission] in 2004)
+
+  Cornerstone Presbyterian Church, OPC  (December 11, 2004-January 4, 2009)
+
+  Org. Pastor: James Stastny, 2000-2004
+
+  Pastor: James Stastny, 2004-9
+
+  '
 received_from: null
 states:
 - MD

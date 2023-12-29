@@ -63,12 +63,35 @@ names:
   name: Nashua Orthodox Presbyterian Church
   start: 1958-06-04
 origination_date: *id001
-raw_data: "PA  Pulaski\nNashua Orthodox Presbyterian Church  (June 4, 1958\u2013 )\n\
-  Route 551 between Route 208 and Route 422\nPastors: Arnold Kress, 1960\u201366\n\
-  A. Boyce Spooner, 1966\u201369\nLawrence Semel, 1972\u201376\nRobert Atwell, 1977\u2013\
-  80\nCraig DeBenedictis, 1980\u201385\nDavid Kiester, 1986\u201388\nRichard Sowder\
-  \ (Supply), 1990\u201391\nDouglas Smith, 1993\u201395\nSteven Miller, 1998\u2013\
-  2014\nD. Patrick Ramsey, 2014\u2013\nTeacher: Everett C. DeVelde, 2006\u201313"
+raw_data: 'PA  Pulaski
+
+  Nashua Orthodox Presbyterian Church  (June 4, 1958- )
+
+  Route 551 between Route 208 and Route 422
+
+  Pastors: Arnold Kress, 1960-66
+
+  A. Boyce Spooner, 1966-69
+
+  Lawrence Semel, 1972-76
+
+  Robert Atwell, 1977-80
+
+  Craig DeBenedictis, 1980-85
+
+  David Kiester, 1986-88
+
+  Richard Sowder (Supply), 1990-91
+
+  Douglas Smith, 1993-95
+
+  Steven Miller, 1998-2014
+
+  D. Patrick Ramsey, 2014-
+
+  Teacher: Everett C. DeVelde, 2006-13
+
+  '
 received_from: null
 states:
 - PA

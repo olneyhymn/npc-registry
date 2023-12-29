@@ -58,12 +58,32 @@ names:
   name: Bethel Orthodox Presbyterian Church
   start: 1960-01-03
 origination_date: *id001
-raw_data: "ID Wheaton\n\nBethel Orthodox Presbyterian Church  (January 3, 1960\u2013\
-  \ )\n1401 S. Naperville Road\nPastors: Francis Breisch, 1960\u201370\nJohn Bettler,\
-  \ 1971\u201373\nRobert Harvey, 1975\u201389\nLendall Smith, 1991\u20132007\nCraig\
-  \ Troxel, 2007\u2013\nAsst. Pastor: Charles Gosling, 1985\u201389\nAssoc. Pastors:\
-  \ James Bosgraf, 1967\u201368\nJames Megchelsen, 1997\u20132001\nJohn Fikkert, 2009\u2013\
-  15"
+raw_data: 'ID Wheaton
+
+
+  Bethel Orthodox Presbyterian Church  (January 3, 1960- )
+
+  1401 S. Naperville Road
+
+  Pastors: Francis Breisch, 1960-70
+
+  John Bettler, 1971-73
+
+  Robert Harvey, 1975-89
+
+  Lendall Smith, 1991-2007
+
+  Craig Troxel, 2007-
+
+  Asst. Pastor: Charles Gosling, 1985-89
+
+  Assoc. Pastors: James Bosgraf, 1967-68
+
+  James Megchelsen, 1997-2001
+
+  John Fikkert, 2009-15
+
+  '
 received_from: null
 states:
 - ID

@@ -20,10 +20,20 @@ ministers:
 name: Grace Community Bible Church
 names: null
 origination_date: *id001
-raw_data: "AR\nAurora\n\nGrace Community Bible Church (March 26, 1980\u2013December\
-  \ 8, 1985)\n(dismissed to the Reformed Presbyterian Church of North America, December\
-  \ 8, 1985)\nPastors: Huibert Vandenbroek, 1975\u201377\nSidney Van Camp, 1978\u2013\
-  85"
+raw_data: 'AR
+
+  Aurora
+
+
+  Grace Community Bible Church (March 26, 1980-December 8, 1985)
+
+  (dismissed to the Reformed Presbyterian Church of North America, December 8, 1985)
+
+  Pastors: Huibert Vandenbroek, 1975-77
+
+  Sidney Van Camp, 1978-85
+
+  '
 received_from: null
 states:
 - CO

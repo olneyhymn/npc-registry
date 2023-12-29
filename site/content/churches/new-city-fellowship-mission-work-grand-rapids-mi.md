@@ -18,8 +18,15 @@ names:
   name: New City Fellowship mission work
   start: 2014-04-20
 origination_date: *id001
-raw_data: "MI Grand Rapids\nNew City Fellowship mission work (April 20, 2014\u2013\
-  \ )\n700 Burton Street SE\nOrg. Pastor: Mika Edmondson, 2014\u2013"
+raw_data: 'MI Grand Rapids
+
+  New City Fellowship mission work (April 20, 2014- )
+
+  700 Burton Street SE
+
+  Org. Pastor: Mika Edmondson, 2014-
+
+  '
 received_from: null
 states:
 - MI

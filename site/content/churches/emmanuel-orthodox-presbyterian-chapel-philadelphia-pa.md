@@ -20,11 +20,21 @@ ministers:
 name: Emmanuel Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "PA Philadelphia\nEmmanuel Indonesian Protestant Church, OPC mission work\
-  \  (2004\u2013January 27, 2015)\n(withdrew from the OPC, January 27, 2015)\nEmmanuel\
-  \ Orthodox Presbyterian Chapel  (March 15, 1980\u2013January 27, 2015)\n(withdrew\
-  \ from the OPC, January 27, 2015)\nPastors: Wilson Cummings, 1980\u20132008\nMatthew\
-  \ Stephan, 2008\u201311"
+raw_data: 'PA Philadelphia
+
+  Emmanuel Indonesian Protestant Church, OPC mission work  (2004-January 27, 2015)
+
+  (withdrew from the OPC, January 27, 2015)
+
+  Emmanuel Orthodox Presbyterian Chapel  (March 15, 1980-January 27, 2015)
+
+  (withdrew from the OPC, January 27, 2015)
+
+  Pastors: Wilson Cummings, 1980-2008
+
+  Matthew Stephan, 2008-11
+
+  '
 received_from: null
 states:
 - PA

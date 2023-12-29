@@ -30,10 +30,23 @@ ministers:
 name: Wayside Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "PA\nGrove City\nWayside Orthodox Presbyterian Church  (May 1950\u20131965)\n\
-  (merged into Covenant Orthodox Presbyterian Church, 1965)\nPastors: Henry Phillips,\
-  \ 1950\u201354\nWendell Rockey, 1954\u201359\nThomas Tyson, 1960\u201364\nHenry\
-  \ Tavares, 1964\u201365"
+raw_data: 'PA
+
+  Grove City
+
+  Wayside Orthodox Presbyterian Church  (May 1950-1965)
+
+  (merged into Covenant Orthodox Presbyterian Church, 1965)
+
+  Pastors: Henry Phillips, 1950-54
+
+  Wendell Rockey, 1954-59
+
+  Thomas Tyson, 1960-64
+
+  Henry Tavares, 1964-65
+
+  '
 received_from: null
 states:
 - PA

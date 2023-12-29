@@ -28,9 +28,9 @@ names:
   name: New Covenant Community Orthodox Presbyterian Church
   start: 1999-04-11
 origination_date: *id001
-raw_data: "ID  Joliet\n\nNew Covenant Community Orthodox Presbyterian Church  (April\
-  \ 11, 1999\u2013 )\n1995 Mills Road\nOrg. Pastor: Bruce Hollister, 1995\u201399\n\
-  Pastor: Bruce Hollister, 1999\u2013\nAssoc. Pastor: Alan Strange, 1999\u2013"
+raw_data: "ID\tJoliet\n\nNew Covenant Community Orthodox Presbyterian Church  (April\
+  \ 11, 1999- )\n1995 Mills Road\nOrg. Pastor: Bruce Hollister, 1995-99\nPastor: Bruce\
+  \ Hollister, 1999-\nAssoc. Pastor: Alan Strange, 1999-\n"
 received_from: null
 states:
 - ID

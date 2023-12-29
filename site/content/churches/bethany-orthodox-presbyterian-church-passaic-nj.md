@@ -23,8 +23,16 @@ names:
   name: Bethany Orthodox Presbyterian Church
   start: 1941-06-01
 origination_date: *id001
-raw_data: "NEW JERSEY Passaic\n\nBethany Orthodox Presbyterian Church  (June 1941\u2013\
-  April 29, 1947)\nPastors: Walter Jent, 1941\u201343\nCarlo Lazzaro, 1945\u201347"
+raw_data: 'NEW JERSEY Passaic
+
+
+  Bethany Orthodox Presbyterian Church  (June 1941-April 29, 1947)
+
+  Pastors: Walter Jent, 1941-43
+
+  Carlo Lazzaro, 1945-47
+
+  '
 received_from: null
 states:
 - NJ

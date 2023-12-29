@@ -18,9 +18,15 @@ names:
   name: Heritage Orthodox Presbyterian Church
   start: 2001-07-27
 origination_date: *id001
-raw_data: "ALABAMA Mobile\nHeritage Orthodox Presbyterian Church (July 27, 2001\u2013\
-  \ )\nCottage Hill Presbyterian Church (fellowship hall), 4201 Cottage Hill Road\n\
-  Pastor: Kenneth L. Wendland, 2001\u2013"
+raw_data: 'ALABAMA Mobile
+
+  Heritage Orthodox Presbyterian Church (July 27, 2001- )
+
+  Cottage Hill Presbyterian Church (fellowship hall), 4201 Cottage Hill Road
+
+  Pastor: Kenneth L. Wendland, 2001-
+
+  '
 received_from: null
 states:
 - AL

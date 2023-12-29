@@ -20,11 +20,24 @@ ministers:
 name: Covenant Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "OH Dayton\n\nCovenant Orthodox Presbyterian Mission  (April 4, 1997\u2013\
-  April 20, 2001)\nCovenant Orthodox Presbyterian Church  (April 20, 2001\u2013 )\n\
-  101 East National Rd, Vandalia\nEvangelists: L. Charles Jackson, 1997\u20132001\n\
-  Bradley M. Peppo, 2013\u2013\nPastors: L. Charles Jackson, 2001\u201315\nMatthew\
-  \ Patton, 2015\u2013"
+raw_data: 'OH Dayton
+
+
+  Covenant Orthodox Presbyterian Mission  (April 4, 1997-April 20, 2001)
+
+  Covenant Orthodox Presbyterian Church  (April 20, 2001- )
+
+  101 East National Rd, Vandalia
+
+  Evangelists: L. Charles Jackson, 1997-2001
+
+  Bradley M. Peppo, 2013-
+
+  Pastors: L. Charles Jackson, 2001-15
+
+  Matthew Patton, 2015-
+
+  '
 received_from: null
 states:
 - OH

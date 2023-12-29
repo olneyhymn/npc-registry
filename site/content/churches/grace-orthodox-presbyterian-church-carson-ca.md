@@ -63,11 +63,34 @@ names:
   name: Grace Orthodox Presbyterian Church
   start: 1942-05-21
 origination_date: *id001
-raw_data: "AR    Carson\n\nGrace Orthodox Presbyterian Church  (May 21, 1942\u2013\
-  \ )\n22511 South Figueroa Street\nPastors: Floyd Hamilton, 1942\u201343\nRobert\
-  \ Graham, 1943\u201349\nDavid Calderwood, 1949\u201362\nWilliam Bomer, 1962\u2013\
-  68\nCalvin Malcor, 1969\u201371\nBruce Coie, 1972\u201376\nArthur Ames, 1976\u2013\
-  83\nRollin Keller, 1983\u20132003\nDale Hanaoka, 2005\u20138\nJoshua P. Lyon, 2013\u2013"
+raw_data: 'AR    Carson
+
+
+  Grace Orthodox Presbyterian Church  (May 21, 1942- )
+
+  22511 South Figueroa Street
+
+  Pastors: Floyd Hamilton, 1942-43
+
+  Robert Graham, 1943-49
+
+  David Calderwood, 1949-62
+
+  William Bomer, 1962-68
+
+  Calvin Malcor, 1969-71
+
+  Bruce Coie, 1972-76
+
+  Arthur Ames, 1976-83
+
+  Rollin Keller, 1983-2003
+
+  Dale Hanaoka, 2005-8
+
+  Joshua P. Lyon, 2013-
+
+  '
 received_from: null
 states:
 - CA

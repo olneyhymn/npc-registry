@@ -33,9 +33,24 @@ names:
   name: Park Woods Orthodox Presbyterian Church
   start: 1991-01-27
 origination_date: *id001
-raw_data: "KANSAS\nOverland Park\n\nPark Woods Orthodox Presbyterian Church  (January\
-  \ 27, 1991\u2013 )\n13001 Quivera Road\nPastors: T. Jeffrey Taylor, 1992\u201393\n\
-  Geoffrey Smith, 1993\u20132007\nBrian Belh, 2008\u201311\nGeoffrey Smith, 2014\u2013"
+raw_data: 'KANSAS
+
+  Overland Park
+
+
+  Park Woods Orthodox Presbyterian Church  (January 27, 1991- )
+
+  13001 Quivera Road
+
+  Pastors: T. Jeffrey Taylor, 1992-93
+
+  Geoffrey Smith, 1993-2007
+
+  Brian Belh, 2008-11
+
+  Geoffrey Smith, 2014-
+
+  '
 received_from: null
 states:
 - KS

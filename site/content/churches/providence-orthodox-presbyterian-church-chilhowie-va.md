@@ -30,10 +30,22 @@ ministers:
 name: Providence Orthodox Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "VIRGINIA    Chilhowie\n\nProvidence Orthodox Presbyterian Church  (July\
-  \ 22, 1995\u2013 )\n204 N. Church Avenue\nEvangelist:  DeLacy Andrews, 1994\u2013\
-  95\nPastors: DeLacy Andrews, 1995\u20132002\nHank Belfield, 2002\u2013\nAssoc. Pastor:\
-  \ John Belden, 2004\u20138"
+raw_data: 'VIRGINIA    Chilhowie
+
+
+  Providence Orthodox Presbyterian Church  (July 22, 1995- )
+
+  204 N. Church Avenue
+
+  Evangelist:  DeLacy Andrews, 1994-95
+
+  Pastors: DeLacy Andrews, 1995-2002
+
+  Hank Belfield, 2002-
+
+  Assoc. Pastor: John Belden, 2004-8
+
+  '
 received_from: null
 states:
 - VA

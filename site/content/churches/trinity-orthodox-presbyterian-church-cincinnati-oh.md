@@ -48,10 +48,25 @@ names:
   name: Trinity Orthodox Presbyterian Church
   start: 1936-10-21
 origination_date: *id001
-raw_data: "OH Cincinnati\nTrinity Orthodox Presbyterian Church  (October 21, 1936\u2013\
-  1953)\nPastors: Everett DeVelde, 1936\u201341\nMarvin Derby, 1942\nLawrence Gilmore\
-  \ (Supply), 1943\u201345\nGordon Clark (Supply), 1945\nCharles Ellis, 1946\u2013\
-  48\nJames Spencer, 1949\u201350\nRobley Johnston, 1951\u201352"
+raw_data: 'OH Cincinnati
+
+  Trinity Orthodox Presbyterian Church  (October 21, 1936-1953)
+
+  Pastors: Everett DeVelde, 1936-41
+
+  Marvin Derby, 1942
+
+  Lawrence Gilmore (Supply), 1943-45
+
+  Gordon Clark (Supply), 1945
+
+  Charles Ellis, 1946-48
+
+  James Spencer, 1949-50
+
+  Robley Johnston, 1951-52
+
+  '
 received_from: null
 states:
 - OH

@@ -41,10 +41,24 @@ names:
   name: Sand Springs Orthodox Presbyterian Church
   start: 1985-06-23
 origination_date: *id001
-raw_data: "OK    Tulsa\n\nGrace Orthodox Presbyterian Church  (October 1967\u2013\
-  June 23, 1985)\n(later Sand Springs Orthodox Presbyterian Church)\nPastors: Maurice\
-  \ Riedesel, 1968\u201370\nJohn Mahaffy, 1970\u201377\nRoy Kerns, 1977\u201380\n\
-  Russell Lane, 1982\u201383\nDavid Kiester (Supply), 1984\u201385"
+raw_data: 'OK    Tulsa
+
+
+  Grace Orthodox Presbyterian Church  (October 1967-June 23, 1985)
+
+  (later Sand Springs Orthodox Presbyterian Church)
+
+  Pastors: Maurice Riedesel, 1968-70
+
+  John Mahaffy, 1970-77
+
+  Roy Kerns, 1977-80
+
+  Russell Lane, 1982-83
+
+  David Kiester (Supply), 1984-85
+
+  '
 received_from: null
 states:
 - OK

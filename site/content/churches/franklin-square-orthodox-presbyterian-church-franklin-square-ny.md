@@ -63,12 +63,12 @@ names:
   name: Franklin Square Orthodox Presbyterian Church
   start: 1939-10-19
 origination_date: *id001
-raw_data: "NY  Franklin Square\n\nFranklin Square Orthodox Presbyterian Church  (October\
-  \ 19, 1939\u2013 )\nFranklin and Sobo Avenues\nPastors:  Bruce Coie, 1942\u2013\
-  45\nRobert Vining, 1945\u201350\nElmer Dortzbach, 1952\u201356\nJohn Hills, 1957\u2013\
-  79\nWilliam Shishko, 1981\u2013\nAssoc. Pastors: Meindert Ploegman, 1999\u20132000\n\
-  Vincent Tauriello, 2000\u20132002\nBenjamin Miller, 2005\u201312\nEvangelist: Brad\
-  \ Hertzog, 2009\u201313\nTeacher: David Corson, 2005\u20136"
+raw_data: "NY\tFranklin Square\n\nFranklin Square Orthodox Presbyterian Church  (October\
+  \ 19, 1939- )\nFranklin and Sobo Avenues\nPastors:  Bruce Coie, 1942-45\nRobert\
+  \ Vining, 1945-50\nElmer Dortzbach, 1952-56\nJohn Hills, 1957-79\nWilliam Shishko,\
+  \ 1981-\nAssoc. Pastors: Meindert Ploegman, 1999-2000\nVincent Tauriello, 2000-2002\n\
+  Benjamin Miller, 2005-12\nEvangelist: Brad Hertzog, 2009-13\nTeacher: David Corson,\
+  \ 2005-6\n"
 received_from: null
 states:
 - NY

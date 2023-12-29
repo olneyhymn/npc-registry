@@ -15,9 +15,18 @@ ministers:
 name: Christ Covenant Presbyterian Church
 names: null
 origination_date: *id001
-raw_data: "ID\nCrystal Lake\n\nChrist Covenant Presbyterian Church  (2011\u2013 )\n\
-  Meeting at Immanuel Lutheran Church, 178 McHenry Avenue\nOrg. Pastor: Brandon T.\
-  \ Wilkins, 2011\u2013"
+raw_data: 'ID
+
+  Crystal Lake
+
+
+  Christ Covenant Presbyterian Church  (2011- )
+
+  Meeting at Immanuel Lutheran Church, 178 McHenry Avenue
+
+  Org. Pastor: Brandon T. Wilkins, 2011-
+
+  '
 received_from: null
 states:
 - ID

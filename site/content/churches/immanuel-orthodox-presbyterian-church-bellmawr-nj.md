@@ -58,11 +58,31 @@ names:
   name: Immanuel Orthodox Presbyterian Church
   start: 1948-11-29
 origination_date: *id001
-raw_data: "NEW JERSEY Bellmawr\nImmanuel Orthodox Presbyterian Church  (November 29,\
-  \ 1948\u2013 )\nPark Drive at Market Street\nPastors: Robert W. Eckardt, 1949\u2013\
-  51\nAlbert Edwards, III, 1952\u201360\nHoward Hart, 1962\u201365\nKenneth Meilahn,\
-  \ 1966\u201379\nRobert Tanzie, 1980\u201386\nThomas Church, 1987\u2013\nAssoc. Pastors:\
-  \ David Harr, 2002\u20137\nCarl McDaniel, 2010\u201314\nMatthew D. Cole, 2015\u2013"
+raw_data: 'NEW JERSEY Bellmawr
+
+  Immanuel Orthodox Presbyterian Church  (November 29, 1948- )
+
+  Park Drive at Market Street
+
+  Pastors: Robert W. Eckardt, 1949-51
+
+  Albert Edwards, III, 1952-60
+
+  Howard Hart, 1962-65
+
+  Kenneth Meilahn, 1966-79
+
+  Robert Tanzie, 1980-86
+
+  Thomas Church, 1987-
+
+  Assoc. Pastors: David Harr, 2002-7
+
+  Carl McDaniel, 2010-14
+
+  Matthew D. Cole, 2015-
+
+  '
 received_from: null
 states:
 - NJ

@@ -36,10 +36,22 @@ names:
   name: Cherry Hill Orthodox Presbyterian Church
   start: 1990-01-01
 origination_date: *id001
-raw_data: "NEW JERSEY Cherry Hill\nMerchantville Gardens Community Orthodox Presbyterian\
-  \ Church (March 25, 1984\u2013March 23, 2014)\n(from 1990 to 2014, Cherry Hill Orthodox\
-  \ Presbyterian Church)\nPastors: James Reber, 1984\u201385\nPeter J. Puliatti, 1986\u2013\
-  2001\nJeffrey Fartro, 2002\u20135\nNeil J. Lodge, 2006\u201314"
+raw_data: 'NEW JERSEY Cherry Hill
+
+  Merchantville Gardens Community Orthodox Presbyterian Church (March 25, 1984-March
+  23, 2014)
+
+  (from 1990 to 2014, Cherry Hill Orthodox Presbyterian Church)
+
+  Pastors: James Reber, 1984-85
+
+  Peter J. Puliatti, 1986-2001
+
+  Jeffrey Fartro, 2002-5
+
+  Neil J. Lodge, 2006-14
+
+  '
 received_from: null
 states:
 - NJ

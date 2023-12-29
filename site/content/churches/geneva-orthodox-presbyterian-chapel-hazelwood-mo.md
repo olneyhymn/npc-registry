@@ -18,9 +18,9 @@ names:
   name: Geneva Orthodox Presbyterian Chapel
   start: 2006-01-01
 origination_date: *id001
-raw_data: "MISSOURI  Hazelwood\nGeneva Orthodox Presbyterian Chapel  (2006\u2013April\
-  \ 6, 2008)\n(merged with Christ Presbyterian Church, St. Charles, April 6, 2008)\n\
-  Org. Pastor: Todd Wagenmaker, 2006\u20137"
+raw_data: "MISSOURI\tHazelwood\nGeneva Orthodox Presbyterian Chapel  (2006-April 6,\
+  \ 2008)\n(merged with Christ Presbyterian Church, St. Charles, April 6, 2008)\n\
+  Org. Pastor: Todd Wagenmaker, 2006-7\n"
 received_from: null
 states:
 - MO

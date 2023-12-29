@@ -10,8 +10,15 @@ ministers: []
 name: Iglesia Presbiteriana Reformada
 names: null
 origination_date: *id001
-raw_data: "PR\nPonce\nIglesia Presbiteriana Reformada mission work (April 29, 2015\u2013\
-  \ )\nAvenida Hostos 1148"
+raw_data: 'PR
+
+  Ponce
+
+  Iglesia Presbiteriana Reformada mission work (April 29, 2015- )
+
+  Avenida Hostos 1148
+
+  '
 received_from: null
 states:
 - PR

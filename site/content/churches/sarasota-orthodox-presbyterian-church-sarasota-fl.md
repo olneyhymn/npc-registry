@@ -18,9 +18,9 @@ names:
   name: Sarasota Orthodox Presbyterian Church
   start: 1982-05-09
 origination_date: *id001
-raw_data: "FLORIDA  Sarasota\nSarasota Orthodox Presbyterian Church  (May 9, 1982\u2013\
-  January 18, 1987)\n(withdrew to the Presbyterian Church in America, January 18,\
-  \ 1987)\nPastor: John Grady, 1983\u201387"
+raw_data: "FLORIDA\tSarasota\nSarasota Orthodox Presbyterian Church  (May 9, 1982-January\
+  \ 18, 1987)\n(withdrew to the Presbyterian Church in America, January 18, 1987)\n\
+  Pastor: John Grady, 1983-87\n"
 received_from: null
 states:
 - FL

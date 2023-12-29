@@ -58,11 +58,34 @@ names:
   name: Winner Orthodox Presbyterian Church
   start: 1964-07-27
 origination_date: *id001
-raw_data: "SD\nWinner\n\nWinner Orthodox Presbyterian Church  (July 27, 1964\u2013\
-  \ )\n505 Lincoln Street\nPastors: Abe Ediger, 1964\u201367\nRobert Sander, 1967\u2013\
-  71\nGlenn Jerrell, 1973\u201376\nGerald Taylor, 1978\u201382\nLawrence Eyres, 1982\u2013\
-  88\nArthur Fox, 1988\u201392\nStephen Hart, 1993\u201396\nTerry Thole, 1998\u2013\
-  2010\nBrad J. Irick, 2011"
+raw_data: 'SD
+
+  Winner
+
+
+  Winner Orthodox Presbyterian Church  (July 27, 1964- )
+
+  505 Lincoln Street
+
+  Pastors: Abe Ediger, 1964-67
+
+  Robert Sander, 1967-71
+
+  Glenn Jerrell, 1973-76
+
+  Gerald Taylor, 1978-82
+
+  Lawrence Eyres, 1982-88
+
+  Arthur Fox, 1988-92
+
+  Stephen Hart, 1993-96
+
+  Terry Thole, 1998-2010
+
+  Brad J. Irick, 2011
+
+  '
 received_from: null
 states:
 - SD

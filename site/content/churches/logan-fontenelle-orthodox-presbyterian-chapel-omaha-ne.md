@@ -25,9 +25,17 @@ ministers:
 name: Logan Fontenelle Orthodox Presbyterian Chapel
 names: null
 origination_date: *id001
-raw_data: "NEBRASKA Omaha\nLogan Fontenelle Orthodox Presbyterian Chapel  (1940\u2013\
-  1946)\nPastors: Jack Zandstra, 1940\u201341\nRobert Brown, 1941\u201345\nReginald\
-  \ V oorhees, 1945\u201346"
+raw_data: 'NEBRASKA Omaha
+
+  Logan Fontenelle Orthodox Presbyterian Chapel  (1940-1946)
+
+  Pastors: Jack Zandstra, 1940-41
+
+  Robert Brown, 1941-45
+
+  Reginald V oorhees, 1945-46
+
+  '
 received_from: null
 states:
 - NE

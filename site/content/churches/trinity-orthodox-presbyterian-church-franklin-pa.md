@@ -38,10 +38,24 @@ names:
   name: Trinity Orthodox Presbyterian Church
   start: 1993-05-21
 origination_date: *id001
-raw_data: "PA Franklin\n\nTrinity Orthodox Presbyterian Church  (May 21, 1993\u2013\
-  \ )\n545 Elk Street\nPastors: Everett DeVelde Jr, 1993\u201396\nJeff Lawson, 1997\u2013\
-  2000\nEverett DeVelde Jr, 2000\u20132003\nKarl Hubenthall, 2003\u20134\nDavid G.\
-  \ Graves, 2012\u2013"
+raw_data: 'PA Franklin
+
+
+  Trinity Orthodox Presbyterian Church  (May 21, 1993- )
+
+  545 Elk Street
+
+  Pastors: Everett DeVelde Jr, 1993-96
+
+  Jeff Lawson, 1997-2000
+
+  Everett DeVelde Jr, 2000-2003
+
+  Karl Hubenthall, 2003-4
+
+  David G. Graves, 2012-
+
+  '
 received_from: null
 states:
 - PA
