@@ -77,7 +77,7 @@ parser.add_argument(
     default="opc.yaml",
 )
 parser.add_argument(
-    "--count", type=int, help="Number of records to extract", default=10
+    "--count", type=int, help="Number of records to extract", default=100000
 )
 args = parser.parse_args()
 
