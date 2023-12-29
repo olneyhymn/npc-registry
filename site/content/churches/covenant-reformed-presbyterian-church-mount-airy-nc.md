@@ -15,13 +15,13 @@ minister:
   start: 2004-12-09
   type: Pastor
 - end: null
-  name: Scott Willet
+  name: S. Scott Willet
   start: 2017-06-23
   type: Pastor
 ministers:
 - Brenton Ferry
 - Brenton Ferry
-- Scott Willet
+- S. Scott Willet
 name: Covenant Reformed Presbyterian Church
 names:
 - end: 2004-12-09
