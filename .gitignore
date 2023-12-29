@@ -1,0 +1,6 @@
+public/
+errors/
+build/
+.direnv/
+.envrc
+.vscode/
