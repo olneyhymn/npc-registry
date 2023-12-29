@@ -4956,7 +4956,7 @@
   location:
     address: 1921 S. Archer Avenue
     city: Chicago
-    state: ID
+    state: IL
   minister:
     - name: John H. Ro
       start: 2009-01-01
@@ -4982,7 +4982,7 @@
   location:
     address:
     city: Chicago
-    state: ID
+    state: IL
   minister:
     - name: James Garretson
       start: 1988-01-01
@@ -5000,7 +5000,7 @@
   location:
     address: 178 McHenry Avenue
     city: Crystal Lake
-    state: ID
+    state: IL
   meeting_at:
     name: Immanuel Lutheran Church
   minister:
@@ -5019,7 +5019,7 @@
   location:
     address: Decatur
     city: Decatur
-    state: ID
+    state: IL
   minister:
     - name: John Wiers
       start: 1979-07-21
@@ -5046,7 +5046,7 @@
   location:
     address: 18215 W. Belvidere Road
     city: Grayslake
-    state: ID
+    state: IL
   minister:
     - name: Dennis Disselkoen
       start: 1998-01-01
@@ -5084,7 +5084,7 @@
   location:
     address: 1510 Greenbrook Boulevard
     city: Hanover Park
-    state: ID
+    state: IL
   minister:
     - name: James Bosgraf
       start: 1968-01-01
@@ -5140,7 +5140,7 @@
   location:
     address: 6871 Joliet Road
     city: Indian Head Park
-    state: ID
+    state: IL
   minister:
     - name: Lawrence Eyres
       start: 1951-04-15
@@ -5195,7 +5195,7 @@
   location:
     address: 1995 Mills Road
     city: Joliet
-    state: ID
+    state: IL
   minister:
     - name: Bruce Hollister
       start: 1995-01-01
@@ -5229,7 +5229,7 @@
   location:
     address:
     city: Libertyville
-    state: ID
+    state: IL
   minister:
     - name: Karl Dortzbach
       start: 1979-10-07
@@ -5261,7 +5261,7 @@
   location:
     address: 4132 N. State Route 1-17
     city: Momence
-    state: ID
+    state: IL
   minister:
     - name: Brent Evans
       start: 2008-01-01
@@ -5287,7 +5287,7 @@
   location:
     address: 9340 W. 147th Street
     city: Orland Park
-    state: ID
+    state: IL
   minister:
     - name: Norman De Jong
       start: 1995-01-01
@@ -5323,7 +5323,7 @@
   location:
     address:
     city: Rantoul
-    state: ID
+    state: IL
   minister:
   raw_data: ID Rantoul Presbyterian and Reformed Fellowship (1978- March 7, 1982)
 - name: Community Orthodox Presbyterian Chapel
@@ -5337,7 +5337,7 @@
   location:
     address:
     city: Rockford
-    state: ID
+    state: IL
   minister:
     - name: Eugene Grille
       start: 1974-01-01
@@ -5358,7 +5358,7 @@
   location:
     address: 6799 Guilford Road
     city: Rockford
-    state: ID
+    state: IL
   minister:
     - name: John Hilbelink
       start: 2009-02-06
@@ -5378,7 +5378,7 @@
   location:
     address: 1800 North Grand Avenue West
     city: Springfield
-    state: ID
+    state: IL
   minister:
     - name: Robert Walker
       start: 1996-01-01
@@ -5418,7 +5418,7 @@
   location:
     address: 85 S. Main Street
     city: Sugar Grove
-    state: ID
+    state: IL
   minister:
     - name: James Megchelsen
       start: 1997-02-02
@@ -5462,7 +5462,7 @@
   location:
     address: Tinley Park
     city: Forest View
-    state: ID
+    state: IL
   minister:
     - name: George Marston
       start: 1950-01-01
@@ -5518,7 +5518,7 @@
   location:
     address: 1401 S. Naperville Road
     city: Wheaton
-    state: ID
+    state: IL
   minister:
     - name: Francis Breisch
       start: 1960-01-03
