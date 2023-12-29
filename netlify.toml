@@ -1,5 +1,5 @@
 [build]
-publish = "public"
+publish = "site/public"
 command = "pip install -r requirements.txt && python extract.py && cd site && hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
 
 [build.environment]
