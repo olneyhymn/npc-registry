@@ -21,7 +21,8 @@ origination_date: *id001
 raw_data: "ID  Momence\nMomence Orthodox Presbyterian Church  (January 20, 2006\u2013\
   \ )\n(formerly Christian Reformed)\n4132 N. State Route 1\u201317\nPastor: Brent\
   \ Evans, 2008\u2013"
-received_from: Christian Reformed
+received_from:
+- Christian Reformed
 states:
 - ID
 status:

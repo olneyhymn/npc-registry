@@ -21,7 +21,8 @@ origination_date: *id001
 raw_data: "GA  Buford\n\nCovenant Presbyterian Church (December 11, 2015\u2013 )\n\
   (received from the Reformed Presbyterian Church in the U.S.)\n1420 Rock Springs\
   \ Road\nPastor: Christopher B. Strevel, Sr., 2015\u2013"
-received_from: Reformed Presbyterian Church in the U.S.
+received_from:
+- Reformed Presbyterian Church in the U.S.
 states:
 - GA
 status:

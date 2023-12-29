@@ -40,7 +40,8 @@ raw_data: "NEW JERSEY    Phillipsburg\nCalvary Community Orthodox Presbyterian C
   \  (April 15, 1966\u2013 )\n(received from Independency, April 15, 1966)\n4 Old\
   \ Church Road\nPastors: Lewis Grotenhuis, 1937\u201373\nGeorge Scipione, 1974\u2013\
   82\nDonald Taws, 1982\u201392\nMichael Bobick, 1993\u2013"
-received_from: Independency
+received_from:
+- Independency
 states:
 - NJ
 status:

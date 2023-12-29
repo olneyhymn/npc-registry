@@ -32,7 +32,8 @@ raw_data: "MISSOURI St. Charles\nChrist Presbyterian Church  (April 6, 2008\u201
   \ )\n(formerly in the Presbyterian Church in America)\n2156 Bluestone Drive\nPastor:\
   \ Scott Churnock, 1991\u2013\nAssoc. Pastors: Todd Wagenmaker, 2008\u201310\nKent\
   \ W. Harding, 2011"
-received_from: Presbyterian Church in America
+received_from:
+- Presbyterian Church in America
 states:
 - MO
 status:

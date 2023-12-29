@@ -69,7 +69,8 @@ raw_data: "NEW JERSEY\nWest Collingswood\n\nImmanuel Orthodox Presbyterian Churc
   \ Knight, 1961\u201365\nAllen Curry, 1967\u201370\nAlbert Steever, 1970\u201382\n\
   Gordon Miller, 1984\u201385\nHoward Currie, 1988\u20132004\nGlen Clary, 2005\u2013\
   12\nNeil J. Lodge, 2014\u2013"
-received_from: ' '
+received_from:
+- ' '
 states:
 - NJ
 status:

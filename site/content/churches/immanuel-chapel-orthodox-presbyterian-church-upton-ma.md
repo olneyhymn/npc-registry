@@ -26,7 +26,8 @@ origination_date: *id001
 raw_data: "MA\nUpton\nImmanuel Chapel Orthodox Presbyterian Church  (October 16, 2009\u2013\
   \ )\n(formerly independent)\n38 Hopkinton Road\nPastors: D. Leonard Gulstrom, 1995\u2013\
   99 (while it was independent)\nMark Marquis, 2003\u2013"
-received_from: formerly independent
+received_from:
+- formerly independent
 states:
 - MA
 status:

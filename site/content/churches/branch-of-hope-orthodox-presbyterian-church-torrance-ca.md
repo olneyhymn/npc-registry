@@ -27,7 +27,8 @@ names:
   start: null
 origination_date: *id001
 raw_data: MISSING
-received_from: International Church of the Foursquare Gospel
+received_from:
+- International Church of the Foursquare Gospel
 states:
 - CA
 status:

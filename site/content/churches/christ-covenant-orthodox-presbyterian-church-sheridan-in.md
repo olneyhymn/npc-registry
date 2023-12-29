@@ -26,7 +26,8 @@ origination_date: *id001
 raw_data: "IN Sheridan\nChrist Covenant Orthodox Presbyterian Church  (May 21, 2004\u2013\
   \ )\n(formerly independent)\n6070 N. 900 East\nPastor: Mark Melton, 2004\u2013\n\
   Assoc. Pastor: Timothy Baker, 2005\u201310"
-received_from: independent
+received_from:
+- independent
 states:
 - IN
 status:

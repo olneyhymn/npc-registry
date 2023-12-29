@@ -52,7 +52,8 @@ raw_data: "PA Doylestown\nCovenant Orthodox Presbyterian Church  (April 7, 1972\
   \ in America, November 3, 2001)\nPastors: C. John Miller, 1965\u201372\nGeorge Morton,\
   \ 1973\u201385\nJohn Harbison, 1986\u201391\nJohn Bettler (Supply), 1991\u201393\n\
   Stephen Meidahl, 1993\u20132001\nAssoc. Pastor: Matthew Colflesh, 2001"
-received_from: Independency
+received_from:
+- Independency
 states:
 - PA
 status:

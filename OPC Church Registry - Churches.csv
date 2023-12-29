@@ -5501,7 +5501,7 @@ Pastor: Richard A. Miller, 2005–10, 2012–
   minister:
     - name: Richard A. Miller
       start: 2005-01-01
-      end: null
+      end: 2010-01-01
       type: Pastor
     - name: Richard A. Miller
       start: 2012-01-01

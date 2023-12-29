@@ -6,7 +6,7 @@ location:
   city: Arco
   state: ID
 minister:
-- end: null
+- end: 2010-01-01
   name: Richard A. Miller
   start: 2005-01-01
   type: Pastor
@@ -26,7 +26,8 @@ origination_date: *id001
 raw_data: "ID Arco\n\nArco Orthodox Presbyterian Church (August 17, 2003\u2013 )\n\
   (received from Independency)\n159 N. Idaho Street\nPastor: Richard A. Miller, 2005\u2013\
   10, 2012\u2013"
-received_from: Independency
+received_from:
+- Independency
 states:
 - ID
 status:

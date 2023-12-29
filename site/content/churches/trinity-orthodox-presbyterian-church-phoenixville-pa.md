@@ -30,7 +30,8 @@ raw_data: "PA\nPhoenixville\nTrinity Orthodox Presbyterian mission work  (May 18
   \ 1984\u2013June 21, 1985)\nTrinity Orthodox Presbyterian Church  (June 21, 1985\u2013\
   September 15, 2001)\nOrg. Pastor: Mark Holler, 1984\u201385\nPastor: Mark Holler,\
   \ 1985\u20132000"
-received_from: Trinity Orthodox Presbyterian mission work
+received_from:
+- Trinity Orthodox Presbyterian mission work
 states:
 - PA
 status:

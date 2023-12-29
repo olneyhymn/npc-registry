@@ -67,7 +67,8 @@ raw_data: "AR  Los Angeles\nBeverly Orthodox Presbyterian Church  (October 28, 1
   62\nCalvin Malcor, 1963\u201369\nDaniel Overduin, 1969\u201375\nDennis Johnson,\
   \ 1976\u201381\nSteven Larson, 1982\u201388\nAlan Pontier, 1988\u20132004\nAssoc.\
   \ Pastor: Josue Balderas, 1982\u201387"
-received_from: Gardens Tabernacle PCA
+received_from:
+- Gardens Tabernacle PCA
 states:
 - CA
 status:

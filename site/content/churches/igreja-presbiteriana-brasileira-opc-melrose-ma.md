@@ -30,7 +30,8 @@ raw_data: "MA\nMelrose\nIgreja Presbiteriana Brasileira  mission work  (2007\u20
   January 25, 2015)\nIgreja Presbiteriana Brasileira, OPC (January 25, 2015\u2013\
   \ )\nMeeting at Church of the Nazarene, 2 Short Street\nOrg. Pastor: Roberto Laranjo,\
   \ 2007\u201315\nPastor: Roberto Laranjo, 2015\u2013"
-received_from: Igreja Presbiteriana Brasileira
+received_from:
+- Igreja Presbiteriana Brasileira
 states:
 - MA
 status:

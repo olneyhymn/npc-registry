@@ -37,7 +37,8 @@ raw_data: "AZ\nPrescott\nPrescott Presbyterian Church, Orthodox Presbyterian Chu
   \  (March 3, 1996\u2013 )\n137 N. Marina Street\nPastors: Gary Findley, 1996\u2013\
   97\nCharles Perkins, 1998\u2013\nSupply: Charles Perkins, 1997\u201398\nAssoc. Pastor:\
   \ Brian D. Chang, 2011\u201315"
-received_from: Orthodox Presbyterian Church
+received_from:
+- Orthodox Presbyterian Church
 states:
 - AZ
 status:
