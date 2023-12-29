@@ -13,3 +13,11 @@ url = "ministers"
 [[entries]]
 title = "Year Founded"
 url = "year_established"
+
+[[entries]]
+title = "Withdrawn To"
+url = "withdrawal_to"
+
+[[entries]]
+title = "Received From"
+url = "received_from"
