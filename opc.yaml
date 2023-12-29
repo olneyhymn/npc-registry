@@ -5845,6 +5845,7 @@
     - name: Michael J. Kearney
       start: 2015-01-01
       end: null
+      type: Pastor
     - name: John Boyd
       start: 1980-01-01
       end: 1982-01-01
@@ -6219,6 +6220,8 @@
       start: 2012-01-01
       end:
       type: Organizing Pastor
+  body: |
+    Changed name from Covenant Reformed Presbyterian Church on April 26, 2008.
   raw_data: |
     KY Neon
     Neon Presbyterian Church (Mission work) (October 20, 2000- )
