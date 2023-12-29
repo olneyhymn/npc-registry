@@ -41,7 +41,7 @@ class Name(BaseModel):
 
 
 class Status(BaseModel):
-    active: bool = False
+    active: bool = True
     reason: Optional[str] = None
     withdrawal_to: Optional[str] = None
     end_date: Optional[date] = None
