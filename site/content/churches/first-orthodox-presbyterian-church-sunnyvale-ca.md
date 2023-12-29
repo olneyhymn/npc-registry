@@ -9,35 +9,35 @@ minister:
 - end: 1967-01-01
   name: Henry Coray
   start: 1955-01-01
-  type: pastor
+  type: Pastor
 - end: 1973-01-01
   name: Henry Krabbendam
   start: 1968-01-01
-  type: pastor
+  type: Pastor
 - end: 1977-01-01
   name: Robert Atwell
   start: 1975-01-01
-  type: pastor
+  type: Pastor
 - end: 1990-01-01
   name: Sal Solis
   start: 1978-01-01
-  type: pastor
+  type: Pastor
 - end: 1998-01-01
   name: Donald Buchanan
   start: 1991-01-01
-  type: pastor
+  type: Pastor
 - end: 2006-01-01
   name: Donald Owsley
   start: 2000-01-01
-  type: pastor
+  type: Pastor
 - end: 2011-01-01
   name: John Belden
   start: 2010-01-01
-  type: pastor
+  type: Pastor
 - end: 2015-01-01
   name: Ryan M. McGraw
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 - end: 1973-01-01
   name: Arthur Ames
   start: 1970-01-01
@@ -45,7 +45,7 @@ minister:
 - end: 1979-01-01
   name: Donald Buchanan
   start: 1975-01-01
-  type: associate_pastor
+  type: Associate Pastor
 ministers:
 - Henry Coray
 - Henry Krabbendam

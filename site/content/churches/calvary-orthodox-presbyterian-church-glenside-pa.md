@@ -9,55 +9,55 @@ minister:
 - end: 1940-01-01
   name: Cary Weisiger
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 - end: 1943-01-01
   name: Theodore Jansma
   start: 1941-01-01
-  type: pastor
+  type: Pastor
 - end: 1951-01-01
   name: Eugene Bradford
   start: 1944-01-01
-  type: pastor
+  type: Pastor
 - end: 1961-01-01
   name: Robert Atwell
   start: 1952-01-01
-  type: pastor
+  type: Pastor
 - end: 1967-01-01
   name: Larry Sibley
   start: 1963-01-01
-  type: pastor
+  type: Pastor
 - end: 1971-01-01
   name: Henry Coray
   start: 1967-01-01
-  type: pastor
+  type: Pastor
 - end: 1977-01-01
   name: Robert Drake
   start: 1972-01-01
-  type: pastor
+  type: Pastor
 - end: 1980-01-01
   name: Daniel Morse
   start: 1978-01-01
-  type: pastor
+  type: Pastor
 - end: 1994-01-01
   name: Steven Miller
   start: 1981-01-01
-  type: pastor
+  type: Pastor
 - end: 2007-01-01
   name: A. Craig Troxel
   start: 1995-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: J. Mark Sallade
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 - end: 2004-01-01
   name: Chad E. Bond
   start: 2001-01-01
-  type: associate_pastor
+  type: Associate Pastor
 - end: 2008-01-01
   name: J. Mark Sallade
   start: 2006-01-01
-  type: associate_pastor
+  type: Associate Pastor
 ministers:
 - Cary Weisiger
 - Theodore Jansma

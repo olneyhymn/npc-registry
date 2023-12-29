@@ -9,47 +9,47 @@ minister:
 - end: 1954-01-01
   name: John Clelland
   start: 1936-01-01
-  type: pastor
+  type: Pastor
 - end: 1966-01-01
   name: Robert W. Eckardt
   start: 1954-01-01
-  type: pastor
+  type: Pastor
 - end: 1974-01-01
   name: Rollin Keller
   start: 1967-01-01
-  type: pastor
+  type: Pastor
 - end: 1982-01-01
   name: Arthur Steltzer
   start: 1975-01-01
-  type: pastor
+  type: Pastor
 - end: 1988-01-01
   name: Jonathan Peters
   start: 1983-01-01
-  type: pastor
+  type: Pastor
 - end: 2006-01-01
   name: Robert Letham
   start: 1989-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Michael Matossian
   start: 2009-01-01
-  type: pastor
+  type: Pastor
 - end: 1979-01-01
   name: Douglas Watson
   start: 1978-01-01
-  type: associate_pastor
+  type: Associate Pastor
 - end: 1980-01-01
   name: R. Heber McIlwaine
   start: 1978-01-01
-  type: associate_pastor
+  type: Associate Pastor
 - end: 2006-01-01
   name: S. Edd Cathey
   start: 1995-01-01
-  type: associate_pastor
+  type: Associate Pastor
 - end: null
   name: David W. Landow
   start: 2014-01-01
-  type: associate_pastor
+  type: Associate Pastor
 ministers:
 - John Clelland
 - Robert W. Eckardt

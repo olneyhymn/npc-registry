@@ -9,27 +9,27 @@ minister:
 - end: 1938-01-01
   name: L. Craig Long
   start: 1936-01-01
-  type: pastor
+  type: Pastor
 - end: 1942-01-01
   name: Marvin Derby
   start: 1938-01-01
-  type: pastor
+  type: Pastor
 - end: 1946-01-01
   name: Edmund Clowney
   start: 1942-01-01
-  type: pastor
+  type: Pastor
 - end: 1949-01-01
   name: Ralph Clough
   start: 1947-01-01
-  type: pastor
+  type: Pastor
 - end: 1955-01-01
   name: Philip Chase
   start: 1954-01-01
-  type: pastor
+  type: Pastor
 - end: 1960-01-01
   name: Robert Anderson
   start: 1956-01-01
-  type: pastor
+  type: Pastor
 - end: 1975-01-01
   name: William Moreau
   start: 1961-01-01
@@ -37,19 +37,19 @@ minister:
 - end: 1978-01-01
   name: Ronald Jenkins
   start: 1976-01-01
-  type: pastor
+  type: Pastor
 - end: 1999-01-01
   name: Richard Gerber
   start: 1979-01-01
-  type: pastor
+  type: Pastor
 - end: 2006-01-01
   name: Calvin Keller
   start: 2000-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Jonathan Holst
   start: 2007-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: James Campbell
   start: 1987-01-01

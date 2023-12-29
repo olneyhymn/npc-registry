@@ -639,19 +639,19 @@ Wayne Forkner, 2001–
     - name: Robert Churchill
       start: 1937-01-01
       end: 1948-01-01
-      type: pastor
+      type: Pastor
     - name: Robert Graham
       start: 1949-01-01
       end: 1955-01-01
-      type: pastor
+      type: Pastor
     - name: Richard Lewis
       start: 1957-01-01
       end: 2001-01-01
-      type: pastor
+      type: Pastor
     - name: Wayne Forkner
       start: 2001-01-01
       end:
-      type: pastor
+      type: Pastor
   raw_data: |
     California
     Berkeley
@@ -882,54 +882,54 @@ Kenneth Gentry, Jr., 1997–98
     - name: Jack Peterson
       start: 1958-01-01
       end: 1960-01-01
-      type: pastor
+      type: Pastor
     - name: Robert Graham
       start: 1961-01-01
       end: 1970-01-01
-      type: pastor
+      type: Pastor
     - name: Eugene Saltzen
       start: 1970-01-01
       end: 1971-01-01
-      type: pastor
+      type: Pastor
     - name: John Johnston
       start: 1972-01-01
       end: 1973-01-01
-      type: pastor
+      type: Pastor
     - name: Larry Conard
       start: 1973-01-01
       end: 1977-01-01
-      type: pastor
+      type: Pastor
     - name: Lewis Ruff
       start: 1977-01-01
       end: 1982-01-01
-      type: pastor
+      type: Pastor
     - name: Roger Wagner
       start: 1983-01-01
-      type: pastor
+      type: Pastor
     - name: Mark Maliepard
       start: 1982-01-01
       end: 1986-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: Vincent Ortiz
       start: 1984-01-01
       end: 1985-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: Gregory Bahnsen
       start: 1992-01-01
       end: 1995-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: Robert Needham
       start: 1992-01-01
       end: 1993-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: George Scipione
       start: 1992-01-01
       end: 2006-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: Kenneth Gentry, Jr.
       start: 1997-01-01
       end: 1998-01-01
-      type: associate_pastor
+      type: Associate Pastor
   raw_data: |
     California Chula Vista
     Bayview Orthodox Presbyterian Church (April 23, 1958– )
@@ -1515,34 +1515,34 @@ Robert G. Herrmann, 2001–7
     - name: Dwight Poundstone
       start: 1958-05-14
       end: 1965-01-01
-      type: pastor
+      type: Pastor
     - name: Eugene Saltzen
       start: 1966-01-01
       end: 1969-01-01
-      type: pastor
+      type: Pastor
     - name: Kent Hinkson
       start: 1970-01-01
       end: 1979-01-01
-      type: pastor
+      type: Pastor
     - name: Jay Fluck
       start: 1980-01-01
       end: 1998-01-01
-      type: pastor
+      type: Pastor
     - name: Donald Buchanan
       start: 1999-01-01
       end: 2011-01-01
-      type: pastor
+      type: Pastor
     - name: M. Austin Britton
       start: 2012-01-01
-      type: pastor
+      type: Pastor
     - name: Nicholas Ganas
       start: 1995-01-01
       end: 2000-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: Robert G. Herrmann
       start: 2001-01-01
       end: 2007-01-01
-      type: associate_pastor
+      type: Associate Pastor
   raw_data: |
     California
     La Mirada
@@ -2087,14 +2087,14 @@ Reid Hankins, 2008–
     - name: Robert Graham
       start: 1971-05-13
       end: 1973-01-01
-      type: pastor
+      type: Pastor
     - name: Richard Miller
       start: 1974-01-01
       end: 2006-01-01
-      type: pastor
+      type: Pastor
     - name: Reid Hankins
       start: 2008-01-01
-      type: pastor
+      type: Pastor
   raw_data: |
     California
     Novato
@@ -3209,35 +3209,35 @@ Assoc. Pastor: Donald Buchanan, 1975–79
     - name: Henry Coray
       start: 1955-01-01
       end: 1967-01-01
-      type: pastor
+      type: Pastor
     - name: Henry Krabbendam
       start: 1968-01-01
       end: 1973-01-01
-      type: pastor
+      type: Pastor
     - name: Robert Atwell
       start: 1975-01-01
       end: 1977-01-01
-      type: pastor
+      type: Pastor
     - name: Sal Solis
       start: 1978-01-01
       end: 1990-01-01
-      type: pastor
+      type: Pastor
     - name: Donald Buchanan
       start: 1991-01-01
       end: 1998-01-01
-      type: pastor
+      type: Pastor
     - name: Donald Owsley
       start: 2000-01-01
       end: 2006-01-01
-      type: pastor
+      type: Pastor
     - name: John Belden
       start: 2010-01-01
       end: 2011-01-01
-      type: pastor
+      type: Pastor
     - name: Ryan M. McGraw
       start: 2012-01-01
       end: 2015-01-01
-      type: pastor
+      type: Pastor
     - name: Arthur Ames
       start: 1970-01-01
       end: 1973-01-01
@@ -3245,7 +3245,7 @@ Assoc. Pastor: Donald Buchanan, 1975–79
     - name: Donald Buchanan
       start: 1975-01-01
       end: 1979-01-01
-      type: associate_pastor
+      type: Associate Pastor
   raw_data: |
     California Sunnyvale
     First Orthodox Presbyterian Church  (September 17, 1956- )
@@ -4096,27 +4096,27 @@ Teacher: James Campbell, 1987–
     - name: L. Craig Long
       start: 1936-01-01
       end: 1938-01-01
-      type: pastor
+      type: Pastor
     - name: Marvin Derby
       start: 1938-01-01
       end: 1942-01-01
-      type: pastor
+      type: Pastor
     - name: Edmund Clowney
       start: 1942-01-01
       end: 1946-01-01
-      type: pastor
+      type: Pastor
     - name: Ralph Clough
       start: 1947-01-01
       end: 1949-01-01
-      type: pastor
+      type: Pastor
     - name: Philip Chase
       start: 1954-01-01
       end: 1955-01-01
-      type: pastor
+      type: Pastor
     - name: Robert Anderson
       start: 1956-01-01
       end: 1960-01-01
-      type: pastor
+      type: Pastor
     - name: William Moreau
       start: 1961-01-01
       end: 1975-01-01
@@ -4124,18 +4124,18 @@ Teacher: James Campbell, 1987–
     - name: Ronald Jenkins
       start: 1976-01-01
       end: 1978-01-01
-      type: pastor
+      type: Pastor
     - name: Richard Gerber
       start: 1979-01-01
       end: 1999-01-01
-      type: pastor
+      type: Pastor
     - name: Calvin Keller
       start: 2000-01-01
       end: 2006-01-01
-      type: pastor
+      type: Pastor
     - name: Jonathan Holst
       start: 2007-01-01
-      type: pastor
+      type: Pastor
     - name: James Campbell
       start: 1987-01-01
       type: teacher
@@ -4416,45 +4416,45 @@ David W. Landow, 2014–
     - name: John Clelland
       start: 1936-01-01
       end: 1954-01-01
-      type: pastor
+      type: Pastor
     - name: Robert W. Eckardt
       start: 1954-01-01
       end: 1966-01-01
-      type: pastor
+      type: Pastor
     - name: Rollin Keller
       start: 1967-01-01
       end: 1974-01-01
-      type: pastor
+      type: Pastor
     - name: Arthur Steltzer
       start: 1975-01-01
       end: 1982-01-01
-      type: pastor
+      type: Pastor
     - name: Jonathan Peters
       start: 1983-01-01
       end: 1988-01-01
-      type: pastor
+      type: Pastor
     - name: Robert Letham
       start: 1989-01-01
       end: 2006-01-01
-      type: pastor
+      type: Pastor
     - name: Michael Matossian
       start: 2009-01-01
-      type: pastor
+      type: Pastor
     - name: Douglas Watson
       start: 1978-01-01
       end: 1979-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: R. Heber McIlwaine
       start: 1978-01-01
       end: 1980-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: S. Edd Cathey
       start: 1995-01-01
       end: 2006-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: David W. Landow
       start: 2014-01-01
-      type: associate_pastor
+      type: Associate Pastor
   raw_data: |
     DELAWARE Wilmington
     Emmanuel Orthodox Presbyterian Church  (June 1936– )
@@ -6247,34 +6247,34 @@ Robert E. Tarullo, 2012–
     - name: Lawrence Eyres
       start: 1951-04-15
       end: 1958-01-01
-      type: pastor
+      type: Pastor
     - name: Glenn Black
       start: 1958-01-01
       end: 1963-01-01
-      type: pastor
+      type: Pastor
     - name: W. Harllee Bordeaux
       start: 1963-01-01
       end: 1966-01-01
-      type: pastor
+      type: Pastor
     - name: Ivan DeMaster
       start: 1966-01-01
       end: 1985-01-01
-      type: pastor
+      type: Pastor
     - name: William Rudolph
       start: 1986-01-01
       end: 1997-01-01
-      type: pastor
+      type: Pastor
     - name: Bradford Freeman
       start: 1998-01-01
       end: 1999-01-01
-      type: pastor
+      type: Pastor
     - name: Charles Telfer
       start: 2002-01-01
       end: 2011-01-01
-      type: pastor
+      type: Pastor
     - name: Robert E. Tarullo
       start: 2012-01-01
-      type: pastor
+      type: Pastor
   raw_data: |
     IDAHO Indian Head Park
     Westminster Orthodox Presbyterian Church (April 15, 1951– )
@@ -7760,43 +7760,43 @@ Assoc. Pastor: Richard Dickinson, 1988–2001
     - name: Dale Snyder
       start: 1954-03-24
       end: 1958-01-01
-      type: pastor
+      type: Pastor
     - name: George Weeber
       start: 1959-01-01
       end: 1961-01-01
-      type: pastor
+      type: Pastor
     - name: George Haney
       start: 1961-01-01
       end: 1968-01-01
-      type: pastor
+      type: Pastor
     - name: Carl Ahlfeldt
       start: 1968-01-01
       end: 1969-01-01
-      type: pastor
+      type: Pastor
     - name: Bernard Stonehouse
       start: 1970-01-01
       end: 1980-01-01
-      type: pastor
+      type: Pastor
     - name: Richard Wirth
       start: 1981-01-01
       end: 1984-01-01
-      type: pastor
+      type: Pastor
     - name: Jonathan Falk
       start: 1986-01-01
       end: 1999-01-01
-      type: pastor
+      type: Pastor
     - name: Brian Nolder
       start: 2000-01-01
       end: 2007-01-01
-      type: pastor
+      type: Pastor
     - name: Russell Hamilton
       start: 2008-01-01
       end: null
-      type: pastor
+      type: Pastor
     - name: Richard Dickinson
       start: 1988-01-01
       end: 2001-01-01
-      type: associate_pastor
+      type: Associate Pastor
   raw_data: |
     MAINE Bangor
 
@@ -8831,43 +8831,43 @@ James Stastny, 2000–
     - name: Leslie Sloat
       start: 1936-09-22
       end: 1939-01-01
-      type: pastor
+      type: Pastor
     - name: Henry Phillips
       start: 1939-01-01
       end: 1943-01-01
-      type: pastor
+      type: Pastor
     - name: Glenn Coie
       start: 1945-01-01
       end: 1955-01-01
-      type: pastor
+      type: Pastor
     - name: Charles Ellis
       start: 1955-01-01
       end: 1979-01-01
-      type: pastor
+      type: Pastor
     - name: Thomas Tyson
       start: 1980-01-01
       end: 1989-01-01
-      type: pastor
+      type: Pastor
     - name: Thomas Martin
       start: 1991-01-01
       end: null
-      type: pastor
+      type: Pastor
     - name: Bryan Estelle
       start: 1996-01-01
       end: 2000-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: Robert Thoburn
       start: 1959-01-01
       end: 1961-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: Leonard Stewart
       start: 1977-01-01
       end: 1980-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: James Stastny
       start: 2000-01-01
       end: null
-      type: associate_pastor
+      type: Associate Pastor
   raw_data: |
     MARYLAND Silver Spring
 
@@ -9009,35 +9009,35 @@ Derek Baker, 2010–
     - name: Wendell Rockey
       start: 1964-01-01
       end: 1975-01-01
-      type: pastor
+      type: Pastor
     - name: Kenneth Ironside
       start: 1976-01-01
       end: 1983-01-01
-      type: pastor
+      type: Pastor
     - name: James Kern
       start: 1984-01-01
       end: 1990-01-01
-      type: pastor
+      type: Pastor
     - name: Charles Wingard
       start: 1991-01-01
       end: 2000-01-01
-      type: pastor
+      type: Pastor
     - name: David O’Leary
       start: 2002-01-01
       end: 2013-01-01
-      type: pastor
+      type: Pastor
     - name: Gregory Hills
       start: 2012-01-01
       end: null
-      type: pastor
+      type: Pastor
     - name: Gregory Hills
       start: 2002-01-01
       end: 2012-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: Derek Baker
       start: 2010-01-01
       end: null
-      type: associate_pastor
+      type: Associate Pastor
   raw_data: |
     MASSACHUSSETTS Ipswich
     First Orthodox Presbyterian Church, North Shore  (November 16, 1961– )
@@ -12086,47 +12086,47 @@ Travis Yonkman 2011
     - name: Leslie Dunn
       start: 1939-01-01
       end: 1940-01-01
-      type: pastor
+      type: Pastor
     - name: Lawrence Gilmore
       start: 1941-01-01
       end: 1943-01-01
-      type: pastor
+      type: Pastor
     - name: H. Wilson Albright
       start: 1943-01-01
       end: 1948-01-01
-      type: pastor
+      type: Pastor
     - name: Theodore Georgian
       start: 1949-01-01
       end: 1958-01-01
-      type: pastor
+      type: Pastor
     - name: Donald Parker
       start: 1961-01-01
       end: 1966-01-01
-      type: pastor
+      type: Pastor
     - name: William Rankin
       start: 1966-01-01
       end: 1966-01-01
-      type: pastor
+      type: Pastor
     - name: Gordon Mouw
       start: 1968-01-01
       end: 1970-01-01
-      type: pastor
+      type: Pastor
     - name: Douglas Kittredge
       start: 1971-01-01
       end: 1975-01-01
-      type: pastor
+      type: Pastor
     - name: George Kirkwood
       start: 1976-01-01
       end: 1976-01-01
-      type: pastor
+      type: Pastor
     - name: Richard Nelson
       start: 1978-01-01
       end: 2009-01-01
-      type: pastor
+      type: Pastor
     - name: Travis Yonkman
       start: 2011-01-01
       end: null
-      type: pastor
+      type: Pastor
   raw_data: |
     NEW JERSEY
     Hamilton Township
@@ -17134,54 +17134,54 @@ J. Mark Sallade, 2006–8
     - name: Cary Weisiger
       start: 1937-01-01
       end: 1940-01-01
-      type: pastor
+      type: Pastor
     - name: Theodore Jansma
       start: 1941-01-01
       end: 1943-01-01
-      type: pastor
+      type: Pastor
     - name: Eugene Bradford
       start: 1944-01-01
       end: 1951-01-01
-      type: pastor
+      type: Pastor
     - name: Robert Atwell
       start: 1952-01-01
       end: 1961-01-01
-      type: pastor
+      type: Pastor
     - name: Larry Sibley
       start: 1963-01-01
       end: 1967-01-01
-      type: pastor
+      type: Pastor
     - name: Henry Coray
       start: 1967-01-01
       end: 1971-01-01
-      type: pastor
+      type: Pastor
     - name: Robert Drake
       start: 1972-01-01
       end: 1977-01-01
-      type: pastor
+      type: Pastor
     - name: Daniel Morse
       start: 1978-01-01
       end: 1980-01-01
-      type: pastor
+      type: Pastor
     - name: Steven Miller
       start: 1981-01-01
       end: 1994-01-01
-      type: pastor
+      type: Pastor
     - name: A. Craig Troxel
       start: 1995-01-01
       end: 2007-01-01
-      type: pastor
+      type: Pastor
     - name: J. Mark Sallade
       start: 2008-01-01
-      type: pastor
+      type: Pastor
     - name: Chad E. Bond
       start: 2001-01-01
       end: 2004-01-01
-      type: associate_pastor
+      type: Associate Pastor
     - name: J. Mark Sallade
       start: 2006-01-01
       end: 2008-01-01
-      type: associate_pastor
+      type: Associate Pastor
   raw_data: |
     PENNSYLVANIA
     Glenside

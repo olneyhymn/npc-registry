@@ -9,35 +9,35 @@ minister:
 - end: 1958-01-01
   name: Lawrence Eyres
   start: 1951-04-15
-  type: pastor
+  type: Pastor
 - end: 1963-01-01
   name: Glenn Black
   start: 1958-01-01
-  type: pastor
+  type: Pastor
 - end: 1966-01-01
   name: W. Harllee Bordeaux
   start: 1963-01-01
-  type: pastor
+  type: Pastor
 - end: 1985-01-01
   name: Ivan DeMaster
   start: 1966-01-01
-  type: pastor
+  type: Pastor
 - end: 1997-01-01
   name: William Rudolph
   start: 1986-01-01
-  type: pastor
+  type: Pastor
 - end: 1999-01-01
   name: Bradford Freeman
   start: 1998-01-01
-  type: pastor
+  type: Pastor
 - end: 2011-01-01
   name: Charles Telfer
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Robert E. Tarullo
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Lawrence Eyres
 - Glenn Black

@@ -9,43 +9,43 @@ minister:
 - end: 1939-01-01
   name: Leslie Sloat
   start: 1936-09-22
-  type: pastor
+  type: Pastor
 - end: 1943-01-01
   name: Henry Phillips
   start: 1939-01-01
-  type: pastor
+  type: Pastor
 - end: 1955-01-01
   name: Glenn Coie
   start: 1945-01-01
-  type: pastor
+  type: Pastor
 - end: 1979-01-01
   name: Charles Ellis
   start: 1955-01-01
-  type: pastor
+  type: Pastor
 - end: 1989-01-01
   name: Thomas Tyson
   start: 1980-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Thomas Martin
   start: 1991-01-01
-  type: pastor
+  type: Pastor
 - end: 2000-01-01
   name: Bryan Estelle
   start: 1996-01-01
-  type: associate_pastor
+  type: Associate Pastor
 - end: 1961-01-01
   name: Robert Thoburn
   start: 1959-01-01
-  type: associate_pastor
+  type: Associate Pastor
 - end: 1980-01-01
   name: Leonard Stewart
   start: 1977-01-01
-  type: associate_pastor
+  type: Associate Pastor
 - end: null
   name: James Stastny
   start: 2000-01-01
-  type: associate_pastor
+  type: Associate Pastor
 ministers:
 - Leslie Sloat
 - Henry Phillips

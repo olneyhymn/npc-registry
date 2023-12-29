@@ -9,43 +9,43 @@ minister:
 - end: 1958-01-01
   name: Dale Snyder
   start: 1954-03-24
-  type: pastor
+  type: Pastor
 - end: 1961-01-01
   name: George Weeber
   start: 1959-01-01
-  type: pastor
+  type: Pastor
 - end: 1968-01-01
   name: George Haney
   start: 1961-01-01
-  type: pastor
+  type: Pastor
 - end: 1969-01-01
   name: Carl Ahlfeldt
   start: 1968-01-01
-  type: pastor
+  type: Pastor
 - end: 1980-01-01
   name: Bernard Stonehouse
   start: 1970-01-01
-  type: pastor
+  type: Pastor
 - end: 1984-01-01
   name: Richard Wirth
   start: 1981-01-01
-  type: pastor
+  type: Pastor
 - end: 1999-01-01
   name: Jonathan Falk
   start: 1986-01-01
-  type: pastor
+  type: Pastor
 - end: 2007-01-01
   name: Brian Nolder
   start: 2000-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Russell Hamilton
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 - end: 2001-01-01
   name: Richard Dickinson
   start: 1988-01-01
-  type: associate_pastor
+  type: Associate Pastor
 ministers:
 - Dale Snyder
 - George Weeber

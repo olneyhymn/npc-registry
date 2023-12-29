@@ -9,19 +9,19 @@ minister:
 - end: 1948-01-01
   name: Robert Churchill
   start: 1937-01-01
-  type: pastor
+  type: Pastor
 - end: 1955-01-01
   name: Robert Graham
   start: 1949-01-01
-  type: pastor
+  type: Pastor
 - end: 2001-01-01
   name: Richard Lewis
   start: 1957-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Wayne Forkner
   start: 2001-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Robert Churchill
 - Robert Graham

@@ -9,47 +9,47 @@ minister:
 - end: 1940-01-01
   name: Leslie Dunn
   start: 1939-01-01
-  type: pastor
+  type: Pastor
 - end: 1943-01-01
   name: Lawrence Gilmore
   start: 1941-01-01
-  type: pastor
+  type: Pastor
 - end: 1948-01-01
   name: H. Wilson Albright
   start: 1943-01-01
-  type: pastor
+  type: Pastor
 - end: 1958-01-01
   name: Theodore Georgian
   start: 1949-01-01
-  type: pastor
+  type: Pastor
 - end: 1966-01-01
   name: Donald Parker
   start: 1961-01-01
-  type: pastor
+  type: Pastor
 - end: 1966-01-01
   name: William Rankin
   start: 1966-01-01
-  type: pastor
+  type: Pastor
 - end: 1970-01-01
   name: Gordon Mouw
   start: 1968-01-01
-  type: pastor
+  type: Pastor
 - end: 1975-01-01
   name: Douglas Kittredge
   start: 1971-01-01
-  type: pastor
+  type: Pastor
 - end: 1976-01-01
   name: George Kirkwood
   start: 1976-01-01
-  type: pastor
+  type: Pastor
 - end: 2009-01-01
   name: Richard Nelson
   start: 1978-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Travis Yonkman
   start: 2011-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Leslie Dunn
 - Lawrence Gilmore

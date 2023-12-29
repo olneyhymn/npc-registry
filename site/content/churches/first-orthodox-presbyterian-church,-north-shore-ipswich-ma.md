@@ -9,35 +9,35 @@ minister:
 - end: 1975-01-01
   name: Wendell Rockey
   start: 1964-01-01
-  type: pastor
+  type: Pastor
 - end: 1983-01-01
   name: Kenneth Ironside
   start: 1976-01-01
-  type: pastor
+  type: Pastor
 - end: 1990-01-01
   name: James Kern
   start: 1984-01-01
-  type: pastor
+  type: Pastor
 - end: 2000-01-01
   name: Charles Wingard
   start: 1991-01-01
-  type: pastor
+  type: Pastor
 - end: 2013-01-01
   name: "David O\u2019Leary"
   start: 2002-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Gregory Hills
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 - end: 2012-01-01
   name: Gregory Hills
   start: 2002-01-01
-  type: associate_pastor
+  type: Associate Pastor
 - end: null
   name: Derek Baker
   start: 2010-01-01
-  type: associate_pastor
+  type: Associate Pastor
 ministers:
 - Wendell Rockey
 - Kenneth Ironside

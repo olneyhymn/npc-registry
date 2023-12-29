@@ -9,15 +9,15 @@ minister:
 - end: 1973-01-01
   name: Robert Graham
   start: 1971-05-13
-  type: pastor
+  type: Pastor
 - end: 2006-01-01
   name: Richard Miller
   start: 1974-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: Reid Hankins
   start: 2008-01-01
-  type: pastor
+  type: Pastor
 ministers:
 - Robert Graham
 - Richard Miller

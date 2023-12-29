@@ -9,35 +9,35 @@ minister:
 - end: 1965-01-01
   name: Dwight Poundstone
   start: 1958-05-14
-  type: pastor
+  type: Pastor
 - end: 1969-01-01
   name: Eugene Saltzen
   start: 1966-01-01
-  type: pastor
+  type: Pastor
 - end: 1979-01-01
   name: Kent Hinkson
   start: 1970-01-01
-  type: pastor
+  type: Pastor
 - end: 1998-01-01
   name: Jay Fluck
   start: 1980-01-01
-  type: pastor
+  type: Pastor
 - end: 2011-01-01
   name: Donald Buchanan
   start: 1999-01-01
-  type: pastor
+  type: Pastor
 - end: null
   name: M. Austin Britton
   start: 2012-01-01
-  type: pastor
+  type: Pastor
 - end: 2000-01-01
   name: Nicholas Ganas
   start: 1995-01-01
-  type: associate_pastor
+  type: Associate Pastor
 - end: 2007-01-01
   name: Robert G. Herrmann
   start: 2001-01-01
-  type: associate_pastor
+  type: Associate Pastor
 ministers:
 - Dwight Poundstone
 - Eugene Saltzen
