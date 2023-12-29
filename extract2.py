@@ -67,6 +67,7 @@ class ChurchRecord(BaseModel):
     status: Status = Field(default_factory=Status)
     name: str
     end_date: Optional[date] = None
+    body: Optional[str]
 
 
 parser = argparse.ArgumentParser(description="Extract OPC Church Registry")
@@ -138,10 +139,14 @@ with open(args.file, newline="") as f:
             d["withdrawal_to"] = [parsed_red.status.withdrawal_to]
         d["date"] = d["origination_date"]
         d["title"] = f"{d['name']} ({d['location']['city']} {d['location']['state']})"
+        del d["body"]
         file.write_text(
             f"""---
 {yaml.dump(d)}
----"""
+---
+
+{parsed_red.body}
+"""
         )
         success = success + 1
 print(f"\n{success} records extracted successfully")
