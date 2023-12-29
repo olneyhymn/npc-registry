@@ -31,7 +31,7 @@ minister:
   start: 1997-01-01
   type: Associate Pastor
 - end: 2005-01-01
-  name: Harry R. "Buster" McLeod, Jr.
+  name: Harry R. "Buster" McLeod Jr
   start: 2003-01-01
   type: Associate Pastor
 - end: null
@@ -57,7 +57,7 @@ ministers:
 - Charles Abbate
 - Carl Trueman
 - Michael Obel
-- Harry R. "Buster" McLeod, Jr.
+- Harry R. "Buster" McLeod Jr
 - Cecil R. "Cris" Simpson
 - Carl Trueman
 - Cecil R. "Cris" Simpson
@@ -77,7 +77,7 @@ raw_data: "PA Ambler\nGynedd Valley Mission Work (September 18, 1993\u2013Decemb
   \ Pike\nOrg. Pastor: Bernard J. Stonehouse, 1993\u201395\nPastors: Edward Gross,\
   \ 1995\u20132000\nJohn Currie, 2005\u20139\nCharles Abbate, 2010\u201311\nCarl Trueman,\
   \ 2012\u2013\nAssoc. Pastors: Michael Obel, 1997\u20132003\nHarry R. \u201CBuster\u201D\
-  \ McLeod, Jr., 2003\u20135\nCecil R. \u201CCris\u201D Simpson, 2015\u2013\nTeachers:\
+  \ McLeod Jr, 2003\u20135\nCecil R. \u201CCris\u201D Simpson, 2015\u2013\nTeachers:\
   \ Carl Trueman, 2010\u201312\nCecil R. \u201CCris\u201D Simpson, 2013\u201315\n\
   Supply: John Currie, 2001\u20135"
 received_from: null

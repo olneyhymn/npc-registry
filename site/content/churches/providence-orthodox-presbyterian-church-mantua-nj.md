@@ -15,13 +15,13 @@ minister:
   start: 2001-01-01
   type: Pastor
 - end: null
-  name: Carl McDaniel, Jr.
+  name: Carl McDaniel Jr
   start: 2014-01-01
   type: Pastor
 ministers:
 - Alan Strange
 - Claude D. DePrine III
-- Carl McDaniel, Jr.
+- Carl McDaniel Jr
 name: Providence Orthodox Presbyterian Church
 names:
 - end: null
@@ -31,7 +31,7 @@ origination_date: *id001
 raw_data: "NEW JERSEY Mantua\nProvidence Orthodox Presbyterian Church  (June 4, 1989\u2013\
   \ )\n(formerly Cross Keys Fellowship Presbyterian Church, Turnersville)\n230 Shadow\
   \ Pl.\nPastors: Alan Strange, 1990\u201399\nClaude D. DePrine III, 2001\u201314\n\
-  Carl McDaniel, Jr., 2014\u2013"
+  Carl McDaniel Jr, 2014\u2013"
 received_from: null
 states:
 - NJ

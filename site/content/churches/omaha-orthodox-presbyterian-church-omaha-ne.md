@@ -15,7 +15,7 @@ minister:
   start: 1945-01-01
   type: Pastor
 - end: 1979-01-01
-  name: Ransom Webster Jr.
+  name: Ransom Webster Jr
   start: 1974-01-01
   type: Pastor
 - end: 1980-04-30
@@ -25,7 +25,7 @@ minister:
 ministers:
 - Robert Brown
 - Reginald Voorhees
-- Ransom Webster Jr.
+- Ransom Webster Jr
 - V. Robert Nilson
 name: Omaha Orthodox Presbyterian Church
 names:
@@ -35,7 +35,7 @@ names:
 origination_date: *id001
 raw_data: "NEBRASKA Omaha\nOmaha Orthodox Presbyterian Church  (April 11, 1939\u2013\
   April 30, 1980)\nPastors: Robert Brown, 1939\u201345\nReginald V oorhees, 1945\u2013\
-  74\nRansom Webster, Jr., 1974\u201379\nV . Robert Nilson (Supply), 1979\u201380"
+  74\nRansom Webster Jr, 1974\u201379\nV . Robert Nilson (Supply), 1979\u201380"
 received_from: null
 states:
 - NE

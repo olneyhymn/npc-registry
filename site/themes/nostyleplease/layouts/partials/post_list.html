@@ -1,9 +1,11 @@
 {{- $posts := "" -}}
+{{ $show_count := false }}
 {{- if .section -}}
     {{- $posts = (where site.RegularPages "Section" .section) -}}
 {{- else -}}
     {{- if (eq .context.Kind "taxonomy") -}}
         {{- $posts = .context.Pages -}}
+        {{ $show_count = true }}
     {{- else -}}
         {{- if (eq .context.Kind "term") -}}
             {{- $posts = .context.Data.Pages -}}
@@ -30,7 +32,7 @@
         {{- range $post := $posts -}}
         <li>
             {{/*  <span>{{- ($post.Date | time.Format site.Params.theme_config.date_format) }}</span>  */}}
-            <a href="{{ $post.Permalink | relURL }}">{{ $post.Title }}</a>
+            <a href="{{ $post.Permalink | relURL }}">{{ $post.Title }}</a>{{ if $show_count }} ({{ len $post.Data.Pages }}){{ end }}
         </li>
         {{ end }}
         {{- if and .show_more $limit_exceeded }}

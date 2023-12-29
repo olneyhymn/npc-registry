@@ -15,7 +15,7 @@ minister:
   start: 1962-01-01
   type: Pastor
 - end: 1970-01-01
-  name: Wallace Marshall, Jr.
+  name: Wallace Marshall Jr
   start: 1968-01-01
   type: Pastor
 - end: 1975-01-01
@@ -45,7 +45,7 @@ minister:
 ministers:
 - G.I. Williamson
 - David Freeman
-- Wallace Marshall, Jr.
+- Wallace Marshall Jr
 - Paul Davenport
 - Elmer Dortzbach
 - Steve Larson
@@ -57,7 +57,7 @@ names: null
 origination_date: *id001
 raw_data: "MA\nFall River\nGrace Orthodox Presbyterian Church  (November 2, 1955\u2013\
   \ )\n190 Cherry Street\nPastors: G.I. Williamson, 1956\u201362\nDavid Freeman, 1962\u2013\
-  67\nWallace Marshall, Jr., 1968\u201370\nPaul Davenport, 1971\u201375\nElmer Dortzbach\
+  67\nWallace Marshall Jr, 1968\u201370\nPaul Davenport, 1971\u201375\nElmer Dortzbach\
   \ (Supply), 1976\u201377\nSteve Larson, 1979\u201382\nMark Harrington, 1983\u2013\
   87\nWendell Rockey (Supply), 1987\u20132004\nPaul Anderson, 2004\u201315"
 received_from: null

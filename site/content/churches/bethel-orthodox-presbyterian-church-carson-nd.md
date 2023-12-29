@@ -47,7 +47,7 @@ minister:
   start: 1995-01-01
   type: Pastor
 - end: 2011-01-01
-  name: W. Vernon Picknally, Jr.
+  name: W. Vernon Picknally Jr
   start: 2000-01-01
   type: Pastor
 - end: null
@@ -65,7 +65,7 @@ ministers:
 - G. I. Williamson
 - Sam Allison
 - Paul Ferrie
-- W. Vernon Picknally, Jr.
+- W. Vernon Picknally Jr
 - Bruce L. Prentice
 name: Bethel Orthodox Presbyterian Church
 names:
@@ -78,7 +78,7 @@ raw_data: "ND Carson\n\nBethel Orthodox Presbyterian Church (August 2, 1936\u201
   44\nWalter Magee, 1945\u201352\nHenry Tavares, 1952\u201357\nV . Robert Nilson,\
   \ 1957\u201364\nJack Peterson, 1967\u201379\nDavid Kiester, 1980\u201383\nG. I.\
   \ Williamson, 1983\u201392\nSam Allison, 1991\u201395\nPaul Ferrie, 1995\u201396\n\
-  W. Vernon Picknally, Jr., 2000\u20132011\nBruce L. Prentice, 2013"
+  W. Vernon Picknally Jr, 2000\u20132011\nBruce L. Prentice, 2013"
 received_from: null
 states:
 - ND

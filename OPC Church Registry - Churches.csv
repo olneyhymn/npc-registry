@@ -866,7 +866,7 @@ Vincent Ortiz, 1984–85
 Gregory Bahnsen, 1992–95
 Robert Needham, 1992–93
 George Scipione, 1992–2006
-Kenneth Gentry, Jr., 1997–98
+Kenneth Gentry Jr, 1997–98
 ","- name: Bayview Orthodox Presbyterian Church
   origination_date: 1958-04-23
   names:
@@ -926,7 +926,7 @@ Kenneth Gentry, Jr., 1997–98
       start: 1992-01-01
       end: 2006-01-01
       type: Associate Pastor
-    - name: Kenneth Gentry, Jr.
+    - name: Kenneth Gentry Jr
       start: 1997-01-01
       end: 1998-01-01
       type: Associate Pastor
@@ -946,7 +946,7 @@ Kenneth Gentry, Jr., 1997–98
     Gregory Bahnsen, 1992–95
     Robert Needham, 1992–93
     George Scipione, 1992–2006
-    Kenneth Gentry, Jr., 1997–98"
+    Kenneth Gentry Jr, 1997–98"
 AR,Costa Mesa,"
 
 Grace Orthodox Presbyterian Church  (July 19, 1998– )
@@ -4883,7 +4883,7 @@ FLORIDA,Jacksonville,"
 
 Ortega Orthodox Presbyterian Church  (October 24, 1961–August 15, 1963)
 (returned to Independency, August 15, 1963)
-Pastor: Thompson Casey, Jr., 1961–63
+Pastor: Thompson Casey Jr, 1961–63
 ","- name: Ortega Orthodox Presbyterian Church
   origination_date: 1961-10-24
   names:
@@ -4899,7 +4899,7 @@ Pastor: Thompson Casey, Jr., 1961–63
     city: Jacksonville
     state: FL
   minister:
-    - name: Thompson Casey, Jr.
+    - name: Thompson Casey Jr
       start: 1961-01-01
       end: 1963-01-01
       type: Pastor
@@ -4908,7 +4908,7 @@ Pastor: Thompson Casey, Jr., 1961–63
     Jacksonville
     Ortega Orthodox Presbyterian Church  (October 24, 1961–August 15, 1963)
     (returned to Independency, August 15, 1963)
-    Pastor: Thompson Casey, Jr., 1961–63"
+    Pastor: Thompson Casey Jr, 1961–63"
 FLORIDA,Key West,"
 
 Keys Presbyterian Church  (mission work) (July 12, 1992– )
@@ -5600,12 +5600,12 @@ GA,Buford,"
 
 
 Covenant Presbyterian Church (December 11, 2015– )
-(received from the Reformed Presbyterian Church in the U.S.)
+(received from the Reformed Presbyterian Church in the United States)
 1420 Rock Springs Road
-Pastor: Christopher B. Strevel, Sr., 2015–
+Pastor: Christopher B. Strevel, 2015–
 ","- name: Covenant Presbyterian Church
   origination_date: 2015-12-11
-  received_from: Reformed Presbyterian Church in the U.S.
+  received_from: Reformed Presbyterian Church in the United States
   names:
     - name: Covenant Presbyterian Church
       start: 2015-12-11
@@ -5616,16 +5616,16 @@ Pastor: Christopher B. Strevel, Sr., 2015–
     city: Buford
     state: GA
   minister:
-    - name: Christopher B. Strevel, Sr.
+    - name: Christopher B. Strevel
       start: 2015-01-01
       type: Pastor
   raw_data: |
     GA	Buford
 
     Covenant Presbyterian Church (December 11, 2015– )
-    (received from the Reformed Presbyterian Church in the U.S.)
+    (received from the Reformed Presbyterian Church in the United States)
     1420 Rock Springs Road
-    Pastor: Christopher B. Strevel, Sr., 2015–"
+    Pastor: Christopher B. Strevel, 2015–"
 GA,Carrollton,"
 
 Westminster Orthodox Presbyterian Chapel (May 8, 2002–May 10, 2009)
@@ -8890,7 +8890,7 @@ Grace Orthodox Presbyterian Church  (November 2, 1955– )
 190 Cherry Street
 Pastors: G.I. Williamson, 1956–62
 David Freeman, 1962–67
-Wallace Marshall, Jr., 1968–70
+Wallace Marshall Jr, 1968–70
 Paul Davenport, 1971–75
 Elmer Dortzbach (Supply), 1976–77
 Steve Larson, 1979–82
@@ -8914,7 +8914,7 @@ Paul Anderson, 2004–15
       start: 1962-01-01
       end: 1967-01-01
       type: Pastor
-    - name: Wallace Marshall, Jr.
+    - name: Wallace Marshall Jr
       start: 1968-01-01
       end: 1970-01-01
       type: Pastor
@@ -8949,7 +8949,7 @@ Paul Anderson, 2004–15
     190 Cherry Street
     Pastors: G.I. Williamson, 1956–62
     David Freeman, 1962–67
-    Wallace Marshall, Jr., 1968–70
+    Wallace Marshall Jr, 1968–70
     Paul Davenport, 1971–75
     Elmer Dortzbach (Supply), 1976–77
     Steve Larson, 1979–82
@@ -9566,8 +9566,8 @@ Fremont Orthodox Presbyterian mission work  (January 31, 2009–February 5, 2106
 Fremont Orthodox Presbyterian Church (February 5, 2016– )
 203 East Main Street
 Org. Pastors: Norman De Jong, 2009–11
-W. Vernon Picknally, Jr., 2011–16
-Pastor: W. Vernon Picknally, Jr., 2016–
+W. Vernon Picknally Jr, 2011–16
+Pastor: W. Vernon Picknally Jr, 2016–
 ","- name: Fremont Orthodox Presbyterian Church
   origination_date: 2016-02-05
   names:
@@ -9587,11 +9587,11 @@ Pastor: W. Vernon Picknally, Jr., 2016–
       start: 2009-01-01
       end: 2011-01-01
       type: Organizing Pastor
-    - name: W. Vernon Picknally, Jr.
+    - name: W. Vernon Picknally Jr
       start: 2011-01-01
       end: 2016-02-05
       type: Organizing Pastor
-    - name: W. Vernon Picknally, Jr.
+    - name: W. Vernon Picknally Jr
       start: 2016-02-05
       type: Pastor
   raw_data: |
@@ -9601,8 +9601,8 @@ Pastor: W. Vernon Picknally, Jr., 2016–
     Fremont Orthodox Presbyterian Church (February 5, 2016– )
     203 East Main Street
     Org. Pastors: Norman De Jong, 2009–11
-    W. Vernon Picknally, Jr., 2011–16
-    Pastor: W. Vernon Picknally, Jr., 2016–"
+    W. Vernon Picknally Jr, 2011–16
+    Pastor: W. Vernon Picknally Jr, 2016–"
 MI,Gladstone,"
 
 Pilgrim Orthodox Presbyterian Chapel  (1975–1980)
@@ -11011,7 +11011,7 @@ NEBRASKA,Omaha,"
 Omaha Orthodox Presbyterian Church  (April 11, 1939–April 30, 1980)
 Pastors: Robert Brown, 1939–45
 Reginald V oorhees, 1945–74
-Ransom Webster, Jr., 1974–79
+Ransom Webster Jr, 1974–79
 V . Robert Nilson (Supply), 1979–80
 ","- name: Omaha Orthodox Presbyterian Church
   origination_date: 1939-04-11
@@ -11031,7 +11031,7 @@ V . Robert Nilson (Supply), 1979–80
       start: 1945-01-01
       end: 1974-01-01
       type: Pastor
-    - name: Ransom Webster Jr.
+    - name: Ransom Webster Jr
       start: 1974-01-01
       end: 1979-01-01
       type: Pastor
@@ -11044,7 +11044,7 @@ V . Robert Nilson (Supply), 1979–80
     Omaha Orthodox Presbyterian Church  (April 11, 1939–April 30, 1980)
     Pastors: Robert Brown, 1939–45
     Reginald V oorhees, 1945–74
-    Ransom Webster, Jr., 1974–79
+    Ransom Webster Jr, 1974–79
     V . Robert Nilson (Supply), 1979–80"
 NV,Battle Mountain,"
 
@@ -12180,7 +12180,7 @@ Providence Orthodox Presbyterian Church  (June 4, 1989– )
 230 Shadow Pl.
 Pastors: Alan Strange, 1990–99
 Claude D. DePrine III, 2001–14
-Carl McDaniel, Jr., 2014–
+Carl McDaniel Jr, 2014–
 ","- name: Providence Orthodox Presbyterian Church
   origination_date: 1989-06-04
   names:
@@ -12201,7 +12201,7 @@ Carl McDaniel, Jr., 2014–
       start: 2001-01-01
       end: 2014-01-01
       type: Pastor
-    - name: Carl McDaniel, Jr.
+    - name: Carl McDaniel Jr
       start: 2014-01-01
       type: Pastor
   raw_data: |
@@ -12211,7 +12211,7 @@ Carl McDaniel, Jr., 2014–
     230 Shadow Pl.
     Pastors: Alan Strange, 1990–99
     Claude D. DePrine III, 2001–14
-    Carl McDaniel, Jr., 2014–"
+    Carl McDaniel Jr, 2014–"
 NEW JERSEY,Marlton,"
 
 Greentree Orthodox Presbyterian Mission  (April 8, 1990–July 31, 1993)
@@ -14048,7 +14048,7 @@ Redeemer Presbyterian Church  (April 27, 2003– )
 (originally called Christ Presbyterian Church)
 Meeting at Reformed Theological Seminary, 4824 Sharon Road
 Pastor: Cliff Blair, 2003–
-Assoc. Pastor: Joseph H. Fowler Jr., 2011–14
+Assoc. Pastor: Joseph H. Fowler Jr, 2011–14
 Teacher: George Knight, 2004–12
 ","- name: Redeemer Presbyterian Church
   origination_date: 2003-04-27
@@ -14070,7 +14070,7 @@ Teacher: George Knight, 2004–12
       start: 2003-01-01
       end:
       type: Pastor
-    - name: Joseph H. Fowler Jr.
+    - name: Joseph H. Fowler Jr
       start: 2011-01-01
       end: 2014-01-01
       type: Associate Pastor
@@ -14086,7 +14086,7 @@ Teacher: George Knight, 2004–12
     (originally called Christ Presbyterian Church)
     Meeting at Reformed Theological Seminary, 4824 Sharon Road
     Pastor: Cliff Blair, 2003–
-    Assoc. Pastor: Joseph H. Fowler Jr., 2011–14
+    Assoc. Pastor: Joseph H. Fowler Jr, 2011–14
     Teacher: George Knight, 2004–12"
 NORTH CAROLINA,Etowah,"
 
@@ -14123,8 +14123,8 @@ NORTH CAROLINA,Gastonia,"
 Reformation OPC mission work  (October 16, 2010–December 5, 2014)
 Reformation Orthodox Presbyterian Church  (December 5, 2014– )
 Meeting at Our Saviour’s Lutheran Church, 725 Gastonia Technology Parkway, Dallas
-Org. Pastor: Joseph H. Fowler, Jr., 2011–14
-Pastor: Joseph H. Fowler, Jr, 2014
+Org. Pastor: Joseph H. Fowler Jr, 2011–14
+Pastor: Joseph H. Fowler Jr 2014
 ","- name: Reformation Orthodox Presbyterian Church
   origination_date: 2014-12-05
   names:
@@ -14144,11 +14144,11 @@ Pastor: Joseph H. Fowler, Jr, 2014
     city: Gastonia
     state: NC
   minister:
-    - name: Joseph H. Fowler, Jr.
+    - name: Joseph H. Fowler Jr
       start: 2011-01-01
       end: 2014-12-05
       type: Organizing Pastor
-    - name: Joseph H. Fowler, Jr.
+    - name: Joseph H. Fowler Jr
       start: 2014-01-01
       end:
       type: Pastor
@@ -14158,8 +14158,8 @@ Pastor: Joseph H. Fowler, Jr, 2014
     Reformation OPC mission work (October 16, 2010–December 5, 2014)
     Reformation Orthodox Presbyterian Church (December 5, 2014– )
     Meeting at Our Saviour’s Lutheran Church, 725 Gastonia Technology Parkway, Dallas
-    Org. Pastor: Joseph H. Fowler, Jr., 2011–14
-    Pastor: Joseph H. Fowler, Jr, 2014"
+    Org. Pastor: Joseph H. Fowler Jr, 2011–14
+    Pastor: Joseph H. Fowler Jr 2014"
 NORTH CAROLINA,Greensboro,"
 
 Providence Orthodox Presbyterian Chapel  (April 27, 2001–March 28, 2004)
@@ -14639,7 +14639,7 @@ David Kiester, 1980–83
 G. I. Williamson, 1983–92
 Sam Allison, 1991–95
 Paul Ferrie, 1995–96
-W. Vernon Picknally, Jr., 2000–2011
+W. Vernon Picknally Jr, 2000–2011
 Bruce L. Prentice, 2013
 ","- name: Bethel Orthodox Presbyterian Church
   origination_date: 1936-08-02
@@ -14693,7 +14693,7 @@ Bruce L. Prentice, 2013
       start: 1995-01-01
       end: 1996-01-01
       type: Pastor
-    - name: W. Vernon Picknally, Jr.
+    - name: W. Vernon Picknally Jr
       start: 2000-01-01
       end: 2011-01-01
       type: Pastor
@@ -14715,7 +14715,7 @@ Bruce L. Prentice, 2013
     G. I. Williamson, 1983–92
     Sam Allison, 1991–95
     Paul Ferrie, 1995–96
-    W. Vernon Picknally, Jr., 2000–2011
+    W. Vernon Picknally Jr, 2000–2011
     Bruce L. Prentice, 2013"
 ND,Fargo,"
 
@@ -14762,7 +14762,7 @@ Walter Magee, 1945–52
 Henry Tavares, 1952–57
 V . Robert Nilson, 1957–64
 Jack Peterson, 1967–79
-David Keister, 1980–83
+David Kiester, 1980–83
 G. I. Williamson, 1983–85
 ","- name: Orthodox Presbyterian Church
   origination_date: 1936-08-02
@@ -14800,7 +14800,7 @@ G. I. Williamson, 1983–85
       start: 1967-01-01
       end: 1979-01-01
       type: Pastor
-    - name: David Keister
+    - name: David Kiester
       start: 1980-01-01
       end: 1983-01-01
       type: Pastor
@@ -14819,7 +14819,7 @@ G. I. Williamson, 1983–85
     Henry Tavares, 1952–57
     V . Robert Nilson, 1957–64
     Jack Peterson, 1967–79
-    David Keister, 1980–83
+    David Kiester, 1980–83
     G. I. Williamson, 1983–85"
 ND,Leith,"
 
@@ -16369,7 +16369,7 @@ John Currie, 2005–9
 Charles Abbate, 2010–11
 Carl Trueman, 2012–
 Assoc. Pastors: Michael Obel, 1997–2003
-Harry R. “Buster” McLeod, Jr., 2003–5
+Harry R. “Buster” McLeod Jr, 2003–5
 Cecil R. “Cris” Simpson, 2015–
 Teachers: Carl Trueman, 2010–12
 Cecil R. “Cris” Simpson, 2013–15
@@ -16412,7 +16412,7 @@ Supply:  John Currie, 2001–5
       start: 1997-01-01
       end: 2003-01-01
       type: Associate Pastor
-    - name: Harry R. ""Buster"" McLeod, Jr.
+    - name: Harry R. ""Buster"" McLeod Jr
       start: 2003-01-01
       end: 2005-01-01
       type: Associate Pastor
@@ -16443,7 +16443,7 @@ Supply:  John Currie, 2001–5
     Charles Abbate, 2010–11
     Carl Trueman, 2012–
     Assoc. Pastors: Michael Obel, 1997–2003
-    Harry R. “Buster” McLeod, Jr., 2003–5
+    Harry R. “Buster” McLeod Jr, 2003–5
     Cecil R. “Cris” Simpson, 2015–
     Teachers: Carl Trueman, 2010–12
     Cecil R. “Cris” Simpson, 2013–15
@@ -16984,9 +16984,9 @@ PA,Franklin,"
 
 Trinity Orthodox Presbyterian Church  (May 21, 1993– )
 545 Elk Street
-Pastors: Everett DeVelde, Jr., 1993–96
+Pastors: Everett DeVelde Jr, 1993–96
 Jeff Lawson, 1997–2000
-Everett DeVelde, Jr., 2000–2003
+Everett DeVelde Jr, 2000–2003
 Karl Hubenthall, 2003–4
 David G. Graves, 2012–
 ","- name: Trinity Orthodox Presbyterian Church
@@ -17002,7 +17002,7 @@ David G. Graves, 2012–
     city: Franklin
     state: PA
   minister:
-    - name: Everett DeVelde, Jr.
+    - name: Everett DeVelde Jr
       start: 1993-05-21
       end: 1996-01-01
       type: Pastor
@@ -17010,7 +17010,7 @@ David G. Graves, 2012–
       start: 1997-01-01
       end: 2000-01-01
       type: Pastor
-    - name: Everett DeVelde, Jr.
+    - name: Everett DeVelde Jr
       start: 2000-01-01
       end: 2003-01-01
       type: Pastor
@@ -17027,9 +17027,9 @@ David G. Graves, 2012–
 
     Trinity Orthodox Presbyterian Church  (May 21, 1993– )
     545 Elk Street
-    Pastors: Everett DeVelde, Jr., 1993–96
+    Pastors: Everett DeVelde Jr, 1993–96
     Jeff Lawson, 1997–2000
-    Everett DeVelde, Jr., 2000–2003
+    Everett DeVelde Jr, 2000–2003
     Karl Hubenthall, 2003–4
     David G. Graves, 2012–"
 PA,Gettysburg,"
@@ -19383,8 +19383,8 @@ PA,Yardley,"
 
 Yardley Orthodox Presbyterian Chapel  (September 2001–January 4, 2008)
 Yardley Orthodox Presbyterian Church  (January 4, 2008–January 1, 2013)
-Org. Pastor: Harry R. “Buster” McLeod, Jr., 2005–8
-Pastor: Harry R. “Buster” McLeod, Jr., 2008–12
+Org. Pastor: Harry R. “Buster” McLeod Jr, 2005–8
+Pastor: Harry R. “Buster” McLeod Jr, 2008–12
 ","- name: Yardley Orthodox Presbyterian Church
   origination_date: 2001-09-01
   names:
@@ -19401,12 +19401,12 @@ Pastor: Harry R. “Buster” McLeod, Jr., 2008–12
     city:  Yardley
     state:  PA
   minister:
-    - name: Harry R. “Buster” McLeod, Jr.
+    - name: Harry R. “Buster” McLeod Jr
       start: 2005-01-01
       end: 2008-01-04
       type: Organizing Pastor
       type_of_organizion: church
-    - name: Harry R. “Buster” McLeod, Jr.
+    - name: Harry R. “Buster” McLeod Jr
       start: 2008-01-04
       end: 2012-12-31
       type: Pastor
@@ -19415,8 +19415,8 @@ Pastor: Harry R. “Buster” McLeod, Jr., 2008–12
 
     Yardley Orthodox Presbyterian Chapel  (September 2001–January 4, 2008)
     Yardley Orthodox Presbyterian Church  (January 4, 2008–January 1, 2013)
-    Org. Pastor: Harry R. “Buster” McLeod, Jr., 2005–8
-    Pastor: Harry R. “Buster” McLeod, Jr., 2008–12"
+    Org. Pastor: Harry R. “Buster” McLeod Jr, 2005–8
+    Pastor: Harry R. “Buster” McLeod Jr, 2008–12"
 PR,Iglesia Uno Reformada,"
 
 
@@ -23443,7 +23443,7 @@ WI,Milwaukee,"
 Grace Orthodox Presbyterian Church  (April 29, 1938–April 29, 1949)
 Pastors:  William Swets, 1938
 Leland Jorgensen, 1939–42
-Richard Gaffin, Sr., 1942–47
+Richard Gaffin, 1942–47
 ","- name: Grace Orthodox Presbyterian Church
   origination_date: 1938-04-29
   names:
@@ -23468,7 +23468,7 @@ Richard Gaffin, Sr., 1942–47
       start: 1939-01-01
       end: 1942-01-01
       type: Pastor
-    - name: Richard Gaffin, Sr.
+    - name: Richard Gaffin
       start: 1942-01-01
       end: 1947-01-01
       type: Pastor
@@ -23478,7 +23478,7 @@ Richard Gaffin, Sr., 1942–47
     Grace Orthodox Presbyterian Church  (April 29, 1938–April 29, 1949)
     Pastors:  William Swets, 1938
     Leland Jorgensen, 1939–42
-    Richard Gaffin, Sr., 1942–47"
+    Richard Gaffin, 1942–47"
 WI,Morgan Siding,"
 
 Old Stockbridge Orthodox Presbyterian Church  (May 21, 1937– )

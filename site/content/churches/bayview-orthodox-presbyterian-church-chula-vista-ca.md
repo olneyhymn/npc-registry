@@ -55,7 +55,7 @@ minister:
   start: 1992-01-01
   type: Associate Pastor
 - end: 1998-01-01
-  name: Kenneth Gentry, Jr.
+  name: Kenneth Gentry Jr
   start: 1997-01-01
   type: Associate Pastor
 ministers:
@@ -71,7 +71,7 @@ ministers:
 - Gregory Bahnsen
 - Robert Needham
 - George Scipione
-- Kenneth Gentry, Jr.
+- Kenneth Gentry Jr
 name: Bayview Orthodox Presbyterian Church
 names:
 - end: null
@@ -84,7 +84,7 @@ raw_data: "California Chula Vista\nBayview Orthodox Presbyterian Church (April 2
   73\nLarry Conard, 1973\u201377\nLewis Ruff, 1977\u201382\nRoger Wagner, 1983\u2013\
   \nAssoc. Pastors: Mark Maliepard, 1982\u201386\nVincent Ortiz, 1984\u201385\nGregory\
   \ Bahnsen, 1992\u201395\nRobert Needham, 1992\u201393\nGeorge Scipione, 1992\u2013\
-  2006\nKenneth Gentry, Jr., 1997\u201398"
+  2006\nKenneth Gentry Jr, 1997\u201398"
 received_from: null
 states:
 - CA

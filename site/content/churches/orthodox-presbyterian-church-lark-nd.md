@@ -31,7 +31,7 @@ minister:
   start: 1967-01-01
   type: Pastor
 - end: 1983-01-01
-  name: David Keister
+  name: David Kiester
   start: 1980-01-01
   type: Pastor
 - end: 1985-03-29
@@ -45,7 +45,7 @@ ministers:
 - Henry Tavares
 - V. Robert Nilson
 - Jack Peterson
-- David Keister
+- David Kiester
 - G. I. Williamson
 name: Orthodox Presbyterian Church
 names: null
@@ -53,7 +53,7 @@ origination_date: *id001
 raw_data: "ND Lark\n\nOrthodox Presbyterian Church  (August 2, 1936\u2013March 29,\
   \ 1985)\n(merged with Carson, ND, March 29, 1985)\nPastors: Samuel Allen, 1936\u2013\
   40\nJohn Gray, 1940\u201344\nWalter Magee, 1945\u201352\nHenry Tavares, 1952\u2013\
-  57\nV . Robert Nilson, 1957\u201364\nJack Peterson, 1967\u201379\nDavid Keister,\
+  57\nV . Robert Nilson, 1957\u201364\nJack Peterson, 1967\u201379\nDavid Kiester,\
   \ 1980\u201383\nG. I. Williamson, 1983\u201385"
 received_from: null
 states:
