@@ -1,5 +1,5 @@
 ---
-date: &id001 0001-01-01 00:00:00
+date: &id001 1990-01-01
 end_date: null
 location:
   address: null
@@ -28,6 +28,6 @@ status:
   withdrawal_to: null
 title: Iglesia del Senor Viviente (Santa Ana CA)
 year_established:
-- 1
+- 1990
 
 ---

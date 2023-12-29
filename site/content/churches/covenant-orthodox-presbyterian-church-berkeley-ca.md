@@ -4,7 +4,7 @@ end_date: null
 location:
   address: 1623 University Avenue
   city: Berkeley
-  state: California
+  state: CA
 minister:
 - end: 1948-01-01
   name: Robert Churchill
@@ -38,14 +38,14 @@ raw_data: "California\nBerkeley\nCovenant Orthodox Presbyterian Church  (October
   Robert Graham, 1949\u201355\nRichard Lewis, 1957\u20132001\nWayne Forkner, 2001\u2013"
 received_from: null
 states:
-- California
+- CA
 status:
   active: true
   end_date: null
   reason: null
   received_from: null
   withdrawal_to: null
-title: Covenant Orthodox Presbyterian Church (Berkeley California)
+title: Covenant Orthodox Presbyterian Church (Berkeley CA)
 year_established:
 - 1936
 

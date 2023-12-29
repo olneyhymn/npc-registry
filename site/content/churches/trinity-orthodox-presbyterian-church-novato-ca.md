@@ -4,7 +4,7 @@ end_date: null
 location:
   address: 495 San Marin Drive at Simmons Lane
   city: Novato
-  state: California
+  state: CA
 minister:
 - end: 1973-01-01
   name: Robert Graham
@@ -33,14 +33,14 @@ raw_data: "California\nNovato\n\nTrinity Orthodox Presbyterian Church  (May 13, 
   \ Robert Graham, 1971\u201373\nRichard Miller, 1974\u20132006\nReid Hankins, 2008-"
 received_from: null
 states:
-- California
+- CA
 status:
   active: true
   end_date: null
   reason: null
   received_from: null
   withdrawal_to: null
-title: Trinity Orthodox Presbyterian Church (Novato California)
+title: Trinity Orthodox Presbyterian Church (Novato CA)
 year_established:
 - 1971
 

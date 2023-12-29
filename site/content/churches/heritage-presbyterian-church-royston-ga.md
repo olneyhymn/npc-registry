@@ -1,5 +1,5 @@
 ---
-date: &id001 0001-01-01 00:00:00
+date: &id001 2013-01-01
 end_date: null
 location:
   address: 82 Franklin Springs Street
@@ -28,6 +28,6 @@ status:
   withdrawal_to: null
 title: Heritage Presbyterian Church (Royston GA)
 year_established:
-- 1
+- 2013
 
 ---

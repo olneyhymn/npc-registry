@@ -4,7 +4,7 @@ end_date: null
 location:
   address: 375 Mt. Hope Avenue
   city: Bangor
-  state: MAINE
+  state: ME
 minister:
 - end: 1958-01-01
   name: Dale Snyder
@@ -71,14 +71,14 @@ raw_data: "MAINE Bangor\n\nPilgrim Orthodox Presbyterian Church  (March 24, 1954
   \ 1988\u20132001"
 received_from: null
 states:
-- MAINE
+- ME
 status:
   active: true
   end_date: null
   reason: null
   received_from: null
   withdrawal_to: null
-title: Pilgrim Orthodox Presbyterian Church (Bangor MAINE)
+title: Pilgrim Orthodox Presbyterian Church (Bangor ME)
 year_established:
 - 1954
 

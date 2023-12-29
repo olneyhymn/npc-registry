@@ -4,7 +4,7 @@ end_date: null
 location:
   address: 6871 Joliet Road
   city: Indian Head Park
-  state: IDAHO
+  state: ID
 minister:
 - end: 1958-01-01
   name: Lawrence Eyres
@@ -60,14 +60,14 @@ raw_data: "IDAHO Indian Head Park\nWestminster Orthodox Presbyterian Church (Apr
   \ 2002\u201311\nRobert E. Tarullo, 2012\u2013"
 received_from: null
 states:
-- IDAHO
+- ID
 status:
   active: true
   end_date: null
   reason: null
   received_from: null
   withdrawal_to: null
-title: Westminster Orthodox Presbyterian Church (Indian Head Park IDAHO)
+title: Westminster Orthodox Presbyterian Church (Indian Head Park ID)
 year_established:
 - 1951
 

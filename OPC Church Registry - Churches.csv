@@ -626,7 +626,44 @@ Pastors: Robert Churchill, 1937–48
 Robert Graham, 1949–55
 Richard Lewis, 1957–2001
 Wayne Forkner, 2001–
-",Loading...
+","- name: Covenant Orthodox Presbyterian Church
+  origination_date: 1936-10-21
+  names:
+    - name: Covenant Orthodox Presbyterian Church
+      start: 1936-10-21
+      end:
+  status:
+    - active: true
+  location:
+    address: 1623 University Avenue
+    city: Berkeley
+    state: CA
+  minister:
+    - name: Robert Churchill
+      start: 1937-01-01
+      end: 1948-01-01
+      type: pastor
+    - name: Robert Graham
+      start: 1949-01-01
+      end: 1955-01-01
+      type: pastor
+    - name: Richard Lewis
+      start: 1957-01-01
+      end: 2001-01-01
+      type: pastor
+    - name: Wayne Forkner
+      start: 2001-01-01
+      end:
+      type: pastor
+  raw_data: |
+    California
+    Berkeley
+    Covenant Orthodox Presbyterian Church  (October 21, 1936– )
+    1623 University Avenue
+    Pastors: Robert Churchill, 1937–48
+    Robert Graham, 1949–55
+    Richard Lewis, 1957–2001
+    Wayne Forkner, 2001–"
 AR,Big Bear Lake,"
 
 Big Bear Valley Orthodox Presbyterian Chapel  (February 3, 2006–September 6, 2015)
@@ -834,7 +871,86 @@ Gregory Bahnsen, 1992–95
 Robert Needham, 1992–93
 George Scipione, 1992–2006
 Kenneth Gentry, Jr., 1997–98
-",Loading...
+","- name: Bayview Orthodox Presbyterian Church
+  origination_date: 1958-04-23
+  names:
+    - name: Bayview Orthodox Presbyterian Church
+      start: 1958-04-23
+  status:
+    - active: true
+  location:
+    address: 505 East Naples Street
+    city: Chula Vista
+    state: CA
+  minister:
+    - name: Jack Peterson
+      start: 1958-01-01
+      end: 1960-01-01
+      type: pastor
+    - name: Robert Graham
+      start: 1961-01-01
+      end: 1970-01-01
+      type: pastor
+    - name: Eugene Saltzen
+      start: 1970-01-01
+      end: 1971-01-01
+      type: pastor
+    - name: John Johnston
+      start: 1972-01-01
+      end: 1973-01-01
+      type: pastor
+    - name: Larry Conard
+      start: 1973-01-01
+      end: 1977-01-01
+      type: pastor
+    - name: Lewis Ruff
+      start: 1977-01-01
+      end: 1982-01-01
+      type: pastor
+    - name: Roger Wagner
+      start: 1983-01-01
+      type: pastor
+    - name: Mark Maliepard
+      start: 1982-01-01
+      end: 1986-01-01
+      type: associate_pastor
+    - name: Vincent Ortiz
+      start: 1984-01-01
+      end: 1985-01-01
+      type: associate_pastor
+    - name: Gregory Bahnsen
+      start: 1992-01-01
+      end: 1995-01-01
+      type: associate_pastor
+    - name: Robert Needham
+      start: 1992-01-01
+      end: 1993-01-01
+      type: associate_pastor
+    - name: George Scipione
+      start: 1992-01-01
+      end: 2006-01-01
+      type: associate_pastor
+    - name: Kenneth Gentry, Jr.
+      start: 1997-01-01
+      end: 1998-01-01
+      type: associate_pastor
+  raw_data: |
+    California Chula Vista
+    Bayview Orthodox Presbyterian Church (April 23, 1958– )
+    505 East Naples Street
+    Pastors: Jack Peterson, 1958–60
+    Robert Graham, 1961–70
+    Eugene Saltzen, 1970–71
+    John Johnston, 1972–73
+    Larry Conard, 1973–77
+    Lewis Ruff, 1977–82
+    Roger Wagner, 1983–
+    Assoc. Pastors: Mark Maliepard, 1982–86
+    Vincent Ortiz, 1984–85
+    Gregory Bahnsen, 1992–95
+    Robert Needham, 1992–93
+    George Scipione, 1992–2006
+    Kenneth Gentry, Jr., 1997–98"
 AR,Costa Mesa,"
 
 Grace Orthodox Presbyterian Church  (July 19, 1998– )
@@ -882,7 +998,23 @@ David L. Thibault, 2015–
 AR,Encinitas,"
 
 Orthodox Presbyterian Chapel  (1980–81)
-",Loading...
+","- name: Orthodox Presbyterian Chapel
+  origination_date: 1980-01-01
+  names:
+    - name: Orthodox Presbyterian Chapel
+      start: 1980-01-01
+      end: 1981-01-01
+  status:
+    - active: false
+    - end_date: 1981-01-01
+  location:
+    address:
+    city: Encinitas
+    state: CA
+  raw_data: |
+    California
+    Encinitas
+    Orthodox Presbyterian Chapel  (1980–81)"
 AR,Escondido,"
 
 Escondido Orthodox Presbyterian mission work  (October 19, 2001–June 3, 2006)
@@ -1377,7 +1509,63 @@ Donald Buchanan, 1999–2011
 M. Austin Britton, 2012–
 Assoc. Pastors: Nicholas Ganas, 1995–2000
 Robert G. Herrmann, 2001–7
-",Loading...
+","- name: Calvary Orthodox Presbyterian Church
+  origination_date: 1958-05-14
+  names:
+    - name: Calvary Orthodox Presbyterian Church
+      start: 1958-05-14
+  status:
+    - active: true
+  location:
+    address: 12206 La Mirada Boulevard
+    city: La Mirada
+    state: CA
+  minister:
+    - name: Dwight Poundstone
+      start: 1958-05-14
+      end: 1965-01-01
+      type: pastor
+    - name: Eugene Saltzen
+      start: 1966-01-01
+      end: 1969-01-01
+      type: pastor
+    - name: Kent Hinkson
+      start: 1970-01-01
+      end: 1979-01-01
+      type: pastor
+    - name: Jay Fluck
+      start: 1980-01-01
+      end: 1998-01-01
+      type: pastor
+    - name: Donald Buchanan
+      start: 1999-01-01
+      end: 2011-01-01
+      type: pastor
+    - name: M. Austin Britton
+      start: 2012-01-01
+      type: pastor
+    - name: Nicholas Ganas
+      start: 1995-01-01
+      end: 2000-01-01
+      type: associate_pastor
+    - name: Robert G. Herrmann
+      start: 2001-01-01
+      end: 2007-01-01
+      type: associate_pastor
+  raw_data: |
+    California
+    La Mirada
+
+    Calvary Orthodox Presbyterian Church  (May 14, 1958– )
+    12206 La Mirada Boulevard
+    Pastors: Dwight Poundstone, 1958–65
+    Eugene Saltzen, 1966–69
+    Kent Hinkson, 1970–79
+    Jay Fluck, 1980–98
+    Donald Buchanan, 1999–2017
+    M. Austin Britton, 2012–
+    Assoc. Pastors: Nicholas Ganas, 1995–2000
+    Robert G. Herrmann, 2001–7"
 AR,Long Beach,"
 
 Faith Orthodox Presbyterian Church  (April 15, 1941– )
@@ -1833,7 +2021,25 @@ AR,Morgan Hill,"
 
 Providence Orthodox Presbyterian mission work  (April 13, 2014–December 27, 2015)
 Org. Pastor: Anthony L. Garbarino, 2014–15
-",Loading...
+","- name: Providence Orthodox Presbyterian Mission
+  origination_date: 2014-04-13
+  status:
+    - active: false
+    - end_date: 2015-12-27
+  location:
+    address:
+    city: Morgan Hill
+    state: CA
+  minister:
+    - name: Anthony L. Garbarino
+      start: 2014-01-01
+      end: 2015-12-31
+      type: organizing_pastor
+  raw_data: |
+    California
+    Morgan Hill
+    Providence Orthodox Presbyterian mission work  (April 13, 2014–December 27, 2015)
+    Org. Pastor: Anthony L. Garbarino, 2014–15"
 AR,Newport Beach,"
 
 Covenant Community Orthodox Presbyterian Church  (Mar. 6, 1988–Feb. 4, 1995)
@@ -1879,7 +2085,38 @@ Seventh-day Adventist Church, 495 San Marin Drive at Simmons Lane
 Pastors: Robert Graham, 1971–73
 Richard Miller, 1974–2006
 Reid Hankins, 2008–
-",Loading...
+","- name: Trinity Orthodox Presbyterian Church
+  origination_date: 1971-05-13
+  names:
+    - name: Trinity Orthodox Presbyterian Church
+      start: 1971-05-13
+  status:
+    - active: true
+  location:
+    address: 495 San Marin Drive at Simmons Lane
+    city: Novato
+    state: CA
+  minister:
+    - name: Robert Graham
+      start: 1971-05-13
+      end: 1973-01-01
+      type: pastor
+    - name: Richard Miller
+      start: 1974-01-01
+      end: 2006-01-01
+      type: pastor
+    - name: Reid Hankins
+      start: 2008-01-01
+      type: pastor
+  raw_data: |
+    California
+    Novato
+
+    Trinity Orthodox Presbyterian Church  (May 13, 1971– )
+    Seventh-day Adventist Church, 495 San Marin Drive at Simmons Lane
+    Pastors: Robert Graham, 1971–73
+    Richard Miller, 1974–2006
+    Reid Hankins, 2008-"
 AR,Oceanside,"
 
 Coastal Community OP Chapel  (November 10, 1985–February 2, 1989)
@@ -2584,6 +2821,7 @@ Evangelist: Stephen Larson, 1990–2010
   location:
     city:  Santa Ana
     state:  CA
+  origination_date: 1990-01-01
   minister:
     - name: Stephen Larson
       start: 1990-01-01
@@ -2974,7 +3212,73 @@ John Belden, 2010–11
 Ryan M. McGraw, 2012–15
 Asst. Pastor: Arthur Ames, 1970–73
 Assoc. Pastor: Donald Buchanan, 1975–79
-",Loading...
+","- name: First Orthodox Presbyterian Church
+  origination_date: 1956-09-17
+  names:
+    - name: First Orthodox Presbyterian Church
+      start: 1956-09-17
+      end: null
+  status:
+    - active: true
+  location:
+    address: 1210 Brookfield Avenue
+    city: Sunnyvale
+    state: CA
+  minister:
+    - name: Henry Coray
+      start: 1955-01-01
+      end: 1967-01-01
+      type: pastor
+    - name: Henry Krabbendam
+      start: 1968-01-01
+      end: 1973-01-01
+      type: pastor
+    - name: Robert Atwell
+      start: 1975-01-01
+      end: 1977-01-01
+      type: pastor
+    - name: Sal Solis
+      start: 1978-01-01
+      end: 1990-01-01
+      type: pastor
+    - name: Donald Buchanan
+      start: 1991-01-01
+      end: 1998-01-01
+      type: pastor
+    - name: Donald Owsley
+      start: 2000-01-01
+      end: 2006-01-01
+      type: pastor
+    - name: John Belden
+      start: 2010-01-01
+      end: 2011-01-01
+      type: pastor
+    - name: Ryan M. McGraw
+      start: 2012-01-01
+      end: 2015-01-01
+      type: pastor
+    - name: Arthur Ames
+      start: 1970-01-01
+      end: 1973-01-01
+      type: assistant_pastor
+    - name: Donald Buchanan
+      start: 1975-01-01
+      end: 1979-01-01
+      type: associate_pastor
+  raw_data: |
+    California Sunnyvale
+    First Orthodox Presbyterian Church  (September 17, 1956- )
+    1210 Brookfield Avenue
+    Pastors: Henry Coray, 1955-67
+    Henry Krabbendam, 1968-73
+    Robert Atwell, 1975-77
+    Sal Solis, 1978-90
+    Donald Buchanan, 1991-98
+    Donald Owsley, 2000-2006
+    John Belden, 2010-11
+    Ryan M. McGraw, 2012-15
+    Asst. Pastor: Arthur Ames, 1970-73
+    Assoc. Pastor: Donald Buchanan, 1975-79"
 AR,Temecula,"
 
 Providence Orthodox Presbyterian Mission  (October 18, 1997–June 1, 2008)
@@ -3800,7 +4104,82 @@ Richard Gerber, 1979–99
 Calvin Keller, 2000–2006
 Jonathan Holst, 2007–
 Teacher: James Campbell, 1987–
-",Loading...
+","- name: Westminster Orthodox Presbyterian Church
+  origination_date: 1936-08-17
+  names:
+    - name: Westminster Orthodox Presbyterian Church
+      start: 1936-08-17
+  status:
+    - active: true
+  location:
+    address: 565 Shepard Avenue
+    city: Hamden
+    state: CT
+  minister:
+    - name: L. Craig Long
+      start: 1936-01-01
+      end: 1938-01-01
+      type: pastor
+    - name: Marvin Derby
+      start: 1938-01-01
+      end: 1942-01-01
+      type: pastor
+    - name: Edmund Clowney
+      start: 1942-01-01
+      end: 1946-01-01
+      type: pastor
+    - name: Ralph Clough
+      start: 1947-01-01
+      end: 1949-01-01
+      type: pastor
+    - name: Philip Chase
+      start: 1954-01-01
+      end: 1955-01-01
+      type: pastor
+    - name: Robert Anderson
+      start: 1956-01-01
+      end: 1960-01-01
+      type: pastor
+    - name: William Moreau
+      start: 1961-01-01
+      end: 1975-01-01
+      type: supply_pastor
+    - name: Ronald Jenkins
+      start: 1976-01-01
+      end: 1978-01-01
+      type: pastor
+    - name: Richard Gerber
+      start: 1979-01-01
+      end: 1999-01-01
+      type: pastor
+    - name: Calvin Keller
+      start: 2000-01-01
+      end: 2006-01-01
+      type: pastor
+    - name: Jonathan Holst
+      start: 2007-01-01
+      type: pastor
+    - name: James Campbell
+      start: 1987-01-01
+      type: teacher
+  raw_data: |
+    CONNECTICUT
+    Hamden
+    Westminster Orthodox Presbyterian Church  (August 17, 1936– )
+    565 Shepard Avenue
+    Pastors: L. Craig Long, 1936–38
+    Marvin Derby, 1938–42
+    Edmund Clowney, 1942–46
+    Ralph Clough, 1947–49
+    Philip Chase, 1954–55
+    Robert Anderson, 1956–60
+    William Moreau (Supply), 1961–62
+    William Moreau, 1962–75
+    Ronald Jenkins, 1976–78
+    Richard Gerber, 1979–99
+    Calvin Keller, 2000–2006
+    Jonathan Holst, 2007–
+    Teacher: James Campbell, 1987–"
 CT,New Haven,"
 
 Trinity Orthodox Presbyterian Church  (April 1, 1938–March 25, 1941)
@@ -4018,6 +4397,7 @@ Pastor: Douglas Watson, 1979–83
     address: null
     city: Seaford
     state: DE
+  origination_date: 1979-05-14
   minister:
     - name: Douglas Watson
       start: 1979-01-01
@@ -4043,7 +4423,79 @@ Assoc. Pastors: Douglas Watson, 1978–79
 R. Heber McIlwaine, 1978–80
 S. Edd Cathey, 1995–2006
 David W. Landow, 2014–
-",Loading...
+","- name: Emmanuel Orthodox Presbyterian Church
+  origination_date: 1936-06-01
+  names:
+    - name: Eastlake Presbyterian/Orthodox Presbyterian Church
+      start: 1936-06-01
+      end: 1960-01-01
+    - name: Emmanuel Orthodox Presbyterian Church
+      start: 1960-01-01
+  status:
+    - active: true
+  location:
+    address: 1006 Wilson Road
+    city: Wilmington
+    state: DE
+  minister:
+    - name: John Clelland
+      start: 1936-01-01
+      end: 1954-01-01
+      type: pastor
+    - name: Robert W. Eckardt
+      start: 1954-01-01
+      end: 1966-01-01
+      type: pastor
+    - name: Rollin Keller
+      start: 1967-01-01
+      end: 1974-01-01
+      type: pastor
+    - name: Arthur Steltzer
+      start: 1975-01-01
+      end: 1982-01-01
+      type: pastor
+    - name: Jonathan Peters
+      start: 1983-01-01
+      end: 1988-01-01
+      type: pastor
+    - name: Robert Letham
+      start: 1989-01-01
+      end: 2006-01-01
+      type: pastor
+    - name: Michael Matossian
+      start: 2009-01-01
+      type: pastor
+    - name: Douglas Watson
+      start: 1978-01-01
+      end: 1979-01-01
+      type: associate_pastor
+    - name: R. Heber McIlwaine
+      start: 1978-01-01
+      end: 1980-01-01
+      type: associate_pastor
+    - name: S. Edd Cathey
+      start: 1995-01-01
+      end: 2006-01-01
+      type: associate_pastor
+    - name: David W. Landow
+      start: 2014-01-01
+      type: associate_pastor
+  raw_data: |
+    DELAWARE Wilmington
+    Emmanuel Orthodox Presbyterian Church  (June 1936– )
+    (called Eastlake Presbyterian/Orthodox Presbyterian Church, 1936–1960)
+    1006 Wilson Road
+    Pastors: John Clelland, 1936–54
+    Robert W. Eckardt, 1954–66
+    Rollin Keller, 1967–74
+    Arthur Steltzer, 1975–82
+    Jonathan Peters, 1983–88
+    Robert Letham, 1989–2006
+    Michael Matossian, 2009–
+    Assoc. Pastors: Douglas Watson, 1978–79
+    R. Heber McIlwaine, 1978–80
+    S. Edd Cathey, 1995–2006
+    David W. Landow, 2014–"
 DE,Wilmington,"
 New Covenant Orthodox Presbyterian Fellowship  (June 1, 1986– September 19, 1988)
 Pastor: LeRoy Greer, 1986–88
@@ -5390,6 +5842,7 @@ Org. Pastor: Michael Myers, 2013–
     address: 82 Franklin Springs Street
     city: Royston
     state: GA
+  origination_date: 2013-01-01
   minister:
     - name: Michael Myers
       start: 2013-01-01
@@ -5816,7 +6269,61 @@ William Rudolph, 1986–97
 Bradford Freeman, 1998–99
 Charles Telfer, 2002–11
 Robert E. Tarullo, 2012–
-",Loading...
+","- name: Westminster Orthodox Presbyterian Church
+  origination_date: 1951-04-15
+  names:
+    - name: Westminster Orthodox Presbyterian Church
+      start: 1951-04-15
+  status:
+    - active: true
+  location:
+    address: 6871 Joliet Road
+    city: Indian Head Park
+    state: ID
+  minister:
+    - name: Lawrence Eyres
+      start: 1951-04-15
+      end: 1958-01-01
+      type: pastor
+    - name: Glenn Black
+      start: 1958-01-01
+      end: 1963-01-01
+      type: pastor
+    - name: W. Harllee Bordeaux
+      start: 1963-01-01
+      end: 1966-01-01
+      type: pastor
+    - name: Ivan DeMaster
+      start: 1966-01-01
+      end: 1985-01-01
+      type: pastor
+    - name: William Rudolph
+      start: 1986-01-01
+      end: 1997-01-01
+      type: pastor
+    - name: Bradford Freeman
+      start: 1998-01-01
+      end: 1999-01-01
+      type: pastor
+    - name: Charles Telfer
+      start: 2002-01-01
+      end: 2011-01-01
+      type: pastor
+    - name: Robert E. Tarullo
+      start: 2012-01-01
+      type: pastor
+  raw_data: |
+    IDAHO Indian Head Park
+    Westminster Orthodox Presbyterian Church (April 15, 1951– )
+    6871 Joliet Road
+    Pastors: Lawrence Eyres, 1951–58
+    Glenn Black, 1958–63
+    W. Harllee Bordeaux, 1963–66
+    Ivan DeMaster, 1966–85
+    William Rudolph, 1986–97
+    Bradford Freeman, 1998–99
+    Charles Telfer, 2002–11
+    Robert E. Tarullo, 2012–"
 ID,Joliet,"
 
 New Covenant Community Orthodox Presbyterian Church  (April 11, 1999– )
@@ -7285,7 +7792,74 @@ Jonathan Falk, 1986–99
 Brian Nolder, 2000–2007
 Russell Hamilton, 2008–
 Assoc. Pastor: Richard Dickinson, 1988–2001
-",Loading...
+","- name: Pilgrim Orthodox Presbyterian Church
+  origination_date: 1954-03-24
+  names:
+    - name: Pilgrim Orthodox Presbyterian Church
+      start: 1954-03-24
+      end: null
+  status:
+    - active: true
+  location:
+    address: 375 Mt. Hope Avenue
+    city: Bangor
+    state: ME
+  minister:
+    - name: Dale Snyder
+      start: 1954-03-24
+      end: 1958-01-01
+      type: pastor
+    - name: George Weeber
+      start: 1959-01-01
+      end: 1961-01-01
+      type: pastor
+    - name: George Haney
+      start: 1961-01-01
+      end: 1968-01-01
+      type: pastor
+    - name: Carl Ahlfeldt
+      start: 1968-01-01
+      end: 1969-01-01
+      type: pastor
+    - name: Bernard Stonehouse
+      start: 1970-01-01
+      end: 1980-01-01
+      type: pastor
+    - name: Richard Wirth
+      start: 1981-01-01
+      end: 1984-01-01
+      type: pastor
+    - name: Jonathan Falk
+      start: 1986-01-01
+      end: 1999-01-01
+      type: pastor
+    - name: Brian Nolder
+      start: 2000-01-01
+      end: 2007-01-01
+      type: pastor
+    - name: Russell Hamilton
+      start: 2008-01-01
+      end: null
+      type: pastor
+    - name: Richard Dickinson
+      start: 1988-01-01
+      end: 2001-01-01
+      type: associate_pastor
+  raw_data: |
+    MAINE Bangor
+
+    Pilgrim Orthodox Presbyterian Church  (March 24, 1954– )
+    375 Mt. Hope Avenue
+    Pastors: Dale Snyder, 1954–58
+    George Weeber, 1959–61
+    George Haney, 1961–68
+    Carl Ahlfeldt, 1968–69
+    Bernard Stonehouse, 1970–80
+    Richard Wirth, 1981–84
+    Jonathan Falk, 1986–99
+    Brian Nolder, 2000–2007
+    Russell Hamilton, 2008–
+    Assoc. Pastor: Richard Dickinson, 1988–2001"
 ME,Bridgton,"
 
 Pleasant Mountain Presbyterian Church  (2011– )
@@ -8299,7 +8873,74 @@ Asst. Pastor: Bryan Estelle, 1996–2000
 Assoc. Pastors: Robert Thoburn, 1959–61
 Leonard Stewart, 1977–80
 James Stastny, 2000–
-",Loading...
+","- name: Knox Orthodox Presbyterian Church
+  origination_date: 1936-09-22
+  names:
+    - name: Knox Orthodox Presbyterian Church
+      start: 1936-09-22
+      end: null
+  status:
+    - active: true
+  location:
+    address: 410 Granville Drive
+    city: Silver Spring
+    state: MD
+  minister:
+    - name: Leslie Sloat
+      start: 1936-09-22
+      end: 1939-01-01
+      type: pastor
+    - name: Henry Phillips
+      start: 1939-01-01
+      end: 1943-01-01
+      type: pastor
+    - name: Glenn Coie
+      start: 1945-01-01
+      end: 1955-01-01
+      type: pastor
+    - name: Charles Ellis
+      start: 1955-01-01
+      end: 1979-01-01
+      type: pastor
+    - name: Thomas Tyson
+      start: 1980-01-01
+      end: 1989-01-01
+      type: pastor
+    - name: Thomas Martin
+      start: 1991-01-01
+      end: null
+      type: pastor
+    - name: Bryan Estelle
+      start: 1996-01-01
+      end: 2000-01-01
+      type: associate_pastor
+    - name: Robert Thoburn
+      start: 1959-01-01
+      end: 1961-01-01
+      type: associate_pastor
+    - name: Leonard Stewart
+      start: 1977-01-01
+      end: 1980-01-01
+      type: associate_pastor
+    - name: James Stastny
+      start: 2000-01-01
+      end: null
+      type: associate_pastor
+  raw_data: |
+    MARYLAND Silver Spring
+
+    Knox Orthodox Presbyterian Church  (September 22, 1936– )
+    410 Granville Drive
+    Pastors: Leslie Sloat, 1936–39
+    Henry Phillips, 1939–43
+    Glenn Coie, 1945–55
+    Charles Ellis, 1955–79
+    Thomas Tyson, 1980–89
+    Thomas Martin, 1991–
+    Asst. Pastor: Bryan Estelle, 1996–2000
+    Assoc. Pastors: Robert Thoburn, 1959–61
+    Leonard Stewart, 1977–80
+    James Stastny, 2000–"
 MA,Fall River,"
 
 
@@ -8407,7 +9048,67 @@ David O’Leary, 2002–13
 Gregory Hills, 2012–
 Assoc. Pastors: Gregory Hills, 2002–12
 Derek Baker, 2010–
-",Loading...
+","- name: First Orthodox Presbyterian Church, North Shore
+  origination_date: 1961-11-16
+  names:
+    - name: First Orthodox Presbyterian Church, North Shore
+      start: 1961-11-16
+      end: null
+    - name: First Orthodox Presbyterian Church of Hamilton
+      start: 1961-11-16
+      end: 1987-01-01
+  status:
+    - active: true
+  location:
+    address: 179 County Road (Highway 1A)
+    city: Ipswich
+    state: MA
+  minister:
+    - name: Wendell Rockey
+      start: 1964-01-01
+      end: 1975-01-01
+      type: pastor
+    - name: Kenneth Ironside
+      start: 1976-01-01
+      end: 1983-01-01
+      type: pastor
+    - name: James Kern
+      start: 1984-01-01
+      end: 1990-01-01
+      type: pastor
+    - name: Charles Wingard
+      start: 1991-01-01
+      end: 2000-01-01
+      type: pastor
+    - name: David O’Leary
+      start: 2002-01-01
+      end: 2013-01-01
+      type: pastor
+    - name: Gregory Hills
+      start: 2012-01-01
+      end: null
+      type: pastor
+    - name: Gregory Hills
+      start: 2002-01-01
+      end: 2012-01-01
+      type: associate_pastor
+    - name: Derek Baker
+      start: 2010-01-01
+      end: null
+      type: associate_pastor
+  raw_data: |
+    MASSACHUSSETTS Ipswich
+    First Orthodox Presbyterian Church, North Shore  (November 16, 1961– )
+    179 County Road (Highway 1A)
+    (called First Orthodox Presbyterian Church of Hamilton, 1961–1987)
+    Pastors: Wendell Rockey, 1964–75
+    Kenneth Ironside, 1976–83
+    James Kern, 1984–90
+    Charles Wingard, 1991–2000
+    David O’Leary, 2002–13
+    Gregory Hills, 2012–
+    Assoc. Pastors: Gregory Hills, 2002–12
+    Derek Baker, 2010–"
 MA,Melrose,"
 
 Igreja Presbiteriana Brasileira  mission work  (2007–January 25, 2015)
@@ -11445,7 +12146,79 @@ Douglas Kittredge, 1971–75
 George Kirkwood, 1976
 Richard Nelson, 1978–2009
 Travis Yonkman 2011
-",Loading...
+","- name: Grace Orthodox Presbyterian Church
+  origination_date: 1938-12-06
+  names:
+    - name: Grace Orthodox Presbyterian Church
+      start: 1938-12-06
+      end: null
+  status:
+    - active: true
+  location:
+    address: 416 White Horse Avenue
+    city: Hamilton Township
+    state: NJ
+  minister:
+    - name: Leslie Dunn
+      start: 1939-01-01
+      end: 1940-01-01
+      type: pastor
+    - name: Lawrence Gilmore
+      start: 1941-01-01
+      end: 1943-01-01
+      type: pastor
+    - name: H. Wilson Albright
+      start: 1943-01-01
+      end: 1948-01-01
+      type: pastor
+    - name: Theodore Georgian
+      start: 1949-01-01
+      end: 1958-01-01
+      type: pastor
+    - name: Donald Parker
+      start: 1961-01-01
+      end: 1966-01-01
+      type: pastor
+    - name: William Rankin
+      start: 1966-01-01
+      end: 1966-01-01
+      type: pastor
+    - name: Gordon Mouw
+      start: 1968-01-01
+      end: 1970-01-01
+      type: pastor
+    - name: Douglas Kittredge
+      start: 1971-01-01
+      end: 1975-01-01
+      type: pastor
+    - name: George Kirkwood
+      start: 1976-01-01
+      end: 1976-01-01
+      type: pastor
+    - name: Richard Nelson
+      start: 1978-01-01
+      end: 2009-01-01
+      type: pastor
+    - name: Travis Yonkman
+      start: 2011-01-01
+      end: null
+      type: pastor
+  raw_data: |
+    NEW JERSEY
+    Hamilton Township
+    Grace Orthodox Presbyterian Church  (December 6, 1938– )
+    416 White Horse Avenue
+    Pastors: Leslie Dunn, 1939–40
+    Lawrence Gilmore, 1941–43
+    H. Wilson Albright, 1943–48
+    Theodore Georgian, 1949–58
+    Donald Parker, 1961–66
+    William Rankin, 1966
+    Gordon Mouw, 1968–70
+    Douglas Kittredge, 1971–75
+    George Kirkwood, 1976
+    Richard Nelson, 1978–2009
+    Travis Yonkman 2011"
 NEW JERSEY,Hammonton,"
 
 New Life Orthodox Presbyterian Chapel  (December 15, 1981–March 23, 1985)
@@ -16448,7 +17221,87 @@ A. Craig Troxel, 1995–2007
 J. Mark Sallade, 2008–
 Assoc. Pastors: Chad E. Bond, 2001–4
 J. Mark Sallade, 2006–8
-",Loading...
+","- name: Calvary Orthodox Presbyterian Church
+  origination_date: 1936-07-29
+  names:
+    - name: Calvary Orthodox Presbyterian Church
+      start: 1936-07-29
+  status:
+    - active: true
+  location:
+    address: 734 Willow Grove Avenue at Church Road
+    city: Glenside
+    state: PA
+  minister:
+    - name: Cary Weisiger
+      start: 1937-01-01
+      end: 1940-01-01
+      type: pastor
+    - name: Theodore Jansma
+      start: 1941-01-01
+      end: 1943-01-01
+      type: pastor
+    - name: Eugene Bradford
+      start: 1944-01-01
+      end: 1951-01-01
+      type: pastor
+    - name: Robert Atwell
+      start: 1952-01-01
+      end: 1961-01-01
+      type: pastor
+    - name: Larry Sibley
+      start: 1963-01-01
+      end: 1967-01-01
+      type: pastor
+    - name: Henry Coray
+      start: 1967-01-01
+      end: 1971-01-01
+      type: pastor
+    - name: Robert Drake
+      start: 1972-01-01
+      end: 1977-01-01
+      type: pastor
+    - name: Daniel Morse
+      start: 1978-01-01
+      end: 1980-01-01
+      type: pastor
+    - name: Steven Miller
+      start: 1981-01-01
+      end: 1994-01-01
+      type: pastor
+    - name: A. Craig Troxel
+      start: 1995-01-01
+      end: 2007-01-01
+      type: pastor
+    - name: J. Mark Sallade
+      start: 2008-01-01
+      type: pastor
+    - name: Chad E. Bond
+      start: 2001-01-01
+      end: 2004-01-01
+      type: associate_pastor
+    - name: J. Mark Sallade
+      start: 2006-01-01
+      end: 2008-01-01
+      type: associate_pastor
+  raw_data: |
+    PENNSYLVANIA
+    Glenside
+    Calvary Orthodox Presbyterian Church  (July 29, 1936– )
+    734 Willow Grove Avenue at Church Road
+    Pastors: Cary Weisiger, 1937–40
+    Theodore Jansma, 1941–43
+    Eugene Bradford, 1944–51
+    Robert Atwell, 1952–61
+    Larry Sibley, 1963–67
+    Henry Coray, 1967–71
+    Robert Drake, 1972–77
+    Daniel Morse, 1978–80
+    Steven Miller, 1981–94
+    A. Craig Troxel, 1995–2007
+    J. Mark Sallade, 2008–
+    Assoc. Pastors: Chad E. Bond, 2001–4
+    J. Mark Sallade, 2006–8"
 PA,Grove City,"
 
 Covenant Orthodox Presbyterian Church (May 16, 1966– )
@@ -18687,10 +19540,10 @@ PR,Iglesia Uno Reformada,"
 113 Morse Street
 Supply: Bradney LopezPENNSYLV ANIA – PR
 ","- name: Iglesia Uno Reformada
-  origination_date: 1500-01-01
+  origination_date: 2014-01-01
   names:
     - name: Iglesia Uno Reformada
-      start: 1500-01-01
+      start: 2014-01-01
   status:
     - active: true
   location:
@@ -20767,31 +21620,6 @@ Berean Presbyterian Church (October 2009–May 3, 2011)
     UT
     Ogden
     Berean Presbyterian Chapel (October 2009–May 3, 2011)"
-UT,Berean Presbyterian Church,"
-
-Meeting at United Church of Christ, 3350 Harrison Boulevard
-Supply: Curtis A. Eggleston, 2011–14
-Pastor: Curtis A. Eggleston, 2014–
-","- name: Berean Presbyterian Church
-  received_from: null
-  names:
-    - name: Berean Presbyterian Church
-      start: null
-      end: null
-  status:
-    - active: true
-    - reason: null
-    - withdrawal_to: null
-    - end_date: null
-  location:
-    city: Ogden
-    state: UT
-  raw_data: |
-    UT
-    Berean Presbyterian Church
-    Meeting at United Church of Christ, 3350 Harrison Boulevard
-    Supply: Curtis A. Eggleston, 2011–14
-    Pastor: Curtis A. Eggleston, 2014–"
 UT,Provo,"
 
 Christ Orthodox Presbyterian Chapel  (2003–2006)

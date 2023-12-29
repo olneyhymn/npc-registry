@@ -1,5 +1,5 @@
 ---
-date: &id001 0001-01-01 00:00:00
+date: &id001 1979-05-14
 end_date: null
 location:
   address: null
@@ -31,6 +31,6 @@ status:
   withdrawal_to: null
 title: Covenant Orthodox Presbyterian Church (Seaford DE)
 year_established:
-- 1
+- 1979
 
 ---

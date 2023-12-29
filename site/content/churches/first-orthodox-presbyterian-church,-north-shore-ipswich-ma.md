@@ -4,7 +4,7 @@ end_date: null
 location:
   address: 179 County Road (Highway 1A)
   city: Ipswich
-  state: MASSACHUSSETTS
+  state: MA
 minister:
 - end: 1975-01-01
   name: Wendell Rockey
@@ -64,14 +64,14 @@ raw_data: "MASSACHUSSETTS Ipswich\nFirst Orthodox Presbyterian Church, North Sho
   \ Gregory Hills, 2002\u201312\nDerek Baker, 2010\u2013"
 received_from: null
 states:
-- MASSACHUSSETTS
+- MA
 status:
   active: true
   end_date: null
   reason: null
   received_from: null
   withdrawal_to: null
-title: First Orthodox Presbyterian Church, North Shore (Ipswich MASSACHUSSETTS)
+title: First Orthodox Presbyterian Church, North Shore (Ipswich MA)
 year_established:
 - 1961
 

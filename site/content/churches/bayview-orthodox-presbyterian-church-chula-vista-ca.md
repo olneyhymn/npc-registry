@@ -4,7 +4,7 @@ end_date: null
 location:
   address: 505 East Naples Street
   city: Chula Vista
-  state: California
+  state: CA
 minister:
 - end: 1960-01-01
   name: Jack Peterson
@@ -87,14 +87,14 @@ raw_data: "California Chula Vista\nBayview Orthodox Presbyterian Church (April 2
   2006\nKenneth Gentry, Jr., 1997\u201398"
 received_from: null
 states:
-- California
+- CA
 status:
   active: true
   end_date: null
   reason: null
   received_from: null
   withdrawal_to: null
-title: Bayview Orthodox Presbyterian Church (Chula Vista California)
+title: Bayview Orthodox Presbyterian Church (Chula Vista CA)
 year_established:
 - 1958
 

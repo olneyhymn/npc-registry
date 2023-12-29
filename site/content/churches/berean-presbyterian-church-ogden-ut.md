@@ -1,31 +1,43 @@
 ---
-date: &id001 0001-01-01 00:00:00
+date: &id001 2009-10-01
 end_date: null
 location:
-  address: null
+  address: 3350 Harrison Boulevard
   city: Ogden
   state: UT
-minister: null
-ministers: []
+minister:
+- end: 2014-12-31
+  name: Curtis A. Eggleston
+  start: 2011-01-01
+  type: Supply Pastor
+- end: null
+  name: Curtis A. Eggleston
+  start: 2014-01-01
+  type: Pastor
+ministers:
+- Curtis A. Eggleston
+- Curtis A. Eggleston
 name: Berean Presbyterian Church
 names:
+- end: 2011-05-03
+  name: Berean Presbyterian Chapel
+  start: 2009-10-01
 - end: null
   name: Berean Presbyterian Church
-  start: null
+  start: 2011-05-03
 origination_date: *id001
-raw_data: "UT\nBerean Presbyterian Church\nMeeting at United Church of Christ, 3350\
-  \ Harrison Boulevard\nSupply: Curtis A. Eggleston, 2011\u201314\nPastor: Curtis\
-  \ A. Eggleston, 2014\u2013"
+raw_data: "UT\nOgden\nBerean Presbyterian Chapel (October 2009\u2013May 3, 2011)"
+received_from: null
 states:
 - UT
 status:
-  active: true
-  end_date: null
+  active: false
+  end_date: 2011-05-03
   reason: null
   received_from: null
   withdrawal_to: null
 title: Berean Presbyterian Church (Ogden UT)
 year_established:
-- 1
+- 2009
 
 ---

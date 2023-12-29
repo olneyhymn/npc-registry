@@ -4,7 +4,7 @@ end_date: null
 location:
   address: null
   city: Encinitas
-  state: California
+  state: CA
 minister: null
 ministers: []
 name: Orthodox Presbyterian Chapel
@@ -16,14 +16,14 @@ origination_date: *id001
 raw_data: "California\nEncinitas\nOrthodox Presbyterian Chapel  (1980\u201381)"
 received_from: null
 states:
-- California
+- CA
 status:
   active: false
   end_date: 1981-01-01
   reason: null
   received_from: null
   withdrawal_to: null
-title: Orthodox Presbyterian Chapel (Encinitas California)
+title: Orthodox Presbyterian Chapel (Encinitas CA)
 year_established:
 - 1980
 
