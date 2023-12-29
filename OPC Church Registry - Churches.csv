@@ -14373,7 +14373,7 @@ Covenant Reformed Presbyterian Church  (December 9, 2004– )
 495 S. South Franklin Road
 Org. Pastor: Brenton Ferry, 2000–2004
 Pastor: Brenton Ferry, 2004–
-","- name: Covenant Reformed Presbyterian Chapel
+","- name: Covenant Reformed Presbyterian Church
   origination_date: 1998-09-19
   names:
     - name: Covenant Reformed Presbyterian Chapel, OPC
@@ -14394,6 +14394,10 @@ Pastor: Brenton Ferry, 2004–
       type: Organizing Pastor
     - name: Brenton Ferry
       start: 2004-12-09
+      end: 2016-10-31
+      type: Pastor
+    - name: Scott Willet
+      start: 2017-06-23
       type: Pastor
   raw_data: |
     NORTH CAROLINA

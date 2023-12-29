@@ -19,8 +19,8 @@ names:
   start: 2015-12-11
 origination_date: *id001
 raw_data: "GA  Buford\n\nCovenant Presbyterian Church (December 11, 2015\u2013 )\n\
-  (received from the Reformed Presbyterian Church in the United States)\n1420 Rock Springs\
-  \ Road\nPastor: Christopher B. Strevel, 2015\u2013"
+  (received from the Reformed Presbyterian Church in the United States)\n1420 Rock\
+  \ Springs Road\nPastor: Christopher B. Strevel, 2015\u2013"
 received_from:
 - Reformed Presbyterian Church in the United States
 states:
