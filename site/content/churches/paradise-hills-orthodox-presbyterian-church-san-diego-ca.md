@@ -51,6 +51,8 @@ status:
   received_from: null
   withdrawal_to: Independency
 title: Paradise Hills Orthodox Presbyterian Church (San Diego CA)
+withdrawal_to:
+- Independency
 year_established:
 - 1947
 

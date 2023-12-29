@@ -26,7 +26,7 @@ minister:
   name: Jeremy Jones
   start: 2013-01-01
   type: Pastor
-- end: null
+- end: 2013-12-31
   name: Jeremy Jones
   start: 2013-01-01
   type: Associate Pastor

@@ -31,6 +31,8 @@ status:
   received_from: null
   withdrawal_to: Bible Presbyterian Church
 title: Cleveland Presbyterian Church of America (Cleveland OH)
+withdrawal_to:
+- Bible Presbyterian Church
 year_established:
 - 1937
 

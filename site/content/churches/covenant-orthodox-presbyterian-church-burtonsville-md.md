@@ -49,6 +49,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Covenant Orthodox Presbyterian Church (Burtonsville MD)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1968
 

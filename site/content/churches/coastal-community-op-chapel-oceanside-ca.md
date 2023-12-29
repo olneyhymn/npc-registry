@@ -28,6 +28,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Coastal Community OP Chapel (Oceanside CA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1985
 

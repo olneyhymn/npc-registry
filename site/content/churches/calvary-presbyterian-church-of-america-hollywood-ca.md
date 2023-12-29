@@ -22,6 +22,8 @@ status:
   received_from: null
   withdrawal_to: Independency
 title: Calvary Presbyterian Church of America (Hollywood CA)
+withdrawal_to:
+- Independency
 year_established:
 - 1936
 

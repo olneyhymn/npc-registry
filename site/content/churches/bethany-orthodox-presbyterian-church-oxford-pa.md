@@ -71,6 +71,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Bethany Orthodox Presbyterian Church (Oxford PA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1936
 

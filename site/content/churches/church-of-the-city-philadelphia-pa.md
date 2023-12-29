@@ -46,6 +46,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Church of the City (Philadelphia PA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1971
 

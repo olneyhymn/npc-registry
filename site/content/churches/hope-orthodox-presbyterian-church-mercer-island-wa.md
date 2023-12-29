@@ -28,6 +28,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Hope Orthodox Presbyterian Church (Mercer Island WA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 2013
 

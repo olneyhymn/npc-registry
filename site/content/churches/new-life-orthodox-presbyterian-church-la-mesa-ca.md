@@ -65,6 +65,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: New Life Orthodox Presbyterian Church (La Mesa CA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1966
 

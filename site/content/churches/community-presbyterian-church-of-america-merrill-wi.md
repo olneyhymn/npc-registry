@@ -31,6 +31,8 @@ status:
   received_from: null
   withdrawal_to: Bible Presbyterian Church
 title: Community Presbyterian Church of America (Merrill WI)
+withdrawal_to:
+- Bible Presbyterian Church
 year_established:
 - 1936
 

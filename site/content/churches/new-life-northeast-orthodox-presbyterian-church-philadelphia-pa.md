@@ -35,6 +35,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: New Life Northeast Orthodox Presbyterian Church (Philadelphia PA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1984
 

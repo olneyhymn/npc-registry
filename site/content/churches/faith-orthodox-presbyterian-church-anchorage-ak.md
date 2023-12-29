@@ -33,6 +33,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Faith Orthodox Presbyterian Church (Anchorage AK)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1995
 

@@ -26,7 +26,7 @@ status:
   end_date: 1949-03-21
   reason: withdrawal
   received_from: null
-  withdrawal_to: Orthodox Presbyterian Church
+  withdrawal_to: null
 title: Calvary Orthodox Presbyterian Church (Willow Grove PA)
 year_established:
 - 1936

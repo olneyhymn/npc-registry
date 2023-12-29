@@ -31,6 +31,8 @@ status:
   received_from: null
   withdrawal_to: Bible Presbyterian Church
 title: Maitland Orthodox Presbyterian Church (Maitland FL)
+withdrawal_to:
+- Bible Presbyterian Church
 year_established:
 - 1958
 

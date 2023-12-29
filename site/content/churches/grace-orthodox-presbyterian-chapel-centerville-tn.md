@@ -31,6 +31,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Grace Orthodox Presbyterian Chapel (Centerville TN)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1979
 

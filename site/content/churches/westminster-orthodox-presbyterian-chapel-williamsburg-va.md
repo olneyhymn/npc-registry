@@ -28,6 +28,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Westminster Orthodox Presbyterian Chapel (Williamsburg VA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1973
 

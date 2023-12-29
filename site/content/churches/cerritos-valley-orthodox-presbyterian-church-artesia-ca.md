@@ -50,6 +50,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Cerritos Valley Orthodox Presbyterian Church (Artesia CA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1976
 

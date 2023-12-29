@@ -50,6 +50,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Faith Covenant Orthodox Presbyterian Church (Kalispell MT)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1979
 

@@ -31,6 +31,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Sarasota Orthodox Presbyterian Church (Sarasota FL)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1982
 

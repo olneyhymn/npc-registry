@@ -28,6 +28,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Mira Mesa Orthodox Presbyterian Chapel (Mira Mesa CA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1986
 

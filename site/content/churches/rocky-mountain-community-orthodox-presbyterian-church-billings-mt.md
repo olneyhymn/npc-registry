@@ -42,6 +42,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Rocky Mountain Community Orthodox Presbyterian Church (Billings MT)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1979
 

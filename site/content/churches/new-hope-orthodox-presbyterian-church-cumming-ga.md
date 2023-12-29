@@ -31,6 +31,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: New Hope Orthodox Presbyterian Church (Cumming GA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1995
 

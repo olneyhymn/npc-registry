@@ -45,7 +45,7 @@ status:
   end_date: 2005-07-17
   reason: withdrawal
   received_from: null
-  withdrawal_to: OPC
+  withdrawal_to: null
 title: Pilgrim Orthodox Presbyterian Church (Philadelphia PA)
 year_established:
 - 1984

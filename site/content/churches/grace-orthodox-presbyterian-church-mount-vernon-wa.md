@@ -40,6 +40,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Grace Orthodox Presbyterian Church (Mount Vernon WA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 2004
 

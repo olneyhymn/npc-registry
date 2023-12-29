@@ -263,7 +263,6 @@ Concho Valley OPC mission (May 3, 2013– )
 79 County Road
 ","- name: Concho Valley OPC mission
   origination_date: 2013-05-03
-  received_from: null
   names:
     - name: Concho Valley OPC mission
       start: 2013-05-03
@@ -368,7 +367,6 @@ Supply: Charles Perkins, 1997–98
 Assoc. Pastor: Brian D. Chang, 2011–15
 ","- name: Prescott Presbyterian Church
   origination_date: 1996-03-03
-  received_from: Orthodox Presbyterian Church
   names:
     - name: Prescott Presbyterian Church
       start: 1996-03-03
@@ -414,7 +412,6 @@ Org. Pastor: Christopher J. Chelpka, 2011–13
 Pastor: Christopher J. Chelpka, 2013–
 ","- name: Covenant Orthodox Presbyterian Church
   origination_date: 2013-12-15
-  received_from:
   names:
     - name: Covenant Orthodox Presbyterian mission work
       start: 2011-01-01
@@ -578,11 +575,11 @@ Assoc. Pastors: Stephen Williams, 1981–89
 Mark House, 1982–83
 ","- name: Cerritos Valley Orthodox Presbyterian Church
   origination_date: 1976-12-05
-  transferred_to: Presbyterian Church in America
+  withdrawal_to: Presbyterian Church in America
   status:
     - active: false
     - reason: transfer
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1989-05-23
   location:
     city:  Artesia
@@ -784,7 +781,6 @@ Dale Hanaoka, 2005–8
 Joshua P. Lyon, 2013–
 ","- name: Grace Orthodox Presbyterian Church
   origination_date: 1942-05-21
-  received_from: null
   names:
     - name: Grace Orthodox Presbyterian Church
       start: 1942-05-21
@@ -961,7 +957,6 @@ David L. Thibault, 2015–
 ","---
 - name: Grace Orthodox Presbyterian Church
   origination_date: 1998-07-19
-  received_from:
   names:
     - name: Grace Orthodox Presbyterian Church
       start: 1998-07-19
@@ -1060,7 +1055,7 @@ Assoc. Pastor: Douglass Swagerty, 1984–85
   status:
     - active: false
     - reason: transferred
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1989-01-31
   location:
     city:  Escondido
@@ -1177,7 +1172,6 @@ Stephen Doe, 1977–81
 Jack Smith, 1993–95
 ","- name: El Camino Orthodox Presbyterian Church
   origination_date: 1967-05-19
-  received_from:
   names:
     - name: El Camino Orthodox Presbyterian Church
       start: 1967-05-19
@@ -1231,7 +1225,6 @@ Stephen Williams, 1979–81
 Supply: H. Wilson Albright, 1959–63
 ","- name: Hacienda Heights Orthodox Presbyterian Church
   origination_date: 1959-05-17
-  received_from:
   names:
     - name: Hacienda Heights Orthodox Presbyterian Church
       start: 1959-05-17
@@ -1275,7 +1268,6 @@ Kevin L. Medcalf, 2012–
 Asst. Pastor: Jay Nelken, 2003–7
 ","- name: New Hope Orthodox Presbyterian Church
   origination_date: 1993-10-14
-  received_from: null
   names:
     - name: New Hope Orthodox Presbyterian Church
       start: 1993-10-14
@@ -1419,7 +1411,7 @@ Church of the Servant Orthodox Presbyterian Church  (May 5, 1985–June 30, 1993
 Pastor: Jack Smith, 1985–93
 ","- name: Christ Covenant Orthodox Presbyterian Chapel
   origination_date: 2000-06-03
-  received_from:
+  names:
     - name: Church of the Servant Orthodox Presbyterian Church
       start: 1985-05-05
       end: 1993-06-30
@@ -1448,7 +1440,6 @@ Pastor: Jack Smith, 1985–93
     Pastor: Jack Smith, 1985–93"
 AR,La Mesa,,"- name: New Life Orthodox Presbyterian Church
   origination_date: 1966-10-15
-  received_from: null
   names:
     - name: New Life Orthodox Presbyterian Church
       start: 1966-10-15
@@ -1579,7 +1570,6 @@ James Lim, 2012–
 Assoc. Pastor: Edward V olz, 1970–75
 ","- name: Faith Orthodox Presbyterian Church
   origination_date: 1941-04-15
-  received_from:
   names:
     - name: Faith Orthodox Presbyterian Church
       start: 1941-04-15
@@ -1647,7 +1637,6 @@ Alan Pontier, 1988–2004
 Assoc. Pastor: Josue Balderas, 1982–87
 ","- name: Beverly Orthodox Presbyterian Church
   origination_date: 1936-10-28
-  received_from: Gardens Tabernacle PCA
   names:
     - name: Beverly Orthodox Presbyterian Church
       start: 1936-10-28
@@ -1739,7 +1728,7 @@ AR,Manhattan Beach,"","- name: First Orthodox Presbyterian Church
   status:
     - active: false
     - reason: transfer
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1989-01-28
   location:
     city: Manhattan Beach
@@ -1803,7 +1792,6 @@ Pastors: C. John Miller, 1959–63
 Gerald Latal, 1963–72
 ","- name: First Orthodox Presbyterian Church
   origination_date: 1959-03-19
-  received_from: Bethany Orthodox Presbyterian Church
   names:
     - name: First Orthodox Presbyterian Church
       start: 1959-03-19
@@ -1869,7 +1857,6 @@ Timothy G. Walker, 2015–
 Teacher: Timothy G. Walker, 2011–
 ","- name: Covenant Orthodox Presbyterian Church
   origination_date: 2004-04-02
-  received_from:
   names:
     - name: Covenant Orthodox Presbyterian Chapel
       start: 1996-01-04
@@ -2152,7 +2139,6 @@ Mark Mueller (Supply), 1992–93
 Mark Mueller, 1993–
 ","- name: Covenant of Grace Orthodox Presbyterian Church
   origination_date: 1981-08-02
-  received_from:
   names:
     - name: Covenant of Grace Orthodox Presbyterian Church
       start: 1981-08-02
@@ -2193,7 +2179,6 @@ AR,Pasadena,"
 Grace Presbyterian Church of America  (October 21, 1936–October 5, 1937)
 ","- name: Grace Presbyterian Church of America
   origination_date: 1936-10-21
-  received_from: null
   names:
     - name: Grace Presbyterian Church of America
       start: 1936-10-21
@@ -2303,7 +2288,6 @@ AR,Placerville,"
 Church of the Redeemer OPC  (September 21, 1985–April 4, 1989)
 ","- name: Church of the Redeemer OPC
   origination_date: 1985-09-21
-  received_from:
   names:
     - name: Church of the Redeemer OPC
       start: 1985-09-21
@@ -2629,7 +2613,6 @@ Charles McIlhenny, 1974–2005
 Glenn Ferrell, 2010–
 ","- name: First Orthodox Presbyterian Church
   origination_date: 1941-04-15
-  received_from:
   names:
     - name: First Orthodox Presbyterian Church
       start: 1941-04-15
@@ -3038,7 +3021,6 @@ John Vroegindewey, 1992–1999
 David Bush, 2002–
 ","- name: Oak Hill Orthodox Presbyterian Church
   origination_date: 1962-02-12
-  received_from: null
   names:
     - name: Oak Hill Orthodox Presbyterian Church
       start: 1962-02-12
@@ -3098,7 +3080,6 @@ Sal Solis, 1965–78
 David Tickner, 1979–82
 ","- name: South Pasadena Orthodox Presbyterian Church
   origination_date: 1936-11-02
-  received_from:
   names:
     - name: South Pasadena Orthodox Presbyterian Church
       start: 1936-11-02
@@ -3404,7 +3385,6 @@ Org. Pastor: Kim Dang, 1999–2001
     address: 10101 Cunningham Avenue
     city: Westminster
     state: CA
-  received_from: Westminster OPC
   minister:
     - name: Kim Dang
       start: 1999-10-15
@@ -3539,7 +3519,6 @@ Meeting at Whittier Community Christian Church, 10823 Colima Road
 Org. Pastor: Yong Kim, 2008–
 ","- name: Christ and Heaven Orthodox Presbyterian Mission
   origination_date: 2008-12-12
-  received_from:
   names:
     - name: Christ and Heaven Orthodox Presbyterian Mission
       start: 2008-12-12
@@ -3594,7 +3573,7 @@ Sidney Van Camp, 1978–85
   status:
     - active: false
     - reason: dismissal
-    - dismissal_to: Reformed Presbyterian Church of North America
+    - withdrawal_to: Reformed Presbyterian Church of North America
     - end_date: 1985-12-08
   location:
     address:
@@ -3887,7 +3866,6 @@ Reformation Church, OPC (April 12, 2002– )
 Pastor: Kevin Swanson, 2002–
 ","- name: Reformation Church
   origination_date: 2002-04-12
-  received_from:
   names:
     - name: Reformation Church Chapel
       start: 2001-02-05
@@ -4032,7 +4010,6 @@ Assoc. Pastors: Jonathan Male, 1992–1996
 Matthew Kingsbury, 1999–2001
 ","- name: Immanuel Orthodox Presbyterian Church
   origination_date: 1961-04-05
-  received_from: null
   names:
     - name: Immanuel Orthodox Presbyterian Church
       start: 1961-04-05
@@ -4208,7 +4185,6 @@ Richard Mozer, 2001–2
 Robert Tarullo, 2004–12
 ","- name: Community Orthodox Presbyterian Church
   origination_date: 1982-04-23
-  received_from:
   names:
     - name: Community Orthodox Presbyterian Church
       start: 1982-04-23
@@ -4257,7 +4233,6 @@ Orthodox Presbyterian Chapel  (April 17, 1999–September 16, 2000)
 Pastor: Richard Mozer, 2000
 ","- name: Orthodox Presbyterian Chapel
   origination_date: 1999-04-17
-  received_from:
   names:
     - name: Orthodox Presbyterian Chapel
       start: 1999-04-17
@@ -4597,7 +4572,6 @@ Emmanuel Orthodox Presbyterian Church  (March 27, 1970–April 24, 1976)
 Pastor: A. Boyce Spooner, 1970–75
 ","- name: Emmanuel Orthodox Presbyterian Church
   origination_date: 1970-03-27
-  received_from:
   names:
     - name: Emmanuel Orthodox Presbyterian Church
       start: 1970-03-27
@@ -4690,7 +4664,6 @@ Supply: Robert Reymond, 2009–11
 Pastor: Chad Mullinix, 2011–
 ","- name: Holy Trinity Presbyterian Church
   origination_date: 2009-05-08
-  received_from: Holy Trinity Presbyterian mission work
   names:
     - name: Holy Trinity Presbyterian mission work
       start: 2007-04-20
@@ -4725,7 +4698,6 @@ Covenant Reformed Presbyterian Church, OPC  (October 28, 2000– )
 Pastor: Robert Berry, 2000–
 ","- name: Covenant Reformed Presbyterian Church, OPC
   origination_date: 2000-10-28
-  received_from:
   names:
     - name: Covenant Reformed Presbyterian Church, OPC
       start: 2000-10-28
@@ -5036,7 +5008,6 @@ Maitland Orthodox Presbyterian Church  (June 27, 1958–April 21, 1964)
 Pastor: Arthur Froelich, 1958–64
 ","- name: Maitland Orthodox Presbyterian Church
   origination_date: 1958-06-27
-  received_from:
   names:
     - name: Maitland Orthodox Presbyterian Church
       start: 1958-06-27
@@ -5068,7 +5039,6 @@ Pastors: Calvin Cummings, 1983
 Gary Edwards, 1983–86
 ","- name: Christ Orthodox Presbyterian Church
   origination_date: 1983-04-15
-  received_from: null
   names:
     - name: Christ Orthodox Presbyterian Church
       start: 1983-04-15
@@ -5173,7 +5143,6 @@ Pastor: David Seivright, 1984–87
 Assoc. Pastor: Louis Kickasola, 1984–86
 ","- name: International Community OPC
   origination_date: 1982-07-25
-  received_from:
   names:
     - name: International Community OPC
       start: 1982-07-25
@@ -5261,7 +5230,6 @@ Chad Sadorf, 2002–9
 Gregory Hoadley, 2010–13
 ","- name: Faith Orthodox Presbyterian Church
   origination_date: 1972-12-17
-  received_from:
   names:
     - name: Faith Orthodox Presbyterian Church
       start: 1972-12-17
@@ -5392,7 +5360,6 @@ Stephen Oharek, 2008–
 Assoc. Pastor: David Chilton, 2004–
 ","- name: Reformation Orthodox Presbyterian Church
   origination_date: 2004-05-30
-  received_from:
   names:
     - name: Reformation Orthodox Presbyterian mission work
       start: 2003-09-07
@@ -5687,7 +5654,7 @@ New Hope Orthodox Presbyterian Church  (December 7, 1995–August 16, 1998)
 Pastor: T. Jeffrey Taylor, 1995–98
 ","- name: New Hope Orthodox Presbyterian Church
   origination_date: 1995-12-07
-  transferred_to: Presbyterain Church in America
+  withdrawal_to: Presbyterain Church in America
   names:
     - name: New Hope Orthodox Presbyterian Church
       start: 1995-12-07
@@ -5695,7 +5662,7 @@ Pastor: T. Jeffrey Taylor, 1995–98
   status:
     - active: false
     - reason: transfer
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1998-08-16
   location:
     city:  Cumming
@@ -5720,7 +5687,6 @@ Thomas Champness, 1974–2009
 S. Scott Willet, 2009–15
 ","- name: Redeemer Orthodox Presbyterian Church
   origination_date: 1968-04-18
-  received_from:
   names:
     - name: Redeemer Orthodox Presbyterian Church
       start: 1968-04-18
@@ -5865,7 +5831,6 @@ Cromwell Roskamp, 1968–71
 William Warren, 1973–74
 ","- name: Westminster Orthodox Presbyterian Church
   origination_date: 1953-04-19
-  received_from:
   names:
     - name: Westminster Orthodox Presbyterian Church
       start: 1953-04-19
@@ -5873,7 +5838,7 @@ William Warren, 1973–74
   status:
     - active: false
     - reason: transferred
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1975-01-14
   location:
     address:
@@ -6064,7 +6029,6 @@ Trinity Orthodox Presbyterian Church  (February 20, 1987–March 15, 1996)
 Pastor: James Garretson, 1988–92
 ","- name: Trinity Orthodox Presbyterian Church
   origination_date: 1987-02-20
-  received_from:
   names:
     - name: Trinity Orthodox Presbyterian Church
       start: 1987-02-20
@@ -6151,7 +6115,6 @@ Camden M. Busey, 2013–
 Assoc. Pastor: Brandon T. Wilkins, 2011–
 ","- name: Hope Presbyterian Church
   origination_date: 1999-04-18
-  received_from:
   names:
     - name: Hope Presbyterian Church
       start: 1999-04-18
@@ -6369,7 +6332,6 @@ Robert Evans, 1980–84
 Dennis Disselkoen, 1985–91
 ","- name: Hope Orthodox Presbyterian Mission
   origination_date: 1979-10-07
-  received_from:
   names:
     - name: Hope Orthodox Presbyterian Mission
       start: 1979-10-07
@@ -6410,7 +6372,7 @@ Momence Orthodox Presbyterian Church  (January 20, 2006– )
 Pastor: Brent Evans, 2008–
 ","- name: Momence Orthodox Presbyterian Church
   origination_date: 2006-01-20
-  received_from: Christian Reformed
+  received_from: Christian Reformed Church
   names:
     - name: Momence Orthodox Presbyterian Church
       start: 2006-01-20
@@ -6442,7 +6404,6 @@ Assoc. Pastors: Victor Atallah, 2001–
 Christopher Sandoval, 2006–10
 ","- name: Covenant Orthodox Presbyterian Church
   origination_date: 1995-04-09
-  received_from:
   names:
     - name: Covenant Orthodox Presbyterian Church
       start: 1995-04-09
@@ -6503,7 +6464,6 @@ Community Orthodox Presbyterian Chapel  (1974–1975)
 Pastor: Eugene Grille, 1974–75
 ","- name: Community Orthodox Presbyterian Chapel
   origination_date: 1974-01-01
-  received_from:
   names:
     - name: Community Orthodox Presbyterian Chapel
       start: 1974-01-01
@@ -6600,7 +6560,6 @@ Assoc. Pastors: John Wiers, 2009–
 Kenneth R. Golden, 2011–
 ","- name: Covenant of Grace Orthodox Presbyterian Church
   origination_date: 2001-10-19
-  received_from: null
   names:
     - name: Covenant of Grace Orthodox Presbyterian Mission
       start: 1997-02-02
@@ -6956,7 +6915,7 @@ Pastor: Mark Melton, 2004–
 Assoc. Pastor: Timothy Baker, 2005–10
 ","- name: Christ Covenant Orthodox Presbyterian Church
   origination_date: 2004-05-21
-  received_from: independent
+  received_from: Independency
   names:
     - name: Christ Covenant Orthodox Presbyterian Church
       start: 2004-05-21
@@ -7009,7 +6968,6 @@ Pastors: Glenn Jerrell, 2000–2012
 Matthew W.C. Barker, 2012
 ","- name: Grace Reformed Orthodox Presbyterian Church
   origination_date: 2000-05-26
-  received_from:
   names:
     - name: Grace Reformed Orthodox Presbyterian Church
       start: 2000-05-26
@@ -7259,7 +7217,6 @@ New Covenant Fellowship Orthodox Presbyterian Church  (May 15, 2006–February 2
 Pastor: Kenneth Golden, 2005–8
 ","- name: New Covenant Fellowship Orthodox Presbyterian Church
   origination_date: 2006-05-15
-  received_from:
   names:
     - name: New Covenant Fellowship Orthodox Presbyterian Chapel
       start: 1996-01-01
@@ -7292,7 +7249,6 @@ Hope Reformed Presbyterian mission work  (2007– )
 612 Franklin Street, Suite 101
 ","- name: Hope Reformed Presbyterian
   origination_date: 2007-01-01
-  received_from: None
   names:
     - name: Hope Reformed Presbyterian mission work
       start: 2007-01-01
@@ -7334,7 +7290,6 @@ IA,Sioux Center,"
 Faith Orthodox Presbyterian Church  (May 23, 1973–September 26, 1974)
 ","- name: Faith Orthodox Presbyterian Church
   origination_date: 1973-05-23
-  received_from:
   names:
     - name: Faith Orthodox Presbyterian Church
       start: 1973-05-23
@@ -7654,7 +7609,6 @@ Christ Orthodox Presbyterian Chapel  (April 23, 1998– December 9, 2005)
 Evangelist: Russell Hamilton, 1999–2005
 ","- name: Christ Orthodox Presbyterian Chapel
   origination_date: 1998-04-23
-  received_from:
   names:
     - name: Christ Orthodox Presbyterian Chapel
       start: 1998-04-23
@@ -7689,7 +7643,6 @@ Evangelists: Russell Hamilton, 1999–2005
 Mark Winder, 2003–4
 ","- name: Pineville Orthodox Presbyterian Church
   origination_date: 1988-01-29
-  received_from:
   names:
     - name: Pineville Orthodox Presbyterian Church
       start: 1988-01-29
@@ -7739,7 +7692,6 @@ LA,Shreveport,"
 Orthodox Presbyterian Chapel  (October 17, 1972–1973)
 ","- name: Orthodox Presbyterian Chapel
   origination_date: 1972-10-17
-  received_from: null
   names:
     - name: Orthodox Presbyterian Chapel
       start: 1972-10-17
@@ -7867,7 +7819,6 @@ Pleasant Mountain Presbyterian Church  (2011– )
 Org. Pastor: Tim R. Beauchamp, 2011–15
 ","- name: Pleasant Mountain Presbyterian Church
   origination_date: 2011-01-01
-  received_from:
   names:
     - name: Pleasant Mountain Presbyterian Church
       start: 2011-01-01
@@ -7978,7 +7929,6 @@ East Madison Orthodox Presbyterian Church  (March 27, 1957–March 15, 1960)
 Pastor: Harold Dorman, 1958–60
 ","- name: East Madison Orthodox Presbyterian Church
   origination_date: 1957-03-27
-  received_from:
   names:
     - name: East Madison Orthodox Presbyterian Church
       start: 1957-03-27
@@ -8008,7 +7958,6 @@ Grace Reformed Presbyterian (August 24, 2014– )
 Meeting at University of Maine at Farmington
 ","- name: Grace Reformed Presbyterian
   origination_date: 2014-08-24
-  received_from:
   names:
     - name: Grace Reformed Presbyterian
       start: 2014-08-24
@@ -8108,7 +8057,6 @@ Donald Miller, 1971–94
 Assoc. Pastor: Gary Magur, 1992–96
 ","- name: Trinity Orthodox Presbyterian Church
   origination_date: 1961-03-22
-  received_from:
   names:
     - name: Trinity Orthodox Presbyterian Church
       start: 1961-03-22
@@ -8313,7 +8261,6 @@ Charles Stanton, 1951–54
 Harold Dorman, 1958–2014
 ","- name: Skowhegan Orthodox Presbyterian Church
   origination_date: 1941-11-27
-  received_from:
   names:
     - name: Skowhegan Orthodox Presbyterian Church
       start: 1941-11-27
@@ -8435,7 +8382,6 @@ Jeremy Tuinstra, 2004–8
 Assoc. Pastor: Mark Sumpter, 1994–2002
 ","- name: Covenant Orthodox Presbyterian Church
   origination_date: 1968-12-31
-  received_from:
   names:
     - name: Covenant Orthodox Presbyterian Church
       start: 1968-12-31
@@ -8529,7 +8475,6 @@ Timothy Flora, 2005–15
 Pastor of Youth and Families:  Daniel J. Halley, 2011–13
 ","- name: Columbia Orthodox Presbyterian Church
   origination_date: 1978-12-31
-  received_from: null
   names:
     - name: Columbia Orthodox Presbyterian Church
       start: 1978-12-31
@@ -8685,7 +8630,6 @@ Org. Pastor: James Stastny, 2000–2004
 Pastor: James Stastny, 2004–9
 ","- name: Cornerstone Presbyterian Church
   origination_date: 2004-12-11
-  received_from: OPC
   names:
     - name: Cornerstone Reformed Fellowship OPC (mission)
       start: 1999-12-03
@@ -8699,7 +8643,6 @@ Pastor: James Stastny, 2004–9
   status:
     - active: false
     - reason: None
-    - withdrawal_to: None
     - end_date: 2009-01-04
   location:
     address: None
@@ -8756,7 +8699,6 @@ Supply: Lyman Smith, 1990–92
 Pastor: Gerald Taylor, 1993–
 ","- name: Trinity Reformed Orthodox Presbyterian Church
   origination_date: 1990-04-20
-  received_from: null
   names:
     - name: Trinity Reformed Orthodox Presbyterian Church
       start: 1990-04-20
@@ -9118,7 +9060,6 @@ Org. Pastor: Roberto Laranjo, 2007–15
 Pastor: Roberto Laranjo, 2015–
 ","- name: Igreja Presbiteriana Brasileira OPC
   origination_date: 2015-01-25
-  received_from: Igreja Presbiteriana Brasileira
   names:
     - name: Igreja Presbiteriana Brasileira mission work
       start: 2007-01-01
@@ -9210,7 +9151,6 @@ Daniel Korzep, 1997–2008
 David Booth, 2009–
 ","- name: Merrimack Valley Community Orthodox Presbyterian Church
   origination_date: 1989-09-08
-  received_from:
   names:
     - name: Merrimack Valley Community Orthodox Presbyterian Church
       start: 1989-09-08
@@ -9248,7 +9188,6 @@ New Life Orthodox Presbyterian Church  (November 18, 1989–October 14, 1997)
 Pastor: John Pederson, 1989–95
 ","- name: New Life Orthodox Presbyterian Church
   origination_date: 1989-11-18
-  received_from:
   names:
     - name: New Life Orthodox Presbyterian Church
       start: 1989-11-18
@@ -9279,7 +9218,7 @@ Pastors: D. Leonard Gulstrom, 1995–99 (while it was independent)
 Mark Marquis, 2003–
 ","- name: Immanuel Chapel Orthodox Presbyterian Church
   origination_date: 2009-10-16
-  received_from: formerly independent
+  received_from: Independency
   names:
     - name: Immanuel Chapel Orthodox Presbyterian Church
       start: 2009-10-16
@@ -9556,7 +9495,6 @@ Pastors: Timothy Bero, 1994–96
 Dale Collison, 1996
 ","- name: Atonement Orthodox Presbyterian Church
   origination_date: 1939-04-24
-  received_from:
   names:
     - name: Atonement Orthodox Presbyterian Church
       start: 1939-04-24
@@ -9595,7 +9533,6 @@ Pastor: Ralph Rebandt, 1989–
 Assoc. Pastor: Jeffrey Wilson, 1996–97
 ","- name: Oakland Hills Community Orthodox Presbyterian Church
   origination_date: 1989-10-08
-  received_from:
   names:
     - name: Oakland Hills Community Orthodox Presbyterian Church
       start: 1989-10-08
@@ -9946,7 +9883,6 @@ Evangelist: Martin Novak, 1998–2003
 Pastor: Martin Novak, 2003–
 ","- name: New Life Fellowship Church
   origination_date: 2003-10-24
-  received_from:
   names:
     - name: New Life Fellowship Chapel, Orthodox Presbyterian Church
       start: 1997-03-21
@@ -10436,7 +10372,6 @@ Westminster Orthodox Presbyterian Church  (September 14, 1981–September 18, 19
 Pastor: Larry Wilson, 1981–82
 ","- name: Westminster Orthodox Presbyterian Church
   origination_date: 1981-09-14
-  received_from:
   names:
     - name: Westminster Orthodox Presbyterian Church
       start: 1981-09-14
@@ -10498,7 +10433,6 @@ Edward Ludt, 2000–2002
 Mark Smith, 2003–5
 ","- name: Covenant Orthodox Presbyterian Church
   origination_date: 1998-01-23
-  received_from: null
   names:
     - name: Covenant Orthodox Presbyterian Church
       start: 1998-01-23
@@ -10544,7 +10478,6 @@ Org. Pastor: Kent W. Harding, 2011–14
 Pastor: Kent W. Harding, 2014–
 ","- name: Sovereign Grace Reformed Church
   origination_date: 2014-11-17
-  received_from: unorganized mission work
   names:
     - name: Sovereign Grace Reformed Chapel
       start: 2010-09-17
@@ -10715,7 +10648,6 @@ Albert Edwards, III, 1980–92
 Alfred Poirier, 1992–2002
 ","- name: Rocky Mountain Community Orthodox Presbyterian Church
   origination_date: 1979-09-29
-  received_from:
   names:
     - name: Rocky Mountain Community Orthodox Presbyterian Church
       start: 1979-09-29
@@ -10723,7 +10655,7 @@ Alfred Poirier, 1992–2002
   status:
     - active: false
     - reason: transfer
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 2002-01-25
   location:
     address:
@@ -10883,7 +10815,6 @@ Mission Valley Orthodox Presbyterian Church  (April 26, 1976–April 25, 1987)
 Pastor: Russell Piper, 1976–86
 ","- name: Mission Valley Orthodox Presbyterian Church
   origination_date: 1976-04-26
-  received_from:
   names:
     - name: Mission Valley Orthodox Presbyterian Church
       start: 1976-04-26
@@ -10912,7 +10843,6 @@ Walter Magee, 1944–45
 Supply:  R. Heber McIlwaine, 1946
 ","- name: Aurora Orthodox Presbyterian Church
   origination_date: 1937-10-19
-  received_from: null
   names:
     - name: Aurora Orthodox Presbyterian Church
       start: 1937-10-19
@@ -11128,7 +11058,6 @@ Christopher Post, 2010–12
 Alan J. Dueck, 2013
 ","- name: Grace Orthodox Presbyterian Church
   origination_date: 1995-10-11
-  received_from:
   names:
     - name: Grace Orthodox Presbyterian Church
       start: 1995-10-11
@@ -11406,7 +11335,6 @@ Providence Presbyterian Church
 Org. Pastor: Timothy G. Herndon, 2013–
 ","- name: Providence Presbyterian Church
   origination_date: 2013-01-01
-  received_from:
   names:
     - name: Providence Presbyterian Church
       start:
@@ -11486,7 +11414,6 @@ Carl McDaniel, 2010–14
 Matthew D. Cole, 2015–
 ","- name: Immanuel Orthodox Presbyterian Church
   origination_date: 1948-11-29
-  received_from: null
   names:
     - name: Immanuel Orthodox Presbyterian Church
       start: 1948-11-29
@@ -11695,7 +11622,6 @@ George Kostas, 1984–94
 James Zozzaro, 1995–
 ","- name: Calvary Orthodox Presbyterian Church
   origination_date: 1936-07-05
-  received_from:
   names:
     - name: Calvary Orthodox Presbyterian Church
       start: 1936-07-05
@@ -11811,7 +11737,6 @@ Westminster Orthodox Presbyterian Chapel  (September 23, 1995–April 27, 2004)
 Org. Pastor: George W. Bancroft, 2001–4
 ","- name: Westminster Orthodox Presbyterian Chapel
   origination_date: 1995-09-23
-  received_from:
   names:
     - name: Westminster Orthodox Presbyterian Chapel
       start: 1995-09-23
@@ -11991,7 +11916,6 @@ Mark Larson, 2007–12
 John J. Keegan, 2013–
 ","- name: Grace Orthodox Presbyterian Church
   origination_date: 1951-05-27
-  received_from:
   names:
     - name: Grace Orthodox Presbyterian Church
       start: 1951-05-27
@@ -12590,7 +12514,6 @@ River of Life Orthodox Presbyterian Church  (February 27, 1993– )
 Pastor: William Slack, 1992–
 ","- name: River of Life Orthodox Presbyterian Church
   origination_date: 1993-02-27
-  received_from:
   names:
     - name: New Life Orthodox Presbyterian mission work, Frenchtown
       start: 1985-04-23
@@ -12778,7 +12701,6 @@ Martin Dawson, 1979–2013
 Minister of Evangelism:  Richard Anderson, 2000–2013
 ","- name: Stratford Orthodox Presbyterian Church
   origination_date: 1958-11-07
-  received_from:
   names:
     - name: Stratford Orthodox Presbyterian Church
       start: 1958-11-07
@@ -12827,7 +12749,6 @@ NEW JERSEY,Succasunna,"
 Westminster Orthodox Presbyterian Church  (October 24, 1975–December 15, 1978)
 ","- name: Westminster Orthodox Presbyterian Church
   origination_date: 1975-10-24
-  received_from:
   names:
     - name: Westminster Orthodox Presbyterian Church
       start: 1975-10-24
@@ -12854,7 +12775,6 @@ Evangelist: Geoffrey Willour, 1997–2000
 Pastor: Geoffrey Willour, 2000–2012
 ","- name: Redeemer Orthodox Presbyterian Church
   origination_date: 2000-10-01
-  received_from:
   names:
     - name: Redeemer Orthodox Presbyterian Chapel
       start: 1996-09-28
@@ -12995,7 +12915,6 @@ Glen Clary, 2005–12
 Neil J. Lodge, 2014–
 ","- name: Immanuel Orthodox Presbyterian Church
   origination_date: 1942-05-06
-  received_from: "" ""
   names:
     - name: Immanuel Orthodox Presbyterian Church
       start: 1942-05-06
@@ -13165,7 +13084,6 @@ Teachers: Harry W. Warner, 1983–98
 George Christian, 1984–91
 ","- name: Emmanuel Orthodox Presbyterian Church
   origination_date: 1956-09-22
-  received_from: null
   names:
     - name: Emmanuel Orthodox Presbyterian Church
       start: 1956-09-22
@@ -13293,7 +13211,6 @@ Orthodox Presbyterian Church of Rio Rancho  (October 30, 2009– )
 Pastor: Todd Bordow, 2009–
 ","- name: Orthodox Presbyterian Church of Rio Rancho
   origination_date: 2009-10-30
-  received_from:
   names:
     - name: Orthodox Presbyterian Church of Rio Rancho, Mission Work
       start: 2007-09-21
@@ -13399,7 +13316,6 @@ Pastors: David Barker, 1988–2001
 Timothy Gregson, 2002–
 ","- name: Covenant Orthodox Presbyterian Church
   origination_date: 1988-03-18
-  received_from:
   names:
     - name: Covenant Orthodox Presbyterian Church
       start: 1988-03-18
@@ -14103,7 +14019,6 @@ Cornerstone Orthodox Presbyterian Church  (June 19, 2009–April 27, 2012)
 Pastor: Thomas Sheppard, 2009–12
 ","- name: Cornerstone Orthodox Presbyterian Church
   origination_date: 2009-06-19
-  received_from:
   names:
     - name: Cornerstone Orthodox Presbyterian Church
       start: 2009-06-19
@@ -14137,7 +14052,6 @@ Assoc. Pastor: Joseph H. Fowler Jr., 2011–14
 Teacher: George Knight, 2004–12
 ","- name: Redeemer Presbyterian Church
   origination_date: 2003-04-27
-  received_from:
   names:
     - name: Puritan Reformed Orthodox Presbyterian Mission
       start: 1985-07-28
@@ -14213,7 +14127,6 @@ Org. Pastor: Joseph H. Fowler, Jr., 2011–14
 Pastor: Joseph H. Fowler, Jr, 2014
 ","- name: Reformation Orthodox Presbyterian Church
   origination_date: 2014-12-05
-  received_from:
   names:
     - name: Reformation OPC mission work
       start: 2010-10-16
@@ -14676,7 +14589,6 @@ Supply: Edward Huntington, 1996–98
 Evangelist: Edward Huntington, 1998–2007
 ","- name: Covenant Orthodox Presbyterian Chapel
   origination_date: 2001-05-06
-  received_from: null
   names:
     - name: Bismarck Orthodox Presbyterian Chapel
       start: 1995-09-27
@@ -14812,7 +14724,6 @@ Org. Pastors: Terry Thole, 2010–12
 Gregory P. Hoadley, 2014–15
 ","- name: Grace Orthodox Presbyterian Chapel
   origination_date: 2010-06-09
-  received_from: null
   names:
     - name: Grace Orthodox Presbyterian Chapel
       start: 2010-06-09
@@ -15122,7 +15033,6 @@ Cleveland Presbyterian Church of America  (March 7, 1937–July 11, 1937)
 Pastor: A. Franklin Faucette, 1937
 ","- name: Cleveland Presbyterian Church of America
   origination_date: 1937-03-07
-  received_from: null
   names:
     - name: Cleveland Presbyterian Church of America
       start: 1937-03-07
@@ -15162,7 +15072,6 @@ Evangelists: Lawrence Oldaker, 1995–97
 David Robbins, 2010–15
 ","- name: Grace Presbyterian Church
   origination_date: 1979-07-01
-  received_from:
   names:
     - name: Grace Presbyterian Church
       start: 1979-07-01
@@ -15342,7 +15251,6 @@ Joseph Puglia, 2005–12
 Matthew A. Judd, 2014–
 ","- name: Covenant Orthodox Presbyterian Church
   origination_date: 1997-11-21
-  received_from:
   names:
     - name: Covenant Orthodox Presbyterian Church
       start: 1997-11-21
@@ -15645,7 +15553,6 @@ Clarence Veld, 2016–
 Assoc. Pastor: Edward Eppinger, 2003–
 ","- name: Westminster Orthodox Presbyterian Church
   origination_date: 1971-02-14
-  received_from:
   names:
     - name: Westminster Orthodox Presbyterian Church
       start: 1971-02-14
@@ -15735,7 +15642,6 @@ Pastors: M. Scott Johnson, 2003–7
 Todd P. Dole, 2012–
 ","- name: Grace Orthodox Presbyterian Chapel
   origination_date: 1999-09-12
-  received_from:
   names:
     - name: Grace Orthodox Presbyterian Chapel
       start: 1999-09-12
@@ -16013,7 +15919,6 @@ Westminster Orthodox Presbyterian Church  (2005– )
 Pastor: Martin Emmrich, 2007–
 ","- name: Westminster Orthodox Presbyterian Church
   origination_date: 2005-01-01
-  received_from:
   names:
     - name: Westminster Orthodox Presbyterian Church
       start: 2005-01-01
@@ -16099,7 +16004,6 @@ Asst. Pastors: Ralph English, 2000–2002
 Daniel McManigal, 2006–8
 ","- name: Faith Orthodox Presbyterian Church
   origination_date: 1978-04-29
-  received_from:
   names:
     - name: Faith Orthodox Presbyterian Church
       start: 1978-04-29
@@ -16248,7 +16152,6 @@ Arthur Ames, 1973–76
 John Mahaffy, 1977–
 ","- name: Trinity Presbyterian Church of the Orthodox Presbyterian Church
   origination_date: 1964-03-12
-  received_from:
   names:
     - name: Trinity Presbyterian Church of the Orthodox Presbyterian Church
       start: 1964-03-12
@@ -16299,7 +16202,6 @@ Donald Poundstone, 1976–94
 Jack Smith, 1995–
 ","- name: First Orthodox Presbyterian Church
   origination_date: 1944-08-09
-  received_from:
   names:
     - name: First Orthodox Presbyterian Church
       start: 1944-08-09
@@ -16557,7 +16459,6 @@ Pastors: Glenn Evans, 2000–2003
 Jason Stewart, 2005–7
 ","- name: Christ Community Orthodox Presbyterian Chapel
   origination_date: 1996-05-04
-  received_from:
   names:
     - name: Christ Community Orthodox Presbyterian Chapel
       start: 1996-05-04
@@ -16914,7 +16815,7 @@ Assoc. Pastor: Matthew Colflesh, 2001
   status:
     - active: false
     - reason: transfer
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 2001-11-03
   location:
     address:
@@ -16967,7 +16868,6 @@ Pastors: Jason J. Stewart, 2005–11
 Lane G. Tipton, 2015–
 ","- name: Trinity Orthodox Presbyterian Church
   origination_date: 2007-11-17
-  received_from:
   names:
     - name: Trinity Orthodox Presbyterian Church
       start: 2007-11-17
@@ -17091,7 +16991,6 @@ Karl Hubenthall, 2003–4
 David G. Graves, 2012–
 ","- name: Trinity Orthodox Presbyterian Church
   origination_date: 1993-05-21
-  received_from:
   names:
     - name: Trinity Orthodox Presbyterian Church
       start: 1993-05-21
@@ -17147,7 +17046,6 @@ Assoc. Pastor: Kyle N. Brown, 2013–
 Evangelist: Joshua L. McKamy, 2015–
 ","- name: Living Hope Orthodox Presbyterian Church
   origination_date: 1983-10-13
-  received_from: null
   names:
     - name: Gettysburg Orthodox Presbyterian Church
       start: 1983-10-13
@@ -17314,7 +17212,6 @@ Jeremy Jones, 2013–
 Assoc. Pastor: Jeremy Jones, 2013
 ","- name: Covenant Orthodox Presbyterian Church
   origination_date: 1966-05-16
-  received_from:
   names:
     - name: Covenant Orthodox Presbyterian Church
       start: 1966-05-16
@@ -17348,7 +17245,7 @@ Assoc. Pastor: Jeremy Jones, 2013
       type: Pastor
     - name: Jeremy Jones
       start: 2013-01-01
-      end:
+      end: 2013-12-31
       type: Associate Pastor
   raw_data: |
     PA	Grove City
@@ -17409,7 +17306,6 @@ Grace Orthodox Presbyterian Church  (December 9, 1990–November 20, 2004)
 Pastor: Jeffery Sheely, 1990–2004
 ","- name: Grace Orthodox Presbyterian Church
   origination_date: 1990-12-09
-  received_from:
   names:
     - name: Grace Orthodox Presbyterian Church
       start: 1990-12-09
@@ -17716,7 +17612,6 @@ John Yenchko, 1985–90
 Assoc. Pastor: D. Clair Davis, 1980–90
 ","- name: New Life Orthodox Presbyterian Church
   origination_date: 1974-03-16
-  received_from: null
   names:
     - name: New Life Orthodox Presbyterian Church
       start: 1974-03-16
@@ -17724,7 +17619,7 @@ Assoc. Pastor: D. Clair Davis, 1980–90
   status:
     - active: false
     - reason: transferred
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1990-02-11
   location:
     address: null
@@ -17783,7 +17678,7 @@ Luther Kenneth Hash, 1990–92
   status:
     - active: false
     - reason: transfer
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1990-10-02
   location:
     address:
@@ -17946,7 +17841,6 @@ Steve Miller, 1977–81
 Sherman Isbell, 1982–84
 ","- name: Tri–County Orthodox Presbyterian Church
   origination_date: 1967-01-11
-  received_from:
   names:
     - name: Tri–County Orthodox Presbyterian Church
       start: 1967-01-11
@@ -18208,7 +18102,6 @@ Thomas Cooper, 1941–43
 G. Travers Sloyer, 1954–58
 ","- name: Redeemer Orthodox Presbyterian Church
   origination_date: 1936-07-27
-  received_from:
   names:
     - name: Redeemer Orthodox Presbyterian Church
       start: 1936-07-27
@@ -18386,7 +18279,6 @@ Thomas Corey, 1981–87
 Assoc. Pastor: James Petty, 1983–87
 ","- name: Church of the City
   origination_date: 1971-03-01
-  received_from:
   names:
     - name: Atonement Orthodox Presbyterian Church
       start: 1936-11-11
@@ -18472,7 +18364,6 @@ William McDowell, 1957–60
 Supply: Thayer Westlake, 1948–49
 ","- name: Gethsemane Orthodox Presbyterian Church
   origination_date: 1936-06-30
-  received_from:
   names:
     - name: Gethsemane Orthodox Presbyterian Church
       start: 1936-06-30
@@ -18533,7 +18424,6 @@ Benjamin Snodgrass, 1996–2004
 William Snodgrass, 2006–
 ","- name: Grace Fellowship Orthodox Presbyterian Church
   origination_date: 1992-05-22
-  received_from:
   names:
     - name: Grace Fellowship Chapel of Germantown
       start: 1984-10-05
@@ -18588,7 +18478,6 @@ George Morton, 1989–2012
 Lloyd J. Sterrett, 2013–
 ","- name: Grace Orthodox Presbyterian Church
   origination_date: 1978-01-16
-  received_from:
   names:
     - name: Southwest Philadelphia Reformed Fellowship
       start: 1978-01-16
@@ -18639,7 +18528,6 @@ Kenneth Meilahn, 1951–52
 William Rankin, 1958–66
 ","- name: Mediator Orthodox Presbyterian Church
   origination_date: 1938-08-16
-  received_from:
   names:
     - name: Mediator Orthodox Presbyterian Church
       start: 1938-08-16
@@ -18764,7 +18652,6 @@ Teacher: Barry Traver, 1988–2005
   status:
     - active: false
     - reason: withdrawal
-    - withdrawal_to: OPC
     - end_date: 2005-07-17
   location:
     address:
@@ -18795,7 +18682,6 @@ Org. Pastor: Mark Holler, 1984–85
 Pastor: Mark Holler, 1985–2000
 ","- name: Trinity Orthodox Presbyterian Church
   origination_date: 1985-06-21
-  received_from: Trinity Orthodox Presbyterian mission work
   names:
     - name: Trinity Orthodox Presbyterian mission work
       start: 1984-05-18
@@ -19134,7 +19020,6 @@ Evangelists: Douglas Clawson, 1984–87
 R. Daniel Knox, 1984–98
 ","- name: Grace Orthodox Presbyterian Church
   origination_date: 1969-12-28
-  received_from: null
   names:
     - name: Grace Orthodox Presbyterian Church
       start: 1969-12-28
@@ -19438,7 +19323,6 @@ Pastor: Robert Strong, 1936–49
   status:
     - active: false
     - reason: withdrawal
-    - withdrawal_to: Orthodox Presbyterian Church
     - end_date: 1949-03-21
   location:
     address:
@@ -19671,7 +19555,6 @@ Pastors: Mark Larson, 2005–7
 Kevin Medcalf, 2007–12
 ","- name: Providence Orthodox Presbyterian Church
   origination_date: 2007-05-18
-  received_from: null
   names:
     - name: Providence Orthodox Presbyterian Chapel
       start: 2004-08-06
@@ -19734,7 +19617,6 @@ Pastors: Sidney Dyer, 1995–2001
 G. W. Fisher, 2003–4
 ","- name: First Orthodox Presbyterian Church
   origination_date: 2005-04-22
-  received_from: null
   names:
     - name: Agape Orthodox Presbyterian Church
       start: 1995-06-03
@@ -20015,7 +19897,6 @@ Kenny Honken, 2008–12
 D. Nathan Holloway, 2013–15
 ","- name: Bethlehem Reformed Church
   origination_date: 2002-06-21
-  received_from:
   names:
     - name: Bethlehem Reformed Church, Orthodox Presbyterian
       start: 2002-06-21
@@ -20070,7 +19951,6 @@ Darren Thole, 1999–2011
 Curtis A. Moleterno, 2011–
 ","- name: Westminster Orthodox Presbyterian Church
   origination_date: 1936-09-30
-  received_from:
   names:
     - name: Westminster Orthodox Presbyterian Church
       start: 1936-09-30
@@ -20198,7 +20078,6 @@ Stanford Sutton, 1967–73
 Edward Eppinger, 1974–87
 ","- name: Manchester Orthodox Presbyterian Church
   origination_date: 1936-10-04
-  received_from: null
   names:
     - name: Manchester Orthodox Presbyterian Church
       start: 1936-10-04
@@ -20343,7 +20222,6 @@ Terry Thole, 1998–2010
 Brad J. Irick, 2011
 ","- name: Winner Orthodox Presbyterian Church
   origination_date: 1964-07-27
-  received_from:
   names:
     - name: Winner Orthodox Presbyterian Church
       start: 1964-07-27
@@ -20414,7 +20292,6 @@ Robert Sander, 1958–67
 Stanford Sutton, 1967–73
 ","- name: Yale Community Orthodox Presbyterian Church
   origination_date: 1942-12-13
-  received_from:
   names:
     - name: Yale Community Orthodox Presbyterian Church
       start: 1942-12-13
@@ -20457,7 +20334,6 @@ Supply: Robert McCurley, 1997–2000
 Pastor: Robert McCurley, 2000–2002
 ","- name: Trinity Reformed Orthodox Presbyterian Church
   origination_date: 2000-07-21
-  received_from:
   names:
     - name: Trinity Reformed Orthodox Presbyterian Church
       start: 2000-07-21
@@ -20493,7 +20369,7 @@ Grace Orthodox Presbyterian Chapel  (December 8, 1979–May 2, 1983)
 Supply: John Mason, 1979–81
 ","- name: Grace Orthodox Presbyterian Chapel
   origination_date: 1979-12-08
-  transferred_to: Presbyterian Church in America
+  withdrawal_to: Presbyterian Church in America
   names:
     - name: Grace Orthodox Presbyterian Chapel
       start: 1979-12-08
@@ -20501,7 +20377,7 @@ Supply: John Mason, 1979–81
   status:
     - active: false
     - reason: transfer
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1983-05-02
   location:
     address:
@@ -20621,7 +20497,7 @@ Orthodox Presbyterian Church  (October 11, 1967–October 29, 1975)
 Pastor: Robert Valentine, 1967–75
 ","- name: Orthodox Presbyterian Church
   origination_date: 1967-10-11
-  transferred_to: Presbyterian Church in America
+  withdrawal_to: Presbyterian Church in America
   names:
     - name: Orthodox Presbyterian Church
       start: 1967-10-11
@@ -20629,7 +20505,7 @@ Pastor: Robert Valentine, 1967–75
   status:
     - active: false
     - reason: transfer
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1975-10-29
   location:
     address:
@@ -20655,7 +20531,6 @@ Pastors: John Thompson, 1965–68
 Luder Whitlock, 1970–75
 ","- name: West Hills Orthodox Presbyterian Church
   origination_date: 1965-06-29
-  received_from:
   names:
     - name: West Hills Orthodox Presbyterian Church
       start: 1965-06-29
@@ -20663,7 +20538,7 @@ Luder Whitlock, 1970–75
   status:
     - active: false
     - reason: transfer
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1975-06-25
   location:
     address:
@@ -20964,13 +20839,13 @@ Pastor: Joseph Troutman, 2009–
 TX,Corpus Christi,"
 
 Westminster Orthodox Presbyterian Mission  (December 29, 1992–March 22, 1996)
-(withdrew to the Reformed Presbyterian Church [U.S.], May 1996)
+(withdrew to the Reformed Presbyterian Church Reformed Presbyterian Church in the United States[U.S.], May 1996)
 ","- name: Westminster Orthodox Presbyterian Mission
   origination_date: 1992-12-29
   status:
     - active: false
     - reason: withdrawal
-    - withdrawal_to: Reformed Presbyterian Church [U.S.]
+    - withdrawal_to: Reformed Presbyterian Church in the United States
     - end_date: 1996-05-01
   location:
     city: Corpus Christi
@@ -21026,7 +20901,6 @@ Redeemer Orthodox Presbyterian Church  (September 26, 1997–January 2005)
 Pastor: W. Daniel Lipford, 1997–2004
 ","- name: Redeemer Orthodox Presbyterian Church
   origination_date: 1997-09-26
-  received_from:
   names:
     - name: Redeemer Orthodox Presbyterian Church
       start: 1997-09-26
@@ -21350,7 +21224,6 @@ Covenant of Grace Orthodox Presbyterian Chapel  (April 20, 2001–March 26, 2006
 Evangelist: Kevin Van Der Linden, 2001–6
 ","- name: Covenant of Grace Orthodox Presbyterian Chapel
   origination_date: 2001-04-20
-  received_from:
   names:
     - name: Covenant of Grace Orthodox Presbyterian Chapel
       start: 2001-04-20
@@ -21459,7 +21332,6 @@ San Antonio Reformed mission work  (September 17, 2011– )
 Org. Pastor: Andrew T. Moody, 2012
 ","- name: San Antonio Reformed mission work
   origination_date: 2011-09-17
-  received_from:
   names:
     - name: San Antonio Reformed mission work
       start: 2011-09-17
@@ -21490,7 +21362,6 @@ Assoc. Pastors: Bradford Mercer, 1998
 Mark Wheat, 2007–12
 ","- name: Tyler Orthodox Presbyterian Church
   origination_date: 1984-01-04
-  received_from:
   names:
     - name: Tyler Orthodox Presbyterian Church
       start: 1984-01-04
@@ -21688,7 +21559,6 @@ Evangelist:  Timothy G. Herndon, 2013
 Teacher: Andrew Selle, 1996
 ","- name: Covenant Orthodox Presbyterian Church
   origination_date: 1988-12-02
-  received_from:
   names:
     - name: Covenant Orthodox Presbyterian Church
       start: 1988-12-02
@@ -21957,7 +21827,6 @@ Pastors: Timothy Gregson, 1974–2002
 Stephen Dufresne, 2004–5
 ","- name: Berea Orthodox Presbyterian Church
   origination_date: 1974-07-22
-  received_from: null
   names:
     - name: Berea Orthodox Presbyterian Church
       start: 1974-07-22
@@ -22041,7 +21910,6 @@ Assoc. Pastor: Thomas Ellis, 1993–2000
 Evangelist: John Jamison, 2000–
 ","- name: Grace Orthodox Presbyterian Church
   origination_date: 1977-12-10
-  received_from:
   names:
     - name: Grace Orthodox Presbyterian Church
       start: 1977-12-10
@@ -22289,7 +22157,6 @@ Pastors: Edwin Urban, 1988–2010
 Philip T. Proctor, 2011–
 ","- name: Sterling Orthodox Presbyterian Church
   origination_date: 1988-03-20
-  received_from:
   names:
     - name: Sterling Orthodox Presbyterian Church
       start: 1988-03-20
@@ -22402,7 +22269,6 @@ Reformation Presbyterian mission work (April 14, 2013– )
 1313 Indian Lakes Boulevard
 ","- name: Reformation Presbyterian mission work
   origination_date: 2013-04-14
-  received_from:
   names:
     - name: Reformation Presbyterian mission work
       start: 2013-04-14
@@ -22432,7 +22298,7 @@ Evangelist: H. Morton Whitman, 1973–83
   status:
     - active: false
     - reason: transferred
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1983-12-18
   location:
     address: Not Provided
@@ -22690,7 +22556,6 @@ Benjamin Swinburnson, 2008–12
 Teacher: Richard A. Miller, 1996–98
 ","- name: Lynnwood Orthodox Presbyterian Church
   origination_date: 1995-09-22
-  received_from: null
   names:
     - name: Lynnwood Orthodox Presbyterian Church
       start: 1995-09-22
@@ -22773,7 +22638,6 @@ Pastor: David Inks, 2006–14
 Assoc. Pastor: Daniel W. McManigal, 2013–14
 ","- name: Westminster Orthodox Presbyterian Church
   origination_date: 2001-01-01
-  received_from: null
   names:
     - name: Westminster Orthodox Presbyterian Chapel
       start: 2001-01-01
@@ -22821,7 +22685,6 @@ Org. Pastor: David Klein, 2000–2004
 Pastor: David Klein, 2004–14
 ","- name: Grace Orthodox Presbyterian Church
   origination_date: 2004-03-12
-  received_from:
   names:
     - name: Grace Orthodox Presbyterian Chapel
       start: 1999-09-25
@@ -23250,7 +23113,6 @@ Providence Reformed Church  (July 7, 2013– )
 Org. Pastor: Kim Kuhfuss, 2013
 ","- name: Providence Reformed Church
   origination_date: 2013-07-07
-  received_from:
   names:
     - name: Providence Reformed Church
       start: 2013-07-07
@@ -23287,7 +23149,6 @@ James Ferguson, 1994–
 Assoc. Pastor: Paul A. Mourreale, 2012–15
 ","- name: New Hope Presbyterian Church
   origination_date: 1974-08-10
-  received_from:
   names:
     - name: New Hope Presbyterian Church
       start: 1974-08-10
@@ -23382,7 +23243,6 @@ David W. King, 1990–
 Assoc. Pastor: John Hilbelink, 2009–
 ","- name: Christ Orthodox Presbyterian Church
   origination_date: 1975-09-15
-  received_from:
   names:
     - name: Christ Orthodox Presbyterian Church
       start: 1975-09-15
@@ -23554,7 +23414,6 @@ American Legion Hall
 Pastor: Arthur Perkins, 1936
 ","- name: Community Presbyterian Church of America
   origination_date: 1936-06-21
-  received_from: null
   names:
     - name: Community Presbyterian Church of America
       start: 1936-06-21
@@ -23587,7 +23446,6 @@ Leland Jorgensen, 1939–42
 Richard Gaffin, Sr., 1942–47
 ","- name: Grace Orthodox Presbyterian Church
   origination_date: 1938-04-29
-  received_from:
   names:
     - name: Grace Orthodox Presbyterian Church
       start: 1938-04-29
@@ -23633,7 +23491,6 @@ Joshua Martin, 2003–7
 Karl Thompson, 2007–14
 ","- name: Old Stockbridge Orthodox Presbyterian Church
   origination_date: 1937-05-21
-  received_from:
   names:
     - name: Old Stockbridge Orthodox Presbyterian Church
       start: 1937-05-21
@@ -23920,7 +23777,6 @@ Daryl Daniels, 1994–96
 Karl Thompson, 2003–14
 ","- name: Menominee Orthodox Presbyterian Church
   origination_date: 1981-03-29
-  received_from:
   names:
     - name: Menominee Orthodox Presbyterian Church
       start: 1981-03-29
@@ -23967,7 +23823,6 @@ Pastors: Roswell Kamrath, 1979–81
 Craig Rowe, 1982–92
 ","- name: Northwoods Community Church
   origination_date: 1979-06-10
-  received_from: Orthodox Presbyterian Church
   names:
     - name: Northwoods Community Chapel
       start: 1978-01-01
@@ -23978,7 +23833,7 @@ Craig Rowe, 1982–92
   status:
     - active: false
     - reason: transfer
-    - transfer_to: Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1994-02-13
   location:
     address:
@@ -24210,7 +24065,6 @@ Grace Reformed Orthodox Presbyterian Chapel  (March 19, 1999–January 1, 2012)
 Pastor: K. Dale Collison, 2004–12
 ","- name: Grace Reformed Orthodox Presbyterian Chapel
   origination_date: 1999-03-19
-  received_from:
   names:
     - name: Grace Reformed Orthodox Presbyterian Chapel
       start: 1999-03-19

@@ -52,6 +52,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: New Life Orthodox Presbyterian Church (Jenkintown PA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1974
 

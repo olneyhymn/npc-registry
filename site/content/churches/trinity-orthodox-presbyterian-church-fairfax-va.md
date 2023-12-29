@@ -33,6 +33,8 @@ status:
   received_from: null
   withdrawal_to: Independency
 title: Trinity Orthodox Presbyterian Church (Fairfax VA)
+withdrawal_to:
+- Independency
 year_established:
 - 1964
 

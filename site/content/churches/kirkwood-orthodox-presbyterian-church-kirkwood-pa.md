@@ -74,6 +74,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Kirkwood Orthodox Presbyterian Church (Kirkwood PA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1936
 

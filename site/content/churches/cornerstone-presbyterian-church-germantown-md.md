@@ -42,7 +42,7 @@ status:
   end_date: 2009-01-04
   reason: None
   received_from: null
-  withdrawal_to: None
+  withdrawal_to: null
 title: Cornerstone Presbyterian Church (Germantown MD)
 year_established:
 - 2004

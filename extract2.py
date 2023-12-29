@@ -103,6 +103,8 @@ with open(args.file, newline='') as csvfile:
             del d['received_from']
         if d.get('received_from'):
             d['received_from'] = [d['received_from']]
+        if parsed_red.status.withdrawal_to:
+            d['withdrawal_to'] = [parsed_red.status.withdrawal_to]
         d['date'] = d['origination_date']
         d['title'] = f"{d['name']} ({d['location']['city']} {d['location']['state']})"
         file.write_text(f"""---

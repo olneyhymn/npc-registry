@@ -47,6 +47,8 @@ status:
   received_from: null
   withdrawal_to: Presbyterian Church in America
 title: Westminster Orthodox Presbyterian Church (Valdosta GA)
+withdrawal_to:
+- Presbyterian Church in America
 year_established:
 - 1953
 

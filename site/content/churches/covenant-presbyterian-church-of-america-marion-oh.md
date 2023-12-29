@@ -28,6 +28,8 @@ status:
   received_from: null
   withdrawal_to: Bible Presbyterian Church
 title: Covenant Presbyterian Church of America (Marion OH)
+withdrawal_to:
+- Bible Presbyterian Church
 year_established:
 - 1936
 

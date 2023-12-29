@@ -19,8 +19,10 @@ status:
   end_date: 1996-05-01
   reason: withdrawal
   received_from: null
-  withdrawal_to: Reformed Presbyterian Church [U.S.]
+  withdrawal_to: Reformed Presbyterian Church in the United States
 title: Westminster Orthodox Presbyterian Mission (Corpus Christi TX)
+withdrawal_to:
+- Reformed Presbyterian Church in the United States
 year_established:
 - 1992
 
