@@ -1,7 +1,9 @@
 {{- $posts := "" -}}
 {{ $show_count := false }}
+{{ $show_active := false }}
 {{- if .section -}}
     {{- $posts = (where site.RegularPages "Section" .section) -}}
+    {{ $show_active = true }}
 {{- else -}}
     {{- if (eq .context.Kind "taxonomy") -}}
         {{- $posts = .context.Pages -}}
@@ -31,8 +33,13 @@
     <ul>
         {{- range $post := $posts -}}
         <li>
-            {{/*  <span>{{- ($post.Date | time.Format site.Params.theme_config.date_format) }}</span>  */}}
+            {{ if $show_active }}
+                {{ if $post.Params.status.active }} <strong> {{ end }}
+            {{ end }}
             <a href="{{ $post.Permalink | relURL }}">{{ $post.Title }}</a>{{ if $show_count }} ({{ len $post.Data.Pages }}){{ end }}
+            {{ if $show_active }}
+                {{ if $post.Params.status.active }} </strong> {{ end }}
+            {{ end }}
         </li>
         {{ end }}
         {{- if and .show_more $limit_exceeded }}
