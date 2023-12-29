@@ -36,8 +36,7 @@ raw_data: "WYOMING Cheyenne\nNorthwoods Community Chapel, OPC (1978\u2013June 10
   (transferred to the Presbyterian Church in America, 1994)\nOrg. Pastor: Huibert\
   \ Vandenbroek, 1978\u201379\nPastors: Roswell Kamrath, 1979\u201381\nCraig Rowe,\
   \ 1982\u201392"
-received_from:
-- Orthodox Presbyterian Church
+received_from: null
 states:
 - WY
 status:
@@ -45,7 +44,7 @@ status:
   end_date: 1994-02-13
   reason: transfer
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Presbyterian Church in America
 title: Northwoods Community Church (Cheyenne WY)
 year_established:
 - 1979

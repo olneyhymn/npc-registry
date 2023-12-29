@@ -15,6 +15,7 @@ names:
 origination_date: *id001
 raw_data: "IA\nSioux Center\nFaith Orthodox Presbyterian Church  (May 23, 1973\u2013\
   September 26, 1974)"
+received_from: null
 states:
 - IA
 status:

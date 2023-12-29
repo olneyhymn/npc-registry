@@ -36,6 +36,7 @@ raw_data: "WA\nMercer Island\nWestminster Orthodox Presbyterian Chapel (2001\u20
   \ 21, 2014)\n(merged with Hope OPC, Mercer Island, February 21, 2014)\nOrg. Pastor:\
   \ David Inks, 2001\u20136\nPastor: David Inks, 2006\u201314\nAssoc. Pastor: Daniel\
   \ W. McManigal, 2013\u201314"
+received_from: null
 states:
 - WA
 status:

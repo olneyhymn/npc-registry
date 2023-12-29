@@ -42,6 +42,7 @@ raw_data: "MD\nColumbia\nColumbia Orthodox Presbyterian Church  (December 31, 19
   \ )\n10001 Route 108\nPastors: Allen H. Harris, 1978\u20132011\nRandall M. Lovelace,\
   \ 2011\u2013\nAsst./Assoc. P.: Stephen Green, 1990\u20132010\nTimothy Flora, 2005\u2013\
   15\nPastor of Youth and Families:  Daniel J. Halley, 2011\u201313"
+received_from: null
 states:
 - MD
 status:

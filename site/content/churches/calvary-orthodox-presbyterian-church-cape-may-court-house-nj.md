@@ -59,6 +59,7 @@ raw_data: "NEW JERSEY\nCape May Court House\nCalvary Orthodox Presbyterian Churc
   \ 1937\u201340\nLeslie Dunn, 1941\u201352\nJohn Davies, 1954\u201371\nRichard Gerber,\
   \ 1972\u201379\nDavid Cole, 1980\u201384\nGeorge Kostas, 1984\u201394\nJames Zozzaro,\
   \ 1995\u2013"
+received_from: null
 states:
 - NJ
 status:

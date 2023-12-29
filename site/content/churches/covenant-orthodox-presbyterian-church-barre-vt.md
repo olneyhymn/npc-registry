@@ -42,6 +42,7 @@ raw_data: "VERMONT Barre\n\nCovenant Orthodox Presbyterian Church  (December 2, 
   \ )\n249 Airport Road\nPastors: Raymond Commeret, 1989\u201392\nStephen Doe, 1992\u2013\
   2002\nCarl Durham, 2003\u2013\nEvangelist:  Timothy G. Herndon, 2013\nTeacher: Andrew\
   \ Selle, 1996"
+received_from: null
 states:
 - VT
 status:

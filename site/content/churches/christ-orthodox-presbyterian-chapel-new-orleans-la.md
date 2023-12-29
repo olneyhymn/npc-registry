@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "LA\nNew Orleans\n\nChrist Orthodox Presbyterian Chapel  (April 23, 1998\u2013\
   \ December 9, 2005)\nEvangelist: Russell Hamilton, 1999\u20132005"
+received_from: null
 states:
 - LA
 status:

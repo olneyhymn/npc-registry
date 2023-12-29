@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "OR\nCorvallis\nWestminster Orthodox Presbyterian Church (2005\u2013 )\n\
   5005 NW Highland Drive\nPastor: Martin Emmrich, 2007\u2013"
+received_from: null
 states:
 - OR
 status:

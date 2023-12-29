@@ -36,6 +36,7 @@ origination_date: *id001
 raw_data: "NEBRASKA Aurora\nAurora Orthodox Presbyterian Church  (October 19, 1937\u2013\
   \ January 1, 1955)\nPastors: James Brown, 1937\u201338\nCalvin Busch, 1938\u2013\
   43\nWalter Magee, 1944\u201345\nSupply:  R. Heber McIlwaine, 1946"
+received_from: null
 states:
 - NE
 status:

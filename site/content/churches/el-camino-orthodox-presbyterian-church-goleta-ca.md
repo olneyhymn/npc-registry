@@ -47,6 +47,7 @@ raw_data: "AR Goleta\nEl Camino Orthodox Presbyterian Church  (May 19, 1967\u201
   \ )\n7526 Calle Real\nPastors: Dwight Poundstone, 1967\u201378\nRobert Newsom, 1978\u2013\
   95\nDouglas Harley, 1996\u2013\nAssoc. Pastors: Henry Coray, 1975\u201378\nStephen\
   \ Doe, 1977\u201381\nJack Smith, 1993\u201395"
+received_from: null
 states:
 - CA
 status:

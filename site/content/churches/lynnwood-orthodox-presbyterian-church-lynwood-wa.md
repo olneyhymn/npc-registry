@@ -48,6 +48,7 @@ raw_data: "WA\nLynnwood\nLynnwood Orthodox Presbyterian Church  (September 22, 1
   \ 2012\u2013\nAssoc. Pastors: David Inks, 1998\u20132006\nDavid Klein, 2000\u2013\
   2004\nBenjamin Swinburnson, 2008\u201312\nTeacher: Richard A. Miller, 1996\u2013\
   98"
+received_from: null
 states:
 - WA
 status:

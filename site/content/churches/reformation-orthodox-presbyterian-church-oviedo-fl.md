@@ -41,6 +41,7 @@ raw_data: "FLORIDA  Oviedo\nReformation Orthodox Presbyterian mission work (Sept
   \ 2004\u2013 )\nMeeting at Reformed Theological Seminary, 1231 Reformation Drive\n\
   Org. Pastor: Eric Watkins, 2003\u20134\nPastors: Eric Watkins, 2004\u20138\nStephen\
   \ Oharek, 2008\u2013\nAssoc. Pastor: David Chilton, 2004\u2013"
+received_from: null
 states:
 - FL
 status:

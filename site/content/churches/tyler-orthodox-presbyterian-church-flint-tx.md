@@ -31,6 +31,7 @@ origination_date: *id001
 raw_data: "TX  Tyler\nTyler Orthodox Presbyterian Church  (January 4, 1984\u2013 )\n\
   4554 FM 2813, Flint\nPastor: John Johnson, 1984\u2013\nAssoc. Pastors: Bradford\
   \ Mercer, 1998\nMark Wheat, 2007\u201312"
+received_from: null
 states:
 - TX
 status:

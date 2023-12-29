@@ -26,6 +26,7 @@ origination_date: *id001
 raw_data: "VIRGINIA  Harrisonburg\nBerea Orthodox Presbyterian Church  (July 22, 1974\u2013\
   December 3, 2005)\nPastors: Timothy Gregson, 1974\u20132002\nStephen Dufresne, 2004\u2013\
   5"
+received_from: null
 states:
 - VA
 status:

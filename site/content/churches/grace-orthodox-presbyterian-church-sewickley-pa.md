@@ -64,6 +64,7 @@ raw_data: "PA\nSewickley\nGrace Orthodox Presbyterian Church  (December 28, 1969
   98\nR. Daniel Knox, 1998\u20132000\nRobert Broline, 2000\u20132004\nBrett E. Mahlen,\
   \ 2011\u2013\nEvangelists: Douglas Clawson, 1984\u201387\nR. Daniel Knox, 1984\u2013\
   98"
+received_from: null
 states:
 - PA
 status:

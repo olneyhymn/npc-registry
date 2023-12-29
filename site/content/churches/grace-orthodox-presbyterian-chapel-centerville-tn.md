@@ -29,7 +29,7 @@ status:
   end_date: 1983-05-02
   reason: transfer
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Presbyterian Church in America
 title: Grace Orthodox Presbyterian Chapel (Centerville TN)
 year_established:
 - 1979

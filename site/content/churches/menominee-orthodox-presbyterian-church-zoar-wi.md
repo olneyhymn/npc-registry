@@ -37,6 +37,7 @@ raw_data: "WI Zoar\nMenominee Orthodox Presbyterian Church  (March 29, 1981\u201
   \ )\nN8122 Pa\u2013Yae\u2013Wa\u2013Say Road\nSupply: Gordon Peterson, 1981\u2013\
   84\nPastors: Kenneth Smith, 1984\u201386\nDaryl Daniels, 1994\u201396\nKarl Thompson,\
   \ 2003\u201314"
+received_from: null
 states:
 - WI
 status:

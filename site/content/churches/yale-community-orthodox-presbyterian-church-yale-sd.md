@@ -31,6 +31,7 @@ origination_date: *id001
 raw_data: "SD    Yale\n\nYale Community Orthodox Presbyterian Church (December 13,\
   \ 1942\u2013 August 31, 1973)\nPastors: Melvin Nonhof, 1942\u201357\nRobert Sander,\
   \ 1958\u201367\nStanford Sutton, 1967\u201373"
+received_from: null
 states:
 - SD
 status:

@@ -15,6 +15,7 @@ names:
 origination_date: *id001
 raw_data: "AR\nPlacerville\nChurch of the Redeemer OPC (September 21, 1985\u2013April\
   \ 4, 1989)"
+received_from: null
 states:
 - CA
 status:

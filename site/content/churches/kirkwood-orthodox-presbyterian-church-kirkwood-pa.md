@@ -72,7 +72,7 @@ status:
   end_date: 1990-10-02
   reason: transfer
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Presbyterian Church in America
 title: Kirkwood Orthodox Presbyterian Church (Kirkwood PA)
 year_established:
 - 1936

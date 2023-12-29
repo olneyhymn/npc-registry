@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "MA  South Hadley\n\nNew Life Orthodox Presbyterian Church  (November 18,\
   \ 1989\u2013October 14, 1997)\nPastor: John Pederson, 1989\u201395"
+received_from: null
 states:
 - MA
 status:

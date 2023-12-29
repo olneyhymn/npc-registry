@@ -72,7 +72,7 @@ status:
   end_date: 1989-01-28
   reason: transfer
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Presbyterian Church in America
 title: First Orthodox Presbyterian Church (Manhattan Beach CA)
 year_established:
 - 1946

@@ -90,6 +90,7 @@ raw_data: "SD Hamill\n\nWestminster Orthodox Presbyterian Church  (September 30,
   78\nRoger Ramsey, 1979\u201381\nDavid W. King, 1982\u201390\nMark Larson, 1990\u2013\
   94\nHenry Moes, 1996\u201398\nDarren Thole, 1999\u20132011\nCurtis A. Moleterno,\
   \ 2011\u2013"
+received_from: null
 states:
 - SD
 status:

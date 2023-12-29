@@ -29,7 +29,7 @@ status:
   end_date: 1998-08-16
   reason: transfer
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Presbyterian Church in America
 title: New Hope Orthodox Presbyterian Church (Cumming GA)
 year_established:
 - 1995

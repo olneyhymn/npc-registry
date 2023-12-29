@@ -58,6 +58,7 @@ raw_data: "AR South Pasadena\n\nSouth Pasadena Orthodox Presbyterian Church  (No
   \ 1939\u201343\nBruce Hunt (Supply), 1943\u201344\nRobert Brown, 1944\u201348\n\
   James Moore, 1951\u201361\nMichael Stingley, 1962\u201365\nSal Solis, 1965\u2013\
   78\nDavid Tickner, 1979\u201382"
+received_from: null
 states:
 - CA
 status:

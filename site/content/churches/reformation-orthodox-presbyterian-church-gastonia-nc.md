@@ -31,6 +31,7 @@ raw_data: "NORTH CAROLINA\nGastonia\nReformation OPC mission work (October 16, 2
   \ )\nMeeting at Our Saviour\u2019s Lutheran Church, 725 Gastonia Technology Parkway,\
   \ Dallas\nOrg. Pastor: Joseph H. Fowler, Jr., 2011\u201314\nPastor: Joseph H. Fowler,\
   \ Jr, 2014"
+received_from: null
 states:
 - NC
 status:

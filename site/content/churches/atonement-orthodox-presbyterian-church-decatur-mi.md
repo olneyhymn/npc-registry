@@ -29,6 +29,7 @@ origination_date: *id001
 raw_data: "MI Decatur\nAtonement Orthodox Presbyterian Church (April 24, 1939\u2013\
   April 22, 1941)\nNew Hope Community OPC (July 2, 1994\u2013October 1996)\nPastors:\
   \ Timothy Bero, 1994\u201396\nDale Collison, 1996"
+received_from: null
 states:
 - MI
 status:

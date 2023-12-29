@@ -31,6 +31,7 @@ origination_date: *id001
 raw_data: "ID Libertyville\nHope Orthodox Presbyterian Mission  (October 7, 1979\u2013\
   September 16, 1994)\nPastors: Karl Dortzbach, 1979\u201380\nRobert Evans, 1980\u2013\
   84\nDennis Disselkoen, 1985\u201391"
+received_from: null
 states:
 - ID
 status:

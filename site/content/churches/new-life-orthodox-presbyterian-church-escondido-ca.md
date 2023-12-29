@@ -32,7 +32,7 @@ status:
   end_date: 1989-01-31
   reason: transferred
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Presbyterian Church in America
 title: New Life Orthodox Presbyterian Church (Escondido CA)
 year_established:
 - 1981

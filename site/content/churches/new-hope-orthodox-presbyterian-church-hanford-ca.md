@@ -37,6 +37,7 @@ raw_data: "AR\nHanford (San Joaquin Valley)\nNew Hope Orthodox Presbyterian Chur
   \  (October 14, 1993\u2013 )\nSeventh-day Adventist Church, 900 N. Redington (at\
   \ Elm)\nOrg. Pastor: Robert Needham, 1992\u201393\nPastors: Robert Needham, 1993\u2013\
   2012\nKevin L. Medcalf, 2012\u2013\nAsst. Pastor: Jay Nelken, 2003\u20137"
+received_from: null
 states:
 - CA
 status:

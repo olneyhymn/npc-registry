@@ -42,6 +42,7 @@ raw_data: "WI\nGreen Bay\nNew Hope Presbyterian Church  (August 10, 1974\u2013 )
   2401 Deckner Avenue\nPastors: John Fikkert, 1974\u201376\nDavid George, 1976\u2013\
   88\nJonathan Peters, 1988\u201394\nJames Ferguson, 1994\u2013\nAssoc. Pastor: Paul\
   \ A. Mourreale, 2012\u201315"
+received_from: null
 states:
 - WI
 status:

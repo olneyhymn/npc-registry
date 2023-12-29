@@ -21,6 +21,7 @@ origination_date: *id001
 raw_data: "WI Merrill\nCommunity Presbyterian Church of America  (June 21, 1936\u2013\
   February 17, 1938)\nAmerican Legion Hall\n(withdrew to the Bible Presbyterian Church,\
   \ 1937)\nPastor: Arthur Perkins, 1936"
+received_from: null
 states:
 - WI
 status:

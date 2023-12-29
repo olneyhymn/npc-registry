@@ -26,6 +26,7 @@ origination_date: *id001
 raw_data: "FLORIDA Miami\nInternational Community OPC  (July 25, 1982\u2013September\
   \ 12, 1987)\n(withdrew to the Presbyterian Church in America, 1987)\nPastor: David\
   \ Seivright, 1984\u201387\nAssoc. Pastor: Louis Kickasola, 1984\u201386"
+received_from: null
 states:
 - FL
 status:

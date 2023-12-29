@@ -31,6 +31,7 @@ origination_date: *id001
 raw_data: "GA Doraville\nRedeemer Orthodox Presbyterian Church  (April 18, 1968\u2013\
   \ )\n3930 Chamblee-Tucker Road, Doraville\nPastors: Elmer Dortzbach, 1968\u2013\
   73\nThomas Champness, 1974\u20132009\nS. Scott Willet, 2009\u201315"
+received_from: null
 states:
 - GA
 status:

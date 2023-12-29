@@ -48,6 +48,7 @@ raw_data: "VIRGINIA\nLynchburg\nGrace Orthodox Presbyterian Church  (December 10
   Pastors: Andrew Wikholm, 1975\u201379\nRichard Knodel, 1981\u20132005\nPeter Stazen\
   \ II, 2006\u2013\nAssoc. Pastor: Thomas Ellis, 1993\u20132000\nEvangelist: John\
   \ Jamison, 2000\u2013"
+received_from: null
 states:
 - VA
 status:

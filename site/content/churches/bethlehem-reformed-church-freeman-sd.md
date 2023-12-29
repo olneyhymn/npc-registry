@@ -31,6 +31,7 @@ origination_date: *id001
 raw_data: "SD\nFreeman\nBethlehem Reformed Church, Orthodox Presbyterian  (June 21,\
   \ 2002\u2013 )\n300 S. Relanto Street\nPastors: Benjamin Hopp, 2003\u20137\nKenny\
   \ Honken, 2008\u201312\nD. Nathan Holloway, 2013\u201315"
+received_from: null
 states:
 - SD
 status:

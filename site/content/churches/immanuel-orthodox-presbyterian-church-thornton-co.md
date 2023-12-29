@@ -53,6 +53,7 @@ raw_data: "AR    Thornton\n\nImmanuel Orthodox Presbyterian Church  (April 5, 19
   67\nAbe Ediger, 1967\u201372\nElmer Dortzbach (Supply), 1973\u201376\nRichard Wynja,\
   \ 1977\u20132002\nAssoc. Pastors: Jonathan Male, 1992\u20131996\nMatthew Kingsbury,\
   \ 1999\u20132001"
+received_from: null
 states:
 - CO
 status:

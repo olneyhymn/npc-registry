@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "ID\nChicago\nTrinity Orthodox Presbyterian Church  (February 20, 1987\u2013\
   March 15, 1996)\nPastor: James Garretson, 1988\u201392"
+received_from: null
 states:
 - ID
 status:

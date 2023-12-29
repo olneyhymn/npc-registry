@@ -42,6 +42,7 @@ raw_data: "NV  Battle Mountain\nGrace Orthodox Presbyterian Church  (October 11,
   \ )\n45 E. 4th Street\nEvangelist:  Brian Nicholson, 1990\u201394\nPastors: Andrew\
   \ Elam, 1996\u201398\nDaniel Patterson, 2003\u20139\nChristopher Post, 2010\u2013\
   12\nAlan J. Dueck, 2013"
+received_from: null
 states:
 - NV
 status:

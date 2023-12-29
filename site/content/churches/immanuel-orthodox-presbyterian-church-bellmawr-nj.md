@@ -63,6 +63,7 @@ raw_data: "NEW JERSEY Bellmawr\nImmanuel Orthodox Presbyterian Church  (November
   51\nAlbert Edwards, III, 1952\u201360\nHoward Hart, 1962\u201365\nKenneth Meilahn,\
   \ 1966\u201379\nRobert Tanzie, 1980\u201386\nThomas Church, 1987\u2013\nAssoc. Pastors:\
   \ David Harr, 2002\u20137\nCarl McDaniel, 2010\u201314\nMatthew D. Cole, 2015\u2013"
+received_from: null
 states:
 - NJ
 status:

@@ -30,8 +30,7 @@ raw_data: "MISSOURI\nDoniphan\nSovereign Grace Reformed Chapel  (September 17, 2
   November 17, 2014)\n(received as an unorganized mission work, March 19, 2010)\n\
   Sovereign Grace Reformed Church  (November 17, 2014\u2013 )\n97A Washington Street\n\
   Org. Pastor: Kent W. Harding, 2011\u201314\nPastor: Kent W. Harding, 2014\u2013"
-received_from:
-- unorganized mission work
+received_from: null
 states:
 - MO
 status:

@@ -37,6 +37,7 @@ raw_data: "NORTH CAROLINA Charlotte\n\nPuritan Reformed Orthodox Presbyterian Mi
   \ Theological Seminary, 4824 Sharon Road\nPastor: Cliff Blair, 2003\u2013\nAssoc.\
   \ Pastor: Joseph H. Fowler Jr., 2011\u201314\nTeacher: George Knight, 2004\u2013\
   12"
+received_from: null
 states:
 - NC
 status:

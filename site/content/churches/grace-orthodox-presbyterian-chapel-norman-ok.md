@@ -31,6 +31,7 @@ origination_date: *id001
 raw_data: "OKLAHOMA Norman\nGrace Orthodox Presbyterian Chapel  (September 12, 1999\u2013\
   \ )\n310 N. Findlay Avenue\nSupply: William Doerfel, 1999\u20132003\nPastors: M.\
   \ Scott Johnson, 2003\u20137\nTodd P. Dole, 2012\u2013"
+received_from: null
 states:
 - OK
 status:

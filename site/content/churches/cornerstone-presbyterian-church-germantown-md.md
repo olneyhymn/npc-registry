@@ -34,8 +34,7 @@ raw_data: "MD\nGermantown\nCornerstone Reformed Fellowship OPC (mission) (Decemb
   \ [Mission] in 2004)\nCornerstone Presbyterian Church, OPC  (December 11, 2004\u2013\
   January 4, 2009)\nOrg. Pastor: James Stastny, 2000\u20132004\nPastor: James Stastny,\
   \ 2004\u20139"
-received_from:
-- OPC
+received_from: null
 states:
 - MD
 status:

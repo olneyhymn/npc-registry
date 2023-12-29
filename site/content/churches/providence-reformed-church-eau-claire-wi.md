@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "WI  Eau Claire\n\nProvidence Reformed Church  (July 7, 2013\u2013 )\n(formerly\
   \ independent)\n3109 Mall Drive\nOrg. Pastor: Kim Kuhfuss, 2013"
+received_from: null
 states:
 - WI
 status:

@@ -32,6 +32,7 @@ raw_data: "Mississippi\nForest\nCovenant Orthodox Presbyterian Church  (January 
   \ 1998\u2013December 11, 2005)\n(reunited with Forest Presbyterian Church, PCA,\
   \ December 11, 2005)\nPastors: Jack Sawyer, 1998\u201399\nEdward Ludt, 2000\u2013\
   2002\nMark Smith, 2003\u20135"
+received_from: null
 states:
 - MS
 status:

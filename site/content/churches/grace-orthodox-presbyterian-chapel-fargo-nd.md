@@ -26,6 +26,7 @@ origination_date: *id001
 raw_data: "ND Fargo\n\nGrace Orthodox Presbyterian Chapel (June 9, 2010\u2013October\
   \ 4, 2015)\nOrg. Pastors: Terry Thole, 2010\u201312\nGregory P. Hoadley, 2014\u2013\
   15"
+received_from: null
 states:
 - ND
 status:

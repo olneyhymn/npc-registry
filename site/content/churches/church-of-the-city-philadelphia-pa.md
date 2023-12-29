@@ -36,6 +36,7 @@ raw_data: "PA Philadelphia\n\nAtonement Orthodox Presbyterian Church (November 1
   (withdrew to the Presbyterian Church in America, July 19, 1987)\nPastors: James\
   \ Petty, 1975\u201382\nThomas Corey, 1981\u201387\nAssoc. Pastor: James Petty, 1983\u2013\
   87"
+received_from: null
 states:
 - PA
 status:

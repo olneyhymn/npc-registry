@@ -38,6 +38,7 @@ raw_data: "ID Grayslake\nHope Presbyterian Church, Orthodox Presbyterian Church 
   \ Road\nOrg. Pastor: Dennis Disselkoen, 1998\u201399\nPastors: Dennis Disselkoen,\
   \ 1999\u20132012\nCamden M. Busey, 2013\u2013\nAssoc. Pastor: Brandon T. Wilkins,\
   \ 2011\u2013"
+received_from: null
 states:
 - ID
 status:

@@ -32,7 +32,7 @@ status:
   end_date: 1985-12-08
   reason: dismissal
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Reformed Presbyterian Church of North America
 title: Grace Community Bible Church (Aurora CO)
 year_established:
 - 1980

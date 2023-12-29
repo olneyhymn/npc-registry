@@ -68,6 +68,7 @@ raw_data: "AR    Carson\n\nGrace Orthodox Presbyterian Church  (May 21, 1942\u20
   \ Graham, 1943\u201349\nDavid Calderwood, 1949\u201362\nWilliam Bomer, 1962\u2013\
   68\nCalvin Malcor, 1969\u201371\nBruce Coie, 1972\u201376\nArthur Ames, 1976\u2013\
   83\nRollin Keller, 1983\u20132003\nDale Hanaoka, 2005\u20138\nJoshua P. Lyon, 2013\u2013"
+received_from: null
 states:
 - CA
 status:

@@ -36,6 +36,7 @@ raw_data: "PA Bethlehem\n\nChrist Community Orthodox Presbyterian Chapel  (May 4
   \ 8, 2000\u2013November 17, 2007 )\n(united with Covenant OPC, Easton to form Christ\
   \ Community Church, Easton, November\n17, 2007)\n\nOrg. Pastor: Glenn Evans, 1998\u2013\
   2000\nPastors: Glenn Evans, 2000\u20132003\nJason Stewart, 2005\u20137"
+received_from: null
 states:
 - PA
 status:

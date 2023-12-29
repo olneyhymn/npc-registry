@@ -26,6 +26,7 @@ origination_date: *id001
 raw_data: "IN    Walkerton\n\nGrace Reformed Orthodox Presbyterian Church  (May 26,\
   \ 2000\u2013 )\n700 Van Buren Street\nPastors: Glenn Jerrell, 2000\u20132012\nMatthew\
   \ W.C. Barker, 2012"
+received_from: null
 states:
 - IN
 status:

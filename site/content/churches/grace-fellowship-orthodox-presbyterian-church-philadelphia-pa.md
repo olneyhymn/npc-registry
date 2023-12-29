@@ -47,6 +47,7 @@ raw_data: "PA Philadelphia\nGrace Fellowship Chapel of Germantown (October 5, 19
   \ Pastors: Jonathan C. Gibbs III, 1984\u201388\nEdward Gross, 1988\u201392\nPastors:\
   \ Edward Gross, 1992\u201394\nBenjamin Snodgrass, 1996\u20132004\nWilliam Snodgrass,\
   \ 2006\u2013"
+received_from: null
 states:
 - PA
 status:

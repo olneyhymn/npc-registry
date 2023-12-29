@@ -29,6 +29,7 @@ origination_date: *id001
 raw_data: "SOUTH CAROLINA Greenville\n\nAgape Orthodox Presbyterian Church (June 3,\
   \ 1995\u2013April 22, 2005)\n(changed name to First OPC, Greenville)\nPastors: Sidney\
   \ Dyer, 1995\u20132001\nG. W. Fisher, 2003\u20134"
+received_from: null
 states:
 - SC
 status:

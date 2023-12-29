@@ -53,6 +53,7 @@ raw_data: "OR  Grants Pass\nFaith Orthodox Presbyterian Church  (April 29, 1978\
   \ 1983\u201391\nLarry Conard, 1992\u20132002\nMark Sumpter, 2002\u201312\nKarl E.\
   \ Thompson, 2014\u2013\nAsst. Pastors: Ralph English, 2000\u20132002\nDaniel McManigal,\
   \ 2006\u20138"
+received_from: null
 states:
 - OR
 status:

@@ -53,6 +53,7 @@ raw_data: "OKLAHOMA  Bartlesville\nWestminster Orthodox Presbyterian Church  (Fe
   73\nDennis Prutow, 1974\u201382\nChester Lanious, 1982\u201385\nRichard Shaw, 1985\u2013\
   97\nJoseph Auksela, 1999\u20132014\nClarence Veld, 2016\u2013\nAssoc. Pastor: Edward\
   \ Eppinger, 2003\u2013"
+received_from: null
 states:
 - OK
 status:

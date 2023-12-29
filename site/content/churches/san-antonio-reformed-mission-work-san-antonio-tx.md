@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "TX\nSan Antonio\nSan Antonio Reformed mission work  (September 17, 2011\u2013\
   \ )\n8705 Botts Lane\nOrg. Pastor: Andrew T. Moody, 2012"
+received_from: null
 states:
 - TX
 status:

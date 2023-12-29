@@ -37,6 +37,7 @@ raw_data: "GA Valdosta\n\nWestminster Orthodox Presbyterian Church  (April 19, 1
   January 14, 1975)\n(transferred to the Presbyterian Church in America, 1975)\nPastors:\
   \ John Clelland, 1954\u201363\nRobert Valentine, 1963\u201367\nCromwell Roskamp,\
   \ 1968\u201371\nWilliam Warren, 1973\u201374"
+received_from: null
 states:
 - GA
 status:
@@ -44,7 +45,7 @@ status:
   end_date: 1975-01-14
   reason: transferred
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Presbyterian Church in America
 title: Westminster Orthodox Presbyterian Church (Valdosta GA)
 year_established:
 - 1953

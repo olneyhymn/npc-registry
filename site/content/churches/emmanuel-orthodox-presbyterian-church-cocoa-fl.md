@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "FLORIDA Cocoa\nEmmanuel Orthodox Presbyterian Church  (March 27, 1970\u2013\
   April 24, 1976)\nPastor: A. Boyce Spooner, 1970\u201375"
+received_from: null
 states:
 - FL
 status:

@@ -43,6 +43,7 @@ raw_data: "NEW JERSEY\nStratford\nStratford Orthodox Presbyterian Church  (Novem
   \ 9, 2012)\nPastors: Jack Peterson, 1961\u201366\nStephen Phillips, 1967\u201375\n\
   Steve Hohenberger, 1976\u201379\nMartin Dawson, 1979\u20132013\nMinister of Evangelism:\
   \  Richard Anderson, 2000\u20132013"
+received_from: null
 states:
 - NJ
 status:

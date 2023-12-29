@@ -47,6 +47,7 @@ raw_data: "PA Philadelphia\nGethsemane Orthodox Presbyterian Church  (June 30, 1
   June 8, 1967)\n2510 South 65th Street\nPastors: R. Moody Holmes, 1936\u201337\n\
   John Galbraith, 1937\u201340\nSamuel Allen, 1940\u201347\nLester Bachman, 1950\u2013\
   56\nWilliam McDowell, 1957\u201360\nSupply: Thayer Westlake, 1948\u201349"
+received_from: null
 states:
 - PA
 status:

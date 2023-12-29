@@ -58,6 +58,7 @@ raw_data: "NEW JERSEY Fair Lawn\n\nGrace Orthodox Presbyterian Church  (May 27, 
   \ 1952\u201356\nRaymond Commeret, 1956\u201372\nDennis Johnson, 1973\u201376\nDavid\
   \ Kiester, 1977\u201379\nKenneth J. Campbell, 1980\u20132006\nMark Larson, 2007\u2013\
   12\nJohn J. Keegan, 2013"
+received_from: null
 states:
 - NJ
 status:

@@ -30,6 +30,7 @@ raw_data: "SOUTH CAROLINA  Aiken\n\nProvidence Orthodox Presbyterian Chapel  (Au
   \ 6, 2004\u2013May 18, 2007)\nProvidence Orthodox Presbyterian Church  (May 18,\
   \ 2007\u2013November 30, 2012)\nPastors: Mark Larson, 2005\u20137\nKevin Medcalf,\
   \ 2007\u201312"
+received_from: null
 states:
 - SC
 status:

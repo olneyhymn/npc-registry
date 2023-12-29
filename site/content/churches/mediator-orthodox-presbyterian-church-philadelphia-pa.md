@@ -44,6 +44,7 @@ raw_data: "PA  Philadelphia\nLiving Word Orthodox Presbyterian Mission  (Septemb
   January 10, 1968)\nPastors: James Price, 1938\u201345\nJohn Betzold, Co\u2013Pastor,\
   \ 1943\u201344\nHerbert Hoeflinger, 1945\u201348\nKenneth Meilahn, 1951\u201352\n\
   William Rankin, 1958\u201366"
+received_from: null
 states:
 - PA
 status:

@@ -42,6 +42,7 @@ raw_data: "WI  Janesville\nChrist Orthodox Presbyterian Church  (September 15, 1
   \ )\n3625 Skyview Drive\nPastors:  Eugene Grille, 1975\u201380\nRonald Hoekstra,\
   \ 1981\u201386\nMatthew Floding, 1987\u201389\nDavid W. King, 1990\u2013\nAssoc.\
   \ Pastor: John Hilbelink, 2009\u2013"
+received_from: null
 states:
 - WI
 status:

@@ -56,6 +56,7 @@ raw_data: "FLORIDA  Ocala\nFaith Orthodox Presbyterian Church  (December 17, 197
   Pastors: John Thompson, 1974\u201379\nGerald Quarles, 1979\u201382\nJohn Fikkert,\
   \ 1983\u201388\nTed Gray, 1990\u201397\nRichard Miller, 1998\u20132001\nChad Sadorf,\
   \ 2002\u20139\nGregory Hoadley, 2010\u201313"
+received_from: null
 states:
 - FL
 status:

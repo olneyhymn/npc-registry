@@ -36,6 +36,7 @@ origination_date: *id001
 raw_data: "PA Lewisburg\nTri\u2013County Orthodox Presbyterian Church  (January 11,\
   \ 1967\u2013January 19, 1985)\nPastors: Luther Long, 1967\u201375\nRichard Fisher,\
   \ 1975\u201376\nSteve Miller, 1977\u201381\nSherman Isbell, 1982\u201384"
+received_from: null
 states:
 - PA
 status:

@@ -15,6 +15,7 @@ names:
 origination_date: *id001
 raw_data: "ME  Farmington\nGrace Reformed Presbyterian (August 24, 2014\u2013 )\n\
   Meeting at University of Maine at Farmington"
+received_from: null
 states:
 - ME
 status:

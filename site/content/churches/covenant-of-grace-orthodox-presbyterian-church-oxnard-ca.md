@@ -37,6 +37,7 @@ raw_data: "AR    Oxnard\nCovenant of Grace Orthodox Presbyterian Church  (August
   \ 1981\u2013 )\nNorth Oxnard United Methodost Church, Gonzales Road at Gallatin\n\
   Evangelist: Stephen Doe, 1981\nPastors: Donald Duff, 1981\u201392\nMark Mueller\
   \ (Supply), 1992\u201393\nMark Mueller, 1993\u2013"
+received_from: null
 states:
 - CA
 status:

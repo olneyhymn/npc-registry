@@ -29,7 +29,7 @@ status:
   end_date: 1975-10-29
   reason: transfer
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Presbyterian Church in America
 title: Orthodox Presbyterian Church (Greeneville TN)
 year_established:
 - 1967

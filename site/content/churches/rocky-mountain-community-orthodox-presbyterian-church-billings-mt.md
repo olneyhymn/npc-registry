@@ -32,6 +32,7 @@ raw_data: "MT\nBillings\nRocky Mountain Community Orthodox Presbyterian Church  
   \ 29, 1979\u2013January\n25, 2002)\n(transferred to the Presbyterian Church in America,\
   \ January 25, 2002)\nPastors: Allen Moran, 1979\u201380\nAlbert Edwards, III, 1980\u2013\
   92\nAlfred Poirier, 1992\u20132002"
+received_from: null
 states:
 - MT
 status:
@@ -39,7 +40,7 @@ status:
   end_date: 2002-01-25
   reason: transfer
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Presbyterian Church in America
 title: Rocky Mountain Community Orthodox Presbyterian Church (Billings MT)
 year_established:
 - 1979

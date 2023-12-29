@@ -25,6 +25,7 @@ raw_data: "NM\nRio Rancho\nOrthodox Presbyterian Church of Rio Rancho, Mission W
   \  (September 21, 2007\u2013October\n30, 2009)\nOrthodox Presbyterian Church of\
   \ Rio Rancho  (October 30, 2009\u2013 )\n103 Rio Rancho Drive, Suite A\u201310\n\
   Pastor: Todd Bordow, 2009\u2013"
+received_from: null
 states:
 - NM
 status:

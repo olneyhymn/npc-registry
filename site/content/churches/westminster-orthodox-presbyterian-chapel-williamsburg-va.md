@@ -26,7 +26,7 @@ status:
   end_date: 1983-12-18
   reason: transferred
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Presbyterian Church in America
 title: Westminster Orthodox Presbyterian Chapel (Williamsburg VA)
 year_established:
 - 1973

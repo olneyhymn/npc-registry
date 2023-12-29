@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "West Lebanon\nProvidence Presbyterian Church\n99 Maple Street\nOrg. Pastor:\
   \ Timothy G. Herndon, 2013\u2013"
+received_from: null
 states:
 - NH
 status:

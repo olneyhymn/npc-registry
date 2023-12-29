@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "ID\nRockford\nCommunity Orthodox Presbyterian Chapel  (1974\u20131975)\n\
   Pastor: Eugene Grille, 1974\u201375"
+received_from: null
 states:
 - ID
 status:

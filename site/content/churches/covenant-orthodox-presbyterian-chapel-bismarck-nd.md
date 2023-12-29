@@ -35,6 +35,7 @@ raw_data: "ND Bismarck\nBismarck Orthodox Presbyterian Chapel  (September 27, 19
   May 6, 2001)\nCovenant Orthodox Presbyterian Chapel  (May 6, 2001\u2013August 9,\
   \ 2009)\nOrg. Pastor: Sam Allison, 1994\u201395\nSupply: Edward Huntington, 1996\u2013\
   98\nEvangelist: Edward Huntington, 1998\u20132007"
+received_from: null
 states:
 - ND
 status:

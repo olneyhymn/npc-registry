@@ -26,6 +26,7 @@ origination_date: *id001
 raw_data: "TN Bristol\n\nTrinity Reformed Orthodox Presbyterian Church  (July 21,\
   \ 2000\u2013May 31, 2006)\nSupply: Robert McCurley, 1997\u20132000\nPastor: Robert\
   \ McCurley, 2000\u20132002"
+received_from: null
 states:
 - TN
 status:

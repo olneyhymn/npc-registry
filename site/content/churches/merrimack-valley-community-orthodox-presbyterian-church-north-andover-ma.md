@@ -33,6 +33,7 @@ raw_data: "MA North Andover\n\nMerrimack Valley Community Orthodox Presbyterian 
   \  (September 8, 1989\u2013 )\nAtkinson Elementary School, 111 Phillips Brooks Rd\
   \ (a.m.), and Ward Hill Congregational Church, 34 M Street, Haverhill (p.m.)\nPastors:\
   \ John Van Meerbeke, 1989\u201396\nDaniel Korzep, 1997\u20132008\nDavid Booth, 2009\u2013"
+received_from: null
 states:
 - MA
 status:

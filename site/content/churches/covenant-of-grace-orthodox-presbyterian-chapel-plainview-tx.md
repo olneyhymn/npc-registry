@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "TX\nPlainview\nCovenant of Grace Orthodox Presbyterian Chapel  (April 20,\
   \ 2001\u2013March 26, 2006)\nEvangelist: Kevin Van Der Linden, 2001\u20136"
+received_from: null
 states:
 - TX
 status:

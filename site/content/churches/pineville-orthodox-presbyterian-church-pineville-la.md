@@ -37,6 +37,7 @@ raw_data: "LA Pineville\n\nPineville Orthodox Presbyterian Church  (January 29, 
   \ )\n\n2522 Military Highway\n\nPastors: Robert Haehl, 1988\u201399\n\nJack Sawyer,\
   \ 2000\u2013\n\nEvangelists: Russell Hamilton, 1999\u20132005\n\nMark Winder, 2003\u2013\
   4"
+received_from: null
 states:
 - LA
 status:

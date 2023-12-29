@@ -21,6 +21,7 @@ origination_date: *id001
 raw_data: "FLORIDA Maitland\n\nMaitland Orthodox Presbyterian Church  (June 27, 1958\u2013\
   April 21, 1964)\n(withdrew to the Bible Presbyterian Church, 1964)\nPastor: Arthur\
   \ Froelich, 1958\u201364"
+received_from: null
 states:
 - FL
 status:

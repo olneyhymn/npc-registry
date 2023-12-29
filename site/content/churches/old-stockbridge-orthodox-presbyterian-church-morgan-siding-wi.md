@@ -47,6 +47,7 @@ raw_data: "WI Morgan Siding\nOld Stockbridge Orthodox Presbyterian Church  (May 
   \ 1937\u2013 )\nN8004 Morgan Road\nPastors: John Davies, 1937\u201354\nHenry Phillips,\
   \ 1954\u201375\nGordon Peterson, 1977\u201386\nMichael Knierim, 1986\u20132002\n\
   Joshua Martin, 2003\u20137\nKarl Thompson, 2007\u201314"
+received_from: null
 states:
 - WI
 status:

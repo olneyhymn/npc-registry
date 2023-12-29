@@ -61,7 +61,7 @@ status:
   end_date: 2001-11-03
   reason: transfer
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Presbyterian Church in America
 title: Covenant Orthodox Presbyterian Church (Doylestown PA)
 year_established:
 - 1972

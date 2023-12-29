@@ -48,7 +48,7 @@ status:
   end_date: 1989-05-23
   reason: transfer
   received_from: null
-  withdrawal_to: null
+  withdrawal_to: Presbyterian Church in America
 title: Cerritos Valley Orthodox Presbyterian Church (Artesia CA)
 year_established:
 - 1976

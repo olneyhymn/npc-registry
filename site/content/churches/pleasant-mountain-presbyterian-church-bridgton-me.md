@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "ME\nBridgton\nPleasant Mountain Presbyterian Church  (2011\u2013 )\n30\
   \ North High Street (Rte. 302)\nOrg. Pastor: Tim R. Beauchamp, 2011\u201315"
+received_from: null
 states:
 - ME
 status:

@@ -63,6 +63,7 @@ raw_data: "SD\nWinner\n\nWinner Orthodox Presbyterian Church  (July 27, 1964\u20
   71\nGlenn Jerrell, 1973\u201376\nGerald Taylor, 1978\u201382\nLawrence Eyres, 1982\u2013\
   88\nArthur Fox, 1988\u201392\nStephen Hart, 1993\u201396\nTerry Thole, 1998\u2013\
   2010\nBrad J. Irick, 2011"
+received_from: null
 states:
 - SD
 status:

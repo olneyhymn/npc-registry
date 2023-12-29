@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "FLORIDA\nFort Pierce\n\nCovenant Reformed Presbyterian Church, OPC  (October\
   \ 28, 2000\u2013 )\n5150 Oleander Avenue\nPastor: Robert Berry, 2000\u2013"
+received_from: null
 states:
 - FL
 status:

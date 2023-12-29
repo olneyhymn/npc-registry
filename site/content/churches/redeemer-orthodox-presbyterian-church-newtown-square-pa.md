@@ -31,6 +31,7 @@ origination_date: *id001
 raw_data: "PA Newtown Square\nRedeemer Orthodox Presbyterian Church  (July 27, 1936\u2013\
   May 27, 1963)\nPastors: Charles Schauffele, 1937\u201340\nThomas Cooper, 1941\u2013\
   43\nG. Travers Sloyer, 1954\u201358"
+received_from: null
 states:
 - PA
 status:

@@ -39,6 +39,7 @@ names:
   start: 1968-12-31
 origination_date: *id001
 raw_data: MISSING
+received_from: null
 states:
 - MD
 status:

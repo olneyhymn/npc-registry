@@ -41,6 +41,7 @@ origination_date: *id001
 raw_data: "CT Newtown\n\nCommunity Orthodox Presbyterian Church  (April 23, 1982\u2013\
   April 19, 2014)\nPastors: James Campbell, 1982\u201385\nWilliam Kessler, 1986\u2013\
   96, 1997\u20132000\nRichard Mozer, 2001\u20132\nRobert Tarullo, 2004\u201312"
+received_from: null
 states:
 - CT
 status:

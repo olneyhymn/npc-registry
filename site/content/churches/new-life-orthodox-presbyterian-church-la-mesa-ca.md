@@ -55,6 +55,7 @@ names:
   start: 1982-01-01
 origination_date: *id001
 raw_data: MISSING
+received_from: null
 states:
 - CA
 status:

@@ -21,6 +21,7 @@ origination_date: *id001
 raw_data: "PA Hanover\n\nGrace Orthodox Presbyterian Church  (December 9, 1990\u2013\
   November 20, 2004)\n\n(affiliated with the Evangelical Reformed Presbyterian Church\
   \ in 2005)\n\nPastor: Jeffery Sheely, 1990\u20132004"
+received_from: null
 states:
 - PA
 status:

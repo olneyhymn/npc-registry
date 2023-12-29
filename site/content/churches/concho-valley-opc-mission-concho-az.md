@@ -14,6 +14,7 @@ names:
   start: 2013-05-03
 origination_date: *id001
 raw_data: "AZ\nConcho\nConcho Valley OPC mission (May 3, 2013\u2013 )\n79 County Road"
+received_from: null
 states:
 - AZ
 status:

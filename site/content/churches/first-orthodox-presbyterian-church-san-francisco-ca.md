@@ -63,6 +63,7 @@ raw_data: "AR San Francisco\nFirst Orthodox Presbyterian Church  (April 15, 1941
   50\nEdwards Elliott, 1950\u201356\nSal Solis, 1958\u201362\nRobert Newsom, 1962\u2013\
   64\nAlbert Steever, 1966\u201370\nRobert Abbott, 1972\nCharles McIlhenny, 1974\u2013\
   2005\nGlenn Ferrell, 2010\u2013"
+received_from: null
 states:
 - CA
 status:

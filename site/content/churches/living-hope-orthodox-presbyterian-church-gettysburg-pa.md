@@ -57,6 +57,7 @@ raw_data: "Gettysburg Orthodox Presbyterian Church  (October 13, 1983\u2013 )\n(
   \ Van Meerbeke, 1999\u2013\nInterim Pastors: Laurence Vail, 1994\u201395\nJohn Mallin,\
   \ 1996\u201399\nAssoc. Pastor: Kyle N. Brown, 2013\u2013\nEvangelist: Joshua L.\
   \ McKamy, 2015\u2013"
+received_from: null
 states:
 - PA
 status:

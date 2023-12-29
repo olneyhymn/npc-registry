@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "NORTH CAROLINA\nArden\nCornerstone Orthodox Presbyterian Church  (June\
   \ 19, 2009\u2013April 27, 2012)\nPastor: Thomas Sheppard, 2009\u201312"
+received_from: null
 states:
 - NC
 status:

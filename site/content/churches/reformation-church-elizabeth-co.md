@@ -25,6 +25,7 @@ raw_data: "AR    Elizabeth\n\nReformation Church Chapel  (February 5, 2001\u2013
   \ 12, 2002)\nReformation Church, OPC (April 12, 2002\u2013 )\n(formerly in Parker,\
   \ 2001\u20132, and in Castle Rock, 2002\u201314)\n489 Rocky Cliff Circle\nPastor:\
   \ Kevin Swanson, 2002\u2013"
+received_from: null
 states:
 - CO
 status:

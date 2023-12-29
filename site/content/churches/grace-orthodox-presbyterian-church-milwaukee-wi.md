@@ -31,6 +31,7 @@ origination_date: *id001
 raw_data: "WI Milwaukee\n\nGrace Orthodox Presbyterian Church  (April 29, 1938\u2013\
   April 29, 1949)\nPastors:  William Swets, 1938\nLeland Jorgensen, 1939\u201342\n\
   Richard Gaffin, Sr., 1942\u201347"
+received_from: null
 states:
 - WI
 status:

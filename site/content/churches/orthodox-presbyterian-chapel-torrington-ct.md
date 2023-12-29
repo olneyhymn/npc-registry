@@ -20,6 +20,7 @@ names:
 origination_date: *id001
 raw_data: "CT Torrington\n\nOrthodox Presbyterian Chapel  (April 17, 1999\u2013September\
   \ 16, 2000)\nPastor: Richard Mozer, 2000"
+received_from: null
 states:
 - CT
 status:

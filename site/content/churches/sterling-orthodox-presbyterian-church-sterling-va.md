@@ -26,6 +26,7 @@ origination_date: *id001
 raw_data: "VIRGINIA Sterling\nSterling Orthodox Presbyterian Church  (March 20, 1988\u2013\
   \ )\n46331 McClellan Way\nPastors: Edwin Urban, 1988\u20132010\nPhilip T. Proctor,\
   \ 2011\u2013"
+received_from: null
 states:
 - VA
 status:

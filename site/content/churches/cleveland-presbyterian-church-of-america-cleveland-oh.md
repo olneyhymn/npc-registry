@@ -21,6 +21,7 @@ origination_date: *id001
 raw_data: "OH  Cleveland\nCleveland Presbyterian Church of America  (March 7, 1937\u2013\
   July 11, 1937)\n(joined the Bible Presbyterian Church, September 6, 1938)\nPastor:\
   \ A. Franklin Faucette, 1937"
+received_from: null
 states:
 - OH
 status:

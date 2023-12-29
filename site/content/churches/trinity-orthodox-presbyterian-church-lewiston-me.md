@@ -40,6 +40,7 @@ raw_data: "ME\nLewiston\n\nTrinity Orthodox Presbyterian Church  (March 22, 1961
   October 5, 1996)\n(also called Trinity Orthodox Presbyterian Church of Androscoggin\
   \ Valley)\nPastors: Charles Stanton, 1961\u201363\nBernard Stonehouse, 1963\u2013\
   70\nDonald Miller, 1971\u201394\nAssoc. Pastor: Gary Magur, 1992\u201396"
+received_from: null
 states:
 - ME
 status:

@@ -42,6 +42,7 @@ raw_data: "OR\nPortland\n\nFirst Orthodox Presbyterian Church  (August 9, 1944\u
   \ )\n8245 NE Fremont Street\nPastors: Lawrence Eyres, 1944\u201350\nCarl Ahlfeldt,\
   \ 1950\u201360\nAlbert Edwards, III, 1960\u201375\nDonald Poundstone, 1976\u2013\
   94\nJack Smith, 1995\u2013"
+received_from: null
 states:
 - OR
 status:

@@ -47,6 +47,7 @@ raw_data: "SD Manchester\n\nManchester Orthodox Presbyterian Church  (October 4,
   September 23, 1987)\nPastors: George Heaton, 1936\u201337\nA. Culver Gordon, 1937\u2013\
   41\nMelvin Nonhof, 1942\u201357\nRobert Sander, 1958\u201367\nStanford Sutton, 1967\u2013\
   73\nEdward Eppinger, 1974\u201387"
+received_from: null
 states:
 - SD
 status:

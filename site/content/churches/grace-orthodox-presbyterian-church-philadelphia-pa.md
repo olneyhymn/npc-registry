@@ -40,6 +40,7 @@ raw_data: "PA Philadelphia\nGrace Orthodox Presbyterian Church  (January 16, 197
   \ )\n(called Southwest Philadelphia Reformed Fellowship, 1978\u20131993)\n7201 Elmwood\
   \ Avenue\nPastors: Thomas Corey, 1978\nEdward McGovern, 1984\u201387\nGeorge Morton,\
   \ 1989\u20132012\nLloyd J. Sterrett, 2013\u2013"
+received_from: null
 states:
 - PA
 status:

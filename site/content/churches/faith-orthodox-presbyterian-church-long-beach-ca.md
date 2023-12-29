@@ -53,6 +53,7 @@ raw_data: "AR\nLong Beach\n\nFaith Orthodox Presbyterian Church  (April 15, 1941
   \ 1955\u201357\nLawrence Eyres, 1958\u201370\nWilson Rinker, 1970\u201374\nDaniel\
   \ Overduin, 1975\u20132011\nJames Lim, 2012\u2013\nAssoc. Pastor: Edward Volz, 1970\u2013\
   75"
+received_from: null
 states:
 - CA
 status:

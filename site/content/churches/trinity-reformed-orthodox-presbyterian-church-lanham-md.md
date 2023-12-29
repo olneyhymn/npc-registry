@@ -26,6 +26,7 @@ origination_date: *id001
 raw_data: "MD Lanham\n\nTrinity Reformed Orthodox Presbyterian Church  (April 20,\
   \ 1990\u2013 )\n9630 Annapolis Road, Lanham, MD\nSupply: Lyman Smith, 1990\u2013\
   92\nPastor: Gerald Taylor, 1993\u2013"
+received_from: null
 states:
 - MD
 status:

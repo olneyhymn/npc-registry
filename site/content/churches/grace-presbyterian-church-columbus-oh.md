@@ -69,6 +69,7 @@ raw_data: "OH Columbus\nGrace Presbyterian Church, Orthodox Presbyterian Church 
   \ Keller, 1994\u20132002\nStephen Igo, 1998\u20132002\nLeo Frailey, 2005\u201311\n\
   Kyle Brown, 2006\u201313\nJason C. Kirklin, 2012\u2013\nEvangelists: Lawrence Oldaker,\
   \ 1995\u201397\nDavid Robbins, 2010\u201315"
+received_from: null
 states:
 - OH
 status:

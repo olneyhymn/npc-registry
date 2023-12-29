@@ -30,6 +30,7 @@ raw_data: "MI Holland\nNew Life Fellowship Chapel, Orthodox Presbyterian Church 
   \ 21, 1997\u2013October 24, 2003)\nNew Life Fellowship Church, Orthodox Presbyterian\
   \  (October 24, 2003\u2013 )\n12960 James Street\nEvangelist: Martin Novak, 1998\u2013\
   2003\nPastor: Martin Novak, 2003\u2013"
+received_from: null
 states:
 - MI
 status:

@@ -37,6 +37,7 @@ raw_data: "ME    Skowhegan\n\nSkowhegan Orthodox Presbyterian Church  (November 
   \ 1941\u2013 )\n(located in Cornville, ME from November 27, 1941 to May 8, 1977)\n\
   36 North Avenue\nPastors: Charles Stanton, 1941\u201344\nKelly Tucker, 1944\u2013\
   51\nCharles Stanton, 1951\u201354\nHarold Dorman, 1958\u20132014"
+received_from: null
 states:
 - ME
 status:

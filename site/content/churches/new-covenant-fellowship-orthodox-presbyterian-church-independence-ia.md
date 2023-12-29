@@ -24,6 +24,7 @@ origination_date: *id001
 raw_data: "IA    Independence\nNew Covenant Fellowship Orthodox Presbyterian Chapel\
   \  (1996\u2013May 15, 2006)\nNew Covenant Fellowship Orthodox Presbyterian Church\
   \  (May 15, 2006\u2013February 26, 2012)\nPastor: Kenneth Golden, 2005\u20138"
+received_from: null
 states:
 - IA
 status:

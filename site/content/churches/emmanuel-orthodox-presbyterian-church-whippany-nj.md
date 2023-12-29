@@ -63,6 +63,7 @@ raw_data: "NEW JERSEY Whippany\nEmmanuel Orthodox Presbyterian Church  (Septembe
   77\nLarry Morrison, 1978\u201381\nRobert Letham, 1981\u201386\nIvan Davis, 1987\u2013\
   93\nGeorge Kostas, 1994\u20132002\nHoward Currie, 2004\u201314\nTeachers: Harry\
   \ W. Warner, 1983\u201398\nGeorge Christian, 1984\u201391"
+received_from: null
 states:
 - NJ
 status:
