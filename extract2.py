@@ -145,7 +145,7 @@ with open(args.file, newline="") as f:
 {yaml.dump(d)}
 ---
 
-{parsed_red.body}
+{parsed_red.body or ""}
 """
         )
         success = success + 1
