@@ -1,5 +1,5 @@
 
-all: site/content/churches opc.yaml site/content/churches/*.md venv
+all: site/content/churches opc.yaml venv
 	$(VENV)/python extract2.py
 
 site/content/churches:
