@@ -496,11 +496,11 @@ Yong Kim, 2006–9
   origination_date: 2000-12-03
   names:
    - name: Theophilus Orthodox Presbyterian Mission
-      start: 1995-10-21
-      end: 2000-12-03
-    - name: Theophilus Orthodox Presbyterian Church
-      start: 2000-12-03
-      end:
+     start: 1995-10-21
+     end: 2000-12-03
+   - name: Theophilus Orthodox Presbyterian Church
+     start: 2000-12-03
+     end:
   status:
     - active: true
   location:
@@ -1314,20 +1314,7 @@ Pastor: Jack Smith, 1985–93
     Church of the Servant Orthodox Presbyterian Church  (May 5, 1985–June 30, 1993)
     (called Trinity Orthodox Presbyterian Church, August 15, 1991)
     Pastor: Jack Smith, 1985–93"
-AR,La Mesa,"
-
-New Life Orthodox Presbyterian Church  (October 15, 1966–July 20, 2004)
-(called Orthodox Presbyterian Church of Point Loma, 1966–1981)
-(moved to La Mesa, April 26, 1998)
-(withdrew to the Presbyterian Church in America, July 20, 2004)
-Pastors: Edward Kellogg, 1966–77
-George Miladin, 1978–2004
-Asst. Pastors: Roger Schmurr, 1970–73
-Andrew Wikholm, 1982–86
-Mark Schroeder, 1989–93
-James Megchelsen, 1993–97
-Teacher: John Garrisi, 1994–97
-","- name: New Life Orthodox Presbyterian Church
+AR,La Mesa,,"- name: New Life Orthodox Presbyterian Church
   origination_date: 1966-10-15
   received_from: null
   names:
@@ -1377,20 +1364,7 @@ Teacher: John Garrisi, 1994–97
     - name: John Garrisi
       start: 1994-01-01
       end: 1997-01-01
-      type: Teacher
-  raw_data:
-    AR La Mesa
-    New Life Orthodox Presbyterian Church (October 15, 1966–July 20, 2004)
-    (called Orthodox Presbyterian Church of Point Loma, 1966–1981)
-    (moved to La Mesa, April 26, 1998)
-    (withdrew to the Presbyterian Church in America, July 20, 2004)
-    Pastors: Edward Kellogg, 1966–77
-    George Miladin, 1978–2004
-    Asst. Pastors: Roger Schmurr, 1970–73
-    Andrew Wikholm, 1982–86
-    Mark Schroeder, 1989–93
-    James Megchelsen, 1993–97
-    Teacher: John Garrisi, 1994–97"
+      type: Teacher"
 AR,La Mirada,"
 
 Calvary Orthodox Presbyterian Church  (May 14, 1958– )
@@ -1568,23 +1542,8 @@ Org. Pastor: Gonzalo Salinas, 2002–6
     AR Los Angeles
     Iglesia Evangelica Reformada (May 6, 1995–February 28, 2006)
     Org. Pastor: Gonzalo Salinas, 2002–6"
-AR,Manhattan Beach,"
-
-First Orthodox Presbyterian Church  (December 1, 1946–January 28, 1989)
-(transferred to the Presbyterian Church in America, 1989)
-Pastors: Clifford Smith, 1946–47
-Wilson Albright, 1948–56
-Paul Lovik, 1957–62
-Ralph Clough, 1962–74
-Michael Stingley, 1975–81
-Mark House, 1983–89
-Asst. Pastor: Calvin Malcor, 1971–77
-Assoc. Pastors: Daniel Overduin, 1968–69
-William Welmers, 1977–82
-","```yaml
-- name: First Orthodox Presbyterian Church
+AR,Manhattan Beach,"","- name: First Orthodox Presbyterian Church
   origination_date: 1946-12-01
-  received_from: null
   names:
     - name: First Orthodox Presbyterian Church
       start: 1946-12-01
@@ -1647,9 +1606,7 @@ William Welmers, 1977–82
     Asst. Pastor: Calvin Malcor, 1971–77
     Assoc. Pastors: Daniel Overduin, 1968–69
     William Welmers, 1977–82
-```
-
-Please note that in the YAML output, the `received_from: null` is set because it was not specified where the First Orthodox Presbyterian Church was received from, unlike in the original church's YAML. The `city` and `state` fields in the `location` section have to be filled in with the information provided in the input since the street address was not given. Additionally, the `type` field in the `minister` section uses lowercase snake_case to be consistent with the previous example. If any specific formatting rules for dates are known from the previous data (such as always starting at the beginning of the year unless otherwise specified), they have been continued here. If those specifics are not known, it is assumed dates correspond to the exact years of service. The raw data is the direct text from the input."
+```"
 AR,Manteca,"
 
 First Orthodox Presbyterian Church  (March 19, 1959–March 18, 1978)
@@ -4048,7 +4005,6 @@ DE,Seaford,"
 Covenant Orthodox Presbyterian Church  (May 14, 1979–January 30, 1983)
 Pastor: Douglas Watson, 1979–83
 ","- name: Covenant Orthodox Presbyterian Church
-    received_from: null
   names:
     - name: Covenant Orthodox Presbyterian Church
       start: 1979-05-14
@@ -5957,7 +5913,8 @@ Pastor: Brent Evans, 2008–
   location:
     address: 4132 N. State Route 1-17
     city: Momence
-    state: ID  minister:
+    state: ID
+  minister:
     - name: Brent Evans
       start: 2008-01-01
       end: null
@@ -6208,7 +6165,8 @@ Calvin Malcor, 1985–87
   location:
     address: Tinley Park
     city: Forest View
-    state: ID  minister:
+    state: ID
+  minister:
     - name: George Marston
       start: 1950-01-01
       end: 1951-01-01
@@ -6944,21 +6902,7 @@ Timothy Black, 2008–14
     - name: Timothy Black
       start: 2008-01-01
       end: 2014-01-01
-      type: Pastor
-  raw_data: |
-    KANSAS Caney
-
-	Caney Orthodox Presbyterian Church  (January 10, 1968– )
-	206 North Vine Street
-	Pastors: Bruce Brawdy, 1968–71
-	Richard Nelson, 1972–76
-	Dennis Prutow, 1978–80
-	Edward Kok, 1980–87
-	LeRoy Miller, 1987–93
-	William Miller, 1994–98
-	Patrick Malone, 1999–2001
-	J. Michael Arnaud, 2004–7
-	Timothy Black, 2008–14"
+      type: Pastor"
 KANSAS,Hutchison,"
 
 Orthodox Presbyterian Church  (April 1, 1970–March 27, 1980)
@@ -10201,9 +10145,9 @@ Ronald McKenzie, 1989–2010
   names:
     - name: Garden City Orthodox Presbyterian Church
       start: 1980-04-25
-      end: 1997-00-00
+      end: 1997-01-01
     - name: Cornerstone Orthodox Presbyterian Church
-      start: 1980-04-25
+      start: 1997-01-01
       end: 2010-09-24
   status:
     - active: false
@@ -13803,6 +13747,10 @@ Pastor: Daniel Fincham, 2002
     - name: Daniel Fincham
       start: 2002-01-01
       type: Pastor
+    - name: Frederick Hofland
+      start: 2008-01-01
+      end: 2011-01-01
+      type: Associate Pastor
   raw_data: |
     North Carolina
     New Bern
@@ -13811,28 +13759,6 @@ Pastor: Daniel Fincham, 2002
     130 Market Street
     Org. Pastor: Daniel Fincham, 1998–2002
     Pastor: Daniel Fincham, 2002"
-NORTH CAROLINA,New Bern,"
-Assoc. Pastor: Frederick Hofland, 2008–11
-","- name: Blah Church
-    received_from: null
-  names:
-    - name: Blah Church
-      start: null
-      end: null
-  status:
-    - active: true
-  location:
-    address: null
-    city: New Bern
-    state: NC
-  minister:
-    - name: Frederick Hofland
-      start: 2008-01-01
-      end: 2011-01-01
-      type: Associate Pastor
-  raw_data: |
-    NORTH CAROLINA New Bern
-    Assoc. Pastor: Frederick Hofland, 2008–11"
 NORTH CAROLINA,Raleigh,"
 
 Pilgrim Orthodox Presbyterian Church  (March 11, 1972– )
@@ -14826,7 +14752,6 @@ Assoc. Pastor: Leo Frailey, 1991–99
   status:
     active: false
   location:
-    address:
     city: Pataskala
     state: OH
   minister:
@@ -14960,7 +14885,8 @@ Assoc. Pastor: Edward Eppinger, 2003–
   location:
     address: 1001 E. Adams Boulevard
     city: Bartlesville
-    state: OK  minister:
+    state: OK
+  minister:
     - name: Robert Malarkey
       start: 1971-01-01
       end: 1973-01-01
@@ -15095,7 +15021,8 @@ Assoc. Pastor: David Kiester, 1983–85
   location:
     address:
     city: Oklahoma City
-    state: OK  minister:
+    state: OK
+  minister:
     - name: William Bomer
       start: 1959-01-01
       end: 1959-12-31
@@ -20811,20 +20738,31 @@ Org. Pastor: Scott Seder, 2004–5
     Org. Pastor: Scott Seder, 2004–5"
 UT,Ogden,"
 
-Berean Presbyterian Chapel (October 2009–May 3, 2011)
-","- name: Berean Presbyterian Chapel
+Berean Presbyterian Church (October 2009–May 3, 2011)
+","- name: Berean Presbyterian Church
   origination_date: 2009-10-01
   names:
     - name: Berean Presbyterian Chapel
       start: 2009-10-01
       end: 2011-05-03
+    - name: Berean Presbyterian Church
+      start: 2011-05-03
   status:
     - active: false
     - end_date: 2011-05-03
   location:
-    address:
+    address: 3350 Harrison Boulevard
     city: Ogden
     state: UT
+  minister:
+    - name: Curtis A. Eggleston
+      start: 2011-01-01
+      end: 2014-12-31
+      type: Supply Pastor
+    - name: Curtis A. Eggleston
+      start: 2014-01-01
+      end: null
+      type: Pastor
   raw_data: |
     UT
     Ogden
@@ -20835,7 +20773,7 @@ Meeting at United Church of Christ, 3350 Harrison Boulevard
 Supply: Curtis A. Eggleston, 2011–14
 Pastor: Curtis A. Eggleston, 2014–
 ","- name: Berean Presbyterian Church
-    received_from: null
+  received_from: null
   names:
     - name: Berean Presbyterian Church
       start: null
@@ -20846,18 +20784,8 @@ Pastor: Curtis A. Eggleston, 2014–
     - withdrawal_to: null
     - end_date: null
   location:
-    address: 3350 Harrison Boulevard
-    city: UT
-    state: null
-  minister:
-    - name: Curtis A. Eggleston
-      start: 2011-01-01
-      end: 2014-12-31
-      type: Supply Pastor
-    - name: Curtis A. Eggleston
-      start: 2014-01-01
-      end: null
-      type: Pastor
+    city: Ogden
+    state: UT
   raw_data: |
     UT
     Berean Presbyterian Church

@@ -14,9 +14,14 @@ minister:
   name: Daniel Fincham
   start: 2002-01-01
   type: Pastor
+- end: 2011-01-01
+  name: Frederick Hofland
+  start: 2008-01-01
+  type: Associate Pastor
 ministers:
 - Daniel Fincham
 - Daniel Fincham
+- Frederick Hofland
 name: Covenant Orthodox Presbyterian Church
 names:
 - end: 2002-09-20
