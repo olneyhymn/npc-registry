@@ -3205,9 +3205,12 @@
       end: 2002-04-12
     - name: Reformation Church
       start: 2002-04-12
-      end:
-  status:
+      end: 2017-06-11
+  status
     - active: false
+    - reason: null
+    - withdrawal_to: Independency
+    - end_date: 2017-06-11
   location:
     address: 489 Rocky Cliff Circle
     city: Elizabeth
