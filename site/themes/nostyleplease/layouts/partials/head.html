@@ -12,6 +12,20 @@
     {{ end }}
   </title>
 
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="http://opc.ulsterworldly.com">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ if not .IsHome }}OPC Congregational Registry: {{ .Title }} {{ else }} {{ $.Site.Title }} {{ end }}">
+    <meta property="og:description" content="Information on Orthodox Presbyterian Church congregations and their ministers going back to 1936.">
+    <meta property="og:image" content="https://res.opengraph.xyz/e4b8c678-7bd5-445d-ba03-bfaad510c686/v3/opc.ulsterworldly.com/Orthodox%20Presbyterian%20Church%20Congregational%20Registry/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fdocuments%2F3da136d1-96d3-4add-be65-46b2bf7fead7.jpg%3Ftoken%3DLeLqFm4PJJxLSyoj2v6RavJx5P6sZ6QcO1q8RcRXWlA%26height%3D801%26width%3D1200%26expires%3D33239942088/og.png">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="opc.ulsterworldly.com">
+    <meta property="twitter:url" content="http://opc.ulsterworldly.com">
+    <meta name="twitter:title" content="{{ if not .IsHome }}OPC Congregational Registry: {{ .Title }} {{ else }} {{ $.Site.Title }} {{ end }}">
+    <meta name="twitter:description" content="Information on Orthodox Presbyterian Church congregations and their ministers going back to 1936.">
+    <meta name="twitter:image" content="https://res.opengraph.xyz/e4b8c678-7bd5-445d-ba03-bfaad510c686/v3/opc.ulsterworldly.com/Orthodox%20Presbyterian%20Church%20Congregational%20Registry/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fdocuments%2F3da136d1-96d3-4add-be65-46b2bf7fead7.jpg%3Ftoken%3DLeLqFm4PJJxLSyoj2v6RavJx5P6sZ6QcO1q8RcRXWlA%26height%3D801%26width%3D1200%26expires%3D33239942088/og.png">
 
   <link rel="shortcut icon" type="image/x-icon" href="{{ $.Site.Params.favicon | relURL }}" />
   {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction)) }}
