@@ -19685,7 +19685,7 @@
   location:
     address: 4875 King Street
     city: Beamsville
-    state: ON
+    state: "ON"
   minister:
     - name: Tristan Emmanuel
       start: 2000-09-15
@@ -19722,7 +19722,7 @@
   location:
     address: 10246 Glendon Drive
     city: London
-    state: ON
+    state: "ON"
   minister:
     - name: John Ferguson
       start: 2000-01-01
@@ -19751,7 +19751,7 @@
   location:
     address: Sykes and Nelson Streets
     city: Meaford
-    state: ON
+    state: "ON"
   minister:
   raw_data: |
     ON
@@ -19766,7 +19766,7 @@
   location:
     address:
     city: Saint Thomas
-    state: ON
+    state: "ON"
   minister:
     - name: Theocharis Joannides
       start: 1991-01-01
@@ -19792,7 +19792,7 @@
   location:
     address: 325888 Talbot Line (Highway 3)
     city: Shedden
-    state: ON
+    state: "ON"
   minister:
     - name: K. Dale Collison
       start: 2004-01-01
@@ -19815,7 +19815,7 @@
   location:
     address: 1260 Sheffield Road
     city: Sheffield
-    state: ON
+    state: "ON"
   minister:
     - name: Edward Ludt
       start: 2003-01-01
