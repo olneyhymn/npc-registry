@@ -5447,12 +5447,12 @@
 - name: Forest View Orthodox Presbyterian Church
   origination_date: 1950-06-19
   names:
-    - name: Forest View Orthodox Presbyterian Church
-      start: 1950-06-19
-      end: 1987-12-31
     - name: Westminster Orthodox Presbyterian Church
       start: 1950-01-01
       end: 1968-12-31
+    - name: Forest View Orthodox Presbyterian Church
+      start: 1968-12-31
+      end: 1987-12-31
   status:
     - active: false
     - reason: unknown
