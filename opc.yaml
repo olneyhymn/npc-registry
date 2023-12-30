@@ -4,7 +4,7 @@
     - name: Redeemer Presbyterian Chapel, Orthodox Presbyterian Church
       start: 1999-10-22
       end: 2002-09-06
-    - name: Redeemer Presbyterian Church, OPC
+    - name: Redeemer Presbyterian Church
       start: 2002-09-06
   status:
     - active: true
@@ -165,11 +165,11 @@
 - name: Grace Orthodox Presbyterian Church
   origination_date: 1994-12-11
   names:
-    - name: Grace Orthodox Presbyterian Church
-      start: 1994-12-11
     - name: New Life Orthodox Presbyterian Church
       start: 1994-12-11
       end: 1997-01-01
+    - name: Grace Orthodox Presbyterian Church
+      start: 1997-01-01
   status:
     - active: true
   location:
@@ -211,7 +211,6 @@
   names:
     - name: Concho Valley OPC mission
       start: 2013-05-03
-      end: null
   status:
     - active: true
   location:
@@ -281,6 +280,8 @@
       start:
       end:
       type: Organizing Pastor
+  body: | 
+    Absorbed into Calvin OPC.
   raw_data: |
     AZ
     Phoenix
@@ -1150,18 +1151,21 @@
     Mark R. Wheat, 2012-
 - name: Christ Covenant Orthodox Presbyterian Chapel
   origination_date: 2000-06-03
-  names:
-    - name: Church of the Servant Orthodox Presbyterian Church
-      start: 1985-05-05
-      end: 1993-06-30
-    - name: Trinity Orthodox Presbyterian Church
-      start: 1991-08-15
-      end: 1991-08-15
+  status:
+    - active: false
+    - start_date: 2001-10-20
+  location:
+    city:  Irvine
+    state:  CA
+- name: Church of the Servant Orthodox Presbyterian Church
+  origination_date: 2000-06-03
   status:
     - active: false
     - reason: name change
-    - change_to: Trinity Orthodox Presbyterian Church
-    - start_date: 1991-08-15
+    - start_date: 1985-05-05
+    - end_date: 1993-06-30
+  body: | 
+    Also known as Trinity Orthodox Presbyterian Church.
   location:
     city:  Irvine
     state:  CA
@@ -1180,15 +1184,12 @@
 - name: New Life Orthodox Presbyterian Church
   origination_date: 1966-10-15
   names:
-    - name: New Life Orthodox Presbyterian Church
-      start: 1966-10-15
-      end: 2004-07-20
     - name: Orthodox Presbyterian Church of Point Loma
       start: 1966-10-15
       end: 1981-12-31
     - name: New Life Orthodox Presbyterian Church
-      start: 1982-01-01
-      end: 1998-04-26
+      start: 1981-12-31
+      end: 2004-07-20
   status:
     - active: false
     - reason: withdrawal
@@ -1227,6 +1228,8 @@
       start: 1994-01-01
       end: 1997-01-01
       type: Teacher
+  body: | 
+    Moved to La Mesa on April 26, 1998.
 - name: Calvary Orthodox Presbyterian Church
   origination_date: 1958-05-14
   names:
@@ -1341,12 +1344,12 @@
 - name: Beverly Orthodox Presbyterian Church
   origination_date: 1936-10-28
   names:
-    - name: Beverly Orthodox Presbyterian Church
-      start: 1936-10-28
-      end: 2006-01-01
     - name: Gardens Tabernacle PCA
       start: 1936-10-28
       end: 1937-07-19
+    - name: Beverly Orthodox Presbyterian Church
+      start: 1937-07-19
+      end: 2006-01-01
   status:
     - active: false
     - end_date: 2006-01-01
@@ -1486,12 +1489,12 @@
 - name: First Orthodox Presbyterian Church
   origination_date: 1959-03-19
   names:
-    - name: First Orthodox Presbyterian Church
-      start: 1959-03-19
-      end: 1978-03-18
     - name: Bethany Orthodox Presbyterian Church
       start: 1959-01-01
       end: 1972-01-01
+    - name: First Orthodox Presbyterian Church
+      start: 1972-01-01
+      end: 1978-03-18
   status:
     - active: false
     - end_date: 1978-03-18
@@ -1695,15 +1698,11 @@
   minister:
     - name: L. Anthony Curto
       start: 1988-03-06
-      end: 1992-01-01
-      type: Co-Pastor
+      end: 1994-01-01
+      type: Pastor
     - name: Gregory Bahnsen
       start: 1988-03-06
       end: 1992-01-01
-      type: Co-Pastor
-    - name: L. Anthony Curto
-      start: 1992-01-01
-      end: 1994-01-01
       type: Pastor
   raw_data: |
     AR    Newport Beach
@@ -1885,6 +1884,13 @@
       start: 1981-02-15
       end: 1988-01-01
       type: Pastor
+  status:
+    - active: false
+    - reason: Merger with Plymouth Congregational Church
+    - merge_with: Plymouth Congregational Church
+    - end_date: 1988-01-01
+  body: |
+    Merged with Plymouth Congregational Church, Newport Beach, California, 1988.
   raw_data: |
     AR Placentia
     Covenant Community OPC (February 15, 1981-March 6, 1988)
@@ -1975,6 +1981,8 @@
       start: 2015-01-01
       end: null
       type: Pastor
+  body: |
+    Formerly Trinity Presbyterian mission work, Shasta Lake, 2001-2010.
   raw_data: |
     AR Redding
     Redding Reformed Fellowship (May 15, 2015- )
@@ -1984,12 +1992,12 @@
 - name: Sovereign Grace Orthodox Presbyterian Church
   origination_date: 2007-09-16
   names:
-    - name: Sovereign Grace Orthodox Presbyterian Chapel
-      start: 1995-06-30
-      end: 2007-09-16
     - name: Grace Orthodox Presbyterian Chapel
       start: 1995-01-01
       end: 2002-01-01
+    - name: Sovereign Grace Orthodox Presbyterian Chapel
+      start: 1995-06-30
+      end: 2007-09-16
     - name: Sovereign Grace Orthodox Presbyterian Church
       start: 2007-09-16
   status:
@@ -2007,6 +2015,8 @@
       start: 2007-01-01
       end: 2015-01-01
       type: Pastor
+  body: |
+    Moved from Moreno Valley in 2007.
   raw_data: |
     AR    Redlands
     Sovereign Grace Orthodox Presbyterian Chapel  (June 30, 1995-September 16, 2007)
@@ -2019,11 +2029,11 @@
 - name: Reformation Fellowship Orthodox Presbyterian Chapel
   origination_date: 1999-03-20
   names:
+    - name: Reformation Fellowship, Orthodox Presbyterian Church
+      start: 2002-07-15
     - name: Reformation Fellowship Orthodox Presbyterian Chapel
       start: 1999-03-20
       end: 2002-07-15
-    - name: Reformation Fellowship, Orthodox Presbyterian Church
-      start: 2002-07-15
   status:
     - active: true
   location:
@@ -2086,12 +2096,12 @@
   withdrawal_date: 1975-10-18
   withdrawal_to: Independency
   names:
-    - name: Paradise Hills Orthodox Presbyterian Church
-      start: 1947-09-07
-      end: 1975-10-18
     - name: First Orthodox Presbyterian Church
       start: 1947-09-07
       end: 1958-01-01
+    - name: Paradise Hills Orthodox Presbyterian Church
+      start: 1958-01-01
+      end: 1975-10-18
       notes: National City, California
   status:
     - active: false
@@ -2357,12 +2367,12 @@
 - name: Living Hope Orthodox Presbyterian Church
   origination_date: 1958-05-12
   names:
-    - name: Living Hope Orthodox Presbyterian Church
-      start: 1958-05-12
-      end: 2002-04-05
     - name: Westminster Orthodox Presbyterian Church
       start: 1958-05-12
       end: 1995-01-01
+    - name: Living Hope Orthodox Presbyterian Church
+      start: 1995-01-01
+      end: 2002-04-05
   location:
     address: 1501 E. Alvin Avenue
     city: Santa Cruz
@@ -2602,6 +2612,8 @@
     - name: Brentwood Orthodox Presbyterian Church
       start: 1957-09-25
       end: 1988-01-01
+    - name: New Covenant Orthodox Presbyterian Church
+      start: 1988-01-01
   status:
     - active: true
   location:
@@ -2619,6 +2631,10 @@
       type: Pastor
     - name: Carl Erickson
       start: 1967-01-01
+      end: 2017-01-01
+      type: Pastor
+    - name: Michael Grasso
+      start: 2019-01-01
       type: Pastor
   raw_data: |
     AR    South San Francisco
@@ -2974,8 +2990,8 @@
     - name: Broomfield Presbyterian Chapel, OPC
       start: 2001-12-02
       end: 2002-05-24
-    - name: Bethel Presbyterian Church, OPC
-      start: 2002
+    - name: Bethel Presbyterian Church
+      start: 2002-01-01
   status:
     - active: true
   location:
@@ -3187,11 +3203,11 @@
     - name: Reformation Church Chapel
       start: 2001-02-05
       end: 2002-04-12
-    - name: Reformation Church, OPC
+    - name: Reformation Church
       start: 2002-04-12
       end:
   status:
-    - active: true
+    - active: false
   location:
     address: 489 Rocky Cliff Circle
     city: Elizabeth
@@ -4311,12 +4327,12 @@
 - name: Faith Orthodox Presbyterian Church
   origination_date: 1972-12-17
   names:
-    - name: Faith Orthodox Presbyterian Church
-      start: 1972-12-17
-      end: 2013-12-31
     - name: Community Orthodox Presbyterian Church
       start: 2000-01-01
       end: 2002-12-31
+    - name: Faith Orthodox Presbyterian Church
+      start: 2002-12-31
+      end: 2013-12-31
   status:
     - active: false
     - end_date: 2013-12-31
@@ -5568,7 +5584,7 @@
     Assoc. Pastors: James Bosgraf, 1967-68
     James Megchelsen, 1997-2001
     John Fikkert, 2009-15
-- name: Covenant Community Presbyterian Chapel, OPC
+- name: Covenant Reformed Orthodox Presbyterian Church
   origination_date: 1998-03-20
   names:
     - name: Covenant Community Presbyterian Chapel, OPC
@@ -5576,7 +5592,7 @@
       end: 2005-05-01
     - name: Covenant Reformed Orthodox Presbyterian Church
       start: 2005-05-01
-      end: 2012-10-19
+      end: 2012-10-19 
   status:
     - active: false
     - reason: discontinuation
@@ -5975,7 +5991,7 @@
     New Covenant Fellowship Orthodox Presbyterian Chapel  (1996-May 15, 2006)
     New Covenant Fellowship Orthodox Presbyterian Church  (May 15, 2006-February 26, 2012)
     Pastor: Kenneth Golden, 2005-8
-- name: Hope Reformed Presbyterian
+- name: Hope Reformed Presbyterian mission work
   origination_date: 2007-01-01
   names:
     - name: Hope Reformed Presbyterian mission work
@@ -5983,9 +5999,6 @@
       end: null
   status:
     - active: true
-    - reason: null
-    - withdrawal_to: null
-    - end_date: null
   location:
     address: 612 Franklin Street, Suite 101
     city: Pella
@@ -6248,6 +6261,8 @@
     - name: Covenant Orthodox Presbyterian Chapel
       start: 2003-05-17
       end: 2008-11-07
+    - name: Covenant Orthodox Presbyterian Church
+      start: 2008-11-07
   status:
     - active: true
   location:
@@ -7113,10 +7128,10 @@
     - name: Cornerstone Reformed Fellowship OPC (mission)
       start: 1999-12-03
       end: 2004-12-11
-    - name: Cornerstone Presbyterian Church [Mission]
+    - name: Cornerstone Presbyterian Church (mission)
       start: 2004-12-11
       end: 2009-01-04
-    - name: Cornerstone Presbyterian Church, OPC
+    - name: Cornerstone Presbyterian Church
       start: 2004-12-11
       end: 2009-01-04
   status:
@@ -7403,14 +7418,15 @@
 - name: First Orthodox Presbyterian Church, North Shore
   origination_date: 1961-11-16
   names:
-    - name: First Orthodox Presbyterian Church, North Shore
-      start: 1961-11-16
-      end: null
     - name: First Orthodox Presbyterian Church of Hamilton
       start: 1961-11-16
       end: 1987-01-01
+    - name: First Orthodox Presbyterian Church, North Shore
+      start: 1961-11-16
+      end: null
   status:
-    - active: true
+    - active: false
+    - withdrawal_to: Presbyterian Church in America
   location:
     address: 179 County Road (Highway 1A)
     city: Ipswich
@@ -7824,6 +7840,17 @@
     - name: Atonement Orthodox Presbyterian Church
       start: 1939-04-24
       end: 1941-04-22
+  status:
+    - active: false
+    - reason:
+    - end_date: 1941-04-22
+  location:
+    address:
+    city: Decatur
+    state: MI
+- name: New Hope Community OPC
+  origination_date: 1994-07-02
+  names:
     - name: New Hope Community OPC
       start: 1994-07-02
       end: 1996-10-01
@@ -8143,7 +8170,7 @@
     - name: New Life Fellowship Chapel, Orthodox Presbyterian Church
       start: 1997-03-21
       end: 2003-10-24
-    - name: New Life Fellowship Church, Orthodox Presbyterian
+    - name: New Life Fellowship Church
       start: 2003-10-24
   status:
     - active: true
@@ -8863,10 +8890,10 @@
 - name: Garden City Orthodox Presbyterian Church
   origination_date: 1980-04-25
   names:
-    - name: Garden City Orthodox Presbyterian Church
+    - name: Cornerstone Orthodox Presbyterian Church
       start: 1980-04-25
       end: 1997-01-01
-    - name: Cornerstone Orthodox Presbyterian Church
+    - name: Garden City Orthodox Presbyterian Church
       start: 1997-01-01
       end: 2010-09-24
   status:
@@ -9461,12 +9488,12 @@
 - name: New Hope Orthodox Presbyterian Church
   origination_date: 1936-09-08
   names:
-    - name: New Hope Orthodox Presbyterian Church
-      start: 1936-09-08
-      end: null
     - name: Calvary Orthodox Presbyterian Church
       start: 1936-09-08
       end: 2005-01-01
+    - name: New Hope Orthodox Presbyterian Church
+      start: 2005-01-01
+      end: null
   status:
     - active: true
   location:
@@ -9607,12 +9634,12 @@
     David Cole, 1980-84
     George Kostas, 1984-94
     James Zozzaro, 1995-
-- name: Merchantville Gardens Community Orthodox Presbyterian Church
+- name: Cherry Hill Orthodox Presbyterian Church
   origination_date: 1984-03-25
   names:
     - name: Merchantville Gardens Community Orthodox Presbyterian Church
       start: 1984-03-25
-      end: 2014-03-23
+      end: 1990-01-01
     - name: Cherry Hill Orthodox Presbyterian Church
       start: 1990-01-01
       end: 2014-03-23
@@ -10132,7 +10159,7 @@
 - name: Central Bible Church
   origination_date: 2002-03-10
   names:
-    - name: Central Bible Church, Orthodox Presbyterian
+    - name: Central Bible Church
       start: 2002-03-10
   status:
     - active: true
@@ -11141,7 +11168,9 @@
   names:
     - name: Lisbon Orthodox Presbyterian Church
       start: 1958-12-15
-      end:
+      end: 2006-01-01
+    - name: Grace Orthodox Presbyterian Church
+      start: 2006-01-01
   status:
     - active: true
   location:
@@ -11720,12 +11749,12 @@
 - name: Catawba Valley Presbyterian Church
   origination_date: 1996-04-27
   names:
-    - name: Catawba Valley Presbyterian Church
-      start: 1996-04-27
-      end: 2007-10-20
     - name: Providence Orthodox Presbyterian Church
       start: 1996-04-27
       end: 2002-01-01
+    - name: Catawba Valley Presbyterian Church
+      start: 2002-01-01
+      end: 2007-10-20
   status:
     - active: false
     - end_date: 2007-10-20
@@ -12837,13 +12866,8 @@
     Assoc. Pastor: Edward Eppinger, 2003-
 - name: Orthodox Presbyterian Church
   origination_date: 1983-03-24
-  names:
-    - name: Orthodox Presbyterian Church
-      start: 1983-03-24
-      end: 1991-09-20
-    - name: Twelfth Avenue Orthodox Presbyterian Church
-      start: 1983-03-24
-      end: 1991-09-20
+  body: |
+    Also called Twelfth Avenue Orthodox Presbyterian Church.
   location:
     address: undefined
     city: Norman
@@ -12947,14 +12971,10 @@
       start: 1983-01-01
       end: 1985-12-31
       type: Associate Pastor
-- name: Grace Orthodox Presbyterian Church
+- name: Sand Springs Orthodox Presbyterian Church
   origination_date: 1967-10-01
-  names:
-    - name: Grace Orthodox Presbyterian Church
-      start: 1967-10-01
-      end: 1985-06-23
-    - name: Sand Springs Orthodox Presbyterian Church
-      start: 1985-06-23
+  body: |
+    Previously called Grace Orthodox Presbyterian Church.
   location:
     address:
     city: Tulsa
@@ -13526,7 +13546,7 @@
     Teachers: Carl Trueman, 2010-12
     Cecil R. "Cris" Simpson, 2013-15
     Supply: John Currie, 2001-5
-- name: Christ Community Orthodox Presbyterian Chapel
+- name: Christ Community Orthodox Presbyterian Church
   origination_date: 1996-05-04
   names:
     - name: Christ Community Orthodox Presbyterian Chapel
@@ -13535,6 +13555,8 @@
     - name: Christ Community Orthodox Presbyterian Church
       start: 2000-10-08
       end: 2007-11-17
+  body: |
+    United with Covenant OPC, Easton, to form Christ Community Church (now Trinity OPC), Easton, on November 17, 2007.
   status:
     - active: false
     - reason: united with Covenant OPC, Easton
@@ -13867,11 +13889,13 @@
 - name: Trinity Orthodox Presbyterian Church
   origination_date: 2007-11-17
   names:
-    - name: Trinity Orthodox Presbyterian Church
-      start: 2007-11-17
     - name: Christ Community Church (OPC)
       start: 2007-01-01
       end: 2011-12-31
+    - name: Trinity Orthodox Presbyterian Church
+      start: 2011-12-31
+  body: |
+    Formed by the union of Christ Community Church (OPC) and Covenant OPC, Easton, on December 31, 2011.
   status:
     - active: true
   location:
@@ -13897,12 +13921,12 @@
 - name: Covenant Orthodox Presbyterian Church
   origination_date: 1982-01-16
   names:
-    - name: Covenant Orthodox Presbyterian Church
-      start: 1982-01-16
-      end: 2007-11-17
     - name: New Life Orthodox Presbyterian Church
       start: 1982-01-16
       end: 2003-01-01
+    - name: Covenant Orthodox Presbyterian Church
+      start: 2003-01-01
+      end: 2007-11-17
   status:
     - active: false
     - reason: unknown
@@ -15910,7 +15934,7 @@
 - name: Westminster Presbyterian Church
   origination_date: 1998-04-17
   names:
-    - name: Westminster Presbyterian Church, OPC
+    - name: Westminster Presbyterian Church
       start: 1998-04-17
       end: 2015-01-01
   status:
@@ -16362,7 +16386,7 @@
 - name: Bethlehem Reformed Church
   origination_date: 2002-06-21
   names:
-    - name: Bethlehem Reformed Church, Orthodox Presbyterian
+    - name: Bethlehem Reformed Church
       start: 2002-06-21
       end:
   status:
@@ -17130,7 +17154,7 @@
     - name: Mid Cities Orthodox Presbyterian Chapel
       start: 2005-01-21
       end: 2006-05-05
-    - name: Mid Cities Orthodox Presbyerian Church
+    - name: Mid Cities Orthodox Presbyterian Church
       start: 2006-05-05
   status:
     - active: true
@@ -17911,7 +17935,7 @@
     - name: Bethel Reformed Presbyterian mission work
       start: 2001-12-01
       end: 2003-11-01
-    - name: Bethel Reformed Presbyterian Church, Orthodox Presbyterian
+    - name: Bethel Reformed Presbyterian Church
       start: 2003-11-01
   status:
     - active: true
@@ -18361,19 +18385,19 @@
 - name: Trinity Orthodox Presbyterian Church
   origination_date: 1964-03-12
   names:
-    - name: Puget Sound OP Chapel
+    - name: Puget Sound Orthodox Presbyterian Chapel
       start: 1964-03-12
       end: 1967-01-01
-    - name: Puget Sound OP Church
+    - name: Puget Sound Orthodox Presbyterian Church
       start: 1967-01-01
       end: 1970-01-01
-    - name: Trinity OP Church
+    - name: Trinity Orthodox Presbyterian Church
       start: 1970-01-01
       end: 1991-01-01
-    - name: New Life OPC
+    - name: New Life Orthodox Presbyterian Church
       start: 1991-01-01
       end: 1996-01-01
-    - name: Trinity OPC
+    - name: Trinity Orthodox Presbyterian Church
       start: 1996-01-01
   status:
     - active: true
@@ -19364,7 +19388,7 @@
     - name: Covenant Presbyterian Chapel, OPC
       start: 2002-01-25
       end: 2007-10-21
-    - name: Covenant Presbyterian Church, OPC
+    - name: Covenant Presbyterian Church
       start: 2007-10-21
   status:
     - active: true
