@@ -2748,8 +2748,6 @@
   names:
     - name: Branch of Hope Orthodox Presbyterian Church
       start: 2003-07-20
-    - name: Branch of Hope Orthodox Presbyterian Church
-      start:
   status:
     - active: true
   location:
@@ -6199,12 +6197,10 @@
   origination_date: 2000-10-20
   names:
     - name: Covenant Reformed Presbyterian Church
-      start:
-      end: 2000-10-20
-    - name: Neon Presbyterian Church
       start: 2000-10-20
-      end:
-      change_date: 2008-04-26
+      end: 2008-04-26
+    - name: Neon Presbyterian Church
+      start: 2008-04-26
   status:
     - active: true
   location:
@@ -6648,9 +6644,6 @@
     - name: Trinity Orthodox Presbyterian Church
       start: 1961-03-22
       end: 1996-10-05
-    - name: Trinity Orthodox Presbyterian Church of Androscoggin Valley
-      start: null
-      end: null
   status:
     - active: false
   location:
@@ -6674,6 +6667,8 @@
       start: 1992-01-01
       end: 1996-10-05
       type: Associate Pastor
+  body: |
+    Also called Trinity Orthodox Presbyterian Church of Androscoggin Valley
   raw_data: |
     ME
     Lewiston
@@ -8519,11 +8514,8 @@
 - name: Church of the Lakes
   origination_date: 2004-09-17
   names:
-    - name: Breezy Point
-      start:
     - name: Church of the Lakes
       start: 2004-09-17
-      end: 2014-02-23
   status:
     - active: false
     - end_date: 2014-02-23
@@ -8536,6 +8528,8 @@
       start: 2005-01-01
       end: 2012-01-01
       type: Evangelist
+  body: |
+    Formerly known as Breezy Point Church.
   raw_data: |
     ME
     Brainerd
@@ -9330,8 +9324,7 @@
   origination_date: 2013-01-01
   names:
     - name: Providence Presbyterian Church
-      start:
-      end:
+      start: 2013-01-01
   status:
     - active: true
     - reason:
@@ -10262,8 +10255,6 @@
   names:
     - name: Calvary Community Orthodox Presbyterian Church
       start: 1966-04-15
-    - name: Calvary Community Orthodox Presbyterian Church
-      start:
   status:
     - active: true
   location:
@@ -13725,9 +13716,6 @@
 - name: Covenant Orthodox Presbyterian Church
   origination_date: 2015-01-01
   names:
-    - name: Chambersburg Orthodox Presbyterian Church
-      start:
-      end: 2015-01-01
     - name: Covenant Orthodox Presbyterian Church
       start: 2015-01-01
       end:
@@ -13742,6 +13730,8 @@
       start: 2015-01-01
       end:
       type: Organizing Pastor
+  body: |
+    Previously known as Chambersburg Orthodox Presbyterian Church
   raw_data: |
     PA
     Chambersburg
@@ -14019,13 +14009,6 @@
     David G. Graves, 2012-
 - name: Living Hope Orthodox Presbyterian Church
   origination_date: 1983-10-13
-  names:
-    - name: Gettysburg Orthodox Presbyterian Church
-      start: 1983-10-13
-      end: null
-    - name: Living Hope Orthodox Presbyterian Church
-      start: null
-      end: null
   status:
     - active: true
     - reason: null
@@ -14064,6 +14047,8 @@
       start: 2015-01-01
       end: null
       type: Evangelist
+  body: |
+    Previously known as Gettysburg Orthodox Presbyterian Church
   raw_data: |
     Gettysburg Orthodox Presbyterian Church  (October 13, 1983- )
     (now Living Hope Orthodox Presbyterian Church)
@@ -17170,9 +17155,6 @@
 - name: Christ Covenant Orthodox Presbyterian Church
   origination_date: 1995-10-25
   names:
-    - name: Geneva Orthodox Presbyterian Church
-      start:
-      end: 1995-10-25
     - name: Christ Covenant Orthodox Presbyterian Church
       start: 1995-10-25
       end:
@@ -17195,6 +17177,8 @@
       start: 2002-01-01
       end:
       type: Pastor
+  body: |
+    Formerly known as Geneva Orthodox Presbyterian Church.
   raw_data: |
     TX
     Dallas
@@ -18819,12 +18803,8 @@
 - name: Hope Orthodox Presbyterian Church
   origination_date: 1982-11-05
   names:
-    - name: Prosser Orthodox Presbyterian Mission
-      start:
-      end: 1987-11-01
     - name: Hope Orthodox Presbyterian Church
       start: 1987-11-01
-      end: 1990-11-01
   status:
     - active: false
     - reason:
@@ -18843,6 +18823,8 @@
       start: 1987-11-01
       end: 1989-01-01
       type: Pastor
+  body: |
+    Formerly known as Prosser Orthodox Presbyterian Mission and moved to Yakima in 1987.
   raw_data: |
     WA
     Yakima

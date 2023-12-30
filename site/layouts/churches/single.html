@@ -23,6 +23,20 @@
     {{ .Content }}
   </div>
 
+  {{ with .Params.names }}
+  {{ if (isset . "0") }}  <!-- Check if the first item of the slice exists -->
+      <p>
+      {{ $items := . }}
+      {{ $count := sub (len $items) 1 }}
+      {{ range first $count $items }}
+        Called <em>{{ .name }}</em> from {{ dateFormat "2006" .start }}{{ if .end }} to {{ dateFormat "2006" .end }}{{ end }}.
+      {{ end }}
+      </p>
+  {{ end }}
+{{ end }}
+
+
+
 
   <div class="Pastor-timeline">
     <h2>Pastoral History</h2>
