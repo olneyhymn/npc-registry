@@ -4349,7 +4349,7 @@
       start: 1979-01-01
       end: 1982-01-01
       type: Pastor
-    - name: John Fikkert
+    - name: John N. Fikkert
       start: 1983-01-01
       end: 1988-01-01
       type: Pastor
@@ -5566,7 +5566,7 @@
       start: 1997-01-01
       end: 2001-01-01
       type: Associate Pastor
-    - name: John Fikkert
+    - name: John M. Fikkert
       start: 2009-01-01
       end: 2015-01-01
       type: Associate Pastor
@@ -19071,7 +19071,7 @@
     city: Green Bay
     state: WI
   minister:
-    - name: John Fikkert
+    - name: John N. Fikkert
       start: 1974-08-10
       end: 1976-01-01
       type: Pastor
