@@ -13728,6 +13728,10 @@
     - name: Jody Morris
       start: 2006-01-01
       type: Pastor
+      end: 2020-05-21
+    - name: Jeremy Brandenburg
+      type: Pastor
+      start: 2021-02-12
   raw_data: |
     PA	Carlisle
     Redeemer Orthodox Presbyterian Chapel  (September 21, 2003-May 27, 2005)
