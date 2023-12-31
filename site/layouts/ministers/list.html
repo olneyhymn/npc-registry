@@ -1,0 +1,38 @@
+{{ define "main" }}
+{{ partial "back_link.html" .}}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ $is_call := eq .Kind "term" }}
+<ul>
+    {{ $pages := slice }}
+    {{ range .Pages }}
+        {{ $page := . }}
+        {{ if $is_call }}
+            {{ range .Params.minister }}
+                {{ if eq .name $.Title }}
+                    {{ $pages = $pages | append (dict "Page" $page "Start" .start "End" .end "Type" .type ) }}
+                {{ end }}
+            {{ end }}
+        {{ else }}
+            {{ $pages = $pages | append (dict "Page" $page ) }}
+        {{ end }}
+    {{ end }}
+
+    {{ range sort $pages "Start" }}
+        <li>
+            <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+            {{ if $is_call }}
+                <ul>
+                 <li>{{ .Type }}</li>
+                 <li>{{ dateFormat "2006" .Start }} to {{ with .End }}{{ dateFormat "2006" . }}{{ else }} present {{- end }}</li>
+                </ul>
+            {{ end }}
+        </li>
+    {{ end }}
+
+  </ul>
+
+{{ end }}
