@@ -11620,12 +11620,21 @@
     Arden
     Cornerstone Orthodox Presbyterian Church  (June 19, 2009-April 27, 2012)
     Pastor: Thomas Sheppard, 2009-12
-- name: Redeemer Presbyterian Church
-  origination_date: 2003-04-27
+- name: Puritan Reformed Orthodox Presbyterian Mission
+  origination_date: 1985-07-28
   names:
     - name: Puritan Reformed Orthodox Presbyterian Mission
       start: 1985-07-28
       end: 1986-09-17
+  status:
+    - active: false
+    - end_date: 1986-09-17
+  location:
+    city: Charlotte
+    state: NC
+- name: Redeemer Presbyterian Church
+  origination_date: 2003-04-27
+  names:
     - name: Redeemer Presbyterian Church
       start: 2003-04-27
       end:
