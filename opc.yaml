@@ -2963,6 +2963,8 @@
       start: 2008-12-12
       end:
       type: Pastor
+  body: | 
+    Formerly in Long Beach and Garden Grove.
   raw_data: |
     AR Whittier
     Christ and Heaven Orthodox Presbyterian Mission  (December 12, 2008- )
@@ -3018,8 +3020,11 @@
     - name: Broomfield Presbyterian Chapel, OPC
       start: 2001-12-02
       end: 2002-05-24
-    - name: Bethel Presbyterian Church
+    - name: Broomfield Presbyterian Church
       start: 2002-01-01
+      end: 2006-01-01
+    - name: Bethel Presbyterian Church
+      start: 2006-01-01
   status:
     - active: true
   location:
@@ -3248,6 +3253,8 @@
       start: 2002-04-12
       end: 2017-06-11
       type: Pastor
+  body: |
+    Formerly in Parker (2001-2002) and in Castle Rock (2002-2014).
   raw_data: |
     AR    Elizabeth
 
@@ -3665,7 +3672,7 @@
 - name: Emmanuel Orthodox Presbyterian Church
   origination_date: 1936-06-01
   names:
-    - name: Eastlake Presbyterian/Orthodox Presbyterian Church
+    - name: Eastlake Presbyterian Church
       start: 1936-06-01
       end: 1960-01-01
     - name: Emmanuel Orthodox Presbyterian Church
@@ -4050,6 +4057,9 @@
       start: 1990-01-01
       end: null
       type: Supply Pastor
+  body: |
+    Also known as Iglesia Presbiteriana Internacional. Later 
+    reconstituted as [Iglesia Presbiteriana Betel/Iglesia Roca Eterna]({{< ref "iglesia-presbiteriana-betel-iglesia-roca-eterna-hialeah-fl" >}}).
   raw_data: |
     FLORIDA Hialeah
     Iglesia Presbiteriana Saron (January 24, 1979-June 1, 1993)
@@ -4069,6 +4079,8 @@
     state: FL
   status:
     - active: false
+  body: | 
+    Reconstitution of [Iglesia Presbiteriana Saron]({{< ref "iglesia-presbiteriana-saron-hialeah-fl" >}}).
   minister:
   raw_data: |
     FLORIDA	Hialeah
@@ -4083,6 +4095,7 @@
   status:
     - active: false
     - reason: returned to Independency
+    - withdrawal_to: Independency
     - end_date: 1963-08-15
   location:
     address:
@@ -4093,6 +4106,8 @@
       start: 1961-01-01
       end: 1963-01-01
       type: Pastor
+  body: |
+    Returned to Independency on August 15, 1963.
   raw_data: |
     FLORIDA
     Jacksonville
@@ -4258,6 +4273,7 @@
     - active: false
     - reason: joined
     - joined_to: Immanuel Presbyterian Church in America
+    - withdrawal_to: Presbyterian Church in America
     - end_date: 1982-08-15
   location:
     address:
@@ -4280,6 +4296,8 @@
       start: 1978-01-01
       end: 1982-10-08
       type: Pastor
+  body: |
+    Joined _Immanuel Presbyterian Church in America_ on August 15, 1982. 
   raw_data: |
     FLORIDA Miami
 
@@ -4313,6 +4331,8 @@
       start: 1984-01-01
       end: 1986-01-01
       type: Associate Pastor
+  body: | 
+    Withdrew to the Presbyterian Church in America on September 12, 1987.
   raw_data: |
     FLORIDA Miami
     International Community OPC  (July 25, 1982-September 12, 1987)
@@ -4357,13 +4377,6 @@
     Pastor: Harold Thomas, 1987-
 - name: Faith Orthodox Presbyterian Church
   origination_date: 1972-12-17
-  names:
-    - name: Community Orthodox Presbyterian Church
-      start: 2000-01-01
-      end: 2002-12-31
-    - name: Faith Orthodox Presbyterian Church
-      start: 2002-12-31
-      end: 2013-12-31
   status:
     - active: false
     - end_date: 2013-12-31
@@ -4400,6 +4413,8 @@
       start: 2010-01-01
       end: 2013-12-31
       type: Pastor
+  body: |
+    Known as _Community Orthodox Presbyterian Church_ from 2000 to 2002.
   raw_data: |
     FLORIDA	Ocala
     Faith Orthodox Presbyterian Church  (December 17, 1972-December 31, 2013)
@@ -4612,6 +4627,8 @@
       start: 1983-01-01
       end: 1987-01-18
       type: Pastor
+  body: |
+    Withdrew to the Presbyterian Church in America on January 18, 1987.
   raw_data: |
     FLORIDA	Sarasota
     Sarasota Orthodox Presbyterian Church  (May 9, 1982-January 18, 1987)
@@ -4681,6 +4698,8 @@
     - name: Christopher B. Strevel
       start: 2015-01-01
       type: Pastor
+  body: |
+    Received from the Reformed Presbyterian Church in the United States on December 11, 2015.
   raw_data: |
     GA	Buford
 
@@ -4725,6 +4744,8 @@
       start: 1995-12-07
       end: 1998-08-16
       type: Pastor
+  body: |
+    Transferred to the Presbyterian Chruch in America, August 16, 1998.
   raw_data: |
     GA Cumming
 
