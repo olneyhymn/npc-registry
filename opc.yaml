@@ -2157,6 +2157,8 @@
       start: 1956-01-01
       end: 1958-01-01
       type: Pastor
+  body: |
+    Merged into First Orthodox Presbyterian Church, San Francisco on December 12, 1958.
   raw_data: |
     AR San Francisco
 
@@ -2294,6 +2296,8 @@
       start: 1985-02-18
       end: 1990-07-01
       type: Pastor
+  body: |
+    Merged with [Covenant Orthodox Presbyterian Church]({{< ref "covenant-orthodox-presbyterian-church-san-jose-ca" >}}) on July 1, 1990.
   raw_data: |
     AR	San Jose
     Orthodox Presbyterian Chapel  (February 18, 1985- July 1, 1990)
@@ -2420,6 +2424,30 @@
     Evangelist: Nicholas Ganas, 1994-2000
     Pastors: Nicholas Ganas, 2000-2005
     Joshua Martin, 2007-
+- name: Covenant Grace Orthodox Presbyterian Church
+  origination_date: 1994-02-04
+  status:
+    - active: false
+    - end_date: 2000-11-26
+  location:
+    city: Santa Cruz
+    state: CA
+  raw_data: | 
+    Covenant Grace OP Mission (February 4, 1994–November 26, 2000)
+- name: Redeemer Orthodox Presbyterian Church
+  origination_date: 2000-11-26
+  status:
+    - active: true
+  location:
+    city: Santa Cruz
+    state: CA
+  raw_data: | 
+    Santa Cruz CA
+    Redeemer Orthodox Presbyterian Church (November 26, 2000– )
+    1501 E. Alvin Avenue
+    Evangelist: Nicholas Ganas, 1994–2000
+    Pastors: Nicholas Ganas, 2000–2005
+        Joshua Martin, 2007–
 - name: Valley Orthodox Presbyterian Church
   origination_date: 1946-01-18
   status:
@@ -3206,7 +3234,7 @@
     - name: Reformation Church
       start: 2002-04-12
       end: 2017-06-11
-  status
+  status:
     - active: false
     - reason: null
     - withdrawal_to: Independency

@@ -6,3 +6,4 @@ build/
 .vscode/
 site/content/churches/
 .venv/
+.DS_Store
