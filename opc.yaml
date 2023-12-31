@@ -57,7 +57,7 @@
     city: Hoover
     state: AL
   minister:
-    - name: Jon Smith
+    - name: Jon D. Smith
       start: 1991-01-01
       end: 1993-01-01
       type: Pastor
@@ -66,7 +66,7 @@
     Hoover
     Hoover Orthodox Presbyterian Mission  (February 27, 1991-April 16, 1994)
     (received from the Presbyterian Church in America)
-    Pastor: Jon Smith, 1991-93
+    Pastor: Jon D. Smith, 1991-93
 - name: Providence Orthodox Presbyterian Church
   origination_date: 2007-01-19
   names:
@@ -731,7 +731,7 @@
     - name: Roger Wagner
       start: 1983-01-01
       type: Pastor
-    - name: Mark Maliepard
+    - name: Mark Maliepaard
       start: 1982-01-01
       end: 1986-01-01
       type: Associate Pastor
@@ -766,7 +766,7 @@
     Larry Conard, 1973-77
     Lewis Ruff, 1977-82
     Roger Wagner, 1983-
-    Assoc. Pastors: Mark Maliepard, 1982-86
+    Assoc. Pastors: Mark Maliepaard, 1982-86
     Vincent Ortiz, 1984-85
     Gregory Bahnsen, 1992-95
     Robert Needham, 1992-93
@@ -1382,7 +1382,7 @@
       start: 1976-01-01
       end: 1981-01-01
       type: Pastor
-    - name: Steven Larson
+    - name: Stephen Larson
       start: 1982-01-01
       end: 1988-01-01
       type: Pastor
@@ -1727,7 +1727,7 @@
       start: 1971-05-13
       end: 1973-01-01
       type: Pastor
-    - name: Richard Miller
+    - name: Richard C. Miller
       start: 1974-01-01
       end: 2006-01-01
       type: Pastor
@@ -1741,7 +1741,6 @@
     Trinity Orthodox Presbyterian Church  (May 13, 1971- )
     Seventh-day Adventist Church, 495 San Marin Drive at Simmons Lane
     Pastors: Robert Graham, 1971-73
-    Richard Miller, 1974-2006
     Reid Hankins, 2008-
 - name: Coastal Community OP Chapel
   origination_date: 1985-11-10
@@ -3661,7 +3660,7 @@
     state: DE
   origination_date: 1979-05-14
   minister:
-    - name: Douglas Watson
+    - name: Douglas Watson A.
       start: 1979-01-01
       end: 1983-01-01
       type: Pastor
@@ -3711,7 +3710,7 @@
     - name: Michael Matossian
       start: 2009-01-01
       type: Pastor
-    - name: Douglas Watson
+    - name: Douglas A. Watson
       start: 1978-01-01
       end: 1979-01-01
       type: Associate Pastor
@@ -3872,7 +3871,7 @@
       start: 1975-01-01
       end: 1982-01-01
       type: Pastor
-    - name: John Smith
+    - name: John P. Smith
       start: 1983-01-01
       end: 1984-01-01
       type: Pastor
@@ -3880,7 +3879,7 @@
       start: 1985-01-01
       end: 1993-01-01
       type: Pastor
-    - name: Jon Smith
+    - name: Jon D. Smith
       start: 1993-01-01
       end: 2000-10-28
       type: Pastor
@@ -3892,9 +3891,9 @@
     Henry Tavares, 1957-64
     Cornelius Tolsma, 1965-74
     Donald Taws, 1975-82
-    John Smith, 1983-84
+    John P. Smith, 1983-84
     Ivan DeMaster, 1985-93
-    Jon Smith, 1993-2000
+    Jon D. Smith, 1993-2000
 - name: Holy Trinity Presbyterian Church
   origination_date: 2009-05-08
   names:
@@ -4400,7 +4399,7 @@
       start: 1990-01-01
       end: 1997-01-01
       type: Pastor
-    - name: Richard Miller
+    - name: Richard A. Miller
       start: 1998-01-01
       end: 2001-01-01
       type: Pastor
@@ -4422,7 +4421,6 @@
     Gerald Quarles, 1979-82
     John Fikkert, 1983-88
     Ted Gray, 1990-97
-    Richard Miller, 1998-2001
     Chad Sadorf, 2002-9
     Gregory Hoadley, 2010-13
 - name: Lake Sherwood Orthodox Presbyterian Church
@@ -7128,7 +7126,7 @@
       start: 1996-01-01
       end: 1999-01-01
       type: Associate Pastor
-    - name: Vincent Touriello
+    - name: Vincent Tauriello
       start: 2002-01-01
       end: 2009-01-01
       type: Associate Pastor
@@ -9065,7 +9063,7 @@
       start: 1957-01-01
       end: 1974-01-01
       type: Pastor
-    - name: Richard Miller
+    - name: Richard C. Miller 
       start: 1975-01-01
       end: 1978-01-01
       type: Pastor
@@ -9085,9 +9083,8 @@
     James Brown, 1941-44
     Delbert Schowalter, 1945-46
     Herbert Bird, 1948-52
-    V . Robert Nilson, 1953-56
+    V. Robert Nilson, 1953-56
     Russell Piper, 1957-74
-    Richard Miller, 1975-78
     Stephen Doe, 1984-92
     LeRoy Miller, 1993-
 - name: Pioneer Orthodox Presbyterian Church
@@ -9166,7 +9163,7 @@
     Pastors: Robert Brown, 1939-45
     Reginald V oorhees, 1945-74
     Ransom Webster Jr, 1974-79
-    V . Robert Nilson (Supply), 1979-80
+    V. Robert Nilson (Supply), 1979-80
 - name: Grace Orthodox Presbyterian Church
   origination_date: 1995-10-11
   names:
@@ -9569,7 +9566,7 @@
       start: 1970-01-01
       end: 1976-01-01
       type: Pastor
-    - name: Robert Gramp
+    - name: Robert Graham
       start: 1977-01-01
       end: 1985-01-01
       type: Pastor
@@ -9596,7 +9593,7 @@
     Ralph Clough, 1949-62
     Arthur Olson, 1963-69
     Robert Marshall, 1970-76
-    Robert Gramp, 1977-85
+    Robert Graham, 1977-85
     Glenn Evans, 1987-98
     Neil Lodge, 1998-2005
     Claude Taylor, 2008-
@@ -9946,7 +9943,7 @@
       start: 1965-01-01
       end: 1968-01-01
       type: Pastor
-    - name: Richard Miller
+    - name: Richard C. Miller
       start: 1970-01-01
       end: 1974-01-01
       type: Pastor
@@ -9956,7 +9953,6 @@
     Community Orthodox Presbyterian Church  (January 4, 1959-June 2, 1983)
     Pastors:  Thomas Champness, 1959-64
     Gordon Mouw, 1965-68
-    Richard Miller, 1970-74
 - name: Church of the Covenant Orthodox Presbyterian Church
   origination_date: 1981-09-26
   names:
@@ -11204,7 +11200,7 @@
     city: Lindenhurst
     state: NY
   minister:
-    - name: H. Laverne Rosenberger
+    - name: H. Leverne Rosenberger
       start: 1984-01-01
       end: 1986-01-01
       type: Pastor
@@ -11214,7 +11210,7 @@
 
     Christ Orthodox Presbyterian Chapel  (April 29, 1984-April 13, 1986)
 
-    Pastor: H. Laverne Rosenberger, 1984-86
+    Pastor: H. Leverne Rosenberger, 1984-86
 - name: Grace Orthodox Presbyterian Church
   origination_date: 1958-12-15
   names:
@@ -11824,11 +11820,11 @@
     city: Lenoir
     state: NC
   minister:
-    - name: Robert Y . Eckardt
+    - name: Robert Y. Eckardt
       start: 1994-01-01
       end: 1996-01-01
       type: Evangelist
-    - name: Robert Y . Eckardt
+    - name: Robert Y. Eckardt
       start: 1996-01-01
       end: 1997-01-01
       type: Pastor
@@ -11845,8 +11841,8 @@
         Lenoir
         Catawba Valley Presbyterian Church  (April 27, 1996-October 20, 2007)
         (called Providence Orthodox Presbyterian Church, 1996-2002)
-        Evangelist:  Robert Y . Eckardt, 1994-96
-        Pastors: Robert Y . Eckardt, 1996-97
+        Evangelist:  Robert Y. Eckardt, 1994-96
+        Pastors: Robert Y. Eckardt, 1996-97
         Charles Telfer, 1997-98
         Mark Larson, 2000-2005
 - name: Matthews Orthodox Presbyterian Church
@@ -11897,7 +11893,7 @@
     Matthews Orthodox Presbyterian Church  (September 20, 1980- )
     2701 Rice Road
     Pastors: Douglas Felch, 1981-84
-    Robert Y . Eckardt, 1985-91
+    Robert Y. Eckardt, 1985-91
     John Carrick, 1992-94
     George Knight, III, 1994-95
     T. Nathan Trice, 1996-
@@ -12188,7 +12184,7 @@
     John Gray, 1940-44
     Walter Magee, 1945-52
     Henry Tavares, 1952-57
-    V . Robert Nilson, 1957-64
+    V. Robert Nilson, 1957-64
     Jack Peterson, 1967-79
     David Kiester, 1980-83
     G. I. Williamson, 1983-92
@@ -12279,7 +12275,7 @@
     John Gray, 1940-44
     Walter Magee, 1945-52
     Henry Tavares, 1952-57
-    V . Robert Nilson, 1957-64
+    V. Robert Nilson, 1957-64
     Jack Peterson, 1967-79
     David Kiester, 1980-83
     G. I. Williamson, 1983-85
@@ -12370,7 +12366,7 @@
     city: Canton
     state: OH
   minister:
-    - name: David King
+    - name: David W. King
       start: 1974-01-01
       end: 1982-01-01
       type: Pastor
@@ -12488,7 +12484,7 @@
     city: Columbus
     state: OH
   minister:
-    - name: Robert Y . Eckardt
+    - name: Robert Y. Eckardt
       start: 1980-01-01
       end: 1985-01-01
       type: Pastor
@@ -12532,7 +12528,7 @@
     OH Columbus
     Grace Presbyterian Church, Orthodox Presbyterian Church  (July 1, 1979- )
     5099 Postlewaite Road
-    Pastors: Robert Y . Eckardt, 1980-85
+    Pastors: Robert Y. Eckardt, 1980-85
     Larry Wilson, 1985-2000
     William Kessler, 2002-
     Assoc. Pastors: Joseph Keller, 1994-2002
@@ -12598,7 +12594,7 @@
       start: 1983-01-01
       end: 2005-01-01
       type: Pastor
-    - name: Robert Y . Eckardt
+    - name: Robert Y. Eckardt
       start: 2005-01-01
       type: Pastor
     - name: Ken Montgomery
@@ -12610,7 +12606,7 @@
     22 South Fairfield Road
     Pastors: Lawrence Eyres, 1971-82
     Michael Frangipane, 1983-2005
-    Robert Y . Eckardt, 2005-
+    Robert Y. Eckardt, 2005-
     Assoc. Pastor: Ken Montgomery, 2009-
 - name: Grace Orthodox Presbyterian mission
   origination_date: 2009-01-01
@@ -14078,7 +14074,7 @@
       start: 2000-01-01
       end: 2003-01-01
       type: Pastor
-    - name: Karl Hubenthall
+    - name: Karl Hubenthal
       start: 2003-01-01
       end: 2004-01-01
       type: Pastor
@@ -14094,7 +14090,7 @@
     Pastors: Everett DeVelde Jr, 1993-96
     Jeff Lawson, 1997-2000
     Everett DeVelde Jr, 2000-2003
-    Karl Hubenthall, 2003-4
+    Karl Hubenthal, 2003-4
     David G. Graves, 2012-
 - name: Living Hope Orthodox Presbyterian Church
   origination_date: 1983-10-13
@@ -14643,7 +14639,7 @@
       start: 1957-01-01
       end: 1969-01-01
       type: Pastor
-    - name: Arthur Seltzer
+    - name: Arthur Steltzer
       start: 1968-01-01
       end: 1971-01-01
       type: Pastor
@@ -14958,7 +14954,7 @@
       start: 2010-01-01
       end: 2015-01-01
       type: Pastor
-    - name: Christopher Pose
+    - name: Christopher Post
       start: 2016-01-01
       type: Pastor
   raw_data: |
@@ -14969,7 +14965,7 @@
     325 Market Street
     Org. Pastor: Stephen Payson, 2007-10
     Pastors: Stephen Payson, 2010-15
-    Christopher Pose, 2016-
+    Christopher Post, 2016-
 - name: Redeemer Orthodox Presbyterian Church
   origination_date: 1936-07-27
   names:
@@ -16664,7 +16660,7 @@
       start: 1936-10-28
       end: 1944-01-01
       type: Pastor
-    - name: Llouis Knowles
+    - name: Louis Knowles
       start: 1945-01-01
       end: 1947-01-01
       type: Pastor
@@ -16705,7 +16701,7 @@
     Calvary Presbyterian Church, OPC  (October 28, 1936- )
     309 Astrachan Avenue
     Pastors: Charles Shook, 1936-44
-    Llouis Knowles, 1945-47
+    Louis Knowles, 1945-47
     Arthur Olson, 1947-51
     Bruce Coie, 1951-58
     Lionel Brown, 1958-72
@@ -17334,7 +17330,7 @@
       start: 2013-01-01
       end: 2014-01-01
       type: Pastor
-    - name: Todd V . Wagenmaker
+    - name: Todd V. Wagenmaker
       start: 2015-01-01
       type: Pastor
   raw_data: |
@@ -17347,7 +17343,7 @@
     Pastors: Todd Bordow, 2002-9
     Edward Ludt, 2010-12
     Scott R. Huber, 2013-14
-    Todd V . Wagenmaker, 2015-
+    Todd V. Wagenmaker, 2015-
 - name: Faith Orthodox Presbyterian Church
   origination_date: 2004-07-09
   names:
@@ -17669,7 +17665,7 @@
     city: Flint
     state: TX
   minister:
-    - name: John Johnson
+    - name: John H. Johnson
       start: 1984-01-04
       end:
       type: Pastor
