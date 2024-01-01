@@ -6,4 +6,6 @@ build/
 .vscode/
 site/content/churches/
 .venv/
+node_modules/
+package-lock.json
 .DS_Store

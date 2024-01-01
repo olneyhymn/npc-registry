@@ -1,6 +1,6 @@
 [build]
 publish = "site/public"
-command = "pip install -r requirements.txt && mkdir -p site/content/churches && python extract2.py && cd site && hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
+command = "./build.sh"
 
 [build.environment]
-HUGO_VERSION = "0.117.0"
+HUGO_VERSION = "0.120.4"

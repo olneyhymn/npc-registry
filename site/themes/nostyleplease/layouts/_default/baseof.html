@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{ $.Site.LanguageCode }}">
-    {{- partial "head.html" . -}}
-    <body a="{{ $.Site.Params.theme_config.appearance | default "auto" }}">
-        <main class="page-content" aria-label="Content">
-            <div class="w">
-                {{- block "main" . }}{{- end }}
-            </div>
-        </main>
+{{- partial "head.html" . -}}
+
+<body a="{{ $.Site.Params.theme_config.appearance | default " auto" }}">
+    <main class="page-content" aria-label="Content">
+        {{ partial "search.html" . }}
+        <div class="w">
+            {{- block "main" . }}{{- end }}
+        </div>
+    </main>
     <footer class="w">
         {{ partial "feedback.html" . }}
         <hr>
         <small>Tim Hopper -- <a href="https://ulsterworldlly.com">ulsterworldly.com</a></small>
     </footer>
-    </body>
+</body>
+{{- block "scripts" . }}{{- end }}
+
 </html>

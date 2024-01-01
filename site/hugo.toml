@@ -8,3 +8,17 @@ theme = 'nostyleplease'
   'received_from' = 'received_from'
   'withdrawal_to' = 'withdrawal_to'
   'year' = 'year_established'
+
+
+[outputFormats]
+  [outputFormats.JSON]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = true
+  notAlternative = true
+  [outputFormats.SearchIndex]
+  baseName = "search"
+  mediaType = "application/json"
+
+[outputs]
+  home = ["HTML","RSS", "JSON","SearchIndex"]
