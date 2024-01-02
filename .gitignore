@@ -8,4 +8,5 @@ site/content/churches/
 .venv/
 node_modules/
 package-lock.json
+resources/
 .DS_Store
