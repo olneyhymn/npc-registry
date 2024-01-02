@@ -5655,13 +5655,10 @@
       start: 2002-01-01
       end: 2005-01-01
       type: Organizing Pastor
-      type: Pastor
-      type: Associate Pastor
     - name: Sam Allison
       start: 2005-01-01
       end: 2009-01-01
       type: Pastor
-      type: Associate Pastor
     - name: Russell Westbrook
       start: 2009-01-01
       end: 2011-01-01
@@ -8519,7 +8516,6 @@
     - name: Louis Wislocki
       start: 1996-01-01
       end: 1997-01-01
-      type: Evangelist
       type: Pastor
     - name: Louis Wislocki
       start: 1997-01-01
@@ -11491,7 +11487,7 @@
       end: 2000-04-30
       type: Pastor
     - body: |
-      Moved from Brooklyn in 1990.
+        Moved from Brooklyn in 1990.
   raw_data: |
     NY
     Staten Island
@@ -11750,7 +11746,6 @@
       start: 2003-01-01
       end: 2004-01-01
       type: Organizing Pastor
-      type: Pastor
     - name: Arie van Eyk
       start: 2004-01-01
       type: Pastor
@@ -13515,7 +13510,6 @@
       start: 1990-09-15
       end: 1994-11-20
       type: Organizing Pastor
-      type: Pastor
     - name: Tim Young
       start: 1994-11-20
       type: Pastor
@@ -18211,7 +18205,6 @@
       start: 2003-07-12
       end: 2005-11-04
       type: Organizing Pastor
-      type: Pastor
     - name: Charles Biggs
       start: 2005-11-04
       type: Pastor
