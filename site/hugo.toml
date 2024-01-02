@@ -16,9 +16,6 @@ theme = 'nostyleplease'
   baseName = "index"
   isPlainText = true
   notAlternative = true
-  [outputFormats.SearchIndex]
-  baseName = "search"
-  mediaType = "application/json"
 
 [outputs]
-  home = ["HTML","RSS", "JSON","SearchIndex"]
+  home = ["HTML","RSS", "JSON"]
