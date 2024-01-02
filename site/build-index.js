@@ -31,7 +31,7 @@ const lunrjs = require('lunr');
 function makeIndex(posts) {
   return lunrjs(function () {
     this.ref('title');
-    this.pipeline.add(lunr.stemmer);
+    this.pipeline.add(lunrjs.stemmer);
     this.field('title');
     this.field('ministers');
     this.field('content');
