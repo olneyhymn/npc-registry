@@ -13,10 +13,10 @@ function makeIndex(posts) {
     this.ref('title');
     this.pipeline.add(lunrjs.stemmer);
     this.field('title');
+    this.field('names');
     this.field('ministers');
     this.field('content');
     this.field('location');
-    this.field('names');
     this.field('raw_data');
     posts.forEach(p => {
       this.add(p);

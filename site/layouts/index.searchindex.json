@@ -28,7 +28,7 @@
 
 {{- range .Site.Pages -}}
   {{- if ne .Section "churches" -}}
-    {{- $post := dict "link" .RelPermalink "title" .Title "asdf" "asdf" -}}
+    {{- $post := dict "link" .RelPermalink "title" .Title -}}
     {{- $p = $p | append $post -}}
   {{- end -}}
 {{- end -}}
