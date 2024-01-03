@@ -1,7 +1,0 @@
-{{- $p := slice -}}
-
-{{- range .Site.Pages -}}
-  {{- $post := dict "link" .RelPermalink "title" .Title -}}
-  {{- $p = $p | append $post -}}
-{{- end -}}
-{{- $p | jsonify -}}

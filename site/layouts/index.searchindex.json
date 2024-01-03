@@ -1,0 +1,36 @@
+{{- $p := slice -}}
+ 
+{{- range $taxonomy, $terms := .Site.Taxonomies -}}
+  {{- range $term, $pages := $terms -}}
+    {{- range $pages -}}
+      {{- $post := dict "link" .RelPermalink "title" .Title -}}
+      {{- $post = $post | merge (dict "content" .Content)}}
+      {{ if .Params.ministers }}
+        {{- $post = $post | merge (dict "ministers" (delimit .Params.ministers " ")) -}}
+      {{ end }}
+      {{ if .Params.location }}
+        {{- $post = $post | merge (dict "location" (printf "%s %s" .Params.location.city .Params.location.state)) -}}
+      {{ end }}
+      {{ if .Params.names }}
+        {{ $names := slice -}}
+        {{ range .Params.names -}}
+          {{ $names = $names | append .name -}}
+        {{ end -}}
+        {{ $post = $post | merge (dict "names" (delimit $names " ")) }}
+      {{ end }}
+      {{ if .Params.raw_data }}
+        {{- $post = $post | merge (dict "raw_data" .Params.raw_data) -}}
+      {{ end }}
+      {{- $p = $p | append $post -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range .Site.Pages -}}
+  {{- if ne .Section "churches" -}}
+    {{- $post := dict "link" .RelPermalink "title" .Title "asdf" "asdf" -}}
+    {{- $p = $p | append $post -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $p | jsonify -}}

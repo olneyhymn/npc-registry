@@ -1,29 +1,9 @@
 const fs = require('fs').promises;
-var read = require('fs-readdir-recursive')
-const { promisify } = require('util');
-const frontMatterParser = require('parser-front-matter');
 
-const parse = promisify(frontMatterParser.parse.bind(frontMatterParser));
-
-async function loadPostsWithFrontMatter(postsDirectoryPath) {
-  const postNames = read(postsDirectoryPath);
-  const posts = await Promise.all(
-    postNames.map(async fileName => {
-      const fileContent = await fs.readFile(
-        `${postsDirectoryPath}/${fileName}`,
-        'utf8'
-      );
-      const { content, data } = await parse(fileContent);
-      return {
-        content: content.slice(0, 3000),
-        ...data,
-        ministers: data.ministers ? data.ministers.join(', ') : undefined,
-        location: data.location ? `${data.location.city} ${data.location.state} ${data.location.address ? ', ' + data.location.address : ''}` : undefined,
-        names: data.names ? data.names.map(item => item.name).join(', ') : undefined,
-      };
-    })
-  );
-  return posts;
+async function loadSearchJson() {
+  const fileContent = await fs.readFile('public/search.json', 'utf8');
+  const data = JSON.parse(fileContent);
+  return data;
 }
 
 const lunrjs = require('lunr');
@@ -45,8 +25,7 @@ function makeIndex(posts) {
 }
 
 async function run() {
-  const posts = await (await loadPostsWithFrontMatter(`${__dirname}/content`));
-  //console.log(JSON.stringify(posts));
+  const posts = await loadSearchJson();
   const index = makeIndex(posts);
   console.log(JSON.stringify(index));
 }
