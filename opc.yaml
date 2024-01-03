@@ -4926,6 +4926,8 @@
     Org. Pastor: Douglas L. Watson, 2008-
 - name: Arco Orthodox Presbyterian Church
   origination_date: 2003-08-17
+  body: |
+    Received from Independency.
   received_from: Independency
   names:
     - name: Arco Orthodox Presbyterian Church
@@ -5102,6 +5104,8 @@
       end:
   status:
     - active: true
+  body: | 
+    Previously in Lindenhurst, Illinois.
   location:
     address: 18215 W. Belvidere Road
     city: Grayslake
@@ -5311,6 +5315,8 @@
 - name: Momence Orthodox Presbyterian Church
   origination_date: 2006-01-20
   received_from: Christian Reformed Church
+  body: | 
+    Previously in the Christian Reformed Church.
   names:
     - name: Momence Orthodox Presbyterian Church
       start: 2006-01-20
@@ -5430,8 +5436,11 @@
 - name: Grace Presbyterian Church
   origination_date: 1996-09-20
   names:
-    - name: Grace Presbyterian Church
+    - name: Covenant Reformed Orthodox Presbyterian Church
       start: 1996-09-20
+      end: 2008-01-01
+    - name: Grace Presbyterian Church
+      start: 2008-01-01
   status:
     - active: true
   location:
@@ -5769,6 +5778,8 @@
     address: 6070 N. 900 East
     city: Sheridan
     state: IN
+  body: | 
+    Received from Independency.
   minister:
     - name: Mark Melton
       start: 2004-01-01
@@ -5937,6 +5948,8 @@
     Larry Wilson, 1981-82
 - name: Sovereign Grace OPC of the Quad Cities mission work
   origination_date: 2009-04-26
+  body: |
+    Moved from Moline, Illinois in 2014.
   location:
     address: 4444 West Kimberly Road
     city: Davenport
@@ -6751,6 +6764,8 @@
     - name: D. Leonard Gulstrom
       start: 2011-01-01
       type: Pastor
+  body: |
+    Formerly Congregational. Founded in 1789.
   raw_data: |
     ME
     Limington
@@ -6863,6 +6878,8 @@
     Stephen Tracey, 2001-
 - name: Skowhegan Orthodox Presbyterian Church
   origination_date: 1941-11-27
+  body: | 
+    Moved from Cornville, ME on May 8, 1977.
   names:
     - name: Skowhegan Orthodox Presbyterian Church
       start: 1941-11-27
