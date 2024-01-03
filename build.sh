@@ -7,6 +7,4 @@ python extract2.py
 cd site
 npm install
 hugo --gc --minify -b ${DEPLOY_PRIME_URL}
-ls -l public
-
-node build-index.js >/opt/build/repo/site/public/static/search_index.json
+node build-index.js >/opt/build/repo/site/public/search_index.json
