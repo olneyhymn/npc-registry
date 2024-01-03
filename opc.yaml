@@ -280,7 +280,7 @@
       start:
       end:
       type: Organizing Pastor
-  body: | 
+  body: |
     Absorbed into Calvin OPC.
   raw_data: |
     AZ
@@ -1164,7 +1164,7 @@
     - reason: name change
     - start_date: 1985-05-05
     - end_date: 1993-06-30
-  body: | 
+  body: |
     Also known as Trinity Orthodox Presbyterian Church.
   location:
     city:  Irvine
@@ -1228,7 +1228,7 @@
       start: 1994-01-01
       end: 1997-01-01
       type: Teacher
-  body: | 
+  body: |
     Moved to La Mesa on April 26, 1998.
 - name: Calvary Orthodox Presbyterian Church
   origination_date: 1958-05-14
@@ -2431,7 +2431,7 @@
   location:
     city: Santa Cruz
     state: CA
-  raw_data: | 
+  raw_data: |
     Covenant Grace OP Mission (February 4, 1994–November 26, 2000)
 - name: Redeemer Orthodox Presbyterian Church
   origination_date: 2000-11-26
@@ -2440,7 +2440,7 @@
   location:
     city: Santa Cruz
     state: CA
-  raw_data: | 
+  raw_data: |
     Santa Cruz CA
     Redeemer Orthodox Presbyterian Church (November 26, 2000– )
     1501 E. Alvin Avenue
@@ -2962,7 +2962,7 @@
       start: 2008-12-12
       end:
       type: Pastor
-  body: | 
+  body: |
     Formerly in Long Beach and Garden Grove.
   raw_data: |
     AR Whittier
@@ -4058,7 +4058,7 @@
       end: null
       type: Supply Pastor
   body: |
-    Also known as Iglesia Presbiteriana Internacional. Later 
+    Also known as Iglesia Presbiteriana Internacional. Later
     reconstituted as [Iglesia Presbiteriana Betel/Iglesia Roca Eterna]({{< ref "iglesia-presbiteriana-betel-iglesia-roca-eterna-hialeah-fl" >}}).
   raw_data: |
     FLORIDA Hialeah
@@ -4079,7 +4079,7 @@
     state: FL
   status:
     - active: false
-  body: | 
+  body: |
     Reconstitution of [Iglesia Presbiteriana Saron]({{< ref "iglesia-presbiteriana-saron-hialeah-fl" >}}).
   minister:
   raw_data: |
@@ -4297,7 +4297,7 @@
       end: 1982-10-08
       type: Pastor
   body: |
-    Joined _Immanuel Presbyterian Church in America_ on August 15, 1982. 
+    Joined _Immanuel Presbyterian Church in America_ on August 15, 1982.
   raw_data: |
     FLORIDA Miami
 
@@ -5104,7 +5104,7 @@
       end:
   status:
     - active: true
-  body: | 
+  body: |
     Previously in Lindenhurst, Illinois.
   location:
     address: 18215 W. Belvidere Road
@@ -5315,7 +5315,7 @@
 - name: Momence Orthodox Presbyterian Church
   origination_date: 2006-01-20
   received_from: Christian Reformed Church
-  body: | 
+  body: |
     Previously in the Christian Reformed Church.
   names:
     - name: Momence Orthodox Presbyterian Church
@@ -5646,7 +5646,7 @@
       end: 2005-05-01
     - name: Covenant Reformed Orthodox Presbyterian Church
       start: 2005-05-01
-      end: 2012-10-19 
+      end: 2012-10-19
   status:
     - active: false
     - reason: discontinuation
@@ -5778,7 +5778,7 @@
     address: 6070 N. 900 East
     city: Sheridan
     state: IN
-  body: | 
+  body: |
     Received from Independency.
   minister:
     - name: Mark Melton
@@ -6878,7 +6878,7 @@
     Stephen Tracey, 2001-
 - name: Skowhegan Orthodox Presbyterian Church
   origination_date: 1941-11-27
-  body: | 
+  body: |
     Moved from Cornville, ME on May 8, 1977.
   names:
     - name: Skowhegan Orthodox Presbyterian Church
@@ -7224,8 +7224,9 @@
     - active: false
     - reason: ended
     - end_date: 2008-04-01
+  body: |
+    Met in a prison.
   location:
-    address: met in a prison
     city: Jessup
     state: MD
   minister:
@@ -7481,11 +7482,12 @@
       start: 1961-11-16
       end: 1987-01-01
     - name: First Orthodox Presbyterian Church, North Shore
-      start: 1961-11-16
-      end: null
+      start: 1987-01-01
+      end: 2017-01-21
   status:
     - active: false
     - withdrawal_to: Presbyterian Church in America
+    - end_date: 2017-01-21
   location:
     address: 179 County Road (Highway 1A)
     city: Ipswich
@@ -7513,7 +7515,7 @@
       type: Pastor
     - name: Gregory Hills
       start: 2012-01-01
-      end: null
+      end: 2017-01-21
       type: Pastor
     - name: Gregory Hills
       start: 2002-01-01
@@ -7521,7 +7523,7 @@
       type: Associate Pastor
     - name: Derek Baker
       start: 2010-01-01
-      end: null
+      end: 2017-01-21
       type: Associate Pastor
   raw_data: |
     MASSACHUSSETTS Ipswich
@@ -7577,9 +7579,9 @@
       end: 2014-04-28
   status:
     - active: false
-    - reason: united
-    - united_with: New Covenant Korean American Presbyterian Church
     - end_date: 2014-04-28
+  body:
+    Merged with New Covenant Korean American Presbyterian Church on September 16, 2001.
   location:
     address: 1310 Centre Street
     city: Newton Center
@@ -7679,6 +7681,8 @@
     address: 38 Hopkinton Road
     city: Upton
     state: MA
+  body: |
+    Received from independency.
   minister:
     - name: D. Leonard Gulstrom
       start: 1995-01-01
@@ -8679,6 +8683,8 @@
     - reason: reunion
     - reunion_with: Forest Presbyterian Church, PCA
     - end_date: 2005-12-11
+  body: |
+    Reunited with Forest Presbyterian Church, PCA on December 11, 2005.
   location:
     address: null
     city: Forest
@@ -8748,6 +8754,8 @@
     - reason: merged
     - merged_with: Christ Presbyterian Church, St. Charles
     - end_date: 2008-04-06
+  body: |
+    Merged with Christ Presbyterian Church, St. Charles on April 6, 2008.
   location:
     address:
     city: Hazelwood
@@ -8770,6 +8778,8 @@
       start: 2008-04-06
   status:
     - active: true
+  body: |
+    Formerly in the Presbyterian Church in America.
   location:
     address: 2156 Bluestone Drive
     city: St. Charles
@@ -8824,6 +8834,9 @@
       end: null
   status:
     - active: true
+  body: |
+    Received from independency.
+  received_from: Independency
   location:
     address: 101 St. Stephen Lane
     city: Troy
@@ -9076,7 +9089,7 @@
       start: 1957-01-01
       end: 1974-01-01
       type: Pastor
-    - name: Richard C. Miller 
+    - name: Richard C. Miller
       start: 1975-01-01
       end: 1978-01-01
       type: Pastor
