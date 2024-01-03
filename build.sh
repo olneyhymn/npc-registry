@@ -6,5 +6,5 @@ mkdir -p site/content/churches
 python extract2.py
 cd site
 npm install
-node build-index.js >static/search_index.json
 hugo --gc --minify -b ${DEPLOY_PRIME_URL}
+node build-index.js >public/static/search_index.json
