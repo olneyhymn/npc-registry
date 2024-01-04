@@ -11,10 +11,14 @@
         {{ with .withdrawal_to }}
           Withdrawn to {{ . }}{{ if $end_date }} in {{ dateFormat "2006" $end_date }}{{ end }}.
         {{ else }}
-          {{ if not .active }}
-              {{ with .end_date }}
-                  Dissolved in {{ dateFormat "2006" . }}.
-              {{ end }}
+          {{ with .merged_with }}
+            Merged with {{ . }}{{ if $end_date }} in {{ dateFormat "2006" $end_date }}{{ end }}.
+          {{ else }}
+             {{ if not .active }}
+                {{ with .end_date }}
+                    Dissolved in {{ dateFormat "2006" . }}.
+                {{ end }}
+            {{ end }}
           {{ end }}
         {{ end }}
 

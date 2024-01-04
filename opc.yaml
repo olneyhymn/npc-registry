@@ -1873,8 +1873,6 @@
     Michael Dengerink, 2002
 - name: Covenant Community OPC
   origination_date: 1981-02-15
-  merged_with: Plymouth Congregational Church
-  merge_date: 1988
   location:
     city:  Placentia
     state:  CA
@@ -1886,10 +1884,8 @@
   status:
     - active: false
     - reason: Merger with Plymouth Congregational Church
-    - merge_with: Plymouth Congregational Church
+    - merged_with: Plymouth Congregational Church
     - end_date: 1988-01-01
-  body: |
-    Merged with Plymouth Congregational Church, Newport Beach, California, 1988.
   raw_data: |
     AR Placentia
     Covenant Community OPC (February 15, 1981-March 6, 1988)
@@ -2146,7 +2142,7 @@
   status:
     - active: false
     - reason: merger
-    - merged_into: First Orthodox Presbyterian Church, San Francisco
+    - merged_with: First Orthodox Presbyterian Church, San Francisco
     - end_date: 1958-12-12
   location:
     city: San Francisco
@@ -2156,8 +2152,6 @@
       start: 1956-01-01
       end: 1958-01-01
       type: Pastor
-  body: |
-    Merged into First Orthodox Presbyterian Church, San Francisco on December 12, 1958.
   raw_data: |
     AR San Francisco
 
@@ -2285,8 +2279,11 @@
     Robert A. Starke, 2012-
 - name: Orthodox Presbyterian Chapel
   origination_date: 1985-02-18
-  merged_with: Covenant Orthodox Presbyterian Church
-  merge_date: 1990-07-01
+  status:
+    - active: false
+    - reason: merger
+    - merged_with: Covenant Orthodox Presbyterian Church
+    - end_date: 1990-07-01
   location:
     city:  San Jose
     state:  CA
@@ -2295,8 +2292,6 @@
       start: 1985-02-18
       end: 1990-07-01
       type: Pastor
-  body: |
-    Merged with [Covenant Orthodox Presbyterian Church]({{< ref "covenant-orthodox-presbyterian-church-san-jose-ca" >}}) on July 1, 1990.
   raw_data: |
     AR	San Jose
     Orthodox Presbyterian Chapel  (February 18, 1985- July 1, 1990)
@@ -8754,8 +8749,6 @@
     - reason: merged
     - merged_with: Christ Presbyterian Church, St. Charles
     - end_date: 2008-04-06
-  body: |
-    Merged with Christ Presbyterian Church, St. Charles on April 6, 2008.
   location:
     address:
     city: Hazelwood
@@ -9115,8 +9108,11 @@
     LeRoy Miller, 1993-
 - name: Pioneer Orthodox Presbyterian Church
   origination_date: 1963-05-05
-  merged_with: Faith Orthodox Presbyterian Church
-  merge_date: 1969-01-01
+  status:
+    - active: false
+    - reason: merged
+    - merged_with: Faith Orthodox Presbyterian Church
+    - end_date: 1969-02-13
   location:
     address:
     city: Lincoln
@@ -13470,7 +13466,7 @@
   status:
     - active: false
     - reason: merge
-    - merge_with: First Orthodox Presbyterian Church, Portland
+    - merged_with: First Orthodox Presbyterian Church, Portland
     - end_date: 1961-09-24
   location:
     address:
@@ -14303,7 +14299,7 @@
 - name: Wayside Orthodox Presbyterian Church
   origination_date: 1950-05-01
   end_date: 1965
-  merged_into: Covenant Orthodox Presbyterian Church
+  merged_with: Covenant Orthodox Presbyterian Church
   location:
     address: null
     city: Grove City

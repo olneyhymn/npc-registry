@@ -46,6 +46,7 @@ class Status(BaseModel):
     withdrawal_to: Optional[str] = None
     end_date: Optional[date] = None
     received_from: Optional[str] = None
+    merged_with: Optional[str] = None
 
 
 class ChurchRecord(BaseModel):
