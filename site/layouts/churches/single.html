@@ -5,7 +5,7 @@
 
   <h1>{{ .Title }}</h1>
   <div class="church-info">
-    <p>Established in {{ dateFormat "2006" .Params.origination_date -}}. {{ with .Params.received_from }} Received from {{ index . 0 }}{{ end }}.
+    <p>Established in {{ dateFormat "2006" .Params.origination_date -}}. {{ with .Params.received_from }} Received from {{ index . 0 }}.{{ end }}
       {{ with .Params.status }}
       {{ $end_date := .end_date }}
       {{ with .withdrawal_to }}
