@@ -11135,6 +11135,9 @@
       start: 2004-01-01
       end: 2009-04-28
       type: Pastor
+  body: |
+    Removed from the roll of the OPC by the Presbytery at its request on April 28, 2009.
+    Now in the Presbyterian Church in America.
   raw_data: |
     NY	Canton
     New Life Orthodox Presbyterian Church  (April 14, 2004-April 28, 2009)
@@ -11680,6 +11683,8 @@
     - name: Redeemer Presbyterian Church
       start: 2003-04-27
       end:
+  body: |
+    Previously called Christ Presbyterian Church.
   status:
     - active: true
   location:
@@ -11807,12 +11812,12 @@
 - name: Sovereign Grace Reformed Presbyterian Church
   origination_date: 2007-03-16
   names:
-    - name: Sovereign Grace Reformed Presbyterian Chapel
-      start: 2000-10-21
-      end: 2007-03-16
     - name: Reformed Bible Church
       start: 2000-01-01
-      end: 2005-12-31
+      end: 2005-10-21
+    - name: Sovereign Grace Reformed Presbyterian Chapel
+      start: 2005-10-21
+      end: 2007-03-16
     - name: Sovereign Grace Reformed Presbyterian Church
       start: 2007-03-16
   location:
@@ -12400,8 +12405,9 @@
   status:
     - active: false
     - end_date: 1983-01-01
+  body: |
+    Moved from Alliance in 1979.
   location:
-    address: (unknown)
     city: Canton
     state: OH
   minister:
@@ -12495,7 +12501,7 @@
     - active: false
     - reason: null
     - withdrawal_to: Bible Presbyterian Church
-    - withdrawal_date: 1938-09-06
+    - end_date: 1938-09-06
   location:
     address: null
     city: Cleveland
