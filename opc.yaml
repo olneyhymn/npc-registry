@@ -7609,6 +7609,7 @@
     Steven Marusich, 2009-13
 - name: Merrimack Valley Community Orthodox Presbyterian Church
   origination_date: 1989-09-08
+  received_from: Independency
   names:
     - name: Merrimack Valley Community Orthodox Presbyterian Church
       start: 1989-09-08
@@ -9545,6 +9546,8 @@
     - name: Todd E. Smith
       start: 2015-01-01
       type: Pastor
+  body: |
+    Formed by the merger of Redeemer OPC (Seaside Heights) and Faith Bible Church.
   raw_data: |
     NEW JERSEY	Brick
     Faith Bible Orthodox Presbyterian Church (February 24, 2013- )
@@ -9648,6 +9651,8 @@
       start: 1936-07-05
       end: null
       formerly: Wildwood
+  body: |
+    Formerly called Wildwood Presbyterian Church.
   status:
     - active: true
   location:
@@ -9707,9 +9712,8 @@
     - name: Merchantville Gardens Community Orthodox Presbyterian Church
       start: 1984-03-25
       end: 1990-01-01
-    - name: Cherry Hill Orthodox Presbyterian Church
-      start: 1990-01-01
-      end: 2014-03-23
+  body: |
+    Called Cherry Hill Orthodox Presbyterian Church from 1990 to 2014.
   status:
     - active: false
     - end_date: 2014-03-23
@@ -9756,6 +9760,8 @@
     address:
     city: Corbin City
     state: NJ
+  body: |
+    Moved from Ocean City on September 23, 2000.
   minister:
     - name: George W. Bancroft
       start: 2001-01-01
@@ -10088,6 +10094,8 @@
   origination_date: 1985-03-23
   status:
     - active: true
+  body: |
+    Moved from Sweetwater on September 24, 1983.
   location:
     address:
     city: Hammonton
@@ -10112,6 +10120,8 @@
   names:
     - name: Providence Orthodox Presbyterian Church
       start: 1989-06-04
+  body: |
+    Formerly called Cross Keys Fellowship Presbyterian Church (Turnersville).
   status:
     - active: true
   location:

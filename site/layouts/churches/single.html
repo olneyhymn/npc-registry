@@ -5,22 +5,22 @@
 
   <h1>{{ .Title }}</h1>
   <div class="church-info">
-    <p>Established in {{ dateFormat "2006" .Params.origination_date }}.
+    <p>Established in {{ dateFormat "2006" .Params.origination_date -}}. {{ with .Params.received_from }} Received from {{ index . 0 }}{{ end }}.
       {{ with .Params.status }}
-        {{ $end_date := .end_date }}
-        {{ with .withdrawal_to }}
-          Withdrawn to {{ . }}{{ if $end_date }} in {{ dateFormat "2006" $end_date }}{{ end }}.
-        {{ else }}
-          {{ with .merged_with }}
-            Merged with {{ . }}{{ if $end_date }} in {{ dateFormat "2006" $end_date }}{{ end }}.
-          {{ else }}
-             {{ if not .active }}
-                {{ with .end_date }}
-                    Dissolved in {{ dateFormat "2006" . }}.
-                {{ end }}
-            {{ end }}
-          {{ end }}
-        {{ end }}
+      {{ $end_date := .end_date }}
+      {{ with .withdrawal_to }}
+      Withdrawn to {{ . }}{{ if $end_date }} in {{ dateFormat "2006" $end_date }}{{ end }}.
+      {{ else }}
+      {{ with .merged_with }}
+      Merged with {{ . }}{{ if $end_date }} in {{ dateFormat "2006" $end_date }}{{ end }}.
+      {{ else }}
+      {{ if not .active }}
+      {{ with .end_date }}
+      Dissolved in {{ dateFormat "2006" . }}.
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
 
       {{ end }}
     </p>
@@ -28,16 +28,17 @@
   </div>
 
   {{ with .Params.names }}
-  {{ if (isset . "0") }}  <!-- Check if the first item of the slice exists -->
-      <p>
-      {{ $items := . }}
-      {{ $count := sub (len $items) 1 }}
-      {{ range first $count $items }}
-        Called <em>{{ .name }}</em> from {{ dateFormat "2006" .start }}{{ if .end }} to {{ dateFormat "2006" .end }}{{ end }}.
-      {{ end }}
-      </p>
+  {{ if (isset . "0") }} <!-- Check if the first item of the slice exists -->
+  <p>
+    {{ $items := . }}
+    {{ $count := sub (len $items) 1 }}
+    {{ range first $count $items }}
+    Called <em>{{ .name }}</em> from {{ dateFormat "2006" .start }}{{ if .end }} to {{ dateFormat "2006" .end }}{{ end
+    }}.
+    {{ end }}
+  </p>
   {{ end }}
-{{ end }}
+  {{ end }}
 
 
 
@@ -46,9 +47,11 @@
     <h2>Pastoral History</h2>
     {{ range .Params.minister }}
     <div class="Pastor">
-      <span class="Pastor-name"></span><a href='{{ "/ministers/" | relURL }}{{ .name | urlize }}/'>{{ .name }}</a></span>
+      <span class="Pastor-name"></span><a href='{{ "/ministers/" | relURL }}{{ .name | urlize }}/'>{{ .name
+        }}</a></span>
 
-      <span class="Pastor-tenure">{{ dateFormat "2006" .start }} - {{ if .end }}{{ dateFormat "2006" .end }}{{ else }}present{{ end }}</span>
+      <span class="Pastor-tenure">{{ dateFormat "2006" .start }} - {{ if .end }}{{ dateFormat "2006" .end }}{{ else
+        }}present{{ end }}</span>
       <span class="Pastor-role">({{ .type }})</span>
     </div>
     {{ end }}
